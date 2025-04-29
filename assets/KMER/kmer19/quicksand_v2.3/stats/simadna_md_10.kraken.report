@@ -1,0 +1,1635 @@
+# KrakenUniq v1.0.2 DATE:2025-03-07T14:55:14Z DB:./Mito_db_kmer19 DB_SIZE:92165179 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20231220_run_simdata_all_kmers/kmer19/work/38/995402440bfaf6b3ba42f7a455473c
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer19 --report-file simadna_md_10.kraken.report --output output.kraken simadna_md_10.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+89.71	448442	448442	14016900	1.05	NA	0	no rank	unclassified
+10.29	51459	445	92167	16.2	0.008998	1	no rank	root
+10.2	51014	0	90079	15.5	0.008806	131567	no rank	  cellular organisms
+10.2	51014	0	90079	15.5	0.008806	2759	superkingdom	    Eukaryota
+10.2	51014	0	90079	15.5	0.008806	33154	clade	      Opisthokonta
+10.2	51014	0	90079	15.5	0.008806	33208	kingdom	        Metazoa
+10.2	51014	0	90079	15.5	0.008806	6072	clade	          Eumetazoa
+10.2	51014	0	90079	15.5	0.008806	33213	clade	            Bilateria
+10.2	51014	0	90079	15.5	0.008806	33511	clade	              Deuterostomia
+10.2	51014	0	90079	15.5	0.008806	7711	phylum	                Chordata
+10.2	51014	0	90079	15.5	0.008806	89593	subphylum	                  Craniata
+10.2	51014	0	90079	15.5	0.008806	7742	clade	                    Vertebrata
+10.2	51014	0	90079	15.5	0.008806	7776	clade	                      Gnathostomata
+10.2	51014	0	90079	15.5	0.008806	117570	clade	                        Teleostomi
+10.2	51014	0	90079	15.5	0.008806	117571	clade	                          Euteleostomi
+10.2	51014	0	90079	15.5	0.008806	8287	superclass	                            Sarcopterygii
+10.2	51014	0	90079	15.5	0.008806	1338369	clade	                              Dipnotetrapodomorpha
+10.2	51014	0	90079	15.5	0.008806	32523	clade	                                Tetrapoda
+10.2	51014	0	90079	15.5	0.008806	32524	clade	                                  Amniota
+10.2	51014	79	90079	15.5	0.008806	40674	class	                                    Mammalia
+10.19	50931	337	89199	15.5	0.008756	32525	clade	                                      Theria
+10.08	50384	1065	81423	15.6	0.00848	9347	clade	                                        Eutheria
+9.468	47332	2449	59494	18	0.006674	1437010	clade	                                          Boreoeutheria
+8.679	43384	2316	37065	22.7	0.009038	314145	superorder	                                            Laurasiatheria
+4.232	21156	438	10740	34.6	0.0109	33554	order	                                              Carnivora
+4.089	20439	835	9139	37.6	0.02572	379583	suborder	                                                Feliformia
+3.841	19199	1621	7068	41.8	0.2696	9676	family	                                                  Hyaenidae
+3.402	17005	0	5370	43.9	0.8273	9677	genus	                                                    Crocuta
+3.402	17005	17005	5370	43.9	0.8273	9678	species	                                                      Crocuta crocuta
+0.06661	333	0	156	24.4	0.03005	95911	genus	                                                    Hyaena
+0.06661	333	333	156	24.4	0.03005	95912	species	                                                      Hyaena hyaena
+0.02721	136	0	160	7.87	0.02998	172270	genus	                                                    Parahyaena
+0.02721	136	136	160	7.87	0.02998	172271	species	                                                      Parahyaena brunnea
+0.0208	104	0	115	9.81	0.01781	9679	genus	                                                    Proteles
+0.0208	104	104	115	9.81	0.01781	9680	species	                                                      Proteles cristata
+0.02961	148	98	162	5.49	0.00252	9697	family	                                                  Herpestidae
+0.006001	30	0	23	11.8	0.002625	9699	genus	                                                    Herpestes
+0.005201	26	26	10	25.9	0.002296	9700	species	                                                      Herpestes ichneumon
+0.0008002	4	4	13	1	0.002981	210648	species	                                                      Herpestes naso
+0.0012	6	4	15	1.4	0.002887	2079297	genus	                                                    Urva
+0.0002	1	1	2	1	0.004219	140016	species	                                                      Urva javanica
+0.0002	1	1	2	1	0.005115	48418	species	                                                      Urva auropunctata
+0.0006001	3	0	12	11.1	0.002853	210641	genus	                                                    Atilax
+0.0006001	3	3	12	11.1	0.002853	210642	species	                                                      Atilax paludinosus
+0.0006001	3	0	7	1.43	0.0012	37031	genus	                                                    Suricata
+0.0006001	3	3	7	1.43	0.0012	37032	species	                                                      Suricata suricatta
+0.0006001	3	0	7	1.14	0.001442	210651	genus	                                                    Mungos
+0.0006001	3	3	7	1.14	0.001442	210652	species	                                                      Mungos mungo
+0.0004001	2	0	9	1.11	0.001868	71110	genus	                                                    Crossarchus
+0.0004001	2	2	9	1.11	0.001868	1096449	species	                                                      Crossarchus platycephalus
+0.0002	1	0	12	1.67	0.002896	205598	genus	                                                    Ichneumia
+0.0002	1	1	12	1.67	0.002896	205599	species	                                                      Ichneumia albicauda
+0.0002	1	0	16	1.12	0.003035	210645	genus	                                                    Helogale
+0.0002	1	1	16	1.12	0.003035	210647	species	                                                      Helogale parvula
+0.0002	1	0	6	1	0.001341	326575	genus	                                                    Bdeogale
+0.0002	1	1	6	1	0.001341	326577	species	                                                      Bdeogale nigripes
+0.02921	146	36	346	2.79	0.002357	9681	family	                                                  Felidae
+0.0116	58	0	114	2.93	0.002799	338153	subfamily	                                                    Pantherinae
+0.005801	29	0	69	2.46	0.006122	61451	genus	                                                      Neofelis
+0.004801	24	24	35	3.71	0.006138	427616	species	                                                        Neofelis diardi
+0.001	5	5	34	1.18	0.00699	61452	species	                                                        Neofelis nebulosa
+0.005601	28	24	35	4.34	0.001414	9688	genus	                                                      Panthera
+0.0004001	2	2	9	1	0.002474	9690	species	                                                        Panthera onca
+0.0002	1	1	9	4.11	0.001516	9694	species	                                                        Panthera tigris
+0.0002	1	1	6	1	0.00167	9691	species	                                                        Panthera pardus
+0.0002	1	0	9	1.22	0.002305	61409	genus	                                                      Pardofelis
+0.0002	1	1	9	1.22	0.002305	61410	species	                                                        Pardofelis marmorata
+0.009602	48	5	173	2.46	0.001867	338152	subfamily	                                                    Felinae
+0.003201	16	12	16	4.69	0.001437	13124	genus	                                                      Lynx
+0.0004001	2	2	3	1	0.001545	61383	species	                                                        Lynx canadensis
+0.0002	1	1	3	1.33	0.00145	13125	species	                                                        Lynx lynx
+0.0002	1	1	3	1	0.000982	61384	species	                                                        Lynx rufus
+0.0012	6	1	66	1.73	0.003637	46841	genus	                                                      Leopardus
+0.0004001	2	2	4	11.8	0.001302	713925	species	                                                        Leopardus jacobita
+0.0002	1	1	20	1	0.006711	46842	species	                                                        Leopardus tigrinus
+0.0002	1	1	14	1	0.006045	61382	species	                                                        Leopardus wiedii
+0.0002	1	1	5	1	0.002333	61386	species	                                                        Leopardus guigna
+0.0012	6	0	9	4.67	0.002557	61393	genus	                                                      Caracal
+0.0012	6	6	9	4.67	0.002557	61394	species	                                                        Caracal caracal
+0.0012	6	3	20	1.55	0.001566	9682	genus	                                                      Felis
+0.0002	1	1	6	2	0.003839	61378	species	                                                        Felis margarita
+0.0002	1	1	3	1	0.0009997	61379	species	                                                        Felis nigripes
+0.0002	1	1	2	1	0.0007052	61376	species	                                                        Felis chaus
+0.0006001	3	0	4	1	0.001131	61411	genus	                                                      Profelis
+0.0006001	3	3	4	1	0.001131	61412	species	                                                        Profelis aurata
+0.0004001	2	1	18	1.17	0.001314	37028	genus	                                                      Prionailurus
+0.0002	1	1	4	1.75	0.001908	61388	species	                                                        Prionailurus viverrinus
+0.0004001	2	0	9	1	0.001461	146712	genus	                                                      Puma
+0.0002	1	1	6	1	0.002009	9696	species	                                                        Puma concolor
+0.0002	1	1	3	1	0.0009769	1608482	species	                                                        Puma yagouaroundi
+0.0004001	2	0	5	1.2	0.0007853	61453	genus	                                                      Catopuma
+0.0004001	2	2	4	1	0.001436	61454	species	                                                        Catopuma badia
+0.0008002	4	0	13	1	0.003592	338151	subfamily	                                                    Acinonychinae
+0.0008002	4	0	13	1	0.003592	32535	genus	                                                      Acinonyx
+0.0008002	4	4	13	1	0.003592	32536	species	                                                        Acinonyx jubatus
+0.0116	58	1	165	4.75	0.004202	379589	family	                                                  Eupleridae
+0.005801	29	0	70	3.01	0.00379	219108	subfamily	                                                    Euplerinae
+0.004201	21	0	26	6.23	0.004107	219106	genus	                                                      Eupleres
+0.004201	21	21	26	6.23	0.004107	219107	species	                                                        Eupleres goudotii
+0.001	5	0	12	1.42	0.002214	143319	genus	                                                      Fossa
+0.001	5	5	12	1.42	0.002214	143320	species	                                                        Fossa fossana
+0.0006001	3	0	30	1	0.004607	94187	genus	                                                      Cryptoprocta
+0.0006001	3	3	30	1	0.004607	94188	species	                                                        Cryptoprocta ferox
+0.005601	28	1	93	6.11	0.004591	61398	subfamily	                                                    Galidiinae
+0.004601	23	0	24	20	0.008065	205648	genus	                                                      Mungotictis
+0.004601	23	23	24	20	0.008065	205649	species	                                                        Mungotictis decemlineata
+0.0006001	3	0	22	1.41	0.004835	215635	genus	                                                      Galidictis
+0.0006001	3	3	22	1.41	0.004835	215636	species	                                                        Galidictis fasciata
+0.0002	1	0	23	1.3	0.003896	61399	genus	                                                      Galidia
+0.0002	1	1	23	1.3	0.003896	61400	species	                                                        Galidia elegans
+0.009202	46	1	183	3.91	0.003248	9673	family	                                                  Viverridae
+0.004201	21	1	85	5.26	0.00325	219115	subfamily	                                                    Viverrinae
+0.0018	9	0	38	2.5	0.007302	94185	genus	                                                      Civettictis
+0.0018	9	9	38	2.5	0.007302	94186	species	                                                        Civettictis civetta
+0.0016	8	0	17	18.8	0.001698	94189	genus	                                                      Genetta
+0.0014	7	7	9	34.6	0.002004	94190	species	                                                        Genetta genetta
+0.0002	1	1	5	1	0.001217	205596	species	                                                        Genetta servalina
+0.0004001	2	0	26	1.12	0.005117	94195	genus	                                                      Viverricula
+0.0004001	2	2	26	1.12	0.005117	94196	species	                                                        Viverricula indica
+0.0002	1	0	1	1	0.0002028	71120	genus	                                                      Viverra
+0.0002	1	1	1	1	0.0002028	94178	species	                                                        Viverra zibetha
+0.004201	21	2	54	4.15	0.003191	219112	subfamily	                                                    Paradoxurinae
+0.002801	14	0	6	28.8	0.001124	71116	genus	                                                      Paradoxurus
+0.002801	14	14	6	28.8	0.001124	71117	species	                                                        Paradoxurus hermaphroditus
+0.0006001	3	0	21	1	0.003665	94179	genus	                                                      Arctictis
+0.0006001	3	3	21	1	0.003665	94180	species	                                                        Arctictis binturong
+0.0004001	2	0	14	1.21	0.002756	9674	genus	                                                      Paguma
+0.0004001	2	2	14	1.21	0.002756	9675	species	                                                        Paguma larvata
+0.0006001	3	0	13	1	0.002357	219110	subfamily	                                                    Hemigalinae
+0.0006001	3	0	13	1	0.002357	94183	genus	                                                      Chrotogale
+0.0006001	3	3	13	1	0.002357	94184	species	                                                        Chrotogale owstoni
+0.0014	7	0	30	1.1	0.00518	379588	family	                                                  Nandiniidae
+0.0014	7	0	30	1.1	0.00518	71114	genus	                                                    Nandinia
+0.0014	7	7	30	1.1	0.00518	71115	species	                                                      Nandinia binotata
+0.05581	279	2	718	3.2	0.001177	379584	suborder	                                                Caniformia
+0.03121	156	14	253	4.08	0.001178	9655	family	                                                  Mustelidae
+0.009402	47	0	28	8.89	0.001464	1008252	subfamily	                                                    Melinae
+0.008202	41	0	21	7.38	0.001554	9661	genus	                                                      Meles
+0.007201	36	36	5	19	0.00155	191034	species	                                                        Meles anakuma
+0.001	5	5	15	1	0.005054	702266	species	                                                        Meles leucurus
+0.0012	6	0	7	13.4	0.001449	139308	genus	                                                      Arctonyx
+0.0012	6	6	7	13.4	0.001449	139309	species	                                                        Arctonyx collaris
+0.008802	44	0	33	10.1	0.0007455	169418	subfamily	                                                    Mustelinae
+0.008602	43	1	29	11.3	0.0007455	9665	genus	                                                      Mustela
+0.007201	36	36	9	34.1	0.003755	36240	species	                                                        Mustela sibirica
+0.0004001	2	2	4	1	0.0008202	272460	species	                                                        Mustela kathiah
+0.0002	1	1	4	1	0.000904	55048	species	                                                        Mustela frenata
+0.0002	1	1	4	1	0.00132	36238	species	                                                        Mustela itatsi
+0.0002	1	1	2	1	0.0004941	92062	species	                                                        Mustela altaica
+0.0002	1	1	1	1	0.0002549	36723	species	                                                        Mustela erminea
+0.0002	1	0	4	1.5	0.0008755	2902005	genus	                                                      Neogale
+0.0002	1	1	4	1.5	0.0008755	452646	species	                                                        Neogale vison
+0.004401	22	0	51	2.98	0.001761	1008258	subfamily	                                                    Galictinae
+0.0022	11	0	6	16	0.0009341	204264	genus	                                                      Galictis
+0.0022	11	11	6	16	0.0009341	204265	species	                                                        Galictis vittata
+0.0008002	4	0	17	1.53	0.001459	55049	genus	                                                      Ictonyx
+0.0008002	4	4	10	1.6	0.001966	55050	species	                                                        Ictonyx striatus
+0.0008002	4	0	8	1.12	0.001466	311561	genus	                                                      Poecilogale
+0.0008002	4	4	8	1.12	0.001466	311562	species	                                                        Poecilogale albinucha
+0.0006001	3	0	15	1.07	0.003184	300626	genus	                                                      Vormela
+0.0006001	3	3	15	1.07	0.003184	300627	species	                                                        Vormela peregusna
+0.003201	16	0	60	1.12	0.001158	169417	subfamily	                                                    Lutrinae
+0.001	5	0	20	1.05	0.002108	9656	genus	                                                      Lutra
+0.001	5	5	20	1.05	0.004676	452642	species	                                                        Lutra sumatrana
+0.0006001	3	0	6	1.33	0.001218	452643	genus	                                                      Lutrogale
+0.0006001	3	3	6	1.33	0.001218	452644	species	                                                        Lutrogale perspicillata
+0.0006001	3	0	4	1.25	0.0006272	71112	genus	                                                      Lontra
+0.0006001	3	3	4	1.25	0.0006272	76717	species	                                                        Lontra canadensis
+0.0004001	2	0	10	1	0.001835	34881	genus	                                                      Enhydra
+0.0004001	2	2	10	1	0.001835	34882	species	                                                        Enhydra lutris
+0.0002	1	0	9	1	0.001412	9671	genus	                                                      Pteronura
+0.0002	1	1	9	1	0.001412	9672	species	                                                        Pteronura brasiliensis
+0.0002	1	0	3	1	0.0005303	452640	genus	                                                      Hydrictis
+0.0002	1	1	3	1	0.0005303	452641	species	                                                        Hydrictis maculicollis
+0.0002	1	0	1	1	9.893e-05	76721	genus	                                                      Aonyx
+0.0002	1	1	1	1	0.0002139	452597	species	                                                        Aonyx cinereus
+0.0018	9	0	35	1.23	0.0009788	2892069	subfamily	                                                    Guloninae
+0.0012	6	0	29	1.28	0.001231	9658	genus	                                                      Martes
+0.0004001	2	2	10	1	0.002022	74864	species	                                                        Martes flavigula
+0.0004001	2	2	2	1.5	0.0004626	9659	species	                                                        Martes foina
+0.0002	1	1	7	1.14	0.002339	9660	species	                                                        Martes americana
+0.0002	1	1	1	1	0.0004719	36721	species	                                                        Martes melampus
+0.0004001	2	0	4	1	0.000711	48419	genus	                                                      Gulo
+0.0004001	2	2	4	1	0.000711	48420	species	                                                        Gulo gulo
+0.0002	1	0	2	1	0.0003529	2892070	genus	                                                      Pekania
+0.0002	1	1	2	1	0.0003529	76720	species	                                                        Pekania pennanti
+0.0004001	2	0	11	1	0.001787	1008261	subfamily	                                                    Helictidinae
+0.0004001	2	0	11	1	0.001787	204266	genus	                                                      Melogale
+0.0004001	2	2	11	1	0.001787	204267	species	                                                        Melogale moschata
+0.0004001	2	0	5	1	0.0005851	1008259	subfamily	                                                    Mellivoriane
+0.0004001	2	0	5	1	0.0005851	9663	genus	                                                      Mellivora
+0.0004001	2	2	5	1	0.0005851	9664	species	                                                        Mellivora capensis
+0.008802	44	3	128	3.09	0.001189	9608	family	                                                  Canidae
+0.004801	24	2	56	5.61	0.001726	9625	genus	                                                    Vulpes
+0.002601	13	13	6	7.5	0.001471	561074	species	                                                      Vulpes ferrilata
+0.0012	6	6	2	57.5	0.0009602	68732	species	                                                      Vulpes zerda
+0.0004001	2	2	15	1.07	0.002535	494514	species	                                                      Vulpes lagopus
+0.0002	1	1	1	1	0.0005855	9627	species	                                                      Vulpes vulpes
+0.0014	7	0	5	2.2	0.0006483	55039	genus	                                                    Urocyon
+0.0014	7	7	5	2.2	0.0006483	55040	species	                                                      Urocyon cinereoargenteus
+0.0006001	3	0	15	1.07	0.0006857	9611	genus	                                                    Canis
+0.0006001	3	3	5	1.2	0.002153	1707807	species	                                                      Canis lupaster
+0.0004001	2	0	7	1	0.00108	68740	genus	                                                    Speothos
+0.0004001	2	2	7	1	0.00108	68741	species	                                                      Speothos venaticus
+0.0002	1	0	7	1.29	0.00121	68729	genus	                                                    Cuon
+0.0002	1	1	7	1.29	0.00121	68730	species	                                                      Cuon alpinus
+0.0002	1	0	8	1	0.001363	9621	genus	                                                    Lycaon
+0.0002	1	1	8	1	0.001363	9622	species	                                                      Lycaon pictus
+0.0002	1	0	5	1	0.0006862	9623	genus	                                                    Otocyon
+0.0002	1	1	5	1	0.0006862	9624	species	                                                      Otocyon megalotis
+0.0002	1	0	4	1	0.0005831	34879	genus	                                                    Nyctereutes
+0.0002	1	1	4	1	0.0005831	34880	species	                                                      Nyctereutes procyonoides
+0.0002	1	0	2	1	0.0003448	68727	genus	                                                    Chrysocyon
+0.0002	1	1	2	1	0.0003448	68728	species	                                                      Chrysocyon brachyurus
+0.005401	27	1	52	3.12	0.001014	9702	family	                                                  Otariidae
+0.003801	19	0	6	19.2	0.001008	34883	genus	                                                    Callorhinus
+0.003801	19	19	6	19.2	0.001008	34884	species	                                                      Callorhinus ursinus
+0.0006001	3	1	19	1	0.001353	29083	genus	                                                    Arctocephalus
+0.0002	1	1	4	1	0.001034	161921	species	                                                      Arctocephalus townsendi
+0.0002	1	1	2	1	0.001008	161928	species	                                                      Arctocephalus australis
+0.0002	1	0	8	1.12	0.001946	34887	genus	                                                    Phocarctos
+0.0002	1	1	8	1.12	0.001946	34888	species	                                                      Phocarctos hookeri
+0.0002	1	0	7	1	0.001576	161931	genus	                                                    Otaria
+0.0002	1	1	7	1	0.001576	161932	species	                                                      Otaria byronia
+0.0002	1	0	6	1	0.001488	161929	genus	                                                    Neophoca
+0.0002	1	1	6	1	0.001488	161930	species	                                                      Neophoca cinerea
+0.0002	1	0	2	1	0.0003604	9703	genus	                                                    Zalophus
+0.0002	1	1	2	1	0.001715	686441	species	                                                      Zalophus japonicus
+0.003401	17	1	107	3.17	0.001479	9632	family	                                                  Ursidae
+0.0012	6	1	31	1.03	0.001082	9639	genus	                                                    Ursus
+0.0004001	2	2	12	1.08	0.002841	39097	species	                                                      Ursus spelaeus
+0.0002	1	0	6	1	0.0006639	9642	species	                                                      Ursus thibetanus
+0.0002	1	1	3	1	0.002712	411875	subspecies	                                                        Ursus thibetanus formosanus
+0.0002	1	1	4	1	0.001602	29073	species	                                                      Ursus maritimus
+0.0002	1	1	3	1	0.0006452	9643	species	                                                      Ursus americanus
+0.001	5	0	20	1.05	0.002681	9645	genus	                                                    Ailuropoda
+0.001	5	5	20	1.05	0.002681	9646	species	                                                      Ailuropoda melanoleuca
+0.0006001	3	0	11	21.3	0.001686	9637	genus	                                                    Tremarctos
+0.0006001	3	3	11	21.3	0.001686	9638	species	                                                      Tremarctos ornatus
+0.0002	1	0	13	1.54	0.002252	544298	genus	                                                    Arctodus
+0.0002	1	1	13	1.54	0.002252	551196	species	                                                      Arctodus simus
+0.0002	1	0	1	1	0.0001802	9635	genus	                                                    Melursus
+0.0002	1	1	1	1	0.0001802	9636	species	                                                      Melursus ursinus
+0.003201	16	0	77	1.21	0.001141	9709	family	                                                  Phocidae
+0.0012	6	0	16	1.69	0.001294	9717	genus	                                                    Phoca
+0.0008002	4	4	12	1.92	0.003089	39088	species	                                                      Phoca fasciata
+0.0002	1	1	3	1	0.0007305	39089	species	                                                      Phoca groenlandica
+0.0002	1	1	1	1	0.0006143	9720	species	                                                      Phoca vitulina
+0.0006001	3	0	12	1	0.002388	29087	genus	                                                    Monachus
+0.0006001	3	3	12	1	0.002388	248254	species	                                                      Monachus monachus
+0.0006001	3	0	2	1.5	0.0009625	9710	genus	                                                    Halichoerus
+0.0006001	3	3	2	1.5	0.0009625	9711	species	                                                      Halichoerus grypus
+0.0002	1	0	12	1	0.002256	693430	genus	                                                    Pusa
+0.0002	1	1	12	1	0.008021	9719	species	                                                      Pusa sibirica
+0.0002	1	0	8	1	0.001767	39181	genus	                                                    Cystophora
+0.0002	1	1	8	1	0.001767	39293	species	                                                      Cystophora cristata
+0.0002	1	0	8	1	0.002082	101848	genus	                                                    Lobodon
+0.0002	1	1	8	1	0.002082	101849	species	                                                      Lobodon carcinophaga
+0.0002	1	0	3	1	0.0005875	39182	genus	                                                    Erignathus
+0.0002	1	1	3	1	0.0005875	39304	species	                                                      Erignathus barbatus
+0.0012	6	0	22	1.14	0.0007245	9647	family	                                                  Procyonidae
+0.0006001	3	0	14	1	0.001755	9650	genus	                                                    Nasua
+0.0006001	3	3	14	1	0.001755	9651	species	                                                      Nasua nasua
+0.0004001	2	0	6	1.5	0.0008258	9653	genus	                                                    Procyon
+0.0004001	2	2	6	1.5	0.0008258	9654	species	                                                      Procyon lotor
+0.0002	1	0	2	1	0.0002813	29066	genus	                                                    Potos
+0.0002	1	1	2	1	0.0002813	29067	species	                                                      Potos flavus
+0.001	5	0	21	5.19	0.0007124	119825	family	                                                  Mephitidae
+0.0004001	2	0	7	1	0.000895	55044	genus	                                                    Mydaus
+0.0004001	2	2	7	1	0.000895	311557	species	                                                      Mydaus javanensis
+0.0004001	2	0	3	1	0.0004334	30546	genus	                                                    Mephitis
+0.0004001	2	2	3	1	0.0004334	30548	species	                                                      Mephitis mephitis
+0.0002	1	0	4	1	0.0005392	30550	genus	                                                    Spilogale
+0.0002	1	1	1	1	0.0009425	30552	species	                                                      Spilogale putorius
+0.0008002	4	0	11	1	0.001259	379582	family	                                                  Ailuridae
+0.0008002	4	3	11	1	0.001259	9648	genus	                                                    Ailurus
+0.0002	1	1	1	1	0.0005914	424585	species	                                                      Ailurus styani
+0.0004001	2	0	9	1	0.001138	9705	family	                                                  Odobenidae
+0.0004001	2	0	9	1	0.001138	9706	genus	                                                    Odobenus
+0.0004001	2	0	9	1	0.001138	9707	species	                                                      Odobenus rosmarus
+0.0004001	2	2	9	1	0.001138	62698	subspecies	                                                        Odobenus rosmarus rosmarus
+3.865	19323	516	19016	17.1	0.0175	91561	order	                                              Artiodactyla
+2.579	12891	87	9824	21.9	0.01451	9845	suborder	                                                Ruminantia
+2.56	12795	1143	9626	22	0.01491	35500	infraorder	                                                  Pecora
+2.31	11548	921	7475	23.3	0.01736	9895	family	                                                    Bovidae
+2.099	10493	2804	5561	25.6	0.06577	27592	subfamily	                                                      Bovinae
+1.521	7602	7280	3264	27	0.2953	9903	genus	                                                        Bos
+0.024	120	120	69	11.3	0.06522	9915	species	                                                          Bos indicus
+0.0216	108	108	32	21.1	0.2883	9906	species	                                                          Bos javanicus
+0.017	85	85	49	18.7	0.2149	9913	species	                                                          Bos taurus
+0.0006001	3	3	12	1.83	0.03158	331036	species	                                                          Bos grunniens x Bos taurus
+0.0006001	3	3	2	3	0.005831	9904	species	                                                          Bos gaurus
+0.0004001	2	2	17	1	0.03935	9909	species	                                                          Bos primigenius
+0.0002	1	1	2	1	0.005376	30520	species	                                                          Bos frontalis
+0.0114	57	38	197	2.3	0.02946	9900	genus	                                                        Bison
+0.0016	8	8	35	1.14	0.0221	9902	species	                                                          Bison bonasus
+0.0012	6	6	36	1.03	0.02715	1920185	species	                                                          Bison schoetensacki
+0.0006001	3	3	16	1	0.02488	9901	species	                                                          Bison bison
+0.0004001	2	2	6	1.83	0.01089	268291	species	                                                          Bison priscus
+0.003601	18	1	76	1.05	0.002552	9944	genus	                                                        Tragelaphus
+0.0008002	4	4	16	1.06	0.006571	69297	species	                                                          Tragelaphus eurycerus
+0.0006001	3	3	10	1.1	0.002273	66437	species	                                                          Tragelaphus angasii
+0.0006001	3	3	8	1	0.002523	69296	species	                                                          Tragelaphus buxtoni
+0.0004001	2	2	9	1.11	0.003048	66440	species	                                                          Tragelaphus scriptus
+0.0004001	2	2	4	1	0.001074	9946	species	                                                          Tragelaphus strepsiceros
+0.0002	1	1	13	1.08	0.005253	69298	species	                                                          Tragelaphus spekii
+0.0002	1	1	9	1	0.001908	9947	species	                                                          Tragelaphus imberbis
+0.0002	1	1	1	1	0.0003801	9945	species	                                                          Tragelaphus oryx
+0.001	5	4	23	1	0.002218	9918	genus	                                                        Bubalus
+0.0002	1	1	3	1	0.007958	89462	species	                                                          Bubalus bubalis
+0.0006001	3	0	3	1.67	0.0008432	73822	genus	                                                        Tetracerus
+0.0006001	3	3	3	1.67	0.0008432	73823	species	                                                          Tetracerus quadricornis
+0.0004001	2	0	3	1	0.0008271	9969	genus	                                                        Syncerus
+0.0004001	2	2	3	1	0.0008271	9970	species	                                                          Syncerus caffer
+0.0002	1	0	15	1	0.003452	97362	genus	                                                        Pseudoryx
+0.0002	1	1	15	1	0.003452	97363	species	                                                          Pseudoryx nghetinhensis
+0.0002	1	0	9	1	0.003044	303929	genus	                                                        Taurotragus
+0.0002	1	1	9	1	0.003044	303930	species	                                                          Taurotragus derbianus
+0.0146	73	7	208	2.12	0.002108	9963	subfamily	                                                      Caprinae
+0.006401	32	0	8	22.6	0.002638	1922214	genus	                                                        Bootherium
+0.006401	32	32	8	22.6	0.002638	1922215	species	                                                          Bootherium bombifrons
+0.0014	7	3	29	1.1	0.001886	9922	genus	                                                        Capra
+0.0004001	2	2	4	1	0.002549	72540	species	                                                          Capra caucasica
+0.0002	1	1	11	1.27	0.01016	72542	species	                                                          Capra ibex
+0.0002	1	1	3	1	0.00105	72544	species	                                                          Capra sibirica
+0.001	5	0	11	1.36	0.003602	9898	genus	                                                        Ammotragus
+0.001	5	5	11	1.36	0.003602	9899	species	                                                          Ammotragus lervia
+0.0008002	4	0	13	1	0.003266	34872	genus	                                                        Oreamnos
+0.0008002	4	4	13	1	0.003266	34873	species	                                                          Oreamnos americanus
+0.0006001	3	0	20	3.2	0.001581	9935	genus	                                                        Ovis
+0.0002	1	1	8	6.12	0.003407	30527	species	                                                          Ovis ammon
+0.0002	1	1	3	1	0.002953	37174	species	                                                          Ovis canadensis
+0.0002	1	1	2	1	0.001702	59896	species	                                                          Ovis vignei
+0.0006001	3	0	12	1.33	0.001299	9965	genus	                                                        Capricornis
+0.0004001	2	2	3	2	0.002221	34866	species	                                                          Capricornis swinhoei
+0.0002	1	1	3	1	0.009036	34865	species	                                                          Capricornis sumatraensis
+0.0006001	3	1	14	1	0.001251	34870	genus	                                                        Naemorhedus
+0.0004001	2	2	5	1	0.002081	1088030	species	                                                          Naemorhedus baileyi
+0.0006001	3	0	10	1	0.003493	37178	genus	                                                        Hemitragus
+0.0006001	3	3	10	1	0.003493	37179	species	                                                          Hemitragus jemlahicus
+0.0004001	2	0	7	1	0.0023	37175	genus	                                                        Ovibos
+0.0004001	2	2	7	1	0.0023	37176	species	                                                          Ovibos moschatus
+0.0004001	2	0	5	1.2	0.0008129	37180	genus	                                                        Budorcas
+0.0004001	2	1	5	1.2	0.0008129	37181	species	                                                          Budorcas taxicolor
+0.0002	1	1	1	1	0.0005244	37183	subspecies	                                                            Budorcas taxicolor taxicolor
+0.0002	1	0	5	1	0.0009692	59541	genus	                                                        Pseudois
+0.0002	1	1	2	1	0.001185	112503	species	                                                          Pseudois schaeferi
+0.0002	1	0	2	1	0.0005378	201716	genus	                                                        Myotragus
+0.0002	1	1	2	1	0.0005378	201717	species	                                                          Myotragus balearicus
+0.005001	25	1	115	1.08	0.001243	9948	subfamily	                                                      Antilopinae
+0.001	5	5	13	1	0.0008353	9933	genus	                                                        Gazella
+0.0006001	3	1	18	1	0.002331	457560	genus	                                                        Nanger
+0.0002	1	1	3	1	0.001339	27591	species	                                                          Nanger granti
+0.0002	1	1	1	1	0.0005737	67940	species	                                                          Nanger dama
+0.0006001	3	0	11	1.55	0.002792	59522	genus	                                                        Antidorcas
+0.0006001	3	3	11	1.55	0.002792	59523	species	                                                          Antidorcas marsupialis
+0.0006001	3	2	6	1.5	0.00123	936348	genus	                                                        Eudorcas
+0.0002	1	1	1	1	0.0006472	69308	species	                                                          Eudorcas thomsonii
+0.0006001	3	1	7	1	0.001504	59539	genus	                                                        Procapra
+0.0002	1	1	1	1	0.001297	157669	species	                                                          Procapra gutturosa
+0.0002	1	1	1	1	0.001181	157668	species	                                                          Procapra przewalskii
+0.0002	1	0	11	1	0.003444	69310	genus	                                                        Litocranius
+0.0002	1	1	11	1	0.003444	69311	species	                                                          Litocranius walleri
+0.0002	1	0	9	1	0.002561	59537	genus	                                                        Pantholops
+0.0002	1	1	9	1	0.002561	59538	species	                                                          Pantholops hodgsonii
+0.0002	1	0	5	1	0.001497	59524	genus	                                                        Antilope
+0.0002	1	1	5	1	0.001497	59525	species	                                                          Antilope cervicapra
+0.0002	1	0	5	1	0.001198	1027982	genus	                                                        Dorcatragus
+0.0002	1	1	5	1	0.001198	1027983	species	                                                          Dorcatragus megalotis
+0.0002	1	0	4	1	0.00092	59543	genus	                                                        Raphicerus
+0.0002	1	1	4	1	0.00092	59544	species	                                                          Raphicerus campestris
+0.0002	1	0	4	1	0.0004315	9950	genus	                                                        Madoqua
+0.0002	1	1	1	1	0.0002313	1027994	species	                                                          Madoqua saltiana
+0.0002	1	0	1	1	0.0002392	59535	genus	                                                        Ourebia
+0.0002	1	1	1	1	0.0002392	59536	species	                                                          Ourebia ourebi
+0.0024	12	1	66	1.17	0.001709	9952	subfamily	                                                      Cephalophinae
+0.0006001	3	1	17	1.35	0.0018	9954	genus	                                                        Cephalophus
+0.0002	1	1	8	1.75	0.005256	50347	species	                                                          Cephalophus silvicultor
+0.0002	1	1	2	1	0.0008666	129225	species	                                                          Cephalophus jentinki
+0.0006001	3	1	18	1.06	0.001313	3026943	genus	                                                        Cephalophorus
+0.0002	1	1	8	1	0.002892	70738	species	                                                          Cephalophorus leucogaster
+0.0002	1	1	1	1	0.001876	129227	species	                                                          Cephalophorus nigrifrons
+0.0006001	3	0	13	1	0.003955	119561	genus	                                                        Sylvicapra
+0.0006001	3	3	13	1	0.003955	119562	species	                                                          Sylvicapra grimmia
+0.0004001	2	0	7	1.57	0.001088	907740	genus	                                                        Philantomba
+0.0004001	2	2	7	1.57	0.002317	907742	species	                                                          Philantomba monticola
+0.002	10	1	47	1.53	0.001602	9959	subfamily	                                                      Hippotraginae
+0.0016	8	0	20	1.5	0.001466	37184	genus	                                                        Hippotragus
+0.001	5	5	4	3.5	0.00115	37186	species	                                                          Hippotragus equinus
+0.0004001	2	2	3	1	0.0004912	37189	species	                                                          Hippotragus niger
+0.0002	1	1	10	1	0.002879	37185	species	                                                          Hippotragus leucophaeus
+0.0002	1	1	15	1.73	0.001363	9957	genus	                                                        Oryx
+0.0016	8	0	32	1.03	0.001459	37170	subfamily	                                                      Alcelaphinae
+0.0008002	4	0	14	1	0.00184	9928	genus	                                                        Damaliscus
+0.0006001	3	3	8	1	0.002122	9931	species	                                                          Damaliscus pygargus
+0.0002	1	1	6	1	0.001729	9929	species	                                                          Damaliscus lunatus
+0.0004001	2	0	4	1	0.001213	59526	genus	                                                        Beatragus
+0.0004001	2	2	4	1	0.001213	59527	species	                                                          Beatragus hunteri
+0.0004001	2	0	3	1.33	0.0005123	9926	genus	                                                        Connochaetes
+0.0004001	2	2	2	1.5	0.0009723	9927	species	                                                          Connochaetes taurinus
+0.0006001	3	0	23	1.61	0.001463	59549	subfamily	                                                      Reduncinae
+0.0004001	2	1	21	1.67	0.002653	59553	genus	                                                        Redunca
+0.0002	1	1	14	1.79	0.004001	59554	species	                                                          Redunca arundinum
+0.0002	1	0	2	1	0.0002624	9961	genus	                                                        Kobus
+0.0002	1	1	2	1	0.0005726	9962	species	                                                          Kobus ellipsiprymnus
+0.0006001	3	0	8	1	0.00185	37169	subfamily	                                                      Aepycerotinae
+0.0006001	3	0	8	1	0.00185	9896	genus	                                                        Aepyceros
+0.0006001	3	3	8	1	0.00185	9897	species	                                                          Aepyceros melampus
+0.017	85	5	296	2.27	0.002074	9850	family	                                                    Cervidae
+0.0118	59	3	147	3.43	0.002507	9881	subfamily	                                                      Odocoileinae
+0.007401	37	3	19	19	0.001315	43333	genus	                                                        Mazama
+0.006601	33	33	9	38.9	0.005898	1088028	species	                                                          Mazama rufina
+0.0002	1	1	3	1	0.001322	43334	species	                                                          Mazama americana
+0.0008002	4	0	16	1	0.004392	9851	genus	                                                        Alces
+0.0008002	4	4	16	1	0.004392	9852	species	                                                          Alces alces
+0.0006001	3	0	17	1	0.004694	9869	genus	                                                        Rangifer
+0.0006001	3	3	17	1	0.004694	9870	species	                                                          Rangifer tarandus
+0.0006001	3	0	12	1	0.003883	371034	genus	                                                        Hippocamelus
+0.0006001	3	3	12	1	0.003883	371035	species	                                                          Hippocamelus antisensis
+0.0006001	3	0	6	1	0.001818	248132	genus	                                                        Blastocerus
+0.0006001	3	3	6	1	0.001818	248133	species	                                                          Blastocerus dichotomus
+0.0004001	2	0	18	1.67	0.003816	163860	genus	                                                        Pudu
+0.0004001	2	2	18	1.67	0.005506	163861	species	                                                          Pudu puda
+0.0004001	2	2	15	1	0.001935	9857	genus	                                                        Capreolus
+0.0002	1	0	5	1	0.001678	63823	genus	                                                        Ozotoceros
+0.0002	1	1	5	1	0.001678	63824	species	                                                          Ozotoceros bezoarticus
+0.0002	1	0	2	1.5	0.0007205	3042400	genus	                                                        Subulo
+0.0002	1	1	2	1.5	0.0007205	52407	species	                                                          Subulo gouazoubira
+0.002	10	5	73	1.16	0.001628	34878	subfamily	                                                      Cervinae
+0.0004001	2	0	7	1	0.003968	43331	genus	                                                        Elaphurus
+0.0004001	2	2	7	1	0.003968	43332	species	                                                          Elaphurus davidianus
+0.0004001	2	0	4	1	0.0009304	662560	genus	                                                        Rusa
+0.0002	1	1	3	1	0.001459	1088129	species	                                                          Rusa alfredi
+0.0002	1	0	1	1	0.001134	662561	species	                                                          Rusa unicolor
+0.0002	1	1	1	1	0.001379	399782	subspecies	                                                            Rusa unicolor swinhoei
+0.0002	1	0	13	1	0.002467	1088089	genus	                                                        Rucervus
+0.0002	1	1	10	1	0.003132	43328	species	                                                          Rucervus duvaucelii
+0.002	10	0	35	1.11	0.001436	34877	subfamily	                                                      Muntiacinae
+0.0014	7	2	31	1.1	0.001594	9885	genus	                                                        Muntiacus
+0.0004001	2	2	9	1	0.004253	109296	species	                                                          Muntiacus vuquangensis
+0.0002	1	1	7	1	0.005942	71854	species	                                                          Muntiacus crinifrons
+0.0002	1	1	4	1	0.003244	145526	species	                                                          Muntiacus gongshanensis
+0.0002	1	1	1	1	0.0006969	71855	species	                                                          Muntiacus feae
+0.0006001	3	0	4	1.25	0.0008423	109297	genus	                                                        Elaphodus
+0.0006001	3	3	4	1.25	0.0008423	109298	species	                                                          Elaphodus cephalophus
+0.0002	1	0	6	1.17	0.00119	34876	subfamily	                                                      Hydropotinae
+0.0002	1	0	6	1.17	0.00119	9882	genus	                                                        Hydropotes
+0.0002	1	1	6	1.17	0.00119	9883	species	                                                          Hydropotes inermis
+0.003201	16	0	33	3.33	0.002166	30533	family	                                                    Moschidae
+0.003201	16	11	33	3.33	0.002166	68410	genus	                                                      Moschus
+0.0004001	2	2	11	1	0.003999	68415	species	                                                        Moschus moschiferus
+0.0002	1	1	4	1	0.001222	2358212	species	                                                        Moschus cupreus
+0.0002	1	1	4	1	0.005822	1267572	species	                                                        Moschus anhuiensis
+0.0002	1	1	2	1	0.0008032	68414	species	                                                        Moschus leucogaster
+0.0006001	3	0	30	1.23	0.002289	9892	family	                                                    Giraffidae
+0.0004001	2	0	18	1.33	0.002243	9893	genus	                                                      Giraffa
+0.0004001	2	2	13	1.46	0.004924	9894	species	                                                        Giraffa camelopardalis
+0.0002	1	0	12	1.08	0.00241	86972	genus	                                                      Okapia
+0.0002	1	1	12	1.08	0.00241	86973	species	                                                        Okapia johnstoni
+0.0018	9	0	32	2.62	0.001126	35499	infraorder	                                                  Tragulina
+0.0018	9	0	32	2.62	0.001126	9846	family	                                                    Tragulidae
+0.001	5	0	14	1.21	0.002128	439460	genus	                                                      Moschiola
+0.001	5	5	14	1.21	0.002128	1089816	species	                                                        Moschiola indica
+0.0004001	2	0	9	6.44	0.001211	666914	genus	                                                      Hyemoschus
+0.0004001	2	2	9	6.44	0.001211	666915	species	                                                        Hyemoschus aquaticus
+0.0004001	2	0	9	1	0.0006673	9847	genus	                                                      Tragulus
+0.0002	1	1	7	1	0.001036	9848	species	                                                        Tragulus napu
+0.0002	1	1	2	1	0.0003247	1088131	species	                                                        Tragulus kanchil
+1.169	5845	24	7177	12.6	0.1681	35497	suborder	                                                Suina
+1.164	5820	533	7069	12.7	0.2018	9821	family	                                                  Suidae
+1.052	5258	2702	5396	13	0.345	9822	genus	                                                    Sus
+0.5037	2518	1331	1820	13.4	0.3796	9823	species	                                                      Sus scrofa
+0.2362	1181	1181	708	13.3	0.832	310261	subspecies	                                                        Sus scrofa taivanus
+0.0012	6	6	13	1.31	0.00904	309913	subspecies	                                                        Sus scrofa cristatus
+0.005401	27	27	48	3	0.02199	315377	species	                                                      Sus cebifrons
+0.0016	8	8	39	1.21	0.02305	273789	species	                                                      Sus celebensis
+0.0006001	3	3	5	1.2	0.008264	159856	species	                                                      Sus verrucosus
+0.003001	15	0	88	1.06	0.01934	476283	genus	                                                    Porcula
+0.003001	15	15	88	1.06	0.01934	476284	species	                                                      Porcula salvania
+0.0014	7	0	38	1.79	0.006046	273790	genus	                                                    Potamochoerus
+0.0014	7	7	38	1.79	0.006046	273791	species	                                                      Potamochoerus porcus
+0.0014	7	0	37	1	0.007065	41425	genus	                                                    Phacochoerus
+0.0014	7	7	37	1	0.007065	41426	species	                                                      Phacochoerus africanus
+0.0002	1	0	6	1	0.0008018	9827	family	                                                  Tayassuidae
+0.0002	1	0	6	1	0.0008018	35609	genus	                                                    Pecari
+0.0002	1	1	6	1	0.0008018	9829	species	                                                      Pecari tajacu
+0.0124	62	0	303	1.19	0.0009683	2653789	suborder	                                                Whippomorpha
+0.0122	61	2	288	1.2	0.0009619	9721	infraorder	                                                  Cetacea
+0.009602	48	8	199	1.23	0.0008598	9722	parvorder	                                                    Odontoceti
+0.002801	14	1	37	1.16	0.0005417	9726	family	                                                      Delphinidae
+0.0008002	4	0	11	1	0.001337	27609	genus	                                                        Lagenorhynchus
+0.0006001	3	3	8	1	0.002496	90246	species	                                                          Lagenorhynchus acutus
+0.0002	1	1	2	1	0.001214	90247	species	                                                          Lagenorhynchus obliquidens
+0.0004001	2	0	2	2	0.0008237	82173	genus	                                                        Pseudorca
+0.0004001	2	2	2	2	0.0008237	82174	species	                                                          Pseudorca crassidens
+0.0004001	2	0	3	1	0.0005236	48746	genus	                                                        Orcaella
+0.0002	1	1	2	1	0.0006863	682059	species	                                                          Orcaella heinsohni
+0.0002	1	1	1	1	0.0004024	48747	species	                                                          Orcaella brevirostris
+0.0004001	2	0	2	1.5	0.0008091	46166	genus	                                                        Steno
+0.0004001	2	2	2	1.5	0.0008091	46167	species	                                                          Steno bredanensis
+0.0002	1	0	3	2	0.001843	103591	genus	                                                        Feresa
+0.0002	1	1	3	2	0.001843	103592	species	                                                          Feresa attenuata
+0.0002	1	0	5	1	0.001943	103599	genus	                                                        Sousa
+0.0002	1	1	5	1	0.004798	511736	species	                                                          Sousa teuszii
+0.0002	1	0	3	1	0.0006729	9734	genus	                                                        Stenella
+0.0002	1	1	3	1	0.004539	9737	species	                                                          Stenella coeruleoalba
+0.0018	9	1	43	1.07	0.0007635	9756	family	                                                      Ziphiidae
+0.0012	6	1	27	1	0.0008144	9757	genus	                                                        Mesoplodon
+0.0004001	2	2	9	1	0.002196	48745	species	                                                          Mesoplodon bidens
+0.0004001	2	2	2	1	0.0004825	272214	species	                                                          Mesoplodon ginkgodens
+0.0002	1	1	1	1	0.0002189	52114	species	                                                          Mesoplodon stejnegeri
+0.0002	1	0	2	1.5	0.000461	48743	genus	                                                        Hyperoodon
+0.0002	1	1	2	1.5	0.000461	48744	species	                                                          Hyperoodon ampullatus
+0.0002	1	0	1	1	0.0002197	221923	genus	                                                        Indopacetus
+0.0002	1	1	1	1	0.0002197	221924	species	                                                          Indopacetus pacificus
+0.001	5	0	22	1.14	0.002119	9747	family	                                                      Monodontidae
+0.001	5	0	22	1.14	0.004744	40150	genus	                                                        Monodon
+0.001	5	5	22	1.14	0.004744	40151	species	                                                          Monodon monoceros
+0.0008002	4	0	15	1.2	0.000684	9750	family	                                                      Physeteridae
+0.0006001	3	0	10	1.3	0.001304	9753	genus	                                                        Physeter
+0.0006001	3	3	10	1.3	0.001304	9755	species	                                                          Physeter catodon
+0.0002	1	0	5	1	0.0003542	9751	genus	                                                        Kogia
+0.0002	1	1	3	1	0.0004391	9752	species	                                                          Kogia sima
+0.0006001	3	0	5	1	0.0005656	9723	family	                                                      Platanistidae
+0.0006001	3	3	5	1	0.0005656	48750	genus	                                                        Platanista
+0.0004001	2	0	21	1	0.0007309	9740	family	                                                      Phocoenidae
+0.0002	1	0	17	1	0.001085	9741	genus	                                                        Phocoena
+0.0002	1	1	7	1	0.002421	42100	species	                                                          Phocoena sinus
+0.0002	1	1	4	1	0.0006978	34891	genus	                                                        Neophocaena
+0.0004001	2	0	9	2.11	0.001235	119500	family	                                                      Lipotidae
+0.0004001	2	0	9	2.11	0.001235	118796	genus	                                                        Lipotes
+0.0004001	2	2	9	2.11	0.001235	118797	species	                                                          Lipotes vexillifer
+0.0002	1	0	10	1	0.00124	197540	family	                                                      Iniidae
+0.0002	1	0	10	1	0.00124	9724	genus	                                                        Inia
+0.0002	1	1	10	1	0.00124	9725	species	                                                          Inia geoffrensis
+0.0022	11	3	57	1.19	0.0009698	9761	parvorder	                                                    Mysticeti
+0.0014	7	1	29	1.1	0.0008605	9765	family	                                                      Balaenopteridae
+0.0012	6	2	28	1.11	0.0009766	9766	genus	                                                        Balaenoptera
+0.0004001	2	2	11	1.27	0.003298	9771	species	                                                          Balaenoptera musculus
+0.0002	1	1	3	1	0.0009924	33556	species	                                                          Balaenoptera bonaerensis
+0.0002	1	1	1	1	0.0002521	255217	species	                                                          Balaenoptera omurai
+0.0002	1	0	4	1.5	0.0003869	30558	family	                                                      Balaenidae
+0.0002	1	0	2	1	0.0005596	27601	genus	                                                        Balaena
+0.0002	1	1	2	1	0.0005596	27602	species	                                                          Balaena mysticetus
+0.0002	1	0	15	1	0.001145	2653790	infraorder	                                                  Ancodonta
+0.0002	1	0	15	1	0.001145	9831	family	                                                    Hippopotamidae
+0.0002	1	0	10	1	0.001735	56797	genus	                                                      Hexaprotodon
+0.0002	1	1	10	1	0.001735	56798	species	                                                        Hexaprotodon liberiensis
+0.0018	9	0	62	1.03	0.001754	9834	suborder	                                                Tylopoda
+0.0018	9	0	62	1.03	0.001754	9835	family	                                                  Camelidae
+0.0008002	4	2	13	1.15	0.0007058	9836	genus	                                                    Camelus
+0.0002	1	1	3	1.67	0.0004612	9838	species	                                                      Camelus dromedarius
+0.0002	1	1	4	1	0.001614	9837	species	                                                      Camelus bactrianus
+0.0006001	3	0	22	1	0.003852	30539	genus	                                                    Vicugna
+0.0004001	2	2	3	1	0.0006917	9843	species	                                                      Vicugna vicugna
+0.0002	1	1	19	1	0.01434	30538	species	                                                      Vicugna pacos
+0.0004001	2	0	16	1	0.005493	9839	genus	                                                    Lama
+0.0002	1	1	11	1	0.0143	9844	species	                                                      Lama glama
+0.0002	1	1	5	1	0.003073	9840	species	                                                      Lama guanicoe
+0.07341	367	1	817	3.61	0.0006886	9397	order	                                              Chiroptera
+0.06261	313	5	652	3.89	0.000707	30560	suborder	                                                Microchiroptera
+0.02581	129	9	277	3.03	0.0006976	9431	family	                                                  Vespertilionidae
+0.0136	68	28	131	3.27	0.0007206	9434	genus	                                                    Myotis
+0.002601	13	13	4	12	0.0008358	159327	species	                                                      Myotis keaysi
+0.0008002	4	4	16	1	0.00293	159335	species	                                                      Myotis volans
+0.0008002	4	4	12	1.25	0.002054	225400	species	                                                      Myotis davidii
+0.0004001	2	2	5	1.6	0.0008598	109478	species	                                                      Myotis brandtii
+0.0004001	2	2	6	1	0.001023	385035	species	                                                      Myotis martiniquensis
+0.0004001	2	2	5	1	0.001432	59463	species	                                                      Myotis lucifugus
+0.0004001	2	2	2	1	0.0003986	27668	species	                                                      Myotis leibii
+0.0002	1	1	4	33.8	0.0007159	187014	species	                                                      Myotis macrodactylus
+0.0002	1	1	5	1	0.0007943	392318	species	                                                      Myotis bombinus
+0.0002	1	1	3	1.33	0.0005702	302711	species	                                                      Myotis aurascens
+0.0002	1	1	4	1	0.0006677	51298	species	                                                      Myotis myotis
+0.0002	1	1	4	1	0.0006569	59462	species	                                                      Myotis bechsteinii
+0.0002	1	1	3	1	0.0004993	187012	species	                                                      Myotis frater
+0.0002	1	1	3	1	0.0005744	155915	species	                                                      Myotis ikonnikovi
+0.0002	1	1	2	1.5	0.0004307	159333	species	                                                      Myotis ruber
+0.0002	1	1	2	1	0.0003676	526407	species	                                                      Myotis petax
+0.0002	1	1	1	1	0.000236	124752	species	                                                      Myotis riparius
+0.0002	1	1	1	1	0.0003709	321263	species	                                                      Myotis auriculus
+0.0024	12	9	14	3.93	0.0007212	51299	genus	                                                    Nyctalus
+0.0006001	3	3	6	1	0.0006783	187010	species	                                                      Nyctalus aviator
+0.002	10	0	9	10.1	0.0005099	59488	genus	                                                    Murina
+0.0018	9	9	6	14.7	0.0006956	187021	species	                                                      Murina ussuriensis
+0.0002	1	1	3	1	0.0003408	187017	species	                                                      Murina leucogaster
+0.001	5	0	9	1.44	0.0005532	27671	genus	                                                    Pipistrellus
+0.0006001	3	3	5	1.8	0.0006252	258946	species	                                                      Pipistrellus coromandra
+0.0004001	2	2	4	1	0.0004916	105295	species	                                                      Pipistrellus abramus
+0.001	5	0	2	3	0.0002152	233861	genus	                                                    Corynorhinus
+0.001	5	5	2	3	0.0002152	27674	species	                                                      Corynorhinus rafinesquii
+0.0008002	4	0	8	1.25	0.0009461	29077	genus	                                                    Eptesicus
+0.0008002	4	4	8	1.25	0.0009461	169057	species	                                                      Eptesicus bottae
+0.0004001	2	0	16	2.06	0.0018	981671	subfamily	                                                    Miniopterinae
+0.0004001	2	0	16	2.06	0.0018	9432	genus	                                                      Miniopterus
+0.0004001	2	2	16	2.06	0.0018	187007	species	                                                        Miniopterus fuliginosus
+0.0004001	2	1	10	1	0.0005989	59484	genus	                                                    Vespertilio
+0.0002	1	1	5	1	0.0006266	59485	species	                                                      Vespertilio murinus
+0.0004001	2	0	6	1.33	0.0003534	59454	genus	                                                    Kerivoula
+0.0004001	2	2	5	1.4	0.0005853	685729	species	                                                      Kerivoula minuta
+0.0004001	2	0	7	1	0.0008793	50352	genus	                                                    Chalinolobus
+0.0004001	2	2	7	1	0.0008793	143942	species	                                                      Chalinolobus tuberculatus
+0.0004001	2	0	5	1.4	0.0006965	1636536	genus	                                                    Submyotodon
+0.0004001	2	2	5	1.4	0.0006965	2783555	species	                                                      Submyotodon moupinensis
+0.0004001	2	0	3	1	0.0003542	27666	genus	                                                    Lasionycteris
+0.0004001	2	2	3	1	0.0003542	27667	species	                                                      Lasionycteris noctivagans
+0.0002	1	0	5	21.6	0.0005157	72130	genus	                                                    Lasiurus
+0.0002	1	1	5	21.6	0.0005157	258930	species	                                                      Lasiurus borealis
+0.0002	1	0	7	1	0.000863	633650	genus	                                                    Eudiscopus
+0.0002	1	1	7	1	0.000863	633651	species	                                                      Eudiscopus denticulus
+0.0002	1	1	6	1	0.0003184	258918	genus	                                                    Histiotus
+0.0002	1	0	2	1	0.0001165	27673	genus	                                                    Plecotus
+0.0002	1	1	1	1	0.0001209	61862	species	                                                      Plecotus auritus
+0.023	115	1	207	4.85	0.0006503	9415	family	                                                  Phyllostomidae
+0.006201	31	1	31	10.6	0.0005316	40236	subfamily	                                                    Glossophaginae
+0.005601	28	0	15	20.5	0.0006827	27641	genus	                                                      Anoura
+0.005401	27	27	9	33.6	0.00123	999941	species	                                                        Anoura cultrata
+0.0002	1	1	6	1	0.0008053	27642	species	                                                        Anoura caudifer
+0.0002	1	0	7	1.29	0.0003467	55053	genus	                                                      Leptonycteris
+0.0002	1	1	3	1	0.0004177	59456	species	                                                        Leptonycteris nivalis
+0.0002	1	0	5	1.4	0.0006421	27637	genus	                                                      Glossophaga
+0.0002	1	1	5	1.4	0.0006421	27638	species	                                                        Glossophaga soricina
+0.005601	28	0	22	11.2	0.0008729	40231	subfamily	                                                    Carolliinae
+0.005201	26	0	10	23.3	0.001209	138698	genus	                                                      Rhinophylla
+0.005201	26	26	10	23.3	0.001209	138707	species	                                                        Rhinophylla pumilio
+0.0004001	2	2	12	1.17	0.0007101	40232	genus	                                                      Carollia
+0.004401	22	1	61	2.05	0.0009056	40234	subfamily	                                                    Stenodermatinae
+0.0024	12	1	12	6.17	0.0006228	9416	genus	                                                      Artibeus
+0.0014	7	7	2	25	0.0003797	27634	species	                                                        Artibeus lituratus
+0.0008002	4	4	7	3	0.001287	9417	species	                                                        Artibeus jamaicensis
+0.0008002	4	0	13	1.08	0.0006882	27659	genus	                                                      Sturnira
+0.0006001	3	3	4	1	0.0007046	2019462	species	                                                        Sturnira bakeri
+0.0002	1	1	3	1.33	0.0005346	192405	species	                                                        Sturnira ludovici
+0.0006001	3	0	21	1.05	0.002723	148025	genus	                                                      Ectophylla
+0.0006001	3	3	21	1.05	0.002723	148036	species	                                                        Ectophylla alba
+0.0004001	2	0	10	1	0.001595	563992	genus	                                                      Dermanura
+0.0004001	2	2	10	1	0.001595	563994	species	                                                        Dermanura rava
+0.003801	19	0	18	7.17	0.0007288	138703	subfamily	                                                    Lonchophyllinae
+0.003601	18	0	13	9.54	0.0007722	138704	genus	                                                      Lonchophylla
+0.003001	15	15	5	23.2	0.0006179	190509	species	                                                        Lonchophylla robusta
+0.0006001	3	3	8	1	0.0009265	1303335	species	                                                        Lonchophylla concava
+0.0002	1	0	5	1	0.0006563	1470803	genus	                                                      Hsunycteris
+0.0002	1	1	5	1	0.0006563	138705	species	                                                        Hsunycteris thomasi
+0.002	10	1	54	1.04	0.000573	40238	subfamily	                                                    Phyllostominae
+0.0004001	2	0	10	1	0.0007181	148056	genus	                                                      Micronycteris
+0.0004001	2	2	6	1	0.0009004	148066	species	                                                        Micronycteris megalotis
+0.0004001	2	0	5	1	0.0005287	148075	genus	                                                      Chrotopterus
+0.0004001	2	2	5	1	0.0005287	148086	species	                                                        Chrotopterus auritus
+0.0004001	2	0	5	1	0.0003143	9418	genus	                                                      Macrotus
+0.0002	1	1	4	1	0.0005191	124750	species	                                                        Macrotus waterhousii
+0.0002	1	1	1	1	0.0001254	9419	species	                                                        Macrotus californicus
+0.0002	1	0	10	1.2	0.001386	9425	genus	                                                      Tonatia
+0.0002	1	1	10	1.2	0.001386	171122	species	                                                        Tonatia saurophila
+0.0002	1	0	9	1	0.001063	148060	genus	                                                      Vampyrum
+0.0002	1	1	9	1	0.001063	148074	species	                                                        Vampyrum spectrum
+0.0002	1	1	4	1	0.0002832	263450	genus	                                                      Lophostoma
+0.0004001	2	0	6	1	0.0002063	40237	subfamily	                                                    Desmodontinae
+0.0002	1	0	3	1	0.0003311	148076	genus	                                                      Diaemus
+0.0002	1	1	3	1	0.0003311	148087	species	                                                        Diaemus youngi
+0.0002	1	0	1	1	0.0001028	148077	genus	                                                      Diphylla
+0.0002	1	1	1	1	0.0001028	148089	species	                                                        Diphylla ecaudata
+0.0004001	2	0	4	1	0.0005463	40235	subfamily	                                                    Brachyphyllinae
+0.0004001	2	0	4	1	0.0005463	9420	genus	                                                      Brachyphylla
+0.0004001	2	2	4	1	0.0005463	9421	species	                                                        Brachyphylla cavernarum
+0.0106	53	0	77	6.45	0.001014	58055	family	                                                  Rhinolophidae
+0.0106	53	0	77	6.45	0.001014	186995	subfamily	                                                    Rhinolophinae
+0.0106	53	3	77	6.45	0.001014	49442	genus	                                                      Rhinolophus
+0.005801	29	29	23	7	0.008846	196889	species	                                                        Rhinolophus macrotis
+0.002	10	10	6	34.8	0.01008	479477	species	                                                        Rhinolophus paradoxolophus
+0.0004001	2	2	9	1	0.00142	393601	species	                                                        Rhinolophus yunnanensis
+0.0004001	2	2	2	1	0.0004607	76837	species	                                                        Rhinolophus philippinensis
+0.0002	1	1	7	1.14	0.001213	337453	species	                                                        Rhinolophus luctus
+0.0002	1	1	5	1	0.0008256	472238	species	                                                        Rhinolophus formosae
+0.0002	1	1	2	1	0.0005853	476588	species	                                                        Rhinolophus marshalli
+0.0002	1	1	2	1	0.001172	169756	species	                                                        Rhinolophus monoceros
+0.0002	1	1	1	1	0.0001814	476589	species	                                                        Rhinolophus thomasi
+0.0002	1	1	1	1	0.0003723	159859	species	                                                        Rhinolophus pumilus
+0.0002	1	1	1	1	0.000172	59477	species	                                                        Rhinolophus affinis
+0.0006001	3	0	12	1.17	0.0004329	186994	family	                                                  Hipposideridae
+0.0006001	3	0	12	1.17	0.0004329	58068	genus	                                                    Hipposideros
+0.0006001	3	3	6	1.17	0.0009794	186990	species	                                                      Hipposideros armiger
+0.0004001	2	0	11	1.27	0.0005087	9436	family	                                                  Molossidae
+0.0004001	2	0	11	1.27	0.0007761	9437	genus	                                                    Tadarida
+0.0004001	2	2	4	1.75	0.0005838	59483	species	                                                      Tadarida teniotis
+0.0004001	2	0	10	1.3	0.0004737	59445	family	                                                  Mormoopidae
+0.0004001	2	1	10	1.3	0.0004737	59475	genus	                                                    Pteronotus
+0.0002	1	1	6	1	0.0009194	59476	species	                                                      Pteronotus parnellii
+0.0004001	2	0	4	1	0.0004799	30562	family	                                                  Emballonuridae
+0.0004001	2	0	4	1	0.0004799	461394	subfamily	                                                    Emballonurinae
+0.0004001	2	0	4	1	0.0004799	59481	genus	                                                      Saccopteryx
+0.0004001	2	2	4	1	0.0004799	249018	species	                                                        Saccopteryx leptura
+0.0002	1	0	11	1.09	0.00134	94959	family	                                                  Mystacinidae
+0.0002	1	0	11	1.09	0.00134	94960	genus	                                                    Mystacina
+0.0002	1	1	11	1.09	0.00134	94961	species	                                                      Mystacina tuberculata
+0.0002	1	0	9	1	0.001042	94957	family	                                                  Noctilionidae
+0.0002	1	0	9	1	0.001042	94958	genus	                                                    Noctilio
+0.0002	1	1	9	1	0.001042	94963	species	                                                      Noctilio leporinus
+0.0106	53	0	151	2.64	0.0005977	30559	suborder	                                                Megachiroptera
+0.0106	53	5	151	2.64	0.0005977	9398	family	                                                  Pteropodidae
+0.007802	39	0	95	3.48	0.0005528	77225	subfamily	                                                    Pteropodinae
+0.002801	14	2	32	3.91	0.0005419	1246965	clade	                                                      Epomophorini-Myonycterini lineage
+0.002	10	0	14	7.36	0.0004597	1246961	tribe	                                                        Myonycterini
+0.002	10	0	3	29.3	0.0002331	77236	genus	                                                          Myonycteris
+0.002	10	10	2	43.5	0.0005115	77243	species	                                                            Myonycteris torquata
+0.0004001	2	1	15	1.07	0.0005496	1246964	tribe	                                                        Epomophorini
+0.0002	1	1	4	1	0.0004121	77230	genus	                                                          Epomops
+0.0022	11	0	18	8.89	0.0005273	9406	genus	                                                      Rousettus
+0.001	5	5	5	29.4	0.0007905	77222	species	                                                        Rousettus lanosus
+0.0004001	2	2	8	1	0.00205	77223	species	                                                        Rousettus madagascariensis
+0.0004001	2	2	2	1	0.0003239	58083	species	                                                        Rousettus amplexicaudatus
+0.0002	1	1	2	1	0.0005155	705079	species	                                                        Rousettus obliviosus
+0.0002	1	1	1	1	0.0002438	9407	species	                                                        Rousettus aegyptiacus
+0.0008002	4	0	13	1	0.0004507	9401	genus	                                                      Pteropus
+0.0004001	2	2	9	1	0.002003	126282	species	                                                        Pteropus dasymallus
+0.0002	1	1	1	1	0.0002154	132908	species	                                                        Pteropus vampyrus
+0.0002	1	1	1	1	0.0002607	9402	species	                                                        Pteropus alecto
+0.0008002	4	0	11	1	0.001326	77228	genus	                                                      Balionycteris
+0.0008002	4	4	11	1	0.001326	77229	species	                                                        Balionycteris maculata
+0.0006001	3	0	5	1.2	0.0003671	9399	genus	                                                      Cynopterus
+0.0006001	3	3	5	1.2	0.0007969	58060	species	                                                        Cynopterus brachyotis
+0.0002	1	0	9	1	0.0012	48987	genus	                                                      Nyctimene
+0.0002	1	1	9	1	0.0012	170209	species	                                                        Nyctimene cephalotes
+0.0002	1	0	6	1	0.0008194	77232	genus	                                                      Megaerops
+0.0002	1	1	6	1	0.0008194	77233	species	                                                        Megaerops niphanae
+0.0002	1	0	1	1	0.0001306	58062	genus	                                                      Eidolon
+0.0002	1	1	1	1	0.0001306	77214	species	                                                        Eidolon helvum
+0.0012	6	0	10	1.1	0.0007122	77241	subfamily	                                                    Macroglossinae
+0.0012	6	0	10	1.1	0.001346	29075	genus	                                                      Macroglossus
+0.0012	6	6	10	1.1	0.001346	326083	species	                                                        Macroglossus sobrinus
+0.0002	1	0	4	2.5	0.000552	662897	genus	                                                    Sphaerias
+0.0002	1	1	4	2.5	0.000552	662898	species	                                                      Sphaerias blanfordi
+0.0002	1	0	8	1	0.0005016	1091508	genus	                                                    Casinycteris
+0.0002	1	1	5	1	0.001407	1497437	species	                                                      Casinycteris campomaanensis
+0.0002	1	0	5	1.2	0.0003369	1001562	genus	                                                    Scotonycteris
+0.0002	1	1	4	1.25	0.0004704	1001563	species	                                                      Scotonycteris zenkeri
+0.03661	183	2	384	2.97	0.0007989	9362	order	                                              Eulipotyphla
+0.023	115	1	202	2.69	0.0006972	9376	family	                                                Soricidae
+0.0158	79	3	131	2.84	0.0006971	183663	subfamily	                                                  Soricinae
+0.009002	45	0	20	9.7	0.000603	269272	genus	                                                    Episoriculus
+0.008402	42	42	6	29.5	0.0008767	150090	species	                                                      Episoriculus fumidus
+0.0004001	2	2	4	1.25	0.0007386	2175806	species	                                                      Episoriculus umbrinus
+0.0002	1	1	4	1	0.0007252	62291	species	                                                      Episoriculus caudatus
+0.002801	14	3	40	2.4	0.0006737	9379	genus	                                                    Sorex
+0.0008002	4	4	5	1	0.001113	62287	species	                                                      Sorex tundrensis
+0.0004001	2	2	4	12	0.000765	62274	species	                                                      Sorex minutissimus
+0.0004001	2	2	10	1.2	0.002358	42254	species	                                                      Sorex araneus
+0.0002	1	1	2	1	0.0003811	62288	species	                                                      Sorex roboratus
+0.0002	1	1	2	1	0.0003605	268767	species	                                                      Sorex cylindricauda
+0.0002	1	1	2	1	0.000382	1343854	species	                                                      Sorex thibetanus
+0.0014	7	0	18	1.28	0.0009461	202265	genus	                                                    Blarinella
+0.0012	6	6	9	1.56	0.002312	1159882	species	                                                      Blarinella quadraticauda
+0.0002	1	1	4	1	0.001003	2588393	species	                                                      Blarinella cf. quadraticauda KIZ AL11069
+0.0006001	3	0	9	1	0.001152	127559	genus	                                                    Anourosorex
+0.0006001	3	3	9	1	0.001152	127560	species	                                                      Anourosorex squamipes
+0.0004001	2	0	5	1.6	0.000652	62292	genus	                                                    Chimarrogale
+0.0004001	2	2	5	1.6	0.000652	2719028	species	                                                      Chimarrogale leander
+0.0004001	2	0	7	1	0.0009907	62290	genus	                                                    Soriculus
+0.0004001	2	2	7	1	0.0009907	62296	species	                                                      Soriculus nigrescens
+0.0002	1	1	8	1	0.0008217	269270	genus	                                                    Chodsigoa
+0.0002	1	0	6	1	0.0004327	9386	genus	                                                    Blarina
+0.0002	1	1	3	1	0.0004914	9387	species	                                                      Blarina brevicauda
+0.0002	1	0	4	1	0.0005301	2588391	genus	                                                    Pantherina
+0.0002	1	1	4	1	0.0005301	2588392	species	                                                      Pantherina griselda
+0.007001	35	0	70	2.44	0.0007026	183662	subfamily	                                                  Crocidurinae
+0.006601	33	3	65	2.49	0.0007211	36801	genus	                                                    Crocidura
+0.003001	15	15	7	14.6	0.0009479	36802	species	                                                      Crocidura russula
+0.0008002	4	4	10	1.1	0.001344	109474	species	                                                      Crocidura leucodon
+0.0006001	3	3	7	1.14	0.001241	167044	species	                                                      Crocidura attenuata
+0.0004001	2	2	6	1	0.001066	685768	species	                                                      Crocidura tanakae
+0.0004001	2	2	6	1	0.0008649	183721	species	                                                      Crocidura shantungensis
+0.0002	1	1	6	1	0.001818	685772	species	                                                      Crocidura palawanensis
+0.0002	1	1	4	1	0.0008624	389337	species	                                                      Crocidura orientalis
+0.0002	1	1	2	1	0.0003555	2806439	species	                                                      Crocidura dongyangjiangensis
+0.0002	1	1	1	1	0.0003503	458314	species	                                                      Crocidura grayi
+0.0004001	2	0	4	1	0.0004827	9377	genus	                                                    Suncus
+0.0004001	2	2	4	1	0.0004827	9378	species	                                                      Suncus murinus
+0.006601	33	0	98	4.12	0.00078	9373	family	                                                Talpidae
+0.003801	19	4	47	1.26	0.001149	176848	genus	                                                  Uropsilus
+0.001	5	5	11	1.55	0.001822	182670	species	                                                    Uropsilus investigator
+0.001	5	5	10	1.4	0.001931	182671	species	                                                    Uropsilus soricipes
+0.0006001	3	3	8	1	0.001527	182669	species	                                                    Uropsilus gracilis
+0.0002	1	1	7	1	0.001101	182668	species	                                                    Uropsilus andersoni
+0.0002	1	0	5	1	0.0004022	2640566	no rank	                                                    unclassified Uropsilus
+0.0002	1	1	1	1	0.0001893	1605932	species	                                                      Uropsilus sp. 4 FT-2015
+0.001	5	0	15	1.07	0.0008486	62294	genus	                                                  Mogera
+0.0008002	4	4	11	1.09	0.002484	111428	species	                                                    Mogera robusta
+0.0002	1	1	2	1	0.0003081	2804713	species	                                                    Mogera hainana
+0.0008002	4	0	7	1.57	0.00085	202256	genus	                                                  Galemys
+0.0008002	4	4	7	1.57	0.00085	202257	species	                                                    Galemys pyrenaicus
+0.0004001	2	0	2	1	0.0002763	106105	genus	                                                  Urotrichus
+0.0004001	2	2	2	1	0.0002763	106106	species	                                                    Urotrichus talpoides
+0.0002	1	0	4	41	0.000552	143301	genus	                                                  Condylura
+0.0002	1	1	4	41	0.000552	143302	species	                                                    Condylura cristata
+0.0002	1	0	10	6	0.001304	1300118	genus	                                                  Parascaptor
+0.0002	1	1	10	6	0.001304	1300119	species	                                                    Parascaptor leucura
+0.0002	1	0	5	1	0.0006819	1300116	genus	                                                  Scapanulus
+0.0002	1	1	5	1	0.0006819	1300117	species	                                                    Scapanulus oweni
+0.006601	33	0	79	1.68	0.001275	9363	family	                                                Erinaceidae
+0.004401	22	0	33	1.39	0.001462	30577	subfamily	                                                  Erinaceinae
+0.002601	13	0	15	1.8	0.001403	30578	genus	                                                    Hemiechinus
+0.002601	13	13	15	1.8	0.001403	217708	species	                                                      Hemiechinus auritus
+0.0018	9	0	18	1.06	0.001565	9364	genus	                                                    Erinaceus
+0.0018	9	9	18	1.06	0.001565	9365	species	                                                      Erinaceus europaeus
+0.0022	11	0	46	1.89	0.00117	9366	subfamily	                                                  Galericinae
+0.0012	6	0	26	1	0.002657	483535	genus	                                                    Neohylomys
+0.0012	6	6	26	1	0.002657	483536	species	                                                      Neohylomys hainanensis
+0.0004001	2	0	10	5.1	0.00104	977877	genus	                                                    Neotetracus
+0.0004001	2	2	10	5.1	0.00104	977878	species	                                                      Neotetracus sinensis
+0.0004001	2	0	2	1	0.0002032	162629	genus	                                                    Echinosorex
+0.0004001	2	2	2	1	0.0002032	162630	species	                                                      Echinosorex gymnura
+0.0002	1	0	6	1	0.0006277	48896	genus	                                                    Hylomys
+0.0002	1	1	6	1	0.0006277	48897	species	                                                      Hylomys suillus
+0.004201	21	0	74	2.74	0.0008731	9787	order	                                              Perissodactyla
+0.0022	11	1	56	2.61	0.001578	9803	family	                                                Rhinocerotidae
+0.0008002	4	0	20	1.25	0.00174	9808	genus	                                                  Rhinoceros
+0.0006001	3	3	4	1	0.0007747	9809	species	                                                    Rhinoceros unicornis
+0.0002	1	1	12	1.42	0.002175	102233	species	                                                    Rhinoceros sondaicus
+0.0008002	4	0	11	1.27	0.002192	9804	genus	                                                  Diceros
+0.0008002	4	4	11	1.27	0.002192	9805	species	                                                    Diceros bicornis
+0.0002	1	0	9	9.78	0.00156	89631	genus	                                                  Dicerorhinus
+0.0002	1	1	9	9.78	0.00156	89632	species	                                                    Dicerorhinus sumatrensis
+0.0002	1	0	9	1.22	0.001706	9806	genus	                                                  Ceratotherium
+0.0002	1	1	9	1.22	0.001706	9807	species	                                                    Ceratotherium simum
+0.0014	7	0	7	6.57	0.0002018	9788	family	                                                Equidae
+0.0014	7	3	7	6.57	0.0002018	9789	genus	                                                  Equus
+0.0008002	4	4	1	38	0.0004318	9794	species	                                                    Equus hemionus
+0.0006001	3	0	11	1	0.0008166	9799	family	                                                Tapiridae
+0.0006001	3	1	11	1	0.0008166	9800	genus	                                                  Tapirus
+0.0002	1	1	7	1	0.001233	9802	species	                                                    Tapirus indicus
+0.0002	1	1	1	1	0.000757	9801	species	                                                    Tapirus terrestris
+0.003601	18	0	48	1.06	0.0007433	9971	order	                                              Pholidota
+0.003601	18	1	48	1.06	0.0007433	9972	family	                                                Manidae
+0.0018	9	5	16	1	0.0005422	9973	genus	                                                  Manis
+0.0004001	2	2	5	1	0.0007132	1496684	species	                                                    Manis crassicaudata
+0.0002	1	0	2	1	0.0002422	143292	species	                                                    Manis pentadactyla
+0.0002	1	1	2	1	0.0002769	749565	subspecies	                                                      Manis pentadactyla pentadactyla
+0.0002	1	1	1	1	0.001167	9974	species	                                                    Manis javanica
+0.0014	7	0	17	1.18	0.0009849	2736677	genus	                                                  Smutsia
+0.0012	6	6	11	1.27	0.001278	302418	species	                                                    Smutsia temminckii
+0.0002	1	1	6	1	0.0007531	1559511	species	                                                    Smutsia gigantea
+0.0002	1	0	2	1	0.0001193	2736678	genus	                                                  Phataginus
+0.0002	1	1	2	1	0.0002713	358128	species	                                                    Phataginus tricuspis
+0.2999	1499	28	9771	1.67	0.002254	314146	superorder	                                            Euarchontoglires
+0.1786	893	4	7642	1.57	0.005103	9443	order	                                              Primates
+0.1646	823	0	7287	1.59	0.007278	376913	suborder	                                                Haplorrhini
+0.1632	816	2	7270	1.59	0.007528	314293	infraorder	                                                  Simiiformes
+0.1058	529	17	6579	1.48	0.01193	9526	parvorder	                                                    Catarrhini
+0.08942	447	12	5809	1.48	0.05082	314295	superfamily	                                                      Hominoidea
+0.08542	427	10	5420	1.48	0.09317	9604	family	                                                        Hominidae
+0.08322	416	40	5231	1.46	0.1288	207598	subfamily	                                                          Homininae
+0.07401	370	152	3979	1.5	0.3118	9605	genus	                                                            Homo
+0.04361	218	112	1653	1.5	0.249	9606	species	                                                              Homo sapiens
+0.0202	101	101	613	1.55	0.4354	63221	subspecies	                                                                Homo sapiens neanderthalensis
+0.001	5	5	14	1.64	0.007007	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+0.0008002	4	0	20	1	0.00171	9596	genus	                                                            Pan
+0.0006001	3	3	17	1	0.003517	9598	species	                                                              Pan troglodytes
+0.0002	1	1	3	1	0.0006434	9597	species	                                                              Pan paniscus
+0.0004001	2	1	8	1.38	0.0006299	9592	genus	                                                            Gorilla
+0.0002	1	1	3	2	0.0005401	9593	species	                                                              Gorilla gorilla
+0.0002	1	0	5	1.2	0.0003005	607660	subfamily	                                                          Ponginae
+0.0002	1	0	5	1.2	0.0003005	9599	genus	                                                            Pongo
+0.0002	1	1	4	1	0.0005581	9600	species	                                                              Pongo pygmaeus
+0.0016	8	1	18	1.33	0.0003331	9577	family	                                                        Hylobatidae
+0.0006001	3	0	2	3	0.0003498	325166	genus	                                                          Symphalangus
+0.0006001	3	3	2	3	0.0003498	9590	species	                                                            Symphalangus syndactylus
+0.0004001	2	0	6	1.17	0.000319	9578	genus	                                                          Hylobates
+0.0004001	2	2	2	1.5	0.0003586	9579	species	                                                            Hylobates agilis
+0.0002	1	0	5	1	0.0004336	325167	genus	                                                          Hoolock
+0.0002	1	1	4	1	0.00133	61851	species	                                                            Hoolock hoolock
+0.0002	1	1	3	1.33	0.0002572	325165	genus	                                                          Nomascus
+0.013	65	0	219	1.18	0.000509	314294	superfamily	                                                      Cercopithecoidea
+0.013	65	3	219	1.18	0.000509	9527	family	                                                        Cercopithecidae
+0.007401	37	12	127	1.19	0.0005067	9528	subfamily	                                                          Cercopithecinae
+0.0012	6	2	41	1	0.0004913	9539	genus	                                                            Macaca
+0.0002	1	1	6	1	0.00396	9545	species	                                                              Macaca nemestrina
+0.0002	1	1	4	1	0.0008743	9540	species	                                                              Macaca arctoides
+0.0002	1	1	2	1	0.0003187	9546	species	                                                              Macaca sylvanus
+0.0002	1	1	1	1	0.0002323	9541	species	                                                              Macaca fascicularis
+0.0012	6	2	15	1.53	0.0006664	9554	genus	                                                            Papio
+0.0004001	2	2	10	1.8	0.00315	208091	species	                                                              Papio kindae
+0.0004001	2	2	2	1	0.003623	9555	species	                                                              Papio anubis
+0.0006001	3	0	5	1	0.0001757	9533	genus	                                                            Cercopithecus
+0.0004001	2	2	4	1	0.000656	867370	species	                                                              Cercopithecus albogularis
+0.0002	1	1	1	1	0.0001374	36224	species	                                                              Cercopithecus diana
+0.0004001	2	1	7	1.43	0.000255	392815	genus	                                                            Chlorocebus
+0.0002	1	1	2	1.5	0.0005006	1284215	species	                                                              Chlorocebus djamdjamensis
+0.0004001	2	0	7	1.29	0.00094	75565	genus	                                                            Lophocebus
+0.0004001	2	2	7	1.29	0.00094	75566	species	                                                              Lophocebus aterrimus
+0.0004001	2	0	2	1	0.0003031	2059839	genus	                                                            Allochrocebus
+0.0004001	2	2	2	1	0.0003031	100224	species	                                                              Allochrocebus lhoesti
+0.0002	1	0	10	1.5	0.001222	9537	genus	                                                            Erythrocebus
+0.0002	1	1	10	1.5	0.001222	9538	species	                                                              Erythrocebus patas
+0.0002	1	0	5	1	0.0006544	54134	genus	                                                            Allenopithecus
+0.0002	1	1	5	1	0.0006544	54135	species	                                                              Allenopithecus nigroviridis
+0.0002	1	0	4	1	0.0002443	9529	genus	                                                            Cercocebus
+0.0002	1	1	1	1	0.0002165	75569	species	                                                              Cercocebus chrysogaster
+0.0002	1	0	3	1	0.0003096	9567	genus	                                                            Mandrillus
+0.0002	1	1	3	1	0.0006481	9568	species	                                                              Mandrillus leucophaeus
+0.005001	25	2	80	1.12	0.0004754	9569	subfamily	                                                          Colobinae
+0.003001	15	5	28	1.04	0.0004681	54136	genus	                                                            Trachypithecus
+0.0004001	2	2	3	1	0.002242	164651	species	                                                              Trachypithecus pileatus
+0.0004001	2	2	3	1	0.0009461	61618	species	                                                              Trachypithecus phayrei
+0.0004001	2	2	1	2	0.0001567	54137	species	                                                              Trachypithecus vetulus
+0.0002	1	1	3	1	0.001029	1966384	species	                                                              Trachypithecus mauritius
+0.0002	1	1	3	1	0.0005532	66063	species	                                                              Trachypithecus johnii
+0.0002	1	1	2	1	0.0008003	465719	species	                                                              Trachypithecus poliocephalus
+0.0002	1	1	1	1	0.0007402	465718	species	                                                              Trachypithecus laotum
+0.0008002	4	0	9	1	0.001179	9573	genus	                                                            Presbytis
+0.0008002	4	4	9	1	0.001179	78451	species	                                                              Presbytis melalophos
+0.0006001	3	2	9	1.33	0.0003756	542827	genus	                                                            Rhinopithecus
+0.0002	1	1	1	1	0.0002554	61622	species	                                                              Rhinopithecus roxellana
+0.0002	1	0	1	1	0.0001903	1203020	genus	                                                            Simias
+0.0002	1	1	1	1	0.0001903	170207	species	                                                              Simias concolor
+0.05701	285	3	325	4.4	0.0008	9479	parvorder	                                                    Platyrrhini
+0.05061	253	0	192	6.41	0.001069	9498	family	                                                      Cebidae
+0.04941	247	1	174	6.97	0.001349	9480	subfamily	                                                        Callitrichinae
+0.04701	235	0	132	8.85	0.009538	30587	genus	                                                          Leontopithecus
+0.04601	230	230	115	9.94	0.02158	30588	species	                                                            Leontopithecus rosalia
+0.001	5	5	16	1.5	0.003474	58710	species	                                                            Leontopithecus chrysopygus
+0.0012	6	2	22	1	0.0005149	9486	genus	                                                          Saguinus
+0.0002	1	1	3	1	0.0007022	9488	species	                                                            Saguinus mystax
+0.0002	1	1	3	1	0.0008451	43778	species	                                                            Saguinus geoffroyi
+0.0002	1	0	3	1	0.0007465	78454	species	                                                            Saguinus labiatus
+0.0002	1	1	3	1	0.0007465	2918764	subspecies	                                                              Saguinus labiatus rufiventer
+0.0002	1	1	1	1	0.0002188	1079039	species	                                                            Saguinus inustus
+0.0006001	3	0	7	1	0.0008964	9494	genus	                                                          Callimico
+0.0006001	3	3	7	1	0.0008964	9495	species	                                                            Callimico goeldii
+0.0004001	2	1	3	1	0.0001941	2681187	genus	                                                          Leontocebus
+0.0002	1	0	2	1	0.0002499	9487	species	                                                            Leontocebus fuscicollis
+0.0002	1	1	2	1	0.000421	343424	subspecies	                                                              Leontocebus fuscicollis weddelli
+0.0012	6	0	12	1.08	0.000447	38070	subfamily	                                                        Cebinae
+0.0008002	4	2	5	1	0.0004115	9513	genus	                                                          Cebus
+0.0002	1	1	2	1	0.0004615	1985288	species	                                                            Cebus unicolor
+0.0002	1	1	1	1	0.002294	9514	species	                                                            Cebus albifrons
+0.0004001	2	2	7	1.14	0.0005452	1532884	genus	                                                          Sapajus
+0.003401	17	0	49	2.12	0.0004252	376919	family	                                                      Pitheciidae
+0.0018	9	1	30	1.3	0.0005615	38039	subfamily	                                                        Pitheciinae
+0.001	5	5	15	1.47	0.001105	30597	genus	                                                          Pithecia
+0.0004001	2	0	5	1.4	0.000315	9524	genus	                                                          Chiropotes
+0.0004001	2	2	5	1.4	0.0007962	198627	species	                                                            Chiropotes albinasus
+0.0002	1	0	7	1	0.0003285	30595	genus	                                                          Cacajao
+0.0002	1	1	3	1	0.0003092	30596	species	                                                            Cacajao calvus
+0.0016	8	1	19	3.42	0.0003129	38069	subfamily	                                                        Callicebinae
+0.0008002	4	2	10	5.6	0.0002479	1812035	genus	                                                          Plecturocebus
+0.0002	1	1	2	1	0.0009615	1812036	species	                                                            Plecturocebus bernhardi
+0.0002	1	1	2	1	0.0003178	230833	species	                                                            Plecturocebus donacophilus
+0.0006001	3	1	8	1	0.0004234	1812102	genus	                                                          Cheracebus
+0.0002	1	1	3	1	0.0007335	210166	species	                                                            Cheracebus lugens
+0.0002	1	1	2	1	0.0005648	2487712	species	                                                            Cheracebus lucifer
+0.0012	6	0	52	1.12	0.0007689	378855	family	                                                      Atelidae
+0.0008002	4	0	40	1.12	0.00103	38066	subfamily	                                                        Alouattinae
+0.0008002	4	1	40	1.12	0.00103	9499	genus	                                                          Alouatta
+0.0004001	2	2	10	1.5	0.002753	9502	species	                                                            Alouatta caraya
+0.0002	1	0	5	1	0.001261	9503	species	                                                            Alouatta seniculus
+0.0002	1	1	5	1	0.001505	1347729	subspecies	                                                              Alouatta seniculus puruensis
+0.0004001	2	0	12	1.08	0.0004355	38068	subfamily	                                                        Atelinae
+0.0004001	2	1	12	1.08	0.0006081	9506	genus	                                                          Ateles
+0.0002	1	1	3	1.33	0.0007426	9510	species	                                                            Ateles paniscus
+0.0012	6	0	12	1.5	0.0005091	376918	family	                                                      Aotidae
+0.0012	6	1	12	1.5	0.0005091	9504	genus	                                                        Aotus
+0.0006001	3	3	3	1.33	0.0006104	30591	species	                                                          Aotus azarai
+0.0004001	2	2	4	2	0.0009335	43147	species	                                                          Aotus lemurinus
+0.0014	7	0	29	1	0.0008251	376912	infraorder	                                                  Tarsiiformes
+0.0014	7	0	29	1	0.0008251	9475	family	                                                    Tarsiidae
+0.0008002	4	1	8	1	0.0004631	9476	genus	                                                      Tarsius
+0.0004001	2	2	3	1	0.0007831	630277	species	                                                        Tarsius lariang
+0.0002	1	1	1	1	0.0002657	449501	species	                                                        Tarsius dentatus
+0.0004001	2	0	19	1	0.002276	1971489	genus	                                                      Cephalopachus
+0.0004001	2	2	19	1	0.002276	9477	species	                                                        Cephalopachus bancanus
+0.0002	1	0	1	1	0.0001108	1868481	genus	                                                      Carlito
+0.0002	1	1	1	1	0.0001108	1868482	species	                                                        Carlito syrichta
+0.0132	66	0	282	1.11	0.0005773	376911	suborder	                                                Strepsirrhini
+0.0116	58	3	246	1.13	0.0005936	376915	infraorder	                                                  Lemuriformes
+0.003201	16	0	86	1.17	0.0005442	30615	family	                                                    Cheirogaleidae
+0.0016	8	3	52	1.23	0.0006071	13149	genus	                                                      Microcebus
+0.0006001	3	3	12	1.42	0.001963	143354	species	                                                        Microcebus griseorufus
+0.0002	1	1	12	1	0.003577	1310123	species	                                                        Microcebus tanosi
+0.0002	1	1	5	1	0.001803	143283	species	                                                        Microcebus myoxinus
+0.001	5	0	14	1	0.0004705	9459	genus	                                                      Cheirogaleus
+0.0004001	2	2	5	1	0.0006808	752538	species	                                                        Cheirogaleus sibreei
+0.0002	1	1	6	1	0.0008789	47177	species	                                                        Cheirogaleus major
+0.0002	1	1	2	1	0.000275	9460	species	                                                        Cheirogaleus medius
+0.0002	1	1	1	1	0.0001477	291259	species	                                                        Cheirogaleus crossleyi
+0.0004001	2	1	8	1.38	0.0006428	83691	genus	                                                      Mirza
+0.0002	1	1	1	1	0.0002355	339999	species	                                                        Mirza zaza
+0.0002	1	0	5	1	0.0005976	122247	genus	                                                      Allocebus
+0.0002	1	1	5	1	0.0005976	3043103	species	                                                        Allocebus trichotus
+0.003201	16	0	56	1.14	0.0004098	30614	family	                                                    Lepilemuridae
+0.003001	15	7	47	1.17	0.0003686	9452	genus	                                                      Lepilemur
+0.0006001	3	3	3	2	0.0005179	185457	species	                                                        Lepilemur microdon
+0.0002	1	1	4	1	0.0006865	78584	species	                                                        Lepilemur septentrionalis
+0.0002	1	1	1	1	0.0004399	886964	species	                                                        Lepilemur petteri
+0.0002	1	1	1	1	0.0002258	886959	species	                                                        Lepilemur fleuretae
+0.0002	1	1	1	1	0.0002304	886965	species	                                                        Lepilemur randrianasoloi
+0.0002	1	1	1	1	0.0004653	886967	species	                                                        Lepilemur tymerlachsoni
+0.0002	1	0	9	1	0.001	126593	genus	                                                      Megaladapis
+0.0002	1	1	9	1	0.001	185953	species	                                                        Megaladapis edwardsi
+0.003001	15	0	61	1.11	0.001092	9445	family	                                                    Lemuridae
+0.0016	8	3	36	1.14	0.001293	13513	genus	                                                      Eulemur
+0.0006001	3	3	4	1	0.0008273	34828	species	                                                        Eulemur mongoz
+0.0004001	2	2	7	1.71	0.001476	34829	species	                                                        Eulemur rubriventer
+0.0006001	3	0	16	1	0.002061	13556	genus	                                                      Hapalemur
+0.0006001	3	3	16	1	0.002061	13557	species	                                                        Hapalemur griseus
+0.0004001	2	0	6	1	0.0005454	9454	genus	                                                      Varecia
+0.0004001	2	2	6	1	0.0005454	9455	species	                                                        Varecia variegata
+0.0004001	2	0	3	1.67	0.0003993	1328069	genus	                                                      Prolemur
+0.0004001	2	2	3	1.67	0.0003993	1328070	species	                                                        Prolemur simus
+0.0014	7	0	27	1	0.0005963	30599	family	                                                    Indriidae
+0.0006001	3	1	14	1	0.000536	30600	genus	                                                      Propithecus
+0.0004001	2	2	9	1	0.003331	543559	species	                                                        Propithecus edwardsi
+0.0006001	3	0	10	1	0.001133	34826	genus	                                                      Indri
+0.0006001	3	3	10	1	0.001133	34827	species	                                                        Indri indri
+0.0002	1	0	3	1	0.000315	122245	genus	                                                      Avahi
+0.0002	1	1	3	1	0.000315	122246	species	                                                        Avahi laniger
+0.0002	1	0	2	1	0.0002332	1513476	family	                                                    Palaeopropithecidae
+0.0002	1	0	2	1	0.0002332	322024	genus	                                                      Palaeopropithecus
+0.0002	1	1	2	1	0.0002332	1513477	species	                                                        Palaeopropithecus ingens
+0.0014	7	1	35	1.03	0.000555	376917	infraorder	                                                  Lorisiformes
+0.0008002	4	0	30	1.03	0.000709	9461	family	                                                    Lorisidae
+0.0004001	2	0	10	1	0.001104	9471	genus	                                                      Perodicticus
+0.0004001	2	2	10	1	0.001104	9472	species	                                                        Perodicticus potto
+0.0004001	2	2	10	1	0.0008978	9469	genus	                                                      Nycticebus
+0.0004001	2	0	4	1	0.0001986	40297	family	                                                    Galagidae
+0.0004001	2	1	4	1	0.0003599	9462	genus	                                                      Galago
+0.0002	1	1	1	1	0.0004427	30609	species	                                                        Galago moholi
+0.0002	1	0	1	1	0.0001049	376916	infraorder	                                                  Chiromyiformes
+0.0002	1	0	1	1	0.0001049	30613	family	                                                    Daubentoniidae
+0.0002	1	0	1	1	0.0001049	13038	genus	                                                      Daubentonia
+0.0002	1	1	1	1	0.0001049	31869	species	                                                        Daubentonia madagascariensis
+0.1152	576	5	1569	2.25	0.0005833	314147	clade	                                              Glires
+0.09862	493	13	1456	1.88	0.0005785	9989	order	                                                Rodentia
+0.06021	301	1	752	2.26	0.0004938	1963758	suborder	                                                  Myomorpha
+0.05561	278	7	694	2.24	0.0004837	337687	clade	                                                    Muroidea
+0.03681	184	0	386	2.83	0.0005036	10066	family	                                                      Muridae
+0.02601	130	13	346	1.75	0.0005009	39107	subfamily	                                                        Murinae
+0.004601	23	1	42	6.1	0.0005592	10114	genus	                                                          Rattus
+0.002	10	10	6	34.8	0.001765	10115	species	                                                            Rattus leucopus
+0.0008002	4	4	11	1.09	0.001921	10116	species	                                                            Rattus norvegicus
+0.0006001	3	3	8	1	0.002119	2739836	species	                                                            Rattus hoogerwerfi
+0.0006001	3	3	4	1	0.0011	2739837	species	                                                            Rattus korinchi
+0.0002	1	1	5	3	0.001548	472760	species	                                                            Rattus lutreolus
+0.0002	1	1	1	1	0.0004011	10117	species	                                                            Rattus rattus
+0.003001	15	0	36	1.03	0.0005318	10088	genus	                                                          Mus
+0.0024	12	1	31	1.03	0.000653	862507	subgenus	                                                            Mus
+0.0006001	3	3	8	1.12	0.001317	10089	species	                                                              Mus caroli
+0.0006001	3	3	8	1	0.001587	254704	species	                                                              Mus terricolor
+0.0006001	3	3	4	1	0.0008425	10096	species	                                                              Mus spretus
+0.0002	1	1	5	1	0.0009208	186193	species	                                                              Mus fragilicauda
+0.0002	1	1	1	1	0.0001081	10090	species	                                                              Mus musculus
+0.0006001	3	0	4	1	0.0003105	862510	subgenus	                                                            Nannomys
+0.0004001	2	2	3	1	0.0005033	544437	species	                                                              Mus baoulei
+0.0002	1	1	1	1	0.0001502	10105	species	                                                              Mus minutoides
+0.0016	8	0	17	1.41	0.0004569	10128	genus	                                                          Apodemus
+0.0008002	4	0	8	1.12	0.001245	400053	species group	                                                            Sylvaemus group
+0.0008002	4	4	8	1.12	0.001245	10129	species	                                                              Apodemus sylvaticus
+0.0006001	3	3	3	2	0.0004977	105297	species	                                                            Apodemus peninsulae
+0.0002	1	1	3	2	0.0005464	214933	species	                                                            Apodemus latronum
+0.0012	6	0	8	1	0.0006742	54110	genus	                                                          Lemniscomys
+0.0008002	4	4	6	1	0.001034	121566	species	                                                            Lemniscomys rosalia
+0.0004001	2	2	2	1	0.0003364	54111	species	                                                            Lemniscomys barbarus
+0.001	5	0	16	1	0.0005526	30639	genus	                                                          Mastomys
+0.0002	1	1	5	1	0.001046	10112	species	                                                            Mastomys natalensis
+0.0002	1	1	3	1	0.0005283	2819595	species	                                                            Mastomys angolensis
+0.0002	1	1	3	1	0.0004589	485425	species	                                                            Mastomys kollmannspergeri
+0.0002	1	1	3	1	0.0006209	35658	species	                                                            Mastomys coucha
+0.0002	1	1	2	1	0.0004003	41268	species	                                                            Mastomys erythroleucus
+0.001	5	0	6	1.5	0.0003553	69080	genus	                                                          Maxomys
+0.0006001	3	3	3	1.33	0.0005587	907927	species	                                                            Maxomys ochraceiventer
+0.0004001	2	2	3	1.67	0.0005422	69127	species	                                                            Maxomys whiteheadi
+0.0008002	4	0	14	1.07	0.002177	472706	genus	                                                          Micaelamys
+0.0008002	4	4	14	1.07	0.002177	472707	species	                                                            Micaelamys namaquensis
+0.0008002	4	0	9	1.44	0.001408	337229	genus	                                                          Zyzomys
+0.0008002	4	4	9	1.44	0.001408	337230	species	                                                            Zyzomys argurus
+0.0008002	4	0	3	2	0.0006881	1405176	genus	                                                          Halmaheramys
+0.0008002	4	4	3	2	0.0006881	1405177	species	                                                            Halmaheramys bokimekot
+0.0006001	3	0	12	1.33	0.002113	408720	genus	                                                          Thamnomys
+0.0006001	3	3	12	1.33	0.002113	1890067	species	                                                            Thamnomys kempi
+0.0006001	3	0	12	1	0.0006767	71161	genus	                                                          Hybomys
+0.0002	1	1	6	1	0.001029	71162	species	                                                            Hybomys univittatus
+0.0002	1	1	4	1	0.000672	2107262	species	                                                            Hybomys planifrons
+0.0002	1	1	2	1	0.0003486	2107264	species	                                                            Hybomys trivirgatus
+0.0006001	3	0	9	1.11	0.0004279	121588	genus	                                                          Grammomys
+0.0004001	2	2	1	2	0.0001555	491861	species	                                                            Grammomys surdaster
+0.0002	1	1	8	1	0.001104	2781600	species	                                                            Grammomys selousi
+0.0006001	3	0	9	1	0.001499	2021986	genus	                                                          Lenothrix
+0.0006001	3	3	9	1	0.001499	2021987	species	                                                            Lenothrix canus
+0.0006001	3	0	9	1	0.0007643	61153	genus	                                                          Arvicanthis
+0.0004001	2	2	5	1	0.000827	61157	species	                                                            Arvicanthis somalicus
+0.0002	1	1	4	1	0.0007168	2592601	species	                                                            Arvicanthis rufinus
+0.0006001	3	0	5	1.4	0.0009043	83758	genus	                                                          Berylmys
+0.0006001	3	3	5	1.4	0.0009043	595394	species	                                                            Berylmys berdmorei
+0.0006001	3	1	4	1	0.000141	34857	genus	                                                          Hylomyscus
+0.0002	1	1	2	1	0.0003587	337582	species	                                                            Hylomyscus aeta
+0.0002	1	1	1	1	0.0001962	209855	species	                                                            Hylomyscus parvus
+0.0006001	3	0	3	1	0.0001522	89456	genus	                                                          Stenocephalemys
+0.0002	1	1	1	1	0.0006515	2776654	species	                                                            Stenocephalemys ruppi
+0.0002	1	1	1	1	0.0005482	485440	species	                                                            Stenocephalemys albipes
+0.0002	1	1	1	1	0.0003727	89458	species	                                                            Stenocephalemys albocaudata
+0.0004001	2	0	9	1	0.0003054	10111	genus	                                                          Praomys
+0.0002	1	1	2	1	0.0004382	209864	species	                                                            Praomys hartwigi
+0.0002	1	1	1	1	0.0002478	666515	species	                                                            Praomys minor
+0.0004001	2	0	6	1	0.0009748	2912599	genus	                                                          Serengetimys
+0.0004001	2	2	6	1	0.0009748	2912600	species	                                                            Serengetimys pernanus
+0.0004001	2	0	2	2.5	0.0001783	13150	genus	                                                          Micromys
+0.0004001	2	2	2	2.5	0.0004912	13151	species	                                                            Micromys minutus
+0.0004001	2	1	3	1	0.0001026	69082	genus	                                                          Niviventer
+0.0002	1	1	2	1	0.0003571	69083	species	                                                            Niviventer cremoriventer
+0.0004001	2	0	2	1	0.0003909	485436	genus	                                                          Myomyscus
+0.0004001	2	2	2	1	0.0003909	485438	species	                                                            Myomyscus verreauxii
+0.0002	1	0	9	1	0.001607	36795	genus	                                                          Melomys
+0.0002	1	1	9	1	0.001607	36796	species	                                                            Melomys burtoni
+0.0002	1	0	6	1.33	0.0005158	41266	genus	                                                          Leopoldamys
+0.0002	1	1	4	1	0.0007297	69073	species	                                                            Leopoldamys sabanus
+0.0002	1	0	8	1	0.001283	121580	genus	                                                          Mylomys
+0.0002	1	1	8	1	0.001283	121581	species	                                                            Mylomys dybowskii
+0.0002	1	0	5	1	0.0008835	209870	genus	                                                          Heimyscus
+0.0002	1	1	5	1	0.0008835	209871	species	                                                            Heimyscus fumosus
+0.0002	1	0	2	1	0.000327	1261105	genus	                                                          Lamottemys
+0.0002	1	1	2	1	0.000327	1261106	species	                                                            Lamottemys okuensis
+0.0002	1	0	2	1	0.0003353	71172	genus	                                                          Dasymys
+0.0002	1	1	2	1	0.0003353	71173	species	                                                            Dasymys incomtus
+0.0002	1	0	1	1	0.0002023	472708	genus	                                                          Bunomys
+0.0002	1	1	1	1	0.0002023	1330375	species	                                                            Bunomys penitus
+0.0002	1	0	1	1	0.0002019	209872	genus	                                                          Zelotomys
+0.0002	1	1	1	1	0.0002019	209873	species	                                                            Zelotomys hildegardeae
+0.0002	1	0	1	1	0.000164	121586	genus	                                                          Desmomys
+0.0002	1	1	1	1	0.000164	121587	species	                                                            Desmomys harringtoni
+0.0104	52	1	28	17	0.0004974	10045	subfamily	                                                        Gerbillinae
+0.009802	49	5	14	22.5	0.0003812	10046	genus	                                                          Meriones
+0.008602	43	43	4	13.5	0.0004453	10047	species	                                                            Meriones unguiculatus
+0.0002	1	1	3	1	0.0003528	298886	species	                                                            Meriones libycus
+0.0002	1	0	8	1	0.0008422	410297	genus	                                                          Gerbilliscus
+0.0002	1	1	8	1	0.0008422	410302	species	                                                            Gerbilliscus leucogaster
+0.0002	1	0	3	1.33	0.0003405	48138	genus	                                                          Psammomys
+0.0002	1	1	3	1.33	0.0003405	48139	species	                                                            Psammomys obesus
+0.0004001	2	0	7	1	0.0004418	326408	subfamily	                                                        Deomyinae
+0.0004001	2	1	7	1	0.0004418	10067	genus	                                                          Acomys
+0.0002	1	1	3	1	0.0004181	10068	species	                                                            Acomys cahirinus
+0.0132	66	1	212	1.4	0.0004193	337677	family	                                                      Cricetidae
+0.004401	22	1	100	1.16	0.0004329	39087	subfamily	                                                        Arvicolinae
+0.0012	6	1	24	1.12	0.0003177	10053	genus	                                                          Microtus
+0.0004001	2	2	5	1.2	0.0009283	10055	species	                                                            Microtus chrotorrhinus
+0.0002	1	1	4	1	0.0007082	100899	species	                                                            Microtus kikuchii
+0.0002	1	1	1	1	0.0001399	70284	species	                                                            Microtus cabrerae
+0.0002	1	1	1	1	0.0001796	79202	species	                                                            Microtus montebelli
+0.0008002	4	0	13	1.54	0.001063	269648	genus	                                                          Chionomys
+0.0006001	3	3	9	1.78	0.001484	269650	species	                                                            Chionomys roberti
+0.0002	1	1	4	1	0.0006757	269649	species	                                                            Chionomys nivalis
+0.0006001	3	0	5	1.4	0.0003302	399233	genus	                                                          Lasiopodomys
+0.0004001	2	2	2	2	0.0002739	407171	species	                                                            Lasiopodomys brandtii
+0.0002	1	1	3	1	0.0004068	399234	species	                                                            Lasiopodomys mandarinus
+0.0004001	2	0	5	1	0.0008068	575524	genus	                                                          Proedromys
+0.0004001	2	2	5	1	0.0008068	575527	species	                                                            Proedromys liangshanensis
+0.0004001	2	0	3	1	0.0004007	39083	genus	                                                          Ellobius
+0.0004001	2	2	3	1	0.0004007	329620	species	                                                            Ellobius talpinus
+0.0002	1	0	18	1.11	0.002618	10059	genus	                                                          Ondatra
+0.0002	1	1	18	1.11	0.002618	10060	species	                                                            Ondatra zibethicus
+0.0002	1	0	10	1	0.001237	399231	genus	                                                          Prometheomys
+0.0002	1	1	10	1	0.001237	2678872	species	                                                            Prometheomys schaposchnikovi
+0.0002	1	0	4	1.25	0.0002224	465452	genus	                                                          Neodon
+0.0002	1	1	2	1.5	0.000283	771787	species	                                                            Neodon fuscus
+0.0002	1	0	3	1.33	0.0001962	447134	genus	                                                          Myodes
+0.0002	1	1	1	2	0.0002465	82464	species	                                                            Myodes regulus
+0.004401	22	1	62	1.05	0.0004628	337963	subfamily	                                                        Neotominae
+0.0018	9	0	16	1.06	0.0002827	10040	genus	                                                          Peromyscus
+0.0006001	3	3	2	1.5	0.0005288	97213	species	                                                            Peromyscus pectoralis
+0.0004001	2	2	4	1	0.0006946	246392	species	                                                            Peromyscus melanophrys
+0.0002	1	1	2	1	0.0003109	144753	species	                                                            Peromyscus crinitus
+0.0002	1	1	1	1	0.0001641	57100	species	                                                            Peromyscus aztecus
+0.0002	1	1	1	1	0.0001835	97206	species	                                                            Peromyscus attwateri
+0.0002	1	1	1	1	0.0002278	42413	species	                                                            Peromyscus polionotus
+0.0008002	4	0	7	1	0.000588	56318	genus	                                                          Habromys
+0.0004001	2	2	5	1	0.0008685	397749	species	                                                            Habromys ixtlani
+0.0004001	2	2	2	1	0.0003479	56319	species	                                                            Habromys lophurus
+0.0006001	3	1	19	1	0.0007338	42407	genus	                                                          Neotoma
+0.0004001	2	2	7	1	0.001222	105199	species	                                                            Neotoma fuscipes
+0.0004001	2	0	5	1.4	0.000778	56322	genus	                                                          Podomys
+0.0004001	2	2	5	1.4	0.000778	56323	species	                                                            Podomys floridanus
+0.0004001	2	0	3	1	0.0004555	38667	genus	                                                          Onychomys
+0.0004001	2	2	3	1	0.0004555	38668	species	                                                            Onychomys leucogaster
+0.0002	1	0	4	1	0.0005774	44233	genus	                                                          Reithrodontomys
+0.0002	1	1	4	1	0.0005774	89150	species	                                                            Reithrodontomys mexicanus
+0.0022	11	0	21	1.33	0.0004542	40141	subfamily	                                                        Sigmodontinae
+0.0014	7	0	7	1.57	0.0007431	89129	genus	                                                          Wiedomys
+0.0014	7	7	7	1.57	0.0007431	1353928	species	                                                            Wiedomys cerradensis
+0.0004001	2	0	7	1.43	0.000743	10069	genus	                                                          Akodon
+0.0004001	2	2	7	1.43	0.000743	106112	species	                                                            Akodon montensis
+0.0002	1	0	2	1	0.0002226	42414	genus	                                                          Sigmodon
+0.0002	1	1	2	1	0.0002226	42415	species	                                                            Sigmodon hispidus
+0.0002	1	0	1	1	0.0001104	29120	genus	                                                          Oligoryzomys
+0.0002	1	1	1	1	0.0001104	218826	species	                                                            Oligoryzomys stramineus
+0.002	10	0	19	4.11	0.0002273	10026	subfamily	                                                        Cricetinae
+0.0016	8	0	16	4.69	0.0003906	10028	genus	                                                          Cricetulus
+0.0008002	4	4	6	1.17	0.0007799	1515608	species	                                                            Cricetulus kamensis
+0.0004001	2	2	4	15.5	0.0006556	329637	species	                                                            Cricetulus sokolovi
+0.0002	1	1	5	1	0.0006647	10030	species	                                                            Cricetulus longicaudatus
+0.0002	1	1	1	1	0.0001205	10032	species	                                                            Cricetulus migratorius
+0.0002	1	0	2	1	0.0002088	329626	genus	                                                          Tscherskia
+0.0002	1	1	2	1	0.0002088	329627	species	                                                            Tscherskia triton
+0.0002	1	0	1	1	6.611e-05	10043	genus	                                                          Phodopus
+0.0002	1	1	1	1	0.0001314	109678	species	                                                            Phodopus roborovskii
+0.004001	20	0	52	1.27	0.0004589	337664	family	                                                      Spalacidae
+0.0024	12	0	33	1.39	0.0008616	53273	subfamily	                                                        Rhizomyinae
+0.0018	9	0	24	1.54	0.0008608	53274	genus	                                                          Rhizomys
+0.0016	8	8	13	1.62	0.001518	53275	species	                                                            Rhizomys pruinosus
+0.0002	1	1	1	1	0.0001197	2055140	species	                                                            Rhizomys sumatrensis
+0.0006001	3	0	9	1	0.000897	49444	genus	                                                          Tachyoryctes
+0.0006001	3	3	9	1	0.000897	2170709	species	                                                            Tachyoryctes macrocephalus
+0.001	5	0	8	1.12	0.0001497	106348	subfamily	                                                        Myospalacinae
+0.001	5	0	6	1.17	0.0001629	146131	genus	                                                          Eospalax
+0.0004001	2	1	3	1.33	0.0002061	146134	species	                                                            Eospalax fontanierii
+0.0002	1	1	1	1	0.0004577	146133	subspecies	                                                              Eospalax fontanierii cansus
+0.0004001	2	2	2	1	0.0003489	444095	species	                                                            Eospalax smithii
+0.0002	1	1	1	1	0.0001532	146137	species	                                                            Eospalax rufescens
+0.0006001	3	0	11	1	0.0005228	10061	subfamily	                                                        Spalacinae
+0.0006001	3	2	10	1	0.0008333	30636	genus	                                                          Nannospalax
+0.0002	1	1	1	1	0.0003435	191382	species	                                                            Nannospalax golani
+0.0002	1	0	3	1	0.0003605	687453	family	                                                      Platacanthomyidae
+0.0002	1	0	3	1	0.0003605	687454	genus	                                                        Typhlomys
+0.0002	1	1	3	1	0.0003605	687455	species	                                                          Typhlomys cinereus
+0.004401	22	0	50	2.64	0.0005928	1963761	superfamily	                                                    Dipodoidea
+0.004401	22	0	50	2.64	0.0005928	30648	family	                                                      Dipodidae
+0.0018	9	0	11	2.64	0.0004098	52905	subfamily	                                                        Sicistinae
+0.0018	9	1	11	2.64	0.0004098	52906	genus	                                                          Sicista
+0.0012	6	6	2	9.5	0.000322	489448	species	                                                            Sicista betulina
+0.0004001	2	2	6	1.17	0.0009494	1510182	species	                                                            Sicista strandi
+0.0012	6	0	9	7.67	0.0003138	35737	subfamily	                                                        Dipodinae
+0.0008002	4	0	5	1.6	0.0005369	1041412	genus	                                                          Stylodipus
+0.0008002	4	4	5	1.6	0.0005369	1041413	species	                                                            Stylodipus telum
+0.0004001	2	0	4	15.2	0.0004397	73862	genus	                                                          Dipus
+0.0004001	2	2	4	15.2	0.0004397	73863	species	                                                            Dipus sagitta
+0.0008002	4	0	10	1.2	0.001062	98659	subfamily	                                                        Zapodinae
+0.0008002	4	0	10	1.2	0.001062	101672	genus	                                                          Eozapus
+0.0008002	4	4	10	1.2	0.001062	101673	species	                                                            Eozapus setchuanus
+0.0006001	3	0	6	1.33	0.0006309	980883	subfamily	                                                        Euchoreutinae
+0.0006001	3	0	6	1.33	0.0006309	980893	genus	                                                          Euchoreutes
+0.0006001	3	3	6	1.33	0.0006309	980894	species	                                                            Euchoreutes naso
+0.0168	84	1	298	1.44	0.0006159	33553	suborder	                                                  Sciuromorpha
+0.0138	69	3	270	1.46	0.0005941	55153	family	                                                    Sciuridae
+0.005001	25	0	91	2.09	0.0004612	9991	subfamily	                                                      Sciurinae
+0.004201	21	2	60	1.93	0.0004096	337752	tribe	                                                        Sciurini
+0.0012	6	3	4	1.5	0.0003636	45476	genus	                                                          Microsciurus
+0.0004001	2	2	2	1	0.0003481	45477	species	                                                            Microsciurus flaviventer
+0.0002	1	1	1	1	0.0001971	2749094	species	                                                            Microsciurus sabanillae
+0.0008002	4	1	12	1.42	0.00115	2749090	genus	                                                          Guerlinguetus
+0.0006001	3	3	7	1.29	0.001388	84648	species	                                                            Guerlinguetus aestuans
+0.0008002	4	3	4	1.25	0.0002576	2895727	genus	                                                          Echinosciurus
+0.0002	1	1	2	1	0.0004609	226875	species	                                                            Echinosciurus variegatoides
+0.0004001	2	0	9	1.44	0.0004249	2895728	genus	                                                          Leptosciurus
+0.0004001	2	2	3	2.33	0.0005538	2749092	species	                                                            Leptosciurus mimulus
+0.0004001	2	0	11	1.09	0.0005931	10001	genus	                                                          Sciurus
+0.0002	1	1	7	1.14	0.0009021	425181	species	                                                            Sciurus anomalus
+0.0002	1	1	1	1	0.0002698	55150	species	                                                            Sciurus lis
+0.0002	1	0	1	1	4.756e-05	2749099	genus	                                                          Hadrosciurus
+0.0002	1	1	1	1	0.0001745	511841	species	                                                            Hadrosciurus spadiceus
+0.0008002	4	0	31	2.39	0.0006256	337748	tribe	                                                        Pteromyini
+0.0004001	2	1	11	4.45	0.0008227	100944	genus	                                                          Hylopetes
+0.0002	1	1	7	1	0.001379	254705	species	                                                            Hylopetes alboniger
+0.0002	1	0	18	1.28	0.000888	55155	genus	                                                          Petaurista
+0.0002	1	1	4	1.5	0.0007689	89094	species	                                                            Petaurista alborufus
+0.0002	1	0	1	1	0.0001268	55151	genus	                                                          Pteromys
+0.0002	1	1	1	1	0.0001268	55152	species	                                                            Pteromys volans
+0.004401	22	0	103	1.06	0.0008313	337724	subfamily	                                                      Callosciurinae
+0.004401	22	1	103	1.06	0.0008313	337736	tribe	                                                        Callosciurini
+0.0012	6	0	9	1	0.0002542	64663	genus	                                                          Callosciurus
+0.0004001	2	2	2	1	0.0003231	127500	species	                                                            Callosciurus finlaysonii
+0.0002	1	1	3	1	0.000533	1655504	species	                                                            Callosciurus adamsi
+0.0002	1	1	2	1	0.0002658	64678	species	                                                            Callosciurus notatus
+0.0002	1	1	1	1	0.0001485	64676	species	                                                            Callosciurus prevostii
+0.0002	1	1	1	1	0.0001571	64677	species	                                                            Callosciurus erythraeus
+0.0008002	4	0	21	1.14	0.0005945	226574	genus	                                                          Sundasciurus
+0.0006001	3	3	5	1	0.0007207	2740394	species	                                                            Sundasciurus altitudinis
+0.0002	1	1	6	1	0.0008434	2740395	species	                                                            Sundasciurus robinsoni
+0.0008002	4	0	15	1.07	0.001148	226576	genus	                                                          Tamiops
+0.0006001	3	3	14	1	0.002269	1048687	species	                                                            Tamiops maritimus
+0.0002	1	1	1	2	0.0001623	226577	species	                                                            Tamiops swinhoei
+0.0006001	3	0	34	1.03	0.001677	226545	genus	                                                          Dremomys
+0.0004001	2	2	22	1	0.003546	1655513	species	                                                            Dremomys everetti
+0.0002	1	1	6	1	0.0008829	226546	species	                                                            Dremomys rufigenis
+0.0006001	3	0	11	1	0.001537	226557	genus	                                                          Lariscus
+0.0006001	3	3	11	1	0.001537	226558	species	                                                            Lariscus insignis
+0.0002	1	0	7	1.14	0.000922	226547	genus	                                                          Exilisciurus
+0.0002	1	1	7	1.14	0.000922	226549	species	                                                            Exilisciurus exilis
+0.003801	19	0	50	1.34	0.0004672	337726	subfamily	                                                      Xerinae
+0.003801	19	1	50	1.34	0.0004672	337730	tribe	                                                        Marmotini
+0.001	5	1	20	1.05	0.0005601	13712	genus	                                                          Tamias
+0.0004001	2	2	10	1.1	0.001389	64680	species	                                                            Tamias sibiricus
+0.0002	1	1	1	1	0.0005038	123793	species	                                                            Tamias rufus
+0.0002	1	1	1	1	0.0002404	45466	species	                                                            Tamias canipes
+0.001	5	1	9	1.11	0.0005173	9992	genus	                                                          Marmota
+0.0006001	3	3	5	1.2	0.001152	93162	species	                                                            Marmota flaviventris
+0.0002	1	1	2	1	0.0004388	93167	species	                                                            Marmota vancouverensis
+0.0008002	4	0	9	2.67	0.0006486	9996	genus	                                                          Spermophilus
+0.0008002	4	4	9	2.67	0.001483	9997	species	                                                            Spermophilus citellus
+0.0004001	2	0	6	1	0.0008774	1141637	genus	                                                          Callospermophilus
+0.0004001	2	2	6	1	0.0008774	76772	species	                                                            Callospermophilus lateralis
+0.0004001	2	0	2	1	0.0001847	45478	genus	                                                          Cynomys
+0.0004001	2	2	2	1	0.0004539	45480	species	                                                            Cynomys ludovicianus
+0.002801	14	0	28	1.32	0.0009734	30650	family	                                                    Gliridae
+0.002	10	0	9	1.89	0.0009746	39081	genus	                                                      Muscardinus
+0.002	10	10	9	1.89	0.0009746	39082	species	                                                        Muscardinus avellanarius
+0.0004001	2	0	14	1.07	0.00143	51343	subfamily	                                                      Glirinae
+0.0004001	2	0	14	1.07	0.00143	41260	genus	                                                        Glis
+0.0004001	2	2	14	1.07	0.00143	41261	species	                                                          Glis glis
+0.0004001	2	0	5	1	0.0005218	55143	subfamily	                                                      Leithiinae
+0.0004001	2	0	5	1	0.0005218	53276	genus	                                                        Eliomys
+0.0004001	2	2	5	1	0.0005218	53277	species	                                                          Eliomys quercinus
+0.015	75	3	258	1.67	0.0007357	33550	suborder	                                                  Hystricomorpha
+0.008402	42	1	125	1.81	0.0006755	10161	family	                                                    Echimyidae
+0.005401	27	6	71	2.39	0.0005732	10162	genus	                                                      Proechimys
+0.001	5	5	3	2	0.000515	42834	species	                                                        Proechimys simonsi
+0.0004001	2	2	8	11.6	0.001127	2033315	species	                                                        Proechimys goeldii
+0.0004001	2	2	5	2	0.001068	2033321	species	                                                        Proechimys trinitatis
+0.0004001	2	2	6	1	0.001426	2025600	species	                                                        Proechimys brevicauda
+0.0004001	2	2	2	1.5	0.0004946	461413	species	                                                        Proechimys gularis
+0.0004001	2	2	3	1	0.0005023	34837	species	                                                        Proechimys longicaudatus
+0.0002	1	1	7	1	0.001171	510213	species	                                                        Proechimys roberti
+0.0002	1	1	5	1	0.001663	128105	species	                                                        Proechimys guyannensis
+0.0002	1	1	4	1	0.000747	2033314	species	                                                        Proechimys gardneri
+0.0002	1	1	3	1	0.0004873	167953	species	                                                        Proechimys quadruplicatus
+0.0002	1	1	3	1	0.00104	128106	species	                                                        Proechimys cuvieri
+0.0002	1	1	1	1	0.000186	2033317	species	                                                        Proechimys kulinae
+0.001	5	0	23	1.04	0.001487	1567523	genus	                                                      Pattonomys
+0.0008002	4	4	19	1.05	0.002647	1567524	species	                                                        Pattonomys semivillosus
+0.0002	1	1	4	1	0.0005663	2171770	species	                                                        Pattonomys punctatus
+0.0008002	4	0	9	1.11	0.0005477	1744847	genus	                                                      Toromys
+0.0006001	3	3	5	1.2	0.0006169	2171663	species	                                                        Toromys albiventris
+0.0002	1	1	4	1	0.0005004	1568924	species	                                                        Toromys rhipidurus
+0.0004001	2	0	14	1	0.001773	30617	genus	                                                      Dactylomys
+0.0004001	2	2	14	1	0.001773	30619	species	                                                        Dactylomys dactylinus
+0.0004001	2	0	4	1	0.0004453	490305	genus	                                                      Makalata
+0.0004001	2	2	4	1	0.0004453	176508	species	                                                        Makalata macrura
+0.0002	1	0	4	1	0.0005148	30620	genus	                                                      Echimys
+0.0002	1	1	4	1	0.0005148	2171769	species	                                                        Echimys saturnus
+0.001	5	0	23	1.04	0.002283	74488	family	                                                    Thryonomyidae
+0.001	5	0	23	1.04	0.002283	10168	genus	                                                      Thryonomys
+0.001	5	5	23	1.04	0.002283	10169	species	                                                        Thryonomys swinderianus
+0.001	5	0	13	1	0.0005075	10158	family	                                                    Octodontidae
+0.0008002	4	0	10	1	0.001232	61879	genus	                                                      Spalacopus
+0.0008002	4	4	10	1	0.001232	61880	species	                                                        Spalacopus cyanus
+0.0002	1	0	3	1	0.0003797	10159	genus	                                                      Octodon
+0.0002	1	1	3	1	0.0003797	10160	species	                                                        Octodon degus
+0.0008002	4	0	19	1	0.001916	30649	family	                                                    Erethizontidae
+0.0008002	4	0	19	1	0.001916	43319	genus	                                                      Coendou
+0.0008002	4	4	19	1	0.001916	190504	species	                                                        Coendou insidiosus
+0.0008002	4	0	11	1.18	0.0004231	10135	family	                                                    Hystricidae
+0.0008002	4	1	9	1	0.000545	10136	genus	                                                      Hystrix
+0.0004001	2	2	3	1	0.0004145	192883	species	                                                        Hystrix indica
+0.0002	1	1	5	1	0.0006653	143286	species	                                                        Hystrix brachyura
+0.0008002	4	0	3	1.33	0.0003465	10155	family	                                                    Myocastoridae
+0.0008002	4	0	3	1.33	0.0003465	10156	genus	                                                      Myocastor
+0.0008002	4	4	3	1.33	0.0003465	10157	species	                                                        Myocastor coypus
+0.0004001	2	0	14	1	0.000787	30645	family	                                                    Ctenomyidae
+0.0004001	2	0	14	1	0.000787	33551	genus	                                                      Ctenomys
+0.0004001	2	2	6	1	0.000701	61871	species	                                                        Ctenomys leucodon
+0.0004001	2	0	9	1.33	0.0008567	340178	family	                                                    Laonastidae
+0.0004001	2	0	9	1.33	0.0008567	340179	genus	                                                      Laonastes
+0.0004001	2	2	9	1.33	0.0008567	340180	species	                                                        Laonastes aenigmamus
+0.0002	1	0	13	5.38	0.0007387	10139	family	                                                    Caviidae
+0.0002	1	0	13	5.38	0.0007387	10140	genus	                                                      Cavia
+0.0002	1	1	2	1	0.0002685	37548	species	                                                        Cavia aperea
+0.0002	1	0	14	1.43	0.001416	10150	family	                                                    Chinchillidae
+0.0002	1	0	14	1.43	0.001416	10151	genus	                                                      Chinchilla
+0.0002	1	1	14	1.43	0.001416	34839	species	                                                        Chinchilla lanigera
+0.0002	1	0	2	1	0.0002251	30644	family	                                                    Capromyidae
+0.0002	1	0	2	1	0.0002251	1543401	genus	                                                      Geocapromys
+0.0002	1	1	2	1	0.0002251	1543403	species	                                                        Geocapromys ingrahami
+0.0002	1	0	1	1	7.496e-05	10167	family	                                                    Bathyergidae
+0.0002	1	0	1	1	0.0003421	423606	genus	                                                      Fukomys
+0.0002	1	1	1	1	0.0003421	885580	species	                                                        Fukomys damarensis
+0.0022	11	0	35	1.26	0.0005641	1963759	suborder	                                                  Anomaluromorpha
+0.0022	11	1	35	1.26	0.0005641	101663	family	                                                    Anomaluridae
+0.0014	7	1	20	1.4	0.0004786	101664	genus	                                                      Anomalurus
+0.0006001	3	3	7	1	0.0007636	1082180	species	                                                        Anomalurus beecrofti
+0.0004001	2	2	6	2	0.0007657	2022013	species	                                                        Anomalurus pusillus
+0.0002	1	0	1	1	0.0001879	2623273	no rank	                                                        unclassified Anomalurus
+0.0002	1	1	1	1	0.0001879	359030	species	                                                          Anomalurus sp. GP-2005
+0.0004001	2	0	2	1	0.0002004	101666	genus	                                                      Idiurus
+0.0004001	2	2	2	1	0.0002004	101667	species	                                                        Idiurus macrotis
+0.0002	1	0	4	1.25	0.0004129	101668	genus	                                                      Zenkerella
+0.0002	1	1	4	1.25	0.0004129	101669	species	                                                        Zenkerella insignis
+0.0018	9	0	29	1.38	0.0004984	1963757	suborder	                                                  Castorimorpha
+0.0014	7	0	20	1.45	0.0006568	10015	family	                                                    Heteromyidae
+0.0008002	4	0	16	1.38	0.0008382	38662	subfamily	                                                      Dipodomyinae
+0.0008002	4	0	16	1.38	0.0008382	10016	genus	                                                        Dipodomys
+0.0006001	3	3	13	1.46	0.001406	105255	species	                                                          Dipodomys spectabilis
+0.0002	1	1	3	1	0.0003219	94247	species	                                                          Dipodomys merriami
+0.0006001	3	0	4	1.75	0.0003526	38663	subfamily	                                                      Perognathinae
+0.0006001	3	0	4	1.75	0.0003526	38664	genus	                                                        Chaetodipus
+0.0006001	3	3	4	1.75	0.0003526	38672	species	                                                          Chaetodipus penicillatus
+0.0002	1	0	7	1.29	0.0006417	10010	family	                                                    Geomyidae
+0.0002	1	0	7	1.29	0.0006417	13544	genus	                                                      Geomys
+0.0002	1	1	7	1.29	0.0006417	100306	species	                                                        Geomys pinetis
+0.0002	1	0	2	1	0.0001198	29132	family	                                                    Castoridae
+0.0002	1	0	2	1	0.0001198	10184	genus	                                                      Castor
+0.0002	1	1	1	1	0.0001297	10185	species	                                                        Castor fiber
+0.0156	78	0	93	6.2	0.0005738	9975	order	                                                Lagomorpha
+0.0126	63	0	37	14	0.0004965	9976	family	                                                  Ochotonidae
+0.0126	63	0	37	14	0.0004965	9977	genus	                                                    Ochotona
+0.008802	44	44	5	21	0.000867	130843	species	                                                      Ochotona thibetana
+0.002801	14	14	10	29.3	0.001782	130834	species	                                                      Ochotona hyperborea
+0.0004001	2	2	8	1.75	0.001301	9978	species	                                                      Ochotona princeps
+0.0004001	2	2	3	1	0.0005154	462300	species	                                                      Ochotona coreana
+0.0002	1	1	2	2	0.000289	134600	species	                                                      Ochotona collaris
+0.003001	15	0	56	1.07	0.0006433	9979	family	                                                  Leporidae
+0.002	10	3	28	1	0.000539	9980	genus	                                                    Lepus
+0.0004001	2	2	2	1	0.0004338	9983	species	                                                      Lepus europaeus
+0.0002	1	1	9	1	0.00144	48086	species	                                                      Lepus americanus
+0.0002	1	1	3	1	0.005607	62621	species	                                                      Lepus timidus
+0.0002	1	1	3	1	0.007092	100182	species	                                                      Lepus granatensis
+0.0002	1	1	2	1	0.0008621	63225	species	                                                      Lepus townsendii
+0.0002	1	1	2	1	0.0004092	112022	species	                                                      Lepus sinensis
+0.0004001	2	0	8	1.5	0.0009627	48082	genus	                                                    Brachylagus
+0.0004001	2	2	8	1.5	0.0009627	48083	species	                                                      Brachylagus idahoensis
+0.0002	1	0	9	1	0.001164	48088	genus	                                                    Romerolagus
+0.0002	1	1	9	1	0.001164	48089	species	                                                      Romerolagus diazi
+0.0002	1	0	6	1	0.0007568	9984	genus	                                                    Oryctolagus
+0.0002	1	1	6	1	0.0007568	9986	species	                                                      Oryctolagus cuniculus
+0.0002	1	0	5	1	0.0005641	104113	genus	                                                    Nesolagus
+0.0002	1	1	5	1	0.0005641	235651	species	                                                      Nesolagus timminsi
+0.0002	1	0	17	3.65	0.000253	9392	order	                                              Scandentia
+0.0002	1	0	17	3.65	0.000253	9393	family	                                                Tupaiidae
+0.0002	1	0	16	3.81	0.0002742	9394	genus	                                                  Tupaia
+0.0002	1	1	2	1.5	0.0002618	143289	species	                                                    Tupaia minor
+0.0002	1	0	6	1	0.0005712	30656	order	                                              Dermoptera
+0.0002	1	0	6	1	0.0005712	30657	family	                                                Cynocephalidae
+0.0002	1	0	6	1	0.0005712	482536	genus	                                                  Galeopterus
+0.0002	1	1	6	1	0.0005712	482537	species	                                                    Galeopterus variegatus
+0.3877	1938	3	11261	3.66	0.04632	311790	superorder	                                          Afrotheria
+0.3719	1859	0	11019	3.66	0.2795	9779	order	                                            Proboscidea
+0.3719	1859	687	11019	3.66	0.2795	9780	family	                                              Elephantidae
+0.2304	1152	869	4202	3.63	0.8013	37348	genus	                                                Mammuthus
+0.04201	210	210	547	3.32	0.6413	37349	species	                                                  Mammuthus primigenius
+0.0146	73	73	218	3.52	0.2497	1027716	species	                                                  Mammuthus columbi
+0.0024	12	0	67	2.72	0.01093	9782	genus	                                                Elephas
+0.0022	11	11	63	2.83	0.01319	9783	species	                                                  Elephas maximus
+0.0002	1	1	1	1	0.0007911	251093	species	                                                  Elephas antiquus
+0.0012	6	0	32	1.16	0.00587	9784	genus	                                                Loxodonta
+0.0012	6	6	32	1.16	0.007569	9785	species	                                                  Loxodonta africana
+0.0004001	2	0	21	1.67	0.002264	39051	genus	                                                Mammut
+0.0004001	2	2	21	1.67	0.002264	39053	species	                                                  Mammut americanum
+0.008402	42	0	91	4.97	0.0007589	28734	order	                                            Macroscelidea
+0.008402	42	0	91	4.97	0.0007589	28735	family	                                              Macroscelididae
+0.004601	23	0	22	15.1	0.001243	2819854	genus	                                                Galegeeska
+0.004401	22	22	15	21.5	0.001767	42151	species	                                                  Galegeeska rufescens
+0.0002	1	1	7	1.57	0.000811	483428	species	                                                  Galegeeska revoilii
+0.0014	7	0	10	1.2	0.001043	1873009	genus	                                                Petrosaltator
+0.0014	7	7	10	1.2	0.001043	237658	species	                                                  Petrosaltator rozeti
+0.0012	6	0	18	3.33	0.0003857	28736	genus	                                                Elephantulus
+0.0008002	4	0	7	1	0.0008044	2642962	no rank	                                                  unclassified Elephantulus
+0.0008002	4	4	7	1	0.0008044	213657	species	                                                    Elephantulus sp. VB001
+0.0002	1	1	6	8	0.0006174	113276	species	                                                  Elephantulus intufi
+0.0002	1	1	4	1	0.0004409	483426	species	                                                  Elephantulus fuscipes
+0.0008002	4	0	16	1.25	0.0009899	151030	genus	                                                Rhynchocyon
+0.0008002	4	4	13	1.08	0.001948	320636	species	                                                  Rhynchocyon chrysopygus
+0.0004001	2	0	25	1.08	0.0008846	29081	genus	                                                Macroscelides
+0.0002	1	1	6	1	0.0006856	29082	species	                                                  Macroscelides proboscideus
+0.0002	1	1	3	1	0.0003309	432356	species	                                                  Macroscelides flavicaudatus
+0.005001	25	0	8	6.5	0.0004335	9810	order	                                            Hyracoidea
+0.005001	25	0	8	6.5	0.0004335	9811	family	                                              Procaviidae
+0.005001	25	0	8	6.5	0.000897	9812	genus	                                                Procavia
+0.005001	25	25	8	6.5	0.000897	9813	species	                                                  Procavia capensis
+0.001	5	0	4	1.5	0.000373	9369	family	                                            Tenrecidae
+0.001	5	0	4	1.5	0.000373	176113	subfamily	                                              Tenrecinae
+0.001	5	0	4	1.5	0.000373	9370	genus	                                                Echinops
+0.001	5	5	4	1.5	0.000373	9371	species	                                                  Echinops telfairi
+0.0004001	2	0	26	1.5	0.001515	9389	family	                                            Chrysochloridae
+0.0004001	2	0	26	1.5	0.001515	745257	subfamily	                                              Chrysochlorinae
+0.0002	1	0	16	1.31	0.001856	481706	genus	                                                Eremitalpa
+0.0002	1	1	16	1.31	0.001856	481707	species	                                                  Eremitalpa granti
+0.0002	1	0	10	1.8	0.001216	185452	genus	                                                Chrysochloris
+0.0002	1	1	10	1.8	0.001216	185453	species	                                                  Chrysochloris asiatica
+0.0004001	2	0	13	1	0.001461	9815	order	                                            Tubulidentata
+0.0004001	2	0	13	1	0.001461	9816	family	                                              Orycteropodidae
+0.0004001	2	0	13	1	0.001461	9817	genus	                                                Orycteropus
+0.0004001	2	2	13	1	0.001461	9818	species	                                                  Orycteropus afer
+0.009802	49	1	177	2.13	0.0006828	9348	superorder	                                          Xenarthra
+0.006001	30	0	76	3.36	0.0006069	948951	order	                                            Cingulata
+0.004401	22	1	56	4.11	0.0006119	1811493	family	                                              Chlamyphoridae
+0.0022	11	0	11	4.18	0.00139	984614	genus	                                                Calyptophractus
+0.0022	11	11	11	4.18	0.00139	984615	species	                                                  Calyptophractus retusus
+0.0008002	4	2	10	1	0.0004123	48851	genus	                                                Cabassous
+0.0002	1	1	2	1	0.0003587	1756213	species	                                                  Cabassous chacoensis
+0.0002	1	1	1	1	0.0001499	1756214	species	                                                  Cabassous tatouay
+0.0006001	3	0	7	1.43	0.0004801	183748	genus	                                                Tolypeutes
+0.0004001	2	2	5	1.6	0.0006807	183750	species	                                                  Tolypeutes tricinctus
+0.0002	1	1	2	1	0.0002845	183749	species	                                                  Tolypeutes matacus
+0.0002	1	0	7	18.9	0.001385	143299	genus	                                                Euphractus
+0.0002	1	1	7	18.9	0.001385	143300	species	                                                  Euphractus sexcinctus
+0.0002	1	0	7	1.43	0.0006742	29079	genus	                                                Chaetophractus
+0.0002	1	1	6	1.17	0.001213	29080	species	                                                  Chaetophractus villosus
+0.0002	1	0	1	1	0.000221	183746	genus	                                                Zaedyus
+0.0002	1	1	1	1	0.000221	183747	species	                                                  Zaedyus pichiy
+0.0016	8	0	20	1.25	0.0006162	9359	family	                                              Dasypodidae
+0.0016	8	2	20	1.25	0.0006162	9360	genus	                                                Dasypus
+0.0006001	3	3	3	1	0.0007246	9361	species	                                                  Dasypus novemcinctus
+0.0004001	2	2	1	2	0.0006631	1756217	species	                                                  Dasypus sabanicola
+0.0002	1	1	1	1	0.0006803	1756218	species	                                                  Dasypus yepesi
+0.003601	18	0	96	1.18	0.0007233	948950	order	                                            Pilosa
+0.0022	11	0	76	1.17	0.0007485	948953	suborder	                                              Folivora
+0.001	5	0	29	1.1	0.0007719	227508	family	                                                Megalonychidae
+0.0004001	2	0	2	1.5	0.0003008	2546667	genus	                                                  Megalonyx
+0.0004001	2	2	2	1.5	0.0003008	2576014	species	                                                    Megalonyx jeffersonii
+0.0002	1	0	15	1	0.002066	2546649	genus	                                                  Parocnus
+0.0002	1	1	15	1	0.002066	2546659	species	                                                    Parocnus serus
+0.0002	1	0	8	1.25	0.000518	9357	genus	                                                  Choloepus
+0.0002	1	1	8	1.25	0.001188	9358	species	                                                    Choloepus hoffmanni
+0.0002	1	0	4	1	0.0005326	2546647	genus	                                                  Acratocnus
+0.0002	1	1	4	1	0.0005326	2546656	species	                                                    Acratocnus ye
+0.0008002	4	0	24	1.25	0.0006425	9352	family	                                                Bradypodidae
+0.0008002	4	1	24	1.25	0.0006425	9353	genus	                                                  Bradypus
+0.0002	1	1	6	2	0.0007026	9355	species	                                                    Bradypus variegatus
+0.0002	1	1	6	1	0.0006397	227087	species	                                                    Bradypus torquatus
+0.0002	1	1	4	1	0.0004773	9354	species	                                                    Bradypus tridactylus
+0.0002	1	0	14	1.07	0.0009785	136417	family	                                                Megatheriidae
+0.0002	1	0	9	1	0.001281	2546650	genus	                                                  Megatherium
+0.0002	1	1	9	1	0.001281	2546660	species	                                                    Megatherium americanum
+0.0002	1	0	9	1.33	0.001112	48781	family	                                                Mylodontidae
+0.0002	1	0	9	1.33	0.001112	48783	genus	                                                  Mylodon
+0.0002	1	1	9	1.33	0.001112	48784	species	                                                    Mylodon darwinii
+0.0014	7	0	20	1.2	0.0006467	948952	suborder	                                              Vermilingua
+0.001	5	1	15	1.27	0.0006831	9349	family	                                                Myrmecophagidae
+0.0006001	3	1	8	1.38	0.0006195	9350	genus	                                                  Tamandua
+0.0004001	2	2	2	1	0.0004534	9351	species	                                                    Tamandua mexicana
+0.0002	1	0	5	1.2	0.0005893	71005	genus	                                                  Myrmecophaga
+0.0002	1	1	5	1.2	0.0005893	71006	species	                                                    Myrmecophaga tridactyla
+0.0004001	2	0	5	1	0.000564	948954	family	                                                Cyclopedidae
+0.0004001	2	0	5	1	0.000564	84073	genus	                                                  Cyclopes
+0.0004001	2	2	5	1	0.000564	84074	species	                                                    Cyclopes didactylus
+0.04201	210	2	368	3.49	0.0008237	9263	clade	                                        Metatheria
+0.023	115	8	107	5.23	0.0008612	38608	order	                                          Dasyuromorphia
+0.0156	78	27	77	2.86	0.0007548	9277	family	                                            Dasyuridae
+0.003601	18	0	6	8	0.0006088	9288	genus	                                              Murexia
+0.003601	18	18	6	8	0.0006088	418663	species	                                                Murexia melanurus
+0.002601	13	0	14	2	0.00076	9282	genus	                                              Antechinus
+0.0014	7	7	10	2	0.001091	38775	species	                                                Antechinus flavipes
+0.0012	6	6	4	2	0.0004518	2550879	species	                                                Antechinus arktos
+0.0016	8	0	9	1.22	0.0009109	32541	genus	                                              Dasycercus
+0.0016	8	8	9	1.22	0.0009109	32542	species	                                                Dasycercus cristicauda
+0.0008002	4	0	14	1.14	0.0007078	9300	genus	                                              Sminthopsis
+0.0006001	3	3	11	1.18	0.001101	9301	species	                                                Sminthopsis crassicaudata
+0.0002	1	1	3	1	0.0003171	90758	species	                                                Sminthopsis douglasi
+0.0008002	4	0	6	1.33	0.0006072	9292	genus	                                              Phascogale
+0.0008002	4	4	6	1.33	0.0006072	9293	species	                                                Phascogale tapoatafa
+0.0004001	2	0	10	1.3	0.0009861	9294	genus	                                              Phascolosorex
+0.0004001	2	2	10	1.3	0.0009861	273761	species	                                                Phascolosorex doriae
+0.0002	1	0	6	1.33	0.0006253	9304	genus	                                              Sarcophilus
+0.0002	1	1	6	1.33	0.0006253	9305	species	                                                Sarcophilus harrisii
+0.0002	1	0	4	1	0.0004038	9278	genus	                                              Dasyurus
+0.0002	1	1	4	1	0.0004038	9280	species	                                                Dasyurus hallucatus
+0.005601	28	0	24	2.29	0.002246	9273	family	                                            Thylacinidae
+0.005601	28	0	24	2.29	0.002246	9274	genus	                                              Thylacinus
+0.005601	28	28	24	2.29	0.002246	9275	species	                                                Thylacinus cynocephalus
+0.0002	1	0	2	1	0.0001905	55780	family	                                            Myrmecobiidae
+0.0002	1	0	2	1	0.0001905	55781	genus	                                              Myrmecobius
+0.0002	1	1	2	1	0.0001905	55782	species	                                                Myrmecobius fasciatus
+0.0142	71	0	130	1.62	0.001549	38605	order	                                          Didelphimorphia
+0.0142	71	0	130	1.62	0.001549	9265	family	                                            Didelphidae
+0.0142	71	7	130	1.62	0.001549	126287	subfamily	                                              Didelphinae
+0.009802	49	10	84	1.67	0.00324	9266	genus	                                                Didelphis
+0.0022	11	11	14	1.21	0.002	9267	species	                                                  Didelphis virginiana
+0.002	10	10	21	1.1	0.004963	42716	species	                                                  Didelphis albiventris
+0.0012	6	6	17	1.59	0.02833	9268	species	                                                  Didelphis marsupialis
+0.0012	6	6	5	2.4	0.001827	85694	species	                                                  Didelphis aurita
+0.0006001	3	3	7	1.86	0.002276	461399	species	                                                  Didelphis imperfecta
+0.0006001	3	3	6	1.33	0.001731	994805	species	                                                  Didelphis pernigra
+0.0014	7	0	16	1.06	0.001781	38619	genus	                                                Lutreolina
+0.0014	7	7	16	1.06	0.001781	38620	species	                                                  Lutreolina crassicaudata
+0.0008002	4	0	8	1.12	0.0008495	126288	genus	                                                Gracilinanus
+0.0008002	4	4	8	1.12	0.0008495	191870	species	                                                  Gracilinanus agilis
+0.0004001	2	0	6	1	0.0006579	225727	genus	                                                Tlacuatzin
+0.0004001	2	2	6	1	0.0006579	225728	species	                                                  Tlacuatzin canescens
+0.0002	1	0	2	1	0.0002131	91501	genus	                                                Thylamys
+0.0002	1	1	2	1	0.0002131	191871	species	                                                  Thylamys elegans
+0.0002	1	0	2	1	0.0001979	13615	genus	                                                Monodelphis
+0.0002	1	1	2	1	0.0001979	13616	species	                                                  Monodelphis domestica
+0.002601	13	0	62	7.05	0.000381	38609	order	                                          Diprotodontia
+0.0008002	4	0	15	19.6	0.001417	38624	family	                                            Phascolarctidae
+0.0008002	4	0	15	19.6	0.001417	38625	genus	                                              Phascolarctos
+0.0008002	4	4	15	19.6	0.001417	38626	species	                                                Phascolarctos cinereus
+0.0006001	3	0	7	1	0.000229	9335	family	                                            Phalangeridae
+0.0004001	2	0	6	1	0.0003916	38622	genus	                                              Phalanger
+0.0002	1	1	5	1	0.0007115	42473	species	                                                Phalanger orientalis
+0.0002	1	1	1	1	0.000144	175809	species	                                                Phalanger vestitus
+0.0002	1	0	1	1	6.736e-05	9336	genus	                                              Trichosurus
+0.0002	1	1	1	1	0.0001636	9337	species	                                                Trichosurus vulpecula
+0.0004001	2	0	10	1.2	0.0003509	9331	family	                                            Petauridae
+0.0002	1	0	8	1.25	0.0008722	34898	genus	                                              Petaurus
+0.0002	1	1	8	1.25	0.0008722	34899	species	                                                Petaurus breviceps
+0.0002	1	0	1	1	0.0001094	38615	genus	                                              Dactylopsila
+0.0002	1	1	1	1	0.0001094	38616	species	                                                Dactylopsila trivirgata
+0.0004001	2	0	10	1	0.000242	9307	family	                                            Macropodidae
+0.0004001	2	0	2	1	0.0002144	65633	genus	                                              Lagostrophus
+0.0004001	2	2	2	1	0.0002144	65634	species	                                                Lagostrophus fasciatus
+0.0002	1	0	5	19.8	0.0005495	37889	family	                                            Pseudocheiridae
+0.0002	1	0	5	19.8	0.0005495	9332	genus	                                              Pseudocheirus
+0.0002	1	1	5	19.8	0.0005495	9333	species	                                                Pseudocheirus peregrinus
+0.0002	1	0	5	1	0.0005252	9338	family	                                            Vombatidae
+0.0002	1	0	5	1	0.0005252	29138	genus	                                              Vombatus
+0.0002	1	1	5	1	0.0005252	29139	species	                                                Vombatus ursinus
+0.0006001	3	0	10	1.6	0.0005245	38606	order	                                          Paucituberculata
+0.0006001	3	1	10	1.6	0.0005245	30659	family	                                            Caenolestidae
+0.0002	1	0	8	1.75	0.0008415	33558	genus	                                              Rhyncholestes
+0.0002	1	1	8	1.75	0.0008415	33559	species	                                                Rhyncholestes raphanurus
+0.0002	1	0	1	1	0.0001083	37886	genus	                                              Caenolestes
+0.0002	1	1	1	1	0.0001083	37696	species	                                                Caenolestes fuliginosus
+0.0006001	3	0	14	1.14	0.0005573	38611	order	                                          Peramelemorphia
+0.0004001	2	0	3	1	0.0003961	38627	family	                                            Peroryctidae
+0.0004001	2	0	3	1	0.0003961	42732	genus	                                              Echymipera
+0.0004001	2	0	3	1	0.0003961	65611	species	                                                Echymipera rufescens
+0.0004001	2	2	3	1	0.0003961	164528	subspecies	                                                  Echymipera rufescens australis
+0.0002	1	0	11	1.18	0.0006387	9342	family	                                            Peramelidae
+0.0002	1	0	7	1.29	0.0007665	37888	genus	                                              Isoodon
+0.0002	1	1	7	1.29	0.0007665	37698	species	                                                Isoodon macrourus
+0.0004001	2	0	13	1	0.001517	38607	order	                                          Microbiotheria
+0.0004001	2	0	13	1	0.001517	30660	family	                                            Microbiotheriidae
+0.0004001	2	0	13	1	0.001517	33561	genus	                                              Dromiciops
+0.0004001	2	2	13	1	0.001517	33562	species	                                                Dromiciops gliroides
+0.0002	1	0	3	1	0.0003003	38610	order	                                          Notoryctemorphia
+0.0002	1	0	3	1	0.0003003	30662	family	                                            Notoryctidae
+0.0002	1	0	3	1	0.0003003	37887	genus	                                              Notoryctes
+0.0002	1	1	3	1	0.0003003	37699	species	                                                Notoryctes typhlops
+0.0008002	4	0	24	1.29	0.0007567	9254	clade	                                      Prototheria
+0.0008002	4	0	24	1.29	0.0007567	9255	order	                                        Monotremata
+0.0006001	3	0	11	1.36	0.0005555	9259	family	                                          Tachyglossidae
+0.0004001	2	0	2	1	0.0002447	9260	genus	                                            Tachyglossus
+0.0004001	2	2	2	1	0.0002447	9261	species	                                              Tachyglossus aculeatus
+0.0002	1	0	5	1	0.0006069	33542	genus	                                            Zaglossus
+0.0002	1	1	5	1	0.0006069	33543	species	                                              Zaglossus bruijni
+0.0002	1	0	11	1.27	0.000971	9256	family	                                          Ornithorhynchidae
+0.0002	1	0	11	1.27	0.000971	9257	genus	                                            Ornithorhynchus
+0.0002	1	1	11	1.27	0.000971	9258	species	                                              Ornithorhynchus anatinus
