@@ -58,7 +58,7 @@ def _(mo):
 @app.cell
 def _(pd):
     # download the data from hellforge
-    data= pd.read_csv("assets/DENI/20250429_Pleistocene sediment DNA reveals hominin and faunal turnovers at Denisova Cave_library_m_1.csv")
+    data= pd.read_csv("assets/SI7/20250429_Pleistocene sediment DNA reveals hominin and faunal turnovers at Denisova Cave_library_m_1.csv")
     return (data,)
 
 
@@ -66,7 +66,7 @@ def _(pd):
 def _(pd):
     # import family annotations
     familydata = pd.read_csv(   
-        "assets/DENI/DENI_family_annotation.tsv",
+        "assets/SI7/DENI_family_annotation.tsv",
         sep="\t"
     )
 
@@ -231,7 +231,7 @@ def _(aa75_filtered, pd):
     # Y3 NA  M23 NA M4
     # Y4 NA  M22 M1 M5
 
-    coord = pd.read_csv("assets/DENI/MAIN_SE points_markers.csv", sep=";")
+    coord = pd.read_csv("assets/SI7/MAIN_SE points_markers.csv", sep=";")
     coord['y']=coord.index
     coord.columns = [x.replace('0.','') for x in coord.columns]
 
@@ -292,7 +292,7 @@ def _(aa75_filtered, coord, mpatches, plt):
     _back = _fig.add_axes([0,0,1,1])
 
     #print the background
-    _img = plt.imread("assets/DENI/MAIN_SE_without column_white background.png")
+    _img = plt.imread("assets/SI7/MAIN_SE_without column_white background.png")
     _back.imshow(_img)
 
     plt.legend(
@@ -334,7 +334,7 @@ def _(mo):
 
 @app.cell
 def _(pd):
-    megan_aa75 = pd.read_excel("assets/DENI/zavala2021_supplements.xlsx", sheet_name="Mammalian MtDNA Summary", skiprows=2)
+    megan_aa75 = pd.read_excel("assets/SI7/zavala2021_supplements.xlsx", sheet_name="Mammalian MtDNA Summary", skiprows=2)
     megan_aa75.drop(["Sequences ≥ 35 bp",
                      "Duplication rate",
                      "Number of sequences assigned to a taxa",
@@ -429,7 +429,7 @@ def _(data):
 
 @app.cell
 def _(aa163, pd):
-    zav2021 = pd.read_csv('assets/DENI/zavala2021_all_huMT_libraries.csv')
+    zav2021 = pd.read_csv('assets/SI7/zavala2021_all_huMT_libraries.csv')
     zav2021['Marker'] = zav2021['Marker'].apply(lambda x: x.strip())
 
     #make sure that we look at the same libraries
@@ -529,7 +529,7 @@ def _(MIN_SUPPORT, coord, mpatches, plt, re):
         _back = _fig.add_axes([0,0,1,1])
 
         #print the background
-        _img = plt.imread("assets/DENI/MAIN_SE_without column_blue and orange background.png")
+        _img = plt.imread("assets/SI7/MAIN_SE_without column_blue and orange background.png")
         _back.imshow(_img)
 
         plt.legend(

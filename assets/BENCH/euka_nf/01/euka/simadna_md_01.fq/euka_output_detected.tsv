@@ -1,0 +1,4 @@
+#Taxa	detected	Number_of_reads	proportion_estimate	85%_confidence_interval_lower_bound	85%_confidence_interval_higher_bound	95%_confidence_interval_lower_bound	95%_confidence_interval_higher_bound
+Bovidae	yes	124	0.560236	0.528471	0.591203	0.509581	0.609	
+Carnivora	yes	45	0.203522	0.183118	0.225774	0.172236	0.240051	
+Suina	yes	52	0.234859	0.212043	0.259194	0.199296	0.274885

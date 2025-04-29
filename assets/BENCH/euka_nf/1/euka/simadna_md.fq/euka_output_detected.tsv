@@ -1,0 +1,6 @@
+#Taxa	detected	Number_of_reads	proportion_estimate	85%_confidence_interval_lower_bound	85%_confidence_interval_higher_bound	95%_confidence_interval_lower_bound	95%_confidence_interval_higher_bound
+Bovidae	yes	1071	0.482635	0.451595	0.513438	0.433417	0.531483	
+Carnivora	yes	388	0.174698	0.157456	0.193617	0.148337	0.205811	
+Homininae	yes	41	0.0184415	0.016397	0.0207692	0.0153086	0.0223443	
+Proboscidea	yes	159	0.0716471	0.063851	0.0799693	0.0596107	0.0853595	
+Suina	yes	557	0.251268	0.228142	0.275417	0.214975	0.290872

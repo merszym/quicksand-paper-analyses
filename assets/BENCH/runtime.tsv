@@ -1,0 +1,16 @@
+Method	dataset	runtime
+quicksand	simadna_01	56.352
+quicksand	simadna_1	58.723
+quicksand	simadna_10	1m39.500
+quicksand	simadna_100	3m19.824
+quicksand	simadna_1000	14m33.530
+BLAST/MEGAN	simadna_01	6m6.527
+BLAST/MEGAN	simadna_1	9m32.595
+BLAST/MEGAN	simadna_10	22m13.837
+BLAST/MEGAN	simadna_100	52m2.818
+BLAST/MEGAN	simadna_1000	245m47.044
+euka	simadna_01	1m24.139
+euka	simadna_1	1m24.949
+euka	simadna_10	1m31.621
+euka	simadna_100	2m41.305
+euka	simadna_1000	16m24.124

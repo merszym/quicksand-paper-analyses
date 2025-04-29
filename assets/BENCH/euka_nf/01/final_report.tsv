@@ -1,0 +1,7 @@
+RG	RawReads	ReadsL35	FinalNoPCRDups	AvrgTimesSeen	FinalReads	EukaTaxa	Order	Family
+simadna_01.fq	499903	499903	499900	 1.0	109	Bovidae	Artiodactyla	Bovidae
+simadna_01.fq	499903	499903	499900	 1.0	54	Suina	Artiodactyla	null
+simadna_hd_01.fq	499907	499907	499907	 1.0	86	Bovidae	Artiodactyla	Bovidae
+simadna_md_01.fq	499912	499912	499911	 1.0	124	Bovidae	Artiodactyla	Bovidae
+simadna_md_01.fq	499912	499912	499911	 1.0	45	Carnivora	Carnivora	null
+simadna_md_01.fq	499912	499912	499911	 1.0	52	Suina	Artiodactyla	null

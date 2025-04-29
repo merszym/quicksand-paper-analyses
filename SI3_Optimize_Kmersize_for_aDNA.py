@@ -37,7 +37,6 @@ def _():
     import re
     import matplotlib.pyplot as plt
     from pathlib import Path
-    import pysam
     import matplotlib.patches as mpatches
     return Path, mpatches, pd, plt, re, sns
 
@@ -70,7 +69,7 @@ def _(pd):
         A table that shows read of a family bam file, if the sequence came from that family or not, then calculates a false-positive rate. 
         """
         readwise = pd.read_csv(
-            f'assets/KMER/{kmer}/simadna_md_1000_Ziphiidae_{kmer}_readwise', 
+            f'assets/SI3_SI4/{kmer}/simadna_md_1000_Ziphiidae_{kmer}_readwise', 
             sep=','
         )
 
@@ -109,7 +108,7 @@ def _(compare_readwise, mo, pd):
 
     for kmer in mo.status.progress_bar([f"kmer{x}" for x in [18,19,20,21,22,24,28,30]]):
         _tmp = pd.read_csv(
-            f"assets/KMER/{kmer}/quicksand_v2.3/final_report.tsv", sep="\t")
+            f"assets/SI3_SI4/{kmer}/quicksand_v2.3/final_report.tsv", sep="\t")
         _tmp["Kmer"] = kmer
         _rwtmp = compare_readwise(kmer)
 
@@ -397,7 +396,7 @@ def _(Path, damage_profiles_hr, kmer, mo, pd, re):
 
     for _kmer in mo.status.progress_bar([f"kmer{x}" for x in [18,19,20,21,22,24,28,30]]):
         for _report in Path(
-            f"assets/KMER/{kmer}/quicksand_v2.3/stats/").glob("*.report"):
+            f"assets/SI3_SI4/{kmer}/quicksand_v2.3/stats/").glob("*.report"):
             _tmp = pd.read_csv(_report, sep="\t", skiprows=2)
             _tmp["Kmer"] = _kmer
             _tmp["dataset"] = _report.name.split(".")[0]

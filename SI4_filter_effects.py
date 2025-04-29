@@ -40,7 +40,7 @@ def _(Path, pd):
     df = pd.DataFrame()
 
     for kmer in [f"kmer{x}" for x in (18,19,20,21,22,24,28,30)]:
-        _p = Path(f"assets/KMER/{kmer}/quicksand_v2.3/final_report.tsv")
+        _p = Path(f"assets/SI3_SI4/{kmer}/quicksand_v2.3/final_report.tsv")
         _tmp = pd.read_csv(_p, sep="\t")
         _tmp["kmer"] = kmer
         df = pd.concat([df, _tmp], ignore_index=True)
@@ -52,7 +52,7 @@ def _(Path, damage_profiles_hr, kmer, mo, pd, re):
     kraken = pd.DataFrame()
 
     for _kmer in mo.status.progress_bar([f"kmer{x}" for x in [18,19,20,21,22,24,28,30]]):
-        for _report in Path(f"assets/KMER/{kmer}/quicksand_v2.3/stats/").glob("*.report"):
+        for _report in Path(f"assets/SI3_SI4/{kmer}/quicksand_v2.3/stats/").glob("*.report"):
             _tmp = pd.read_csv(_report, sep="\t", skiprows=2)
             _tmp["Kmer"] = _kmer
             _tmp["dataset"] = _report.name.split(".")[0]

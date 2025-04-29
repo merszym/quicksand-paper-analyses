@@ -1,0 +1,16 @@
+RG	RawReads	ReadsL35	FinalNoPCRDups	AvrgTimesSeen	FinalReads	EukaTaxa	Order	Family
+simadna.fq	499908	499908	499898	 1.0	1099	Bovidae	Artiodactyla	Bovidae
+simadna.fq	499908	499908	499898	 1.0	163	Proboscidea	Proboscidea	null
+simadna.fq	499908	499908	499898	 1.0	37	Homininae	Primates	Hominidae
+simadna.fq	499908	499908	499898	 1.0	388	Carnivora	Carnivora	null
+simadna.fq	499908	499908	499898	 1.0	572	Suina	Artiodactyla	null
+simadna_hd.fq	499886	499886	499886	 1.0	121	Proboscidea	Proboscidea	null
+simadna_hd.fq	499886	499886	499886	 1.0	230	Carnivora	Carnivora	null
+simadna_hd.fq	499886	499886	499886	 1.0	27	Homininae	Primates	Hominidae
+simadna_hd.fq	499886	499886	499886	 1.0	417	Suina	Artiodactyla	null
+simadna_hd.fq	499886	499886	499886	 1.0	784	Bovidae	Artiodactyla	Bovidae
+simadna_md.fq	499895	499895	499884	 1.0	1071	Bovidae	Artiodactyla	Bovidae
+simadna_md.fq	499895	499895	499884	 1.0	159	Proboscidea	Proboscidea	null
+simadna_md.fq	499895	499895	499884	 1.0	388	Carnivora	Carnivora	null
+simadna_md.fq	499895	499895	499884	 1.0	41	Homininae	Primates	Hominidae
+simadna_md.fq	499895	499895	499884	 1.0	557	Suina	Artiodactyla	null
