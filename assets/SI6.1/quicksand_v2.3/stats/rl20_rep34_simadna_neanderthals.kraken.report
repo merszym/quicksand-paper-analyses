@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:20Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/a8/8d4b88d9a1e000f69313f4bae7fc32
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl20_rep34_simadna_neanderthals.kraken.report --output output.kraken rl20_rep34_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+15	3	3	270	1	NA	0	no rank	unclassified
+85	17	0	351	1	2.857e-05	1	no rank	root
+85	17	0	351	1	2.857e-05	131567	no rank	  cellular organisms
+85	17	0	351	1	2.857e-05	2759	superkingdom	    Eukaryota
+85	17	0	351	1	2.857e-05	33154	clade	      Opisthokonta
+85	17	0	351	1	2.857e-05	33208	kingdom	        Metazoa
+85	17	0	351	1	2.857e-05	6072	clade	          Eumetazoa
+85	17	0	351	1	2.857e-05	33213	clade	            Bilateria
+85	17	0	351	1	2.857e-05	33511	clade	              Deuterostomia
+85	17	0	351	1	2.857e-05	7711	phylum	                Chordata
+85	17	0	351	1	2.857e-05	89593	subphylum	                  Craniata
+85	17	0	351	1	2.857e-05	7742	clade	                    Vertebrata
+85	17	0	351	1	2.857e-05	7776	clade	                      Gnathostomata
+85	17	0	351	1	2.857e-05	117570	clade	                        Teleostomi
+85	17	0	351	1	2.857e-05	117571	clade	                          Euteleostomi
+85	17	0	351	1	2.857e-05	8287	superclass	                            Sarcopterygii
+85	17	0	351	1	2.857e-05	1338369	clade	                              Dipnotetrapodomorpha
+85	17	0	351	1	2.857e-05	32523	clade	                                Tetrapoda
+85	17	0	351	1	2.857e-05	32524	clade	                                  Amniota
+85	17	0	351	1	2.857e-05	40674	class	                                    Mammalia
+85	17	0	344	1	2.81e-05	32525	clade	                                      Theria
+85	17	0	336	1	2.893e-05	9347	clade	                                        Eutheria
+85	17	0	316	1	2.911e-05	1437010	clade	                                          Boreoeutheria
+85	17	0	256	1	4.87e-05	314146	superorder	                                            Euarchontoglires
+80	16	0	244	1	0.0001337	9443	order	                                              Primates
+80	16	0	244	1	0.0002003	376913	suborder	                                                Haplorrhini
+80	16	0	244	1	0.0002077	314293	infraorder	                                                  Simiiformes
+80	16	0	233	1	0.0003464	9526	parvorder	                                                    Catarrhini
+75	15	0	204	1	0.001461	314295	superfamily	                                                      Hominoidea
+75	15	0	187	1	0.002632	9604	family	                                                        Hominidae
+75	15	2	187	1	0.003718	207598	subfamily	                                                          Homininae
+65	13	6	160	1	0.00986	9605	genus	                                                            Homo
+35	7	4	55	1	0.006345	9606	species	                                                              Homo sapiens
+10	2	2	5	1	0.002734	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5	1	1	11	1	0.004221	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+5	1	0	5	1	9.492e-06	314294	superfamily	                                                      Cercopithecoidea
+5	1	0	5	1	9.492e-06	9527	family	                                                        Cercopithecidae
+5	1	0	3	1	1.443e-05	9569	subfamily	                                                          Colobinae
+5	1	0	2	1	2.64e-05	54136	genus	                                                            Trachypithecus
+5	1	1	2	1	0.0002905	66063	species	                                                              Trachypithecus johnii
+5	1	0	6	1	0.0004964	30656	order	                                              Dermoptera
+5	1	0	6	1	0.0004964	30657	family	                                                Cynocephalidae
+5	1	0	6	1	0.0004964	482536	genus	                                                  Galeopterus
+5	1	1	6	1	0.0004964	482537	species	                                                    Galeopterus variegatus

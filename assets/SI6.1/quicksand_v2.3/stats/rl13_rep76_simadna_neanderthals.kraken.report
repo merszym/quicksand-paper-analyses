@@ -1,0 +1,43 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:54Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ed/872422bc0645098c22726b845ee2b1
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl13_rep76_simadna_neanderthals.kraken.report --output output.kraken rl13_rep76_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+15.38	2	2	290	1	NA	0	no rank	unclassified
+84.62	11	0	166	1.05	1.351e-05	1	no rank	root
+84.62	11	0	166	1.05	1.351e-05	131567	no rank	  cellular organisms
+84.62	11	0	166	1.05	1.351e-05	2759	superkingdom	    Eukaryota
+84.62	11	0	166	1.05	1.351e-05	33154	clade	      Opisthokonta
+84.62	11	0	166	1.05	1.351e-05	33208	kingdom	        Metazoa
+84.62	11	0	166	1.05	1.351e-05	6072	clade	          Eumetazoa
+84.62	11	0	166	1.05	1.351e-05	33213	clade	            Bilateria
+84.62	11	0	166	1.05	1.351e-05	33511	clade	              Deuterostomia
+84.62	11	0	166	1.05	1.351e-05	7711	phylum	                Chordata
+84.62	11	0	166	1.05	1.351e-05	89593	subphylum	                  Craniata
+84.62	11	0	166	1.05	1.351e-05	7742	clade	                    Vertebrata
+84.62	11	0	166	1.05	1.351e-05	7776	clade	                      Gnathostomata
+84.62	11	0	166	1.05	1.351e-05	117570	clade	                        Teleostomi
+84.62	11	0	166	1.05	1.351e-05	117571	clade	                          Euteleostomi
+84.62	11	0	166	1.05	1.351e-05	8287	superclass	                            Sarcopterygii
+84.62	11	0	166	1.05	1.351e-05	1338369	clade	                              Dipnotetrapodomorpha
+84.62	11	0	166	1.05	1.351e-05	32523	clade	                                Tetrapoda
+84.62	11	0	166	1.05	1.351e-05	32524	clade	                                  Amniota
+84.62	11	0	166	1.05	1.351e-05	40674	class	                                    Mammalia
+84.62	11	0	166	1.05	1.356e-05	32525	clade	                                      Theria
+84.62	11	0	161	1.05	1.386e-05	9347	clade	                                        Eutheria
+84.62	11	0	151	1.05	1.391e-05	1437010	clade	                                          Boreoeutheria
+84.62	11	0	121	1.07	2.302e-05	314146	superorder	                                            Euarchontoglires
+84.62	11	0	111	1.07	6.084e-05	9443	order	                                              Primates
+84.62	11	0	111	1.07	9.111e-05	376913	suborder	                                                Haplorrhini
+84.62	11	0	111	1.07	9.448e-05	314293	infraorder	                                                  Simiiformes
+84.62	11	0	87	1.09	0.0001293	9526	parvorder	                                                    Catarrhini
+84.62	11	2	84	1.1	0.0006016	314295	superfamily	                                                      Hominoidea
+61.54	8	0	70	1.11	0.0009852	9604	family	                                                        Hominidae
+61.54	8	0	70	1.11	0.001392	207598	subfamily	                                                          Homininae
+53.85	7	1	65	1.12	0.004005	9605	genus	                                                            Homo
+46.15	6	4	55	1.15	0.006345	9606	species	                                                              Homo sapiens
+7.692	1	1	7	1	0.002686	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+7.692	1	1	7	1	0.003827	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.692	1	0	5	1	0.0003164	9592	genus	                                                            Gorilla
+7.692	1	1	5	1	0.0009193	499232	species	                                                              Gorilla beringei
+7.692	1	0	3	1	4.505e-05	9577	family	                                                        Hylobatidae
+7.692	1	0	2	1	8.537e-05	9578	genus	                                                          Hylobates
+7.692	1	1	2	1	0.0002836	9579	species	                                                            Hylobates agilis

@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:39Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/57/7e536693299c0a648849c91e9cb71f
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep1_simadna_neanderthals.kraken.report --output output.kraken rl17_rep1_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+29.41	5	5	234	1	NA	0	no rank	unclassified
+70.59	12	0	184	1	1.498e-05	1	no rank	root
+70.59	12	0	184	1	1.498e-05	131567	no rank	  cellular organisms
+70.59	12	0	184	1	1.498e-05	2759	superkingdom	    Eukaryota
+70.59	12	0	184	1	1.498e-05	33154	clade	      Opisthokonta
+70.59	12	0	184	1	1.498e-05	33208	kingdom	        Metazoa
+70.59	12	0	184	1	1.498e-05	6072	clade	          Eumetazoa
+70.59	12	0	184	1	1.498e-05	33213	clade	            Bilateria
+70.59	12	0	184	1	1.498e-05	33511	clade	              Deuterostomia
+70.59	12	0	184	1	1.498e-05	7711	phylum	                Chordata
+70.59	12	0	184	1	1.498e-05	89593	subphylum	                  Craniata
+70.59	12	0	184	1	1.498e-05	7742	clade	                    Vertebrata
+70.59	12	0	184	1	1.498e-05	7776	clade	                      Gnathostomata
+70.59	12	0	184	1	1.498e-05	117570	clade	                        Teleostomi
+70.59	12	0	184	1	1.498e-05	117571	clade	                          Euteleostomi
+70.59	12	0	184	1	1.498e-05	8287	superclass	                            Sarcopterygii
+70.59	12	0	184	1	1.498e-05	1338369	clade	                              Dipnotetrapodomorpha
+70.59	12	0	184	1	1.498e-05	32523	clade	                                Tetrapoda
+70.59	12	0	184	1	1.498e-05	32524	clade	                                  Amniota
+70.59	12	0	184	1	1.498e-05	40674	class	                                    Mammalia
+70.59	12	0	184	1	1.503e-05	32525	clade	                                      Theria
+64.71	11	0	163	1	1.404e-05	9347	clade	                                        Eutheria
+64.71	11	0	148	1	1.363e-05	1437010	clade	                                          Boreoeutheria
+58.82	10	1	113	1	2.15e-05	314146	superorder	                                            Euarchontoglires
+52.94	9	0	87	1	4.769e-05	9443	order	                                              Primates
+52.94	9	0	84	1	6.895e-05	376913	suborder	                                                Haplorrhini
+52.94	9	0	84	1	7.15e-05	314293	infraorder	                                                  Simiiformes
+52.94	9	0	79	1	0.0001174	9526	parvorder	                                                    Catarrhini
+47.06	8	0	64	1	0.0004583	314295	superfamily	                                                      Hominoidea
+47.06	8	0	63	1	0.0008867	9604	family	                                                        Hominidae
+47.06	8	1	63	1	0.001252	207598	subfamily	                                                          Homininae
+41.18	7	3	53	1	0.003266	9605	genus	                                                            Homo
+23.53	4	2	26	1	0.003	9606	species	                                                              Homo sapiens
+11.76	2	2	6	1	0.00328	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.882	1	0	5	1	9.492e-06	314294	superfamily	                                                      Cercopithecoidea
+5.882	1	0	5	1	9.492e-06	9527	family	                                                        Cercopithecidae
+5.882	1	0	5	1	1.621e-05	9528	subfamily	                                                          Cercopithecinae
+5.882	1	0	5	1	0.0005485	75565	genus	                                                            Lophocebus
+5.882	1	1	5	1	0.0005485	75566	species	                                                              Lophocebus aterrimus
+5.882	1	0	8	1	1.55e-06	314145	superorder	                                            Laurasiatheria
+5.882	1	0	6	1	4.097e-06	9397	order	                                              Chiroptera
+5.882	1	0	6	1	1.877e-05	30559	suborder	                                                Megachiroptera
+5.882	1	1	6	1	1.877e-05	9398	family	                                                  Pteropodidae
+5.882	1	0	1	1	1.93e-06	9263	clade	                                        Metatheria
+5.882	1	1	1	1	5.24e-06	38609	order	                                          Diprotodontia

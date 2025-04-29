@@ -1,0 +1,65 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:34Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/c7/a0edc2173abd817903792b87a5fc04
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep73_simadna_neanderthals.kraken.report --output output.kraken rl29_rep73_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+13.79	4	4	379	1	NA	0	no rank	unclassified
+86.21	25	0	352	1	2.865e-05	1	no rank	root
+86.21	25	0	352	1	2.865e-05	131567	no rank	  cellular organisms
+86.21	25	0	352	1	2.865e-05	2759	superkingdom	    Eukaryota
+86.21	25	0	352	1	2.865e-05	33154	clade	      Opisthokonta
+86.21	25	0	352	1	2.865e-05	33208	kingdom	        Metazoa
+86.21	25	0	352	1	2.865e-05	6072	clade	          Eumetazoa
+86.21	25	0	352	1	2.865e-05	33213	clade	            Bilateria
+86.21	25	0	352	1	2.865e-05	33511	clade	              Deuterostomia
+86.21	25	0	352	1	2.865e-05	7711	phylum	                Chordata
+86.21	25	0	352	1	2.865e-05	89593	subphylum	                  Craniata
+86.21	25	0	352	1	2.865e-05	7742	clade	                    Vertebrata
+86.21	25	0	352	1	2.865e-05	7776	clade	                      Gnathostomata
+86.21	25	0	352	1	2.865e-05	117570	clade	                        Teleostomi
+86.21	25	0	352	1	2.865e-05	117571	clade	                          Euteleostomi
+86.21	25	0	352	1	2.865e-05	8287	superclass	                            Sarcopterygii
+86.21	25	0	352	1	2.865e-05	1338369	clade	                              Dipnotetrapodomorpha
+86.21	25	0	352	1	2.865e-05	32523	clade	                                Tetrapoda
+86.21	25	0	352	1	2.865e-05	32524	clade	                                  Amniota
+86.21	25	0	352	1	2.865e-05	40674	class	                                    Mammalia
+86.21	25	0	352	1	2.875e-05	32525	clade	                                      Theria
+82.76	24	1	311	1	2.678e-05	9347	clade	                                        Eutheria
+79.31	23	0	300	1	2.764e-05	1437010	clade	                                          Boreoeutheria
+75.86	22	1	256	1	4.87e-05	314146	superorder	                                            Euarchontoglires
+68.97	20	0	240	1	0.0001316	9443	order	                                              Primates
+65.52	19	0	236	1	0.0001937	376913	suborder	                                                Haplorrhini
+65.52	19	0	236	1	0.0002009	314293	infraorder	                                                  Simiiformes
+65.52	19	0	231	1	0.0003434	9526	parvorder	                                                    Catarrhini
+65.52	19	1	230	1	0.001647	314295	superfamily	                                                      Hominoidea
+62.07	18	0	217	1	0.003054	9604	family	                                                        Hominidae
+58.62	17	2	205	1	0.004076	207598	subfamily	                                                          Homininae
+51.72	15	5	175	1	0.01078	9605	genus	                                                            Homo
+34.48	10	9	81	1	0.009345	9606	species	                                                              Homo sapiens
+3.448	1	1	4	1	0.002187	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.448	1	0	5	1	0.0002512	607660	subfamily	                                                          Ponginae
+3.448	1	0	5	1	0.0002512	9599	genus	                                                            Pongo
+3.448	1	1	5	1	0.0005541	9601	species	                                                              Pongo abelii
+3.448	1	0	3	1	5.01e-06	376911	suborder	                                                Strepsirrhini
+3.448	1	0	3	1	5.871e-06	376915	infraorder	                                                  Lemuriformes
+3.448	1	0	3	1	1.52e-05	30615	family	                                                    Cheirogaleidae
+3.448	1	1	3	1	2.754e-05	13149	genus	                                                      Microcebus
+3.448	1	0	4	1	1.221e-06	314147	clade	                                              Glires
+3.448	1	0	4	1	1.305e-06	9989	order	                                                Rodentia
+3.448	1	0	4	1	6.678e-06	33553	suborder	                                                  Sciuromorpha
+3.448	1	0	4	1	7.081e-06	55153	family	                                                    Sciuridae
+3.448	1	0	4	1	2.596e-05	337724	subfamily	                                                      Callosciurinae
+3.448	1	0	4	1	2.596e-05	337736	tribe	                                                        Callosciurini
+3.448	1	0	1	1	5.951e-05	226576	genus	                                                          Tamiops
+3.448	1	1	1	1	0.0001248	1048687	species	                                                            Tamiops maritimus
+3.448	1	0	3	1	5.812e-07	314145	superorder	                                            Laurasiatheria
+3.448	1	0	3	1	2.097e-06	91561	order	                                              Artiodactyla
+3.448	1	0	3	1	7.438e-06	2653789	suborder	                                                Whippomorpha
+3.448	1	0	3	1	7.768e-06	9721	infraorder	                                                  Cetacea
+3.448	1	0	3	1	1.003e-05	9722	parvorder	                                                    Odontoceti
+3.448	1	0	3	1	7.938e-05	9740	family	                                                      Phocoenidae
+3.448	1	0	2	1	9.486e-05	9741	genus	                                                        Phocoena
+3.448	1	1	2	1	0.0004525	27614	species	                                                          Phocoena spinipinnis
+3.448	1	0	1	1	1.93e-06	9263	clade	                                        Metatheria
+3.448	1	0	1	1	5.24e-06	38609	order	                                          Diprotodontia
+3.448	1	0	1	1	8.313e-05	38624	family	                                            Phascolarctidae
+3.448	1	0	1	1	8.313e-05	38625	genus	                                              Phascolarctos
+3.448	1	1	1	1	8.313e-05	38626	species	                                                Phascolarctos cinereus

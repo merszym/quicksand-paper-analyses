@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:22:42Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/f0/b19ef60325247d4acb1fedf6bec8de
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl15_rep41_simadna_neanderthals.kraken.report --output output.kraken rl15_rep41_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+6.667	1	1	197	1	NA	0	no rank	unclassified
+93.33	14	0	226	1.04	1.84e-05	1	no rank	root
+93.33	14	0	226	1.04	1.84e-05	131567	no rank	  cellular organisms
+93.33	14	0	226	1.04	1.84e-05	2759	superkingdom	    Eukaryota
+93.33	14	0	226	1.04	1.84e-05	33154	clade	      Opisthokonta
+93.33	14	0	226	1.04	1.84e-05	33208	kingdom	        Metazoa
+93.33	14	0	226	1.04	1.84e-05	6072	clade	          Eumetazoa
+93.33	14	0	226	1.04	1.84e-05	33213	clade	            Bilateria
+93.33	14	0	226	1.04	1.84e-05	33511	clade	              Deuterostomia
+93.33	14	0	226	1.04	1.84e-05	7711	phylum	                Chordata
+93.33	14	0	226	1.04	1.84e-05	89593	subphylum	                  Craniata
+93.33	14	0	226	1.04	1.84e-05	7742	clade	                    Vertebrata
+93.33	14	0	226	1.04	1.84e-05	7776	clade	                      Gnathostomata
+93.33	14	0	226	1.04	1.84e-05	117570	clade	                        Teleostomi
+93.33	14	0	226	1.04	1.84e-05	117571	clade	                          Euteleostomi
+93.33	14	0	226	1.04	1.84e-05	8287	superclass	                            Sarcopterygii
+93.33	14	0	226	1.04	1.84e-05	1338369	clade	                              Dipnotetrapodomorpha
+93.33	14	0	226	1.04	1.84e-05	32523	clade	                                Tetrapoda
+93.33	14	0	226	1.04	1.84e-05	32524	clade	                                  Amniota
+93.33	14	1	226	1.04	1.84e-05	40674	class	                                    Mammalia
+86.67	13	0	209	1.04	1.707e-05	32525	clade	                                      Theria
+86.67	13	0	202	1.04	1.74e-05	9347	clade	                                        Eutheria
+86.67	13	0	198	1.04	1.824e-05	1437010	clade	                                          Boreoeutheria
+86.67	13	0	176	1.05	3.348e-05	314146	superorder	                                            Euarchontoglires
+80	12	0	142	1.05	7.784e-05	9443	order	                                              Primates
+80	12	0	142	1.05	0.0001166	376913	suborder	                                                Haplorrhini
+80	12	0	142	1.05	0.0001209	314293	infraorder	                                                  Simiiformes
+80	12	0	122	1.06	0.0001814	9526	parvorder	                                                    Catarrhini
+80	12	1	93	1.03	0.000666	314295	superfamily	                                                      Hominoidea
+73.33	11	0	84	1.04	0.001182	9604	family	                                                        Hominidae
+73.33	11	2	80	1.04	0.00159	207598	subfamily	                                                          Homininae
+53.33	8	5	56	1.04	0.003451	9605	genus	                                                            Homo
+20	3	2	36	1	0.004153	9606	species	                                                              Homo sapiens
+6.667	1	1	20	1	0.01093	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.667	1	0	3	1	0.0001898	9592	genus	                                                            Gorilla
+6.667	1	1	3	1	0.0005516	499232	species	                                                              Gorilla beringei
+6.667	1	0	1	1	3.053e-07	314147	clade	                                              Glires
+6.667	1	0	1	1	4.976e-06	9975	order	                                                Lagomorpha
+6.667	1	0	1	1	1.09e-05	9976	family	                                                  Ochotonidae
+6.667	1	0	1	1	1.09e-05	9977	genus	                                                    Ochotona
+6.667	1	1	1	1	0.0001188	130830	species	                                                      Ochotona erythrotis

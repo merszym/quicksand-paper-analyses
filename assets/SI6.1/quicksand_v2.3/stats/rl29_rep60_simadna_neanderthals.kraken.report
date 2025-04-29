@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:02Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ee/b887d0fe987ff68b602a4857976592
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep60_simadna_neanderthals.kraken.report --output output.kraken rl29_rep60_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10.34	3	3	460	1	NA	0	no rank	unclassified
+89.66	26	0	487	1	3.964e-05	1	no rank	root
+89.66	26	0	487	1	3.964e-05	131567	no rank	  cellular organisms
+89.66	26	0	487	1	3.964e-05	2759	superkingdom	    Eukaryota
+89.66	26	0	487	1	3.964e-05	33154	clade	      Opisthokonta
+89.66	26	0	487	1	3.964e-05	33208	kingdom	        Metazoa
+89.66	26	0	487	1	3.964e-05	6072	clade	          Eumetazoa
+89.66	26	0	487	1	3.964e-05	33213	clade	            Bilateria
+89.66	26	0	487	1	3.964e-05	33511	clade	              Deuterostomia
+89.66	26	0	487	1	3.964e-05	7711	phylum	                Chordata
+89.66	26	0	487	1	3.964e-05	89593	subphylum	                  Craniata
+89.66	26	0	487	1	3.964e-05	7742	clade	                    Vertebrata
+89.66	26	0	487	1	3.964e-05	7776	clade	                      Gnathostomata
+89.66	26	0	487	1	3.964e-05	117570	clade	                        Teleostomi
+89.66	26	0	487	1	3.964e-05	117571	clade	                          Euteleostomi
+89.66	26	0	487	1	3.964e-05	8287	superclass	                            Sarcopterygii
+89.66	26	0	487	1	3.964e-05	1338369	clade	                              Dipnotetrapodomorpha
+89.66	26	0	487	1	3.964e-05	32523	clade	                                Tetrapoda
+89.66	26	0	487	1	3.964e-05	32524	clade	                                  Amniota
+89.66	26	0	487	1	3.964e-05	40674	class	                                    Mammalia
+89.66	26	0	487	1	3.978e-05	32525	clade	                                      Theria
+89.66	26	0	481	1	4.142e-05	9347	clade	                                        Eutheria
+89.66	26	1	474	1	4.367e-05	1437010	clade	                                          Boreoeutheria
+82.76	24	0	447	1	8.503e-05	314146	superorder	                                            Euarchontoglires
+82.76	24	0	440	1	0.0002412	9443	order	                                              Primates
+82.76	24	0	435	1	0.000357	376913	suborder	                                                Haplorrhini
+82.76	24	0	432	1	0.0003677	314293	infraorder	                                                  Simiiformes
+82.76	24	1	409	1	0.000608	9526	parvorder	                                                    Catarrhini
+75.86	22	1	394	1	0.002822	314295	superfamily	                                                      Hominoidea
+72.41	21	0	356	1	0.005011	9604	family	                                                        Hominidae
+72.41	21	3	344	1	0.006839	207598	subfamily	                                                          Homininae
+58.62	17	5	272	1	0.01676	9605	genus	                                                            Homo
+41.38	12	7	141	1	0.01627	9606	species	                                                              Homo sapiens
+17.24	5	5	45	1	0.0246	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.448	1	0	5	1	0.0003409	9596	genus	                                                            Pan
+3.448	1	1	5	1	0.0008354	9597	species	                                                              Pan paniscus
+3.448	1	0	10	1	1.898e-05	314294	superfamily	                                                      Cercopithecoidea
+3.448	1	0	10	1	1.898e-05	9527	family	                                                        Cercopithecidae
+3.448	1	0	9	1	4.329e-05	9569	subfamily	                                                          Colobinae
+3.448	1	0	9	1	0.0001188	54136	genus	                                                            Trachypithecus
+3.448	1	1	3	1	0.0004357	66063	species	                                                              Trachypithecus johnii
+3.448	1	0	6	1	1.162e-06	314145	superorder	                                            Laurasiatheria
+3.448	1	0	6	1	4.195e-06	91561	order	                                              Artiodactyla
+3.448	1	0	6	1	6.608e-06	9845	suborder	                                                Ruminantia
+3.448	1	1	6	1	6.899e-06	35500	infraorder	                                                  Pecora

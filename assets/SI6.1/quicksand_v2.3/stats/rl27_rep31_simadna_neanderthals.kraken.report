@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:11Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/df/4f66fd70590c86f6b8077acc8a5406
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl27_rep31_simadna_neanderthals.kraken.report --output output.kraken rl27_rep31_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+3.704	1	1	327	1	NA	0	no rank	unclassified
+96.3	26	0	417	1.06	3.394e-05	1	no rank	root
+96.3	26	0	417	1.06	3.394e-05	131567	no rank	  cellular organisms
+96.3	26	0	417	1.06	3.394e-05	2759	superkingdom	    Eukaryota
+96.3	26	0	417	1.06	3.394e-05	33154	clade	      Opisthokonta
+96.3	26	0	417	1.06	3.394e-05	33208	kingdom	        Metazoa
+96.3	26	0	417	1.06	3.394e-05	6072	clade	          Eumetazoa
+96.3	26	0	417	1.06	3.394e-05	33213	clade	            Bilateria
+96.3	26	0	417	1.06	3.394e-05	33511	clade	              Deuterostomia
+96.3	26	0	417	1.06	3.394e-05	7711	phylum	                Chordata
+96.3	26	0	417	1.06	3.394e-05	89593	subphylum	                  Craniata
+96.3	26	0	417	1.06	3.394e-05	7742	clade	                    Vertebrata
+96.3	26	0	417	1.06	3.394e-05	7776	clade	                      Gnathostomata
+96.3	26	0	417	1.06	3.394e-05	117570	clade	                        Teleostomi
+96.3	26	0	417	1.06	3.394e-05	117571	clade	                          Euteleostomi
+96.3	26	0	417	1.06	3.394e-05	8287	superclass	                            Sarcopterygii
+96.3	26	0	417	1.06	3.394e-05	1338369	clade	                              Dipnotetrapodomorpha
+96.3	26	0	417	1.06	3.394e-05	32523	clade	                                Tetrapoda
+96.3	26	0	417	1.06	3.394e-05	32524	clade	                                  Amniota
+96.3	26	0	417	1.06	3.394e-05	40674	class	                                    Mammalia
+96.3	26	0	417	1.06	3.406e-05	32525	clade	                                      Theria
+96.3	26	0	413	1.06	3.557e-05	9347	clade	                                        Eutheria
+96.3	26	0	406	1.06	3.74e-05	1437010	clade	                                          Boreoeutheria
+92.59	25	0	362	1.07	6.886e-05	314146	superorder	                                            Euarchontoglires
+88.89	24	0	338	1.07	0.0001853	9443	order	                                              Primates
+88.89	24	0	334	1.07	0.0002741	376913	suborder	                                                Haplorrhini
+88.89	24	0	334	1.07	0.0002843	314293	infraorder	                                                  Simiiformes
+88.89	24	0	325	1.07	0.0004831	9526	parvorder	                                                    Catarrhini
+88.89	24	0	289	1.06	0.00207	314295	superfamily	                                                      Hominoidea
+88.89	24	0	286	1.06	0.004025	9604	family	                                                        Hominidae
+88.89	24	2	282	1.06	0.005606	207598	subfamily	                                                          Homininae
+81.48	22	11	224	1.04	0.0138	9605	genus	                                                            Homo
+40.74	11	9	84	1	0.009691	9606	species	                                                              Homo sapiens
+7.407	2	2	21	1	0.01148	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.704	1	0	8	1	2.442e-06	314147	clade	                                              Glires
+3.704	1	0	8	1	2.611e-06	9989	order	                                                Rodentia
+3.704	1	0	8	1	4.288e-06	1963758	suborder	                                                  Myomorpha
+3.704	1	0	8	1	4.536e-06	337687	clade	                                                    Muroidea
+3.704	1	0	8	1	1.292e-05	337677	family	                                                      Cricetidae
+3.704	1	0	8	1	2.795e-05	39087	subfamily	                                                        Arvicolinae
+3.704	1	0	6	1	6.299e-05	10053	genus	                                                          Microtus
+3.704	1	1	4	1	0.0005532	100899	species	                                                            Microtus kikuchii
+3.704	1	1	1	1	1.937e-07	314145	superorder	                                            Laurasiatheria

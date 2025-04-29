@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:26Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/60/5c3a93fc62b000491af5ec5f25285a
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl27_rep27_simadna_neanderthals.kraken.report --output output.kraken rl27_rep27_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+3.704	1	1	293	1	NA	0	no rank	unclassified
+96.3	26	0	612	1.02	4.982e-05	1	no rank	root
+96.3	26	0	612	1.02	4.982e-05	131567	no rank	  cellular organisms
+96.3	26	0	612	1.02	4.982e-05	2759	superkingdom	    Eukaryota
+96.3	26	0	612	1.02	4.982e-05	33154	clade	      Opisthokonta
+96.3	26	0	612	1.02	4.982e-05	33208	kingdom	        Metazoa
+96.3	26	0	612	1.02	4.982e-05	6072	clade	          Eumetazoa
+96.3	26	0	612	1.02	4.982e-05	33213	clade	            Bilateria
+96.3	26	0	612	1.02	4.982e-05	33511	clade	              Deuterostomia
+96.3	26	0	612	1.02	4.982e-05	7711	phylum	                Chordata
+96.3	26	0	612	1.02	4.982e-05	89593	subphylum	                  Craniata
+96.3	26	0	612	1.02	4.982e-05	7742	clade	                    Vertebrata
+96.3	26	0	612	1.02	4.982e-05	7776	clade	                      Gnathostomata
+96.3	26	0	612	1.02	4.982e-05	117570	clade	                        Teleostomi
+96.3	26	0	612	1.02	4.982e-05	117571	clade	                          Euteleostomi
+96.3	26	0	612	1.02	4.982e-05	8287	superclass	                            Sarcopterygii
+96.3	26	0	612	1.02	4.982e-05	1338369	clade	                              Dipnotetrapodomorpha
+96.3	26	0	612	1.02	4.982e-05	32523	clade	                                Tetrapoda
+96.3	26	0	612	1.02	4.982e-05	32524	clade	                                  Amniota
+96.3	26	0	612	1.02	4.982e-05	40674	class	                                    Mammalia
+96.3	26	0	612	1.02	4.999e-05	32525	clade	                                      Theria
+96.3	26	0	546	1.02	4.702e-05	9347	clade	                                        Eutheria
+96.3	26	1	533	1.02	4.91e-05	1437010	clade	                                          Boreoeutheria
+92.59	25	1	482	1.02	9.169e-05	314146	superorder	                                            Euarchontoglires
+88.89	24	0	452	1.02	0.0002478	9443	order	                                              Primates
+88.89	24	0	452	1.02	0.000371	376913	suborder	                                                Haplorrhini
+88.89	24	0	452	1.02	0.0003847	314293	infraorder	                                                  Simiiformes
+85.19	23	1	425	1.03	0.0006318	9526	parvorder	                                                    Catarrhini
+77.78	21	0	407	1.03	0.002915	314295	superfamily	                                                      Hominoidea
+74.07	20	0	387	1.03	0.005447	9604	family	                                                        Hominidae
+74.07	20	1	379	1.03	0.007535	207598	subfamily	                                                          Homininae
+70.37	19	10	326	1.03	0.02009	9605	genus	                                                            Homo
+33.33	9	3	68	1	0.007845	9606	species	                                                              Homo sapiens
+22.22	6	6	38	1	0.02078	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.704	1	0	6	1	9.009e-05	9577	family	                                                        Hylobatidae
+3.704	1	1	2	1	0.0001376	325167	genus	                                                          Hoolock
+3.704	1	0	5	1	9.492e-06	314294	superfamily	                                                      Cercopithecoidea
+3.704	1	0	5	1	9.492e-06	9527	family	                                                        Cercopithecidae
+3.704	1	0	5	1	1.621e-05	9528	subfamily	                                                          Cercopithecinae
+3.704	1	1	5	1	4.736e-05	9539	genus	                                                            Macaca
+3.704	1	1	4	1	8.078e-06	9479	parvorder	                                                    Platyrrhini

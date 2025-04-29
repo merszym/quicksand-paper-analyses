@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:03Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/8b/5ee130732c149ffd6eb3a00e45bb8a
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl28_rep33_simadna_neanderthals.kraken.report --output output.kraken rl28_rep33_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	28	0	513	1.02	4.176e-05	1	no rank	root
+100	28	0	513	1.02	4.176e-05	131567	no rank	  cellular organisms
+100	28	0	513	1.02	4.176e-05	2759	superkingdom	    Eukaryota
+100	28	0	513	1.02	4.176e-05	33154	clade	      Opisthokonta
+100	28	0	513	1.02	4.176e-05	33208	kingdom	        Metazoa
+100	28	0	513	1.02	4.176e-05	6072	clade	          Eumetazoa
+100	28	0	513	1.02	4.176e-05	33213	clade	            Bilateria
+100	28	0	513	1.02	4.176e-05	33511	clade	              Deuterostomia
+100	28	0	513	1.02	4.176e-05	7711	phylum	                Chordata
+100	28	0	513	1.02	4.176e-05	89593	subphylum	                  Craniata
+100	28	0	513	1.02	4.176e-05	7742	clade	                    Vertebrata
+100	28	0	513	1.02	4.176e-05	7776	clade	                      Gnathostomata
+100	28	0	513	1.02	4.176e-05	117570	clade	                        Teleostomi
+100	28	0	513	1.02	4.176e-05	117571	clade	                          Euteleostomi
+100	28	0	513	1.02	4.176e-05	8287	superclass	                            Sarcopterygii
+100	28	0	513	1.02	4.176e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	28	0	513	1.02	4.176e-05	32523	clade	                                Tetrapoda
+100	28	0	513	1.02	4.176e-05	32524	clade	                                  Amniota
+100	28	0	513	1.02	4.176e-05	40674	class	                                    Mammalia
+100	28	0	513	1.02	4.191e-05	32525	clade	                                      Theria
+100	28	0	513	1.02	4.418e-05	9347	clade	                                        Eutheria
+100	28	0	505	1.02	4.652e-05	1437010	clade	                                          Boreoeutheria
+100	28	1	478	1.02	9.093e-05	314146	superorder	                                            Euarchontoglires
+92.86	26	0	456	1.02	0.00025	9443	order	                                              Primates
+92.86	26	0	452	1.02	0.000371	376913	suborder	                                                Haplorrhini
+92.86	26	0	452	1.02	0.0003847	314293	infraorder	                                                  Simiiformes
+92.86	26	0	434	1.03	0.0006452	9526	parvorder	                                                    Catarrhini
+92.86	26	0	402	1.03	0.002879	314295	superfamily	                                                      Hominoidea
+92.86	26	0	386	1.03	0.005433	9604	family	                                                        Hominidae
+92.86	26	2	385	1.03	0.007654	207598	subfamily	                                                          Homininae
+78.57	22	12	293	1.03	0.01806	9605	genus	                                                            Homo
+32.14	9	4	87	1	0.01004	9606	species	                                                              Homo sapiens
+17.86	5	5	42	1	0.02296	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.571	1	1	9	1	0.008189	1425170	species	                                                              Homo heidelbergensis
+3.571	1	0	16	1	0.001012	9592	genus	                                                            Gorilla
+3.571	1	0	14	1	0.001982	9593	species	                                                              Gorilla gorilla
+3.571	1	1	13	1	0.01477	9595	subspecies	                                                                Gorilla gorilla gorilla
+3.571	1	0	13	1	0.0008863	9596	genus	                                                            Pan
+3.571	1	1	1	1	0.0001636	9598	species	                                                              Pan troglodytes
+3.571	1	0	14	1	4.274e-06	314147	clade	                                              Glires
+3.571	1	0	8	1	2.611e-06	9989	order	                                                Rodentia
+3.571	1	0	8	1	4.288e-06	1963758	suborder	                                                  Myomorpha
+3.571	1	0	6	1	6.086e-05	1963761	superfamily	                                                    Dipodoidea
+3.571	1	0	6	1	6.086e-05	30648	family	                                                      Dipodidae
+3.571	1	0	6	1	0.0001922	52905	subfamily	                                                        Sicistinae
+3.571	1	0	6	1	0.0001922	52906	genus	                                                          Sicista
+3.571	1	1	6	1	0.0008114	489448	species	                                                            Sicista betulina

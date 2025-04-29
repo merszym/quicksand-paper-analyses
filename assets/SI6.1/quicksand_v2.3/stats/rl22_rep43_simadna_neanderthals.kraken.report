@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:22Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/90/7b2b8dcaf0d64370b590b8f56dfc73
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl22_rep43_simadna_neanderthals.kraken.report --output output.kraken rl22_rep43_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+9.091	2	2	246	1	NA	0	no rank	unclassified
+90.91	20	0	339	1	2.759e-05	1	no rank	root
+90.91	20	0	339	1	2.759e-05	131567	no rank	  cellular organisms
+90.91	20	0	339	1	2.759e-05	2759	superkingdom	    Eukaryota
+90.91	20	0	339	1	2.759e-05	33154	clade	      Opisthokonta
+90.91	20	0	339	1	2.759e-05	33208	kingdom	        Metazoa
+90.91	20	0	339	1	2.759e-05	6072	clade	          Eumetazoa
+90.91	20	0	339	1	2.759e-05	33213	clade	            Bilateria
+90.91	20	0	339	1	2.759e-05	33511	clade	              Deuterostomia
+90.91	20	0	339	1	2.759e-05	7711	phylum	                Chordata
+90.91	20	0	339	1	2.759e-05	89593	subphylum	                  Craniata
+90.91	20	0	339	1	2.759e-05	7742	clade	                    Vertebrata
+90.91	20	0	339	1	2.759e-05	7776	clade	                      Gnathostomata
+90.91	20	0	339	1	2.759e-05	117570	clade	                        Teleostomi
+90.91	20	0	339	1	2.759e-05	117571	clade	                          Euteleostomi
+90.91	20	0	339	1	2.759e-05	8287	superclass	                            Sarcopterygii
+90.91	20	0	339	1	2.759e-05	1338369	clade	                              Dipnotetrapodomorpha
+90.91	20	0	339	1	2.759e-05	32523	clade	                                Tetrapoda
+90.91	20	0	339	1	2.759e-05	32524	clade	                                  Amniota
+90.91	20	0	339	1	2.759e-05	40674	class	                                    Mammalia
+90.91	20	0	339	1	2.769e-05	32525	clade	                                      Theria
+90.91	20	0	332	1	2.859e-05	9347	clade	                                        Eutheria
+90.91	20	1	319	1	2.939e-05	1437010	clade	                                          Boreoeutheria
+86.36	19	1	286	1	5.441e-05	314146	superorder	                                            Euarchontoglires
+81.82	18	0	282	1	0.0001546	9443	order	                                              Primates
+81.82	18	0	281	1	0.0002306	376913	suborder	                                                Haplorrhini
+81.82	18	0	281	1	0.0002392	314293	infraorder	                                                  Simiiformes
+81.82	18	2	281	1	0.0004177	9526	parvorder	                                                    Catarrhini
+63.64	14	0	237	1	0.001697	314295	superfamily	                                                      Hominoidea
+63.64	14	0	232	1	0.003265	9604	family	                                                        Hominidae
+63.64	14	3	232	1	0.004612	207598	subfamily	                                                          Homininae
+50	11	5	193	1	0.01189	9605	genus	                                                            Homo
+27.27	6	6	43	1	0.004961	9606	species	                                                              Homo sapiens
+9.091	2	0	14	1	2.658e-05	314294	superfamily	                                                      Cercopithecoidea
+9.091	2	0	14	1	2.658e-05	9527	family	                                                        Cercopithecidae
+4.545	1	0	9	1	4.329e-05	9569	subfamily	                                                          Colobinae
+4.545	1	0	9	1	0.0009236	591932	genus	                                                            Piliocolobus
+4.545	1	1	9	1	0.0009236	164648	species	                                                              Piliocolobus badius
+4.545	1	0	5	1	1.621e-05	9528	subfamily	                                                          Cercopithecinae
+4.545	1	0	2	1	1.894e-05	9539	genus	                                                            Macaca
+4.545	1	1	2	1	0.0002547	9546	species	                                                              Macaca sylvanus

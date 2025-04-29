@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:11Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/00/6070166ce851d84e5e3dea36fd1366
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep99_simadna_neanderthals.kraken.report --output output.kraken rl17_rep99_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+5.882	1	1	264	1	NA	0	no rank	unclassified
+94.12	16	0	252	1	2.051e-05	1	no rank	root
+94.12	16	0	252	1	2.051e-05	131567	no rank	  cellular organisms
+94.12	16	0	252	1	2.051e-05	2759	superkingdom	    Eukaryota
+94.12	16	0	252	1	2.051e-05	33154	clade	      Opisthokonta
+94.12	16	0	252	1	2.051e-05	33208	kingdom	        Metazoa
+94.12	16	0	252	1	2.051e-05	6072	clade	          Eumetazoa
+94.12	16	0	252	1	2.051e-05	33213	clade	            Bilateria
+94.12	16	0	252	1	2.051e-05	33511	clade	              Deuterostomia
+94.12	16	0	252	1	2.051e-05	7711	phylum	                Chordata
+94.12	16	0	252	1	2.051e-05	89593	subphylum	                  Craniata
+94.12	16	0	252	1	2.051e-05	7742	clade	                    Vertebrata
+94.12	16	0	252	1	2.051e-05	7776	clade	                      Gnathostomata
+94.12	16	0	252	1	2.051e-05	117570	clade	                        Teleostomi
+94.12	16	0	252	1	2.051e-05	117571	clade	                          Euteleostomi
+94.12	16	0	252	1	2.051e-05	8287	superclass	                            Sarcopterygii
+94.12	16	0	252	1	2.051e-05	1338369	clade	                              Dipnotetrapodomorpha
+94.12	16	0	252	1	2.051e-05	32523	clade	                                Tetrapoda
+94.12	16	0	252	1	2.051e-05	32524	clade	                                  Amniota
+94.12	16	0	252	1	2.051e-05	40674	class	                                    Mammalia
+94.12	16	0	252	1	2.059e-05	32525	clade	                                      Theria
+94.12	16	0	246	1	2.118e-05	9347	clade	                                        Eutheria
+94.12	16	1	246	1	2.266e-05	1437010	clade	                                          Boreoeutheria
+82.35	14	0	211	1	4.014e-05	314146	superorder	                                            Euarchontoglires
+82.35	14	0	209	1	0.0001146	9443	order	                                              Primates
+82.35	14	0	200	1	0.0001642	376913	suborder	                                                Haplorrhini
+82.35	14	0	197	1	0.0001677	314293	infraorder	                                                  Simiiformes
+82.35	14	1	189	1	0.000281	9526	parvorder	                                                    Catarrhini
+76.47	13	0	167	1	0.001196	314295	superfamily	                                                      Hominoidea
+76.47	13	0	147	1	0.002069	9604	family	                                                        Hominidae
+76.47	13	2	139	1	0.002763	207598	subfamily	                                                          Homininae
+64.71	11	8	107	1	0.006594	9605	genus	                                                            Homo
+17.65	3	1	4	1	0.0004615	9606	species	                                                              Homo sapiens
+5.882	1	1	2	1	0.001093	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.882	1	1	1	1	0.0003837	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+5.882	1	0	8	1	1.55e-06	314145	superorder	                                            Laurasiatheria
+5.882	1	0	3	1	2.097e-06	91561	order	                                              Artiodactyla
+5.882	1	0	3	1	7.438e-06	2653789	suborder	                                                Whippomorpha
+5.882	1	0	3	1	7.768e-06	9721	infraorder	                                                  Cetacea
+5.882	1	0	3	1	3.872e-05	9761	parvorder	                                                    Mysticeti
+5.882	1	0	3	1	0.0004093	226940	family	                                                      Neobalaenidae
+5.882	1	0	3	1	0.0004093	27603	genus	                                                        Caperea
+5.882	1	1	3	1	0.0004093	27604	species	                                                          Caperea marginata

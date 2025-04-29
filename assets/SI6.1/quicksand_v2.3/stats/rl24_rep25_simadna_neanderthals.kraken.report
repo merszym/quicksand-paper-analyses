@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:11Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/37/deb9932607abdd7f812323154c4b9c
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl24_rep25_simadna_neanderthals.kraken.report --output output.kraken rl24_rep25_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+4.167	1	1	418	1	NA	0	no rank	unclassified
+95.83	23	0	429	1	3.492e-05	1	no rank	root
+95.83	23	0	429	1	3.492e-05	131567	no rank	  cellular organisms
+95.83	23	0	429	1	3.492e-05	2759	superkingdom	    Eukaryota
+95.83	23	0	429	1	3.492e-05	33154	clade	      Opisthokonta
+95.83	23	0	429	1	3.492e-05	33208	kingdom	        Metazoa
+95.83	23	0	429	1	3.492e-05	6072	clade	          Eumetazoa
+95.83	23	0	429	1	3.492e-05	33213	clade	            Bilateria
+95.83	23	0	429	1	3.492e-05	33511	clade	              Deuterostomia
+95.83	23	0	429	1	3.492e-05	7711	phylum	                Chordata
+95.83	23	0	429	1	3.492e-05	89593	subphylum	                  Craniata
+95.83	23	0	429	1	3.492e-05	7742	clade	                    Vertebrata
+95.83	23	0	429	1	3.492e-05	7776	clade	                      Gnathostomata
+95.83	23	0	429	1	3.492e-05	117570	clade	                        Teleostomi
+95.83	23	0	429	1	3.492e-05	117571	clade	                          Euteleostomi
+95.83	23	0	429	1	3.492e-05	8287	superclass	                            Sarcopterygii
+95.83	23	0	429	1	3.492e-05	1338369	clade	                              Dipnotetrapodomorpha
+95.83	23	0	429	1	3.492e-05	32523	clade	                                Tetrapoda
+95.83	23	0	429	1	3.492e-05	32524	clade	                                  Amniota
+95.83	23	0	429	1	3.492e-05	40674	class	                                    Mammalia
+95.83	23	0	429	1	3.504e-05	32525	clade	                                      Theria
+95.83	23	0	420	1	3.617e-05	9347	clade	                                        Eutheria
+95.83	23	0	407	1	3.749e-05	1437010	clade	                                          Boreoeutheria
+91.67	22	0	352	1	6.696e-05	314146	superorder	                                            Euarchontoglires
+91.67	22	0	345	1	0.0001891	9443	order	                                              Primates
+91.67	22	0	344	1	0.0002824	376913	suborder	                                                Haplorrhini
+91.67	22	0	344	1	0.0002928	314293	infraorder	                                                  Simiiformes
+91.67	22	0	337	1	0.000501	9526	parvorder	                                                    Catarrhini
+87.5	21	0	300	1	0.002148	314295	superfamily	                                                      Hominoidea
+87.5	21	0	262	1	0.003688	9604	family	                                                        Hominidae
+87.5	21	1	262	1	0.005209	207598	subfamily	                                                          Homininae
+83.33	20	12	213	1	0.01313	9605	genus	                                                            Homo
+33.33	8	5	65	1	0.007499	9606	species	                                                              Homo sapiens
+12.5	3	3	27	1	0.01476	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.167	1	0	1	1	1.898e-06	314294	superfamily	                                                      Cercopithecoidea
+4.167	1	1	1	1	1.898e-06	9527	family	                                                        Cercopithecidae
+4.167	1	0	3	1	5.812e-07	314145	superorder	                                            Laurasiatheria
+4.167	1	0	3	1	2.097e-06	91561	order	                                              Artiodactyla
+4.167	1	0	3	1	7.438e-06	2653789	suborder	                                                Whippomorpha
+4.167	1	0	3	1	7.768e-06	9721	infraorder	                                                  Cetacea
+4.167	1	0	3	1	1.003e-05	9722	parvorder	                                                    Odontoceti
+4.167	1	0	3	1	7.938e-05	9740	family	                                                      Phocoenidae
+4.167	1	0	3	1	0.0001423	9741	genus	                                                        Phocoena
+4.167	1	1	2	1	0.0004525	27614	species	                                                          Phocoena spinipinnis

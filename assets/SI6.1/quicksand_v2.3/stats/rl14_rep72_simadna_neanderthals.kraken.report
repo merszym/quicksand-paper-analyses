@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:22:33Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/9e/8574971f4bfc567193f19e30c533e1
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl14_rep72_simadna_neanderthals.kraken.report --output output.kraken rl14_rep72_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+7.143	1	1	171	1	NA	0	no rank	unclassified
+92.86	13	0	256	1	2.084e-05	1	no rank	root
+92.86	13	0	256	1	2.084e-05	131567	no rank	  cellular organisms
+92.86	13	0	256	1	2.084e-05	2759	superkingdom	    Eukaryota
+92.86	13	0	256	1	2.084e-05	33154	clade	      Opisthokonta
+92.86	13	0	256	1	2.084e-05	33208	kingdom	        Metazoa
+92.86	13	0	256	1	2.084e-05	6072	clade	          Eumetazoa
+92.86	13	0	256	1	2.084e-05	33213	clade	            Bilateria
+92.86	13	0	256	1	2.084e-05	33511	clade	              Deuterostomia
+92.86	13	0	256	1	2.084e-05	7711	phylum	                Chordata
+92.86	13	0	256	1	2.084e-05	89593	subphylum	                  Craniata
+92.86	13	0	256	1	2.084e-05	7742	clade	                    Vertebrata
+92.86	13	0	256	1	2.084e-05	7776	clade	                      Gnathostomata
+92.86	13	0	256	1	2.084e-05	117570	clade	                        Teleostomi
+92.86	13	0	256	1	2.084e-05	117571	clade	                          Euteleostomi
+92.86	13	0	256	1	2.084e-05	8287	superclass	                            Sarcopterygii
+92.86	13	0	256	1	2.084e-05	1338369	clade	                              Dipnotetrapodomorpha
+92.86	13	0	256	1	2.084e-05	32523	clade	                                Tetrapoda
+92.86	13	0	256	1	2.084e-05	32524	clade	                                  Amniota
+92.86	13	0	256	1	2.084e-05	40674	class	                                    Mammalia
+92.86	13	0	256	1	2.091e-05	32525	clade	                                      Theria
+92.86	13	0	248	1	2.136e-05	9347	clade	                                        Eutheria
+92.86	13	0	243	1	2.239e-05	1437010	clade	                                          Boreoeutheria
+92.86	13	0	190	1	3.614e-05	314146	superorder	                                            Euarchontoglires
+85.71	12	0	162	1	8.88e-05	9443	order	                                              Primates
+85.71	12	0	161	1	0.0001321	376913	suborder	                                                Haplorrhini
+85.71	12	0	161	1	0.000137	314293	infraorder	                                                  Simiiformes
+85.71	12	0	161	1	0.0002393	9526	parvorder	                                                    Catarrhini
+85.71	12	0	161	1	0.001153	314295	superfamily	                                                      Hominoidea
+85.71	12	0	155	1	0.002182	9604	family	                                                        Hominidae
+85.71	12	0	145	1	0.002883	207598	subfamily	                                                          Homininae
+85.71	12	9	136	1	0.008381	9605	genus	                                                            Homo
+21.43	3	1	29	1	0.003346	9606	species	                                                              Homo sapiens
+14.29	2	2	12	1	0.006561	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.143	1	0	12	1	3.664e-06	314147	clade	                                              Glires
+7.143	1	0	12	1	3.916e-06	9989	order	                                                Rodentia
+7.143	1	0	12	1	6.432e-06	1963758	suborder	                                                  Myomorpha
+7.143	1	0	12	1	6.804e-06	337687	clade	                                                    Muroidea
+7.143	1	0	12	1	1.251e-05	10066	family	                                                      Muridae
+7.143	1	0	12	1	1.378e-05	39107	subfamily	                                                        Murinae
+7.143	1	0	12	1	0.0004694	83760	genus	                                                          Sundamys
+7.143	1	1	12	1	0.002118	83761	species	                                                            Sundamys muelleri

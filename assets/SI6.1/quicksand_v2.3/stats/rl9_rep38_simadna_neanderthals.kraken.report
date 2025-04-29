@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:19:39Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/a8/0d8836a79f375d674eadbc1dd96ffe
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl9_rep38_simadna_neanderthals.kraken.report --output output.kraken rl9_rep38_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+11.11	1	1	116	1	NA	0	no rank	unclassified
+88.89	8	0	165	1.16	1.343e-05	1	no rank	root
+88.89	8	0	165	1.16	1.343e-05	131567	no rank	  cellular organisms
+88.89	8	0	165	1.16	1.343e-05	2759	superkingdom	    Eukaryota
+88.89	8	0	165	1.16	1.343e-05	33154	clade	      Opisthokonta
+88.89	8	0	165	1.16	1.343e-05	33208	kingdom	        Metazoa
+88.89	8	0	165	1.16	1.343e-05	6072	clade	          Eumetazoa
+88.89	8	0	165	1.16	1.343e-05	33213	clade	            Bilateria
+88.89	8	0	165	1.16	1.343e-05	33511	clade	              Deuterostomia
+88.89	8	0	165	1.16	1.343e-05	7711	phylum	                Chordata
+88.89	8	0	165	1.16	1.343e-05	89593	subphylum	                  Craniata
+88.89	8	0	165	1.16	1.343e-05	7742	clade	                    Vertebrata
+88.89	8	0	165	1.16	1.343e-05	7776	clade	                      Gnathostomata
+88.89	8	0	165	1.16	1.343e-05	117570	clade	                        Teleostomi
+88.89	8	0	165	1.16	1.343e-05	117571	clade	                          Euteleostomi
+88.89	8	0	165	1.16	1.343e-05	8287	superclass	                            Sarcopterygii
+88.89	8	0	165	1.16	1.343e-05	1338369	clade	                              Dipnotetrapodomorpha
+88.89	8	0	165	1.16	1.343e-05	32523	clade	                                Tetrapoda
+88.89	8	0	165	1.16	1.343e-05	32524	clade	                                  Amniota
+88.89	8	0	165	1.16	1.343e-05	40674	class	                                    Mammalia
+88.89	8	1	158	1.16	1.291e-05	32525	clade	                                      Theria
+77.78	7	0	142	1.18	1.223e-05	9347	clade	                                        Eutheria
+77.78	7	0	138	1.19	1.271e-05	1437010	clade	                                          Boreoeutheria
+77.78	7	0	122	1.21	2.321e-05	314146	superorder	                                            Euarchontoglires
+77.78	7	0	117	1.22	6.413e-05	9443	order	                                              Primates
+77.78	7	0	117	1.22	9.603e-05	376913	suborder	                                                Haplorrhini
+66.67	6	0	115	1.23	9.788e-05	314293	infraorder	                                                  Simiiformes
+55.56	5	0	99	1.26	0.0001472	9526	parvorder	                                                    Catarrhini
+55.56	5	0	94	1.28	0.0006732	314295	superfamily	                                                      Hominoidea
+55.56	5	0	91	1.29	0.001281	9604	family	                                                        Hominidae
+55.56	5	1	91	1.29	0.001809	207598	subfamily	                                                          Homininae
+44.44	4	1	71	1.37	0.004375	9605	genus	                                                            Homo
+33.33	3	2	22	1.68	0.002538	9606	species	                                                              Homo sapiens
+11.11	1	1	5	1	0.002734	63221	subspecies	                                                                Homo sapiens neanderthalensis
+11.11	1	0	15	1	3.029e-05	9479	parvorder	                                                    Platyrrhini
+11.11	1	0	13	1	0.0001541	378855	family	                                                      Atelidae
+11.11	1	0	13	1	0.0002647	38066	subfamily	                                                        Alouattinae
+11.11	1	1	13	1	0.0002647	9499	genus	                                                          Alouatta
+11.11	1	0	2	1	4.653e-05	376912	infraorder	                                                  Tarsiiformes
+11.11	1	0	2	1	4.653e-05	9475	family	                                                    Tarsiidae
+11.11	1	0	2	1	0.0001972	1971489	genus	                                                      Cephalopachus
+11.11	1	1	2	1	0.0001972	9477	species	                                                        Cephalopachus bancanus

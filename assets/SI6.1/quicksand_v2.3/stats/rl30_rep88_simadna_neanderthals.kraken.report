@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:11Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/42/069942c9c499d21bca6daf0cb19b3d
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl30_rep88_simadna_neanderthals.kraken.report --output output.kraken rl30_rep88_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+16.67	5	5	454	1	NA	0	no rank	unclassified
+83.33	25	0	498	1	4.054e-05	1	no rank	root
+83.33	25	0	498	1	4.054e-05	131567	no rank	  cellular organisms
+83.33	25	0	498	1	4.054e-05	2759	superkingdom	    Eukaryota
+83.33	25	0	498	1	4.054e-05	33154	clade	      Opisthokonta
+83.33	25	0	498	1	4.054e-05	33208	kingdom	        Metazoa
+83.33	25	0	498	1	4.054e-05	6072	clade	          Eumetazoa
+83.33	25	0	498	1	4.054e-05	33213	clade	            Bilateria
+83.33	25	0	498	1	4.054e-05	33511	clade	              Deuterostomia
+83.33	25	0	498	1	4.054e-05	7711	phylum	                Chordata
+83.33	25	0	498	1	4.054e-05	89593	subphylum	                  Craniata
+83.33	25	0	498	1	4.054e-05	7742	clade	                    Vertebrata
+83.33	25	0	498	1	4.054e-05	7776	clade	                      Gnathostomata
+83.33	25	0	498	1	4.054e-05	117570	clade	                        Teleostomi
+83.33	25	0	498	1	4.054e-05	117571	clade	                          Euteleostomi
+83.33	25	0	498	1	4.054e-05	8287	superclass	                            Sarcopterygii
+83.33	25	0	498	1	4.054e-05	1338369	clade	                              Dipnotetrapodomorpha
+83.33	25	0	498	1	4.054e-05	32523	clade	                                Tetrapoda
+83.33	25	0	498	1	4.054e-05	32524	clade	                                  Amniota
+83.33	25	0	498	1	4.054e-05	40674	class	                                    Mammalia
+83.33	25	0	496	1	4.052e-05	32525	clade	                                      Theria
+83.33	25	0	475	1	4.09e-05	9347	clade	                                        Eutheria
+83.33	25	0	457	1	4.21e-05	1437010	clade	                                          Boreoeutheria
+80	24	0	421	1	8.009e-05	314146	superorder	                                            Euarchontoglires
+80	24	0	395	1	0.0002165	9443	order	                                              Primates
+80	24	0	392	1	0.0003218	376913	suborder	                                                Haplorrhini
+80	24	0	392	1	0.0003337	314293	infraorder	                                                  Simiiformes
+80	24	0	375	1	0.0005575	9526	parvorder	                                                    Catarrhini
+80	24	1	367	1	0.002628	314295	superfamily	                                                      Hominoidea
+73.33	22	0	343	1	0.004828	9604	family	                                                        Hominidae
+73.33	22	5	342	1	0.006799	207598	subfamily	                                                          Homininae
+56.67	17	5	287	1	0.01769	9605	genus	                                                            Homo
+40	12	3	138	1	0.01592	9606	species	                                                              Homo sapiens
+26.67	8	8	57	1	0.03116	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.333	1	1	8	1	0.00307	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+3.333	1	0	6	1	9.009e-05	9577	family	                                                        Hylobatidae
+3.333	1	1	3	1	0.0002045	325165	genus	                                                          Nomascus
+3.333	1	0	4	1	7.749e-07	314145	superorder	                                            Laurasiatheria
+3.333	1	0	4	1	2.731e-06	9397	order	                                              Chiroptera
+3.333	1	0	3	1	9.386e-06	30559	suborder	                                                Megachiroptera
+3.333	1	0	3	1	9.386e-06	9398	family	                                                  Pteropodidae
+3.333	1	0	3	1	0.0001698	77241	subfamily	                                                    Macroglossinae
+3.333	1	0	3	1	0.000357	58064	genus	                                                      Eonycteris
+3.333	1	1	3	1	0.000357	58065	species	                                                        Eonycteris spelaea

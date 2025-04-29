@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:50Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/78/a7a08ae51a4ac4ca1cfc4555ccfd03
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep67_simadna_neanderthals.kraken.report --output output.kraken rl17_rep67_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+17.65	3	3	306	1	NA	0	no rank	unclassified
+82.35	14	0	267	1	2.173e-05	1	no rank	root
+82.35	14	0	267	1	2.173e-05	131567	no rank	  cellular organisms
+82.35	14	0	267	1	2.173e-05	2759	superkingdom	    Eukaryota
+82.35	14	0	267	1	2.173e-05	33154	clade	      Opisthokonta
+82.35	14	0	267	1	2.173e-05	33208	kingdom	        Metazoa
+82.35	14	0	267	1	2.173e-05	6072	clade	          Eumetazoa
+82.35	14	0	267	1	2.173e-05	33213	clade	            Bilateria
+82.35	14	0	267	1	2.173e-05	33511	clade	              Deuterostomia
+82.35	14	0	267	1	2.173e-05	7711	phylum	                Chordata
+82.35	14	0	267	1	2.173e-05	89593	subphylum	                  Craniata
+82.35	14	0	267	1	2.173e-05	7742	clade	                    Vertebrata
+82.35	14	0	267	1	2.173e-05	7776	clade	                      Gnathostomata
+82.35	14	0	267	1	2.173e-05	117570	clade	                        Teleostomi
+82.35	14	0	267	1	2.173e-05	117571	clade	                          Euteleostomi
+82.35	14	0	267	1	2.173e-05	8287	superclass	                            Sarcopterygii
+82.35	14	0	267	1	2.173e-05	1338369	clade	                              Dipnotetrapodomorpha
+82.35	14	0	267	1	2.173e-05	32523	clade	                                Tetrapoda
+82.35	14	0	267	1	2.173e-05	32524	clade	                                  Amniota
+82.35	14	0	267	1	2.173e-05	40674	class	                                    Mammalia
+82.35	14	0	265	1	2.165e-05	32525	clade	                                      Theria
+82.35	14	0	260	1	2.239e-05	9347	clade	                                        Eutheria
+82.35	14	1	242	1	2.229e-05	1437010	clade	                                          Boreoeutheria
+76.47	13	0	196	1	3.728e-05	314146	superorder	                                            Euarchontoglires
+70.59	12	0	181	1	9.921e-05	9443	order	                                              Primates
+70.59	12	0	178	1	0.0001461	376913	suborder	                                                Haplorrhini
+70.59	12	0	178	1	0.0001515	314293	infraorder	                                                  Simiiformes
+64.71	11	0	169	1	0.0002512	9526	parvorder	                                                    Catarrhini
+64.71	11	0	163	1	0.001167	314295	superfamily	                                                      Hominoidea
+64.71	11	0	163	1	0.002294	9604	family	                                                        Hominidae
+64.71	11	2	153	1	0.003042	207598	subfamily	                                                          Homininae
+52.94	9	5	130	1	0.008011	9605	genus	                                                            Homo
+23.53	4	1	29	1	0.003346	9606	species	                                                              Homo sapiens
+17.65	3	3	8	1	0.004374	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.882	1	0	4	1	8.078e-06	9479	parvorder	                                                    Platyrrhini
+5.882	1	0	4	1	2.815e-05	376919	family	                                                      Pitheciidae
+5.882	1	1	4	1	6.108e-05	38039	subfamily	                                                        Pitheciinae
+5.882	1	0	7	1	2.137e-06	314147	clade	                                              Glires
+5.882	1	0	7	1	2.285e-06	9989	order	                                                Rodentia
+5.882	1	0	5	1	8.348e-06	33553	suborder	                                                  Sciuromorpha
+5.882	1	0	5	1	8.852e-06	55153	family	                                                    Sciuridae
+5.882	1	0	5	1	3.245e-05	337724	subfamily	                                                      Callosciurinae
+5.882	1	0	5	1	3.245e-05	337736	tribe	                                                        Callosciurini
+5.882	1	0	5	1	0.0005715	226557	genus	                                                          Lariscus
+5.882	1	1	5	1	0.0005715	226558	species	                                                            Lariscus insignis

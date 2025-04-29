@@ -1,0 +1,55 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:18Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/e6/ea29025e569615844f1ec8e733c8ce
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep4_simadna_neanderthals.kraken.report --output output.kraken rl29_rep4_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+13.79	4	4	245	1	NA	0	no rank	unclassified
+86.21	25	0	548	1	4.461e-05	1	no rank	root
+86.21	25	0	548	1	4.461e-05	131567	no rank	  cellular organisms
+86.21	25	0	548	1	4.461e-05	2759	superkingdom	    Eukaryota
+86.21	25	0	548	1	4.461e-05	33154	clade	      Opisthokonta
+86.21	25	0	548	1	4.461e-05	33208	kingdom	        Metazoa
+86.21	25	0	548	1	4.461e-05	6072	clade	          Eumetazoa
+86.21	25	0	548	1	4.461e-05	33213	clade	            Bilateria
+86.21	25	0	548	1	4.461e-05	33511	clade	              Deuterostomia
+86.21	25	0	548	1	4.461e-05	7711	phylum	                Chordata
+86.21	25	0	548	1	4.461e-05	89593	subphylum	                  Craniata
+86.21	25	0	548	1	4.461e-05	7742	clade	                    Vertebrata
+86.21	25	0	548	1	4.461e-05	7776	clade	                      Gnathostomata
+86.21	25	0	548	1	4.461e-05	117570	clade	                        Teleostomi
+86.21	25	0	548	1	4.461e-05	117571	clade	                          Euteleostomi
+86.21	25	0	548	1	4.461e-05	8287	superclass	                            Sarcopterygii
+86.21	25	0	548	1	4.461e-05	1338369	clade	                              Dipnotetrapodomorpha
+86.21	25	0	548	1	4.461e-05	32523	clade	                                Tetrapoda
+86.21	25	0	548	1	4.461e-05	32524	clade	                                  Amniota
+86.21	25	0	548	1	4.461e-05	40674	class	                                    Mammalia
+86.21	25	0	548	1	4.477e-05	32525	clade	                                      Theria
+86.21	25	0	510	1	4.392e-05	9347	clade	                                        Eutheria
+86.21	25	1	449	1	4.136e-05	1437010	clade	                                          Boreoeutheria
+79.31	23	1	340	1	6.468e-05	314146	superorder	                                            Euarchontoglires
+75.86	22	0	324	1	0.0001776	9443	order	                                              Primates
+75.86	22	0	324	1	0.0002659	376913	suborder	                                                Haplorrhini
+75.86	22	0	321	1	0.0002732	314293	infraorder	                                                  Simiiformes
+68.97	20	0	292	1	0.0004341	9526	parvorder	                                                    Catarrhini
+65.52	19	0	242	1	0.001733	314295	superfamily	                                                      Hominoidea
+65.52	19	0	237	1	0.003336	9604	family	                                                        Hominidae
+65.52	19	3	234	1	0.004652	207598	subfamily	                                                          Homininae
+51.72	15	7	197	1	0.01214	9605	genus	                                                            Homo
+27.59	8	5	64	1	0.007383	9606	species	                                                              Homo sapiens
+6.897	2	2	26	1	0.01422	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.448	1	1	4	1	0.001535	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+3.448	1	0	5	1	0.0003164	9592	genus	                                                            Gorilla
+3.448	1	1	5	1	0.0009193	499232	species	                                                              Gorilla beringei
+3.448	1	0	19	1	3.607e-05	314294	superfamily	                                                      Cercopithecoidea
+3.448	1	0	19	1	3.607e-05	9527	family	                                                        Cercopithecidae
+3.448	1	0	19	1	9.139e-05	9569	subfamily	                                                          Colobinae
+3.448	1	0	19	1	0.00195	591932	genus	                                                            Piliocolobus
+3.448	1	1	19	1	0.00195	164648	species	                                                              Piliocolobus badius
+6.897	2	1	7	1	1.414e-05	9479	parvorder	                                                    Platyrrhini
+3.448	1	0	5	1	2.271e-05	9498	family	                                                      Cebidae
+3.448	1	0	4	1	0.0001214	38070	subfamily	                                                        Cebinae
+3.448	1	1	4	1	0.0002663	9513	genus	                                                          Cebus
+3.448	1	0	6	1	1.162e-06	314145	superorder	                                            Laurasiatheria
+3.448	1	0	6	1	1.012e-05	9362	order	                                              Eulipotyphla
+3.448	1	0	6	1	1.656e-05	9376	family	                                                Soricidae
+3.448	1	0	6	1	2.545e-05	183663	subfamily	                                                  Soricinae
+3.448	1	0	6	1	0.0006755	62290	genus	                                                    Soriculus
+3.448	1	1	6	1	0.0006755	62296	species	                                                      Soriculus nigrescens

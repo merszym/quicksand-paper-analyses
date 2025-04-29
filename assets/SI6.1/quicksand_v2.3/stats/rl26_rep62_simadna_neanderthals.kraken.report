@@ -1,0 +1,49 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:17Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/5c/87d4cd38ccac3a6d472fb3340c939e
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl26_rep62_simadna_neanderthals.kraken.report --output output.kraken rl26_rep62_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+3.846	1	1	306	1	NA	0	no rank	unclassified
+96.15	25	0	365	1	2.971e-05	1	no rank	root
+96.15	25	0	365	1	2.971e-05	131567	no rank	  cellular organisms
+96.15	25	0	365	1	2.971e-05	2759	superkingdom	    Eukaryota
+96.15	25	0	365	1	2.971e-05	33154	clade	      Opisthokonta
+96.15	25	0	365	1	2.971e-05	33208	kingdom	        Metazoa
+96.15	25	0	365	1	2.971e-05	6072	clade	          Eumetazoa
+96.15	25	0	365	1	2.971e-05	33213	clade	            Bilateria
+96.15	25	0	365	1	2.971e-05	33511	clade	              Deuterostomia
+96.15	25	0	365	1	2.971e-05	7711	phylum	                Chordata
+96.15	25	0	365	1	2.971e-05	89593	subphylum	                  Craniata
+96.15	25	0	365	1	2.971e-05	7742	clade	                    Vertebrata
+96.15	25	0	365	1	2.971e-05	7776	clade	                      Gnathostomata
+96.15	25	0	365	1	2.971e-05	117570	clade	                        Teleostomi
+96.15	25	0	365	1	2.971e-05	117571	clade	                          Euteleostomi
+96.15	25	0	365	1	2.971e-05	8287	superclass	                            Sarcopterygii
+96.15	25	0	365	1	2.971e-05	1338369	clade	                              Dipnotetrapodomorpha
+96.15	25	0	365	1	2.971e-05	32523	clade	                                Tetrapoda
+96.15	25	0	365	1	2.971e-05	32524	clade	                                  Amniota
+96.15	25	0	365	1	2.971e-05	40674	class	                                    Mammalia
+96.15	25	0	350	1	2.859e-05	32525	clade	                                      Theria
+96.15	25	0	346	1	2.98e-05	9347	clade	                                        Eutheria
+96.15	25	0	324	1	2.985e-05	1437010	clade	                                          Boreoeutheria
+92.31	24	1	301	1	5.726e-05	314146	superorder	                                            Euarchontoglires
+88.46	23	0	300	1	0.0001644	9443	order	                                              Primates
+88.46	23	0	300	1	0.0002462	376913	suborder	                                                Haplorrhini
+88.46	23	0	300	1	0.0002553	314293	infraorder	                                                  Simiiformes
+88.46	23	0	271	1	0.0004029	9526	parvorder	                                                    Catarrhini
+84.62	22	1	243	1	0.00174	314295	superfamily	                                                      Hominoidea
+80.77	21	0	238	1	0.00335	9604	family	                                                        Hominidae
+80.77	21	2	237	1	0.004712	207598	subfamily	                                                          Homininae
+69.23	18	8	201	1	0.01239	9605	genus	                                                            Homo
+38.46	10	5	78	1	0.008999	9606	species	                                                              Homo sapiens
+15.38	4	4	16	1	0.008748	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.846	1	1	10	1	0.003837	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+3.846	1	0	1	1	6.818e-05	9596	genus	                                                            Pan
+3.846	1	1	1	1	0.0001671	9597	species	                                                              Pan paniscus
+3.846	1	0	3	1	5.695e-06	314294	superfamily	                                                      Cercopithecoidea
+3.846	1	0	3	1	5.695e-06	9527	family	                                                        Cercopithecidae
+3.846	1	0	3	1	9.729e-06	9528	subfamily	                                                          Cercopithecinae
+3.846	1	0	2	1	1.894e-05	9539	genus	                                                            Macaca
+3.846	1	1	2	1	0.0006169	54600	species	                                                              Macaca nigra
+3.846	1	0	3	1	5.812e-07	314145	superorder	                                            Laurasiatheria
+3.846	1	0	3	1	2.349e-06	33554	order	                                              Carnivora
+3.846	1	0	3	1	3.844e-06	379584	suborder	                                                Caniformia
+3.846	1	1	3	1	1.077e-05	9655	family	                                                  Mustelidae

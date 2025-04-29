@@ -1,0 +1,57 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:49Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/d8/fa26e0a0fe2d26992b1a0f8e541c54
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep16_simadna_neanderthals.kraken.report --output output.kraken rl29_rep16_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+20.69	6	6	387	1	NA	0	no rank	unclassified
+79.31	23	0	338	1.05	2.751e-05	1	no rank	root
+79.31	23	0	338	1.05	2.751e-05	131567	no rank	  cellular organisms
+79.31	23	0	338	1.05	2.751e-05	2759	superkingdom	    Eukaryota
+79.31	23	0	338	1.05	2.751e-05	33154	clade	      Opisthokonta
+79.31	23	0	338	1.05	2.751e-05	33208	kingdom	        Metazoa
+79.31	23	0	338	1.05	2.751e-05	6072	clade	          Eumetazoa
+79.31	23	0	338	1.05	2.751e-05	33213	clade	            Bilateria
+79.31	23	0	338	1.05	2.751e-05	33511	clade	              Deuterostomia
+79.31	23	0	338	1.05	2.751e-05	7711	phylum	                Chordata
+79.31	23	0	338	1.05	2.751e-05	89593	subphylum	                  Craniata
+79.31	23	0	338	1.05	2.751e-05	7742	clade	                    Vertebrata
+79.31	23	0	338	1.05	2.751e-05	7776	clade	                      Gnathostomata
+79.31	23	0	338	1.05	2.751e-05	117570	clade	                        Teleostomi
+79.31	23	0	338	1.05	2.751e-05	117571	clade	                          Euteleostomi
+79.31	23	0	338	1.05	2.751e-05	8287	superclass	                            Sarcopterygii
+79.31	23	0	338	1.05	2.751e-05	1338369	clade	                              Dipnotetrapodomorpha
+79.31	23	0	338	1.05	2.751e-05	32523	clade	                                Tetrapoda
+79.31	23	0	338	1.05	2.751e-05	32524	clade	                                  Amniota
+79.31	23	0	338	1.05	2.751e-05	40674	class	                                    Mammalia
+79.31	23	0	334	1.05	2.728e-05	32525	clade	                                      Theria
+75.86	22	0	315	1.05	2.713e-05	9347	clade	                                        Eutheria
+75.86	22	0	284	1.03	2.616e-05	1437010	clade	                                          Boreoeutheria
+75.86	22	0	245	1	4.661e-05	314146	superorder	                                            Euarchontoglires
+75.86	22	0	243	1	0.0001332	9443	order	                                              Primates
+68.97	20	0	235	1	0.0001929	376913	suborder	                                                Haplorrhini
+68.97	20	0	235	1	0.0002	314293	infraorder	                                                  Simiiformes
+68.97	20	1	227	1	0.0003375	9526	parvorder	                                                    Catarrhini
+62.07	18	0	202	1	0.001447	314295	superfamily	                                                      Hominoidea
+58.62	17	2	201	1	0.002829	9604	family	                                                        Hominidae
+51.72	15	1	189	1	0.003757	207598	subfamily	                                                          Homininae
+44.83	13	5	166	1	0.01023	9605	genus	                                                            Homo
+27.59	8	3	97	1	0.01119	9606	species	                                                              Homo sapiens
+17.24	5	5	60	1	0.0328	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.448	1	0	10	1	0.0006818	9596	genus	                                                            Pan
+3.448	1	1	2	1	0.0003342	9597	species	                                                              Pan paniscus
+3.448	1	0	1	1	1.502e-05	9577	family	                                                        Hylobatidae
+3.448	1	1	1	1	6.818e-05	325165	genus	                                                          Nomascus
+3.448	1	0	6	1	1.139e-05	314294	superfamily	                                                      Cercopithecoidea
+3.448	1	0	6	1	1.139e-05	9527	family	                                                        Cercopithecidae
+3.448	1	0	6	1	1.946e-05	9528	subfamily	                                                          Cercopithecinae
+3.448	1	1	2	1	5.733e-05	392815	genus	                                                            Chlorocebus
+6.897	2	0	8	1	1.336e-05	376911	suborder	                                                Strepsirrhini
+6.897	2	0	8	1	1.566e-05	376915	infraorder	                                                  Lemuriformes
+3.448	1	0	2	1	2.87e-05	9445	family	                                                    Lemuridae
+3.448	1	1	2	1	5.664e-05	13513	genus	                                                      Eulemur
+3.448	1	0	1	1	5.067e-06	30615	family	                                                    Cheirogaleidae
+3.448	1	0	1	1	9.81e-05	122247	genus	                                                      Allocebus
+3.448	1	1	1	1	9.81e-05	3043103	species	                                                        Allocebus trichotus
+3.448	1	0	12	1	2.316e-05	9263	clade	                                        Metatheria
+3.448	1	0	12	1	8.363e-05	38608	order	                                          Dasyuromorphia
+3.448	1	0	12	1	0.0001016	9277	family	                                            Dasyuridae
+3.448	1	0	12	1	0.000522	9300	genus	                                              Sminthopsis
+3.448	1	1	12	1	0.00103	9301	species	                                                Sminthopsis crassicaudata

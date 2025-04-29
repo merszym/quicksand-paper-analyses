@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:33Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/cc/0220a293cd33a584b0f5fa9aad474b
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl12_rep81_simadna_neanderthals.kraken.report --output output.kraken rl12_rep81_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+16.67	2	2	138	1	NA	0	no rank	unclassified
+83.33	10	0	147	1	1.197e-05	1	no rank	root
+83.33	10	0	147	1	1.197e-05	131567	no rank	  cellular organisms
+83.33	10	0	147	1	1.197e-05	2759	superkingdom	    Eukaryota
+83.33	10	0	147	1	1.197e-05	33154	clade	      Opisthokonta
+83.33	10	0	147	1	1.197e-05	33208	kingdom	        Metazoa
+83.33	10	0	147	1	1.197e-05	6072	clade	          Eumetazoa
+83.33	10	0	147	1	1.197e-05	33213	clade	            Bilateria
+83.33	10	0	147	1	1.197e-05	33511	clade	              Deuterostomia
+83.33	10	0	147	1	1.197e-05	7711	phylum	                Chordata
+83.33	10	0	147	1	1.197e-05	89593	subphylum	                  Craniata
+83.33	10	0	147	1	1.197e-05	7742	clade	                    Vertebrata
+83.33	10	0	147	1	1.197e-05	7776	clade	                      Gnathostomata
+83.33	10	0	147	1	1.197e-05	117570	clade	                        Teleostomi
+83.33	10	0	147	1	1.197e-05	117571	clade	                          Euteleostomi
+83.33	10	0	147	1	1.197e-05	8287	superclass	                            Sarcopterygii
+83.33	10	0	147	1	1.197e-05	1338369	clade	                              Dipnotetrapodomorpha
+83.33	10	0	147	1	1.197e-05	32523	clade	                                Tetrapoda
+83.33	10	0	147	1	1.197e-05	32524	clade	                                  Amniota
+83.33	10	0	147	1	1.197e-05	40674	class	                                    Mammalia
+83.33	10	0	145	1	1.184e-05	32525	clade	                                      Theria
+83.33	10	0	140	1	1.206e-05	9347	clade	                                        Eutheria
+83.33	10	0	137	1	1.262e-05	1437010	clade	                                          Boreoeutheria
+83.33	10	0	129	1	2.454e-05	314146	superorder	                                            Euarchontoglires
+75	9	0	109	1	5.975e-05	9443	order	                                              Primates
+75	9	0	109	1	8.947e-05	376913	suborder	                                                Haplorrhini
+75	9	0	109	1	9.278e-05	314293	infraorder	                                                  Simiiformes
+75	9	0	106	1	0.0001576	9526	parvorder	                                                    Catarrhini
+75	9	0	104	1	0.0007448	314295	superfamily	                                                      Hominoidea
+75	9	1	95	1	0.001337	9604	family	                                                        Hominidae
+66.67	8	0	90	1	0.001789	207598	subfamily	                                                          Homininae
+66.67	8	4	88	1	0.005423	9605	genus	                                                            Homo
+33.33	4	3	31	1	0.003576	9606	species	                                                              Homo sapiens
+8.333	1	1	15	1	0.008201	63221	subspecies	                                                                Homo sapiens neanderthalensis
+8.333	1	0	3	1	9.159e-07	314147	clade	                                              Glires
+8.333	1	0	3	1	9.791e-07	9989	order	                                                Rodentia
+8.333	1	0	3	1	1.608e-06	1963758	suborder	                                                  Myomorpha
+8.333	1	0	3	1	1.701e-06	337687	clade	                                                    Muroidea
+8.333	1	0	3	1	3.129e-06	10066	family	                                                      Muridae
+8.333	1	0	3	1	3.446e-06	39107	subfamily	                                                        Murinae
+8.333	1	0	3	1	3.47e-05	10088	genus	                                                          Mus
+8.333	1	0	3	1	4.896e-05	862507	subgenus	                                                            Mus
+8.333	1	1	3	1	0.000242	10090	species	                                                              Mus musculus

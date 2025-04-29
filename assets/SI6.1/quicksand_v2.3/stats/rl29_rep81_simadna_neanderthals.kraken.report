@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:36Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/90/3fbefc4e1f06f8d64bd0ac418efd83
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep81_simadna_neanderthals.kraken.report --output output.kraken rl29_rep81_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10.34	3	3	416	1	NA	0	no rank	unclassified
+89.66	26	0	475	1	3.867e-05	1	no rank	root
+89.66	26	0	475	1	3.867e-05	131567	no rank	  cellular organisms
+89.66	26	0	475	1	3.867e-05	2759	superkingdom	    Eukaryota
+89.66	26	0	475	1	3.867e-05	33154	clade	      Opisthokonta
+89.66	26	0	475	1	3.867e-05	33208	kingdom	        Metazoa
+89.66	26	0	475	1	3.867e-05	6072	clade	          Eumetazoa
+89.66	26	0	475	1	3.867e-05	33213	clade	            Bilateria
+89.66	26	0	475	1	3.867e-05	33511	clade	              Deuterostomia
+89.66	26	0	475	1	3.867e-05	7711	phylum	                Chordata
+89.66	26	0	475	1	3.867e-05	89593	subphylum	                  Craniata
+89.66	26	0	475	1	3.867e-05	7742	clade	                    Vertebrata
+89.66	26	0	475	1	3.867e-05	7776	clade	                      Gnathostomata
+89.66	26	0	475	1	3.867e-05	117570	clade	                        Teleostomi
+89.66	26	0	475	1	3.867e-05	117571	clade	                          Euteleostomi
+89.66	26	0	475	1	3.867e-05	8287	superclass	                            Sarcopterygii
+89.66	26	0	475	1	3.867e-05	1338369	clade	                              Dipnotetrapodomorpha
+89.66	26	0	475	1	3.867e-05	32523	clade	                                Tetrapoda
+89.66	26	0	475	1	3.867e-05	32524	clade	                                  Amniota
+89.66	26	0	475	1	3.867e-05	40674	class	                                    Mammalia
+89.66	26	0	475	1	3.88e-05	32525	clade	                                      Theria
+89.66	26	0	462	1	3.978e-05	9347	clade	                                        Eutheria
+89.66	26	0	433	1	3.989e-05	1437010	clade	                                          Boreoeutheria
+89.66	26	0	399	1	7.59e-05	314146	superorder	                                            Euarchontoglires
+89.66	26	1	391	1	0.0002143	9443	order	                                              Primates
+82.76	24	0	385	1	0.000316	376913	suborder	                                                Haplorrhini
+82.76	24	0	385	1	0.0003277	314293	infraorder	                                                  Simiiformes
+82.76	24	0	353	1	0.0005248	9526	parvorder	                                                    Catarrhini
+75.86	22	0	313	1	0.002242	314295	superfamily	                                                      Hominoidea
+75.86	22	0	305	1	0.004293	9604	family	                                                        Hominidae
+75.86	22	2	305	1	0.006064	207598	subfamily	                                                          Homininae
+68.97	20	11	250	1	0.01541	9605	genus	                                                            Homo
+31.03	9	5	123	1	0.01419	9606	species	                                                              Homo sapiens
+13.79	4	4	44	1	0.02406	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.897	2	0	2	1	3.797e-06	314294	superfamily	                                                      Cercopithecoidea
+6.897	2	0	2	1	3.797e-06	9527	family	                                                        Cercopithecidae
+6.897	2	0	2	1	6.486e-06	9528	subfamily	                                                          Cercopithecinae
+3.448	1	0	1	1	8e-05	9567	genus	                                                            Mandrillus
+3.448	1	1	1	1	0.0001652	9561	species	                                                              Mandrillus sphinx
+3.448	1	1	1	1	9.471e-06	9539	genus	                                                            Macaca
+3.448	1	0	2	1	3.34e-06	376911	suborder	                                                Strepsirrhini
+3.448	1	0	2	1	3.914e-06	376915	infraorder	                                                  Lemuriformes
+3.448	1	0	2	1	3.561e-05	30599	family	                                                    Indriidae
+3.448	1	1	2	1	5.975e-05	30600	genus	                                                      Propithecus

@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:18Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/6a/bfb4719fb14d1dafb5fe9ec172876c
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl24_rep56_simadna_neanderthals.kraken.report --output output.kraken rl24_rep56_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+12.5	3	3	311	1	NA	0	no rank	unclassified
+87.5	21	0	280	1	2.279e-05	1	no rank	root
+87.5	21	0	280	1	2.279e-05	131567	no rank	  cellular organisms
+87.5	21	0	280	1	2.279e-05	2759	superkingdom	    Eukaryota
+87.5	21	0	280	1	2.279e-05	33154	clade	      Opisthokonta
+87.5	21	0	280	1	2.279e-05	33208	kingdom	        Metazoa
+87.5	21	0	280	1	2.279e-05	6072	clade	          Eumetazoa
+87.5	21	0	280	1	2.279e-05	33213	clade	            Bilateria
+87.5	21	0	280	1	2.279e-05	33511	clade	              Deuterostomia
+87.5	21	0	280	1	2.279e-05	7711	phylum	                Chordata
+87.5	21	0	280	1	2.279e-05	89593	subphylum	                  Craniata
+87.5	21	0	280	1	2.279e-05	7742	clade	                    Vertebrata
+87.5	21	0	280	1	2.279e-05	7776	clade	                      Gnathostomata
+87.5	21	0	280	1	2.279e-05	117570	clade	                        Teleostomi
+87.5	21	0	280	1	2.279e-05	117571	clade	                          Euteleostomi
+87.5	21	0	280	1	2.279e-05	8287	superclass	                            Sarcopterygii
+87.5	21	0	280	1	2.279e-05	1338369	clade	                              Dipnotetrapodomorpha
+87.5	21	0	280	1	2.279e-05	32523	clade	                                Tetrapoda
+87.5	21	0	280	1	2.279e-05	32524	clade	                                  Amniota
+87.5	21	0	280	1	2.279e-05	40674	class	                                    Mammalia
+87.5	21	0	266	1	2.173e-05	32525	clade	                                      Theria
+87.5	21	0	256	1	2.205e-05	9347	clade	                                        Eutheria
+87.5	21	2	251	1	2.312e-05	1437010	clade	                                          Boreoeutheria
+79.17	19	0	213	1	4.052e-05	314146	superorder	                                            Euarchontoglires
+75	18	0	207	1	0.0001135	9443	order	                                              Primates
+75	18	0	207	1	0.0001699	376913	suborder	                                                Haplorrhini
+75	18	2	207	1	0.0001762	314293	infraorder	                                                  Simiiformes
+66.67	16	0	203	1	0.0003018	9526	parvorder	                                                    Catarrhini
+66.67	16	0	192	1	0.001375	314295	superfamily	                                                      Hominoidea
+66.67	16	0	183	1	0.002576	9604	family	                                                        Hominidae
+66.67	16	0	183	1	0.003638	207598	subfamily	                                                          Homininae
+66.67	16	8	141	1	0.008689	9605	genus	                                                            Homo
+33.33	8	6	51	1	0.005884	9606	species	                                                              Homo sapiens
+8.333	2	2	23	1	0.01258	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.167	1	0	2	1	6.106e-07	314147	clade	                                              Glires
+4.167	1	0	2	1	6.527e-07	9989	order	                                                Rodentia
+4.167	1	0	2	1	1.072e-06	1963758	suborder	                                                  Myomorpha
+4.167	1	0	1	1	1.014e-05	1963761	superfamily	                                                    Dipodoidea
+4.167	1	0	1	1	1.014e-05	30648	family	                                                      Dipodidae
+4.167	1	0	1	1	8.995e-05	98659	subfamily	                                                        Zapodinae
+4.167	1	0	1	1	8.995e-05	101672	genus	                                                          Eozapus
+4.167	1	1	1	1	8.995e-05	101673	species	                                                            Eozapus setchuanus

@@ -1,0 +1,49 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:06Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/6e/8d6ca0ae6a6af4da47d31a2b678ed9
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep5_simadna_neanderthals.kraken.report --output output.kraken rl17_rep5_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+17.65	3	3	299	1	NA	0	no rank	unclassified
+82.35	14	0	208	1	1.693e-05	1	no rank	root
+82.35	14	0	208	1	1.693e-05	131567	no rank	  cellular organisms
+82.35	14	0	208	1	1.693e-05	2759	superkingdom	    Eukaryota
+82.35	14	0	208	1	1.693e-05	33154	clade	      Opisthokonta
+82.35	14	0	208	1	1.693e-05	33208	kingdom	        Metazoa
+82.35	14	0	208	1	1.693e-05	6072	clade	          Eumetazoa
+82.35	14	0	208	1	1.693e-05	33213	clade	            Bilateria
+82.35	14	0	208	1	1.693e-05	33511	clade	              Deuterostomia
+82.35	14	0	208	1	1.693e-05	7711	phylum	                Chordata
+82.35	14	0	208	1	1.693e-05	89593	subphylum	                  Craniata
+82.35	14	0	208	1	1.693e-05	7742	clade	                    Vertebrata
+82.35	14	0	208	1	1.693e-05	7776	clade	                      Gnathostomata
+82.35	14	0	208	1	1.693e-05	117570	clade	                        Teleostomi
+82.35	14	0	208	1	1.693e-05	117571	clade	                          Euteleostomi
+82.35	14	0	208	1	1.693e-05	8287	superclass	                            Sarcopterygii
+82.35	14	0	208	1	1.693e-05	1338369	clade	                              Dipnotetrapodomorpha
+82.35	14	0	208	1	1.693e-05	32523	clade	                                Tetrapoda
+82.35	14	0	208	1	1.693e-05	32524	clade	                                  Amniota
+82.35	14	0	208	1	1.693e-05	40674	class	                                    Mammalia
+82.35	14	0	202	1	1.65e-05	32525	clade	                                      Theria
+82.35	14	0	200	1	1.722e-05	9347	clade	                                        Eutheria
+82.35	14	1	186	1	1.713e-05	1437010	clade	                                          Boreoeutheria
+76.47	13	0	164	1	3.12e-05	314146	superorder	                                            Euarchontoglires
+64.71	11	0	156	1	8.551e-05	9443	order	                                              Primates
+64.71	11	0	156	1	0.000128	376913	suborder	                                                Haplorrhini
+64.71	11	0	156	1	0.0001328	314293	infraorder	                                                  Simiiformes
+64.71	11	0	147	1	0.0002185	9526	parvorder	                                                    Catarrhini
+64.71	11	2	138	1	0.0009883	314295	superfamily	                                                      Hominoidea
+52.94	9	0	121	1	0.001703	9604	family	                                                        Hominidae
+52.94	9	2	120	1	0.002386	207598	subfamily	                                                          Homininae
+41.18	7	3	105	1	0.00647	9605	genus	                                                            Homo
+23.53	4	3	24	1	0.002769	9606	species	                                                              Homo sapiens
+5.882	1	1	12	1	0.006561	63221	subspecies	                                                                Homo sapiens neanderthalensis
+11.76	2	0	8	1	2.442e-06	314147	clade	                                              Glires
+11.76	2	0	8	1	2.611e-06	9989	order	                                                Rodentia
+5.882	1	0	5	1	1.185e-05	33550	suborder	                                                  Hystricomorpha
+5.882	1	0	5	1	0.0001629	10158	family	                                                    Octodontidae
+5.882	1	0	5	1	0.000522	10159	genus	                                                      Octodon
+5.882	1	1	5	1	0.000522	10160	species	                                                        Octodon degus
+5.882	1	0	1	1	5.36e-07	1963758	suborder	                                                  Myomorpha
+5.882	1	0	1	1	5.67e-07	337687	clade	                                                    Muroidea
+5.882	1	0	1	1	1.615e-06	337677	family	                                                      Cricetidae
+5.882	1	0	1	1	5.951e-06	337963	subfamily	                                                        Neotominae
+5.882	1	0	1	1	6.568e-05	56318	genus	                                                          Habromys
+5.882	1	1	1	1	0.0001345	56319	species	                                                            Habromys lophurus

@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:08Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/d8/ba4fd7355b680e3043b35741a3a4f3
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl21_rep13_simadna_neanderthals.kraken.report --output output.kraken rl21_rep13_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+4.762	1	1	245	1	NA	0	no rank	unclassified
+95.24	20	0	387	1	3.15e-05	1	no rank	root
+95.24	20	0	387	1	3.15e-05	131567	no rank	  cellular organisms
+95.24	20	0	387	1	3.15e-05	2759	superkingdom	    Eukaryota
+95.24	20	0	387	1	3.15e-05	33154	clade	      Opisthokonta
+95.24	20	0	387	1	3.15e-05	33208	kingdom	        Metazoa
+95.24	20	0	387	1	3.15e-05	6072	clade	          Eumetazoa
+95.24	20	0	387	1	3.15e-05	33213	clade	            Bilateria
+95.24	20	0	387	1	3.15e-05	33511	clade	              Deuterostomia
+95.24	20	0	387	1	3.15e-05	7711	phylum	                Chordata
+95.24	20	0	387	1	3.15e-05	89593	subphylum	                  Craniata
+95.24	20	0	387	1	3.15e-05	7742	clade	                    Vertebrata
+95.24	20	0	387	1	3.15e-05	7776	clade	                      Gnathostomata
+95.24	20	0	387	1	3.15e-05	117570	clade	                        Teleostomi
+95.24	20	0	387	1	3.15e-05	117571	clade	                          Euteleostomi
+95.24	20	0	387	1	3.15e-05	8287	superclass	                            Sarcopterygii
+95.24	20	0	387	1	3.15e-05	1338369	clade	                              Dipnotetrapodomorpha
+95.24	20	0	387	1	3.15e-05	32523	clade	                                Tetrapoda
+95.24	20	0	387	1	3.15e-05	32524	clade	                                  Amniota
+95.24	20	0	387	1	3.15e-05	40674	class	                                    Mammalia
+95.24	20	1	378	1	3.088e-05	32525	clade	                                      Theria
+90.48	19	1	347	1	2.988e-05	9347	clade	                                        Eutheria
+85.71	18	1	334	1	3.077e-05	1437010	clade	                                          Boreoeutheria
+76.19	16	0	291	1	5.536e-05	314146	superorder	                                            Euarchontoglires
+76.19	16	0	289	1	0.0001584	9443	order	                                              Primates
+76.19	16	0	286	1	0.0002347	376913	suborder	                                                Haplorrhini
+76.19	16	0	286	1	0.0002434	314293	infraorder	                                                  Simiiformes
+76.19	16	1	286	1	0.0004252	9526	parvorder	                                                    Catarrhini
+71.43	15	0	245	1	0.001755	314295	superfamily	                                                      Hominoidea
+66.67	14	0	212	1	0.002984	9604	family	                                                        Hominidae
+66.67	14	1	212	1	0.004215	207598	subfamily	                                                          Homininae
+61.9	13	5	164	1	0.01011	9605	genus	                                                            Homo
+38.1	8	3	44	1	0.005076	9606	species	                                                              Homo sapiens
+23.81	5	5	27	1	0.01476	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.762	1	0	2	1	3.003e-05	9577	family	                                                        Hylobatidae
+4.762	1	1	2	1	0.0001376	325167	genus	                                                          Hoolock
+4.762	1	0	11	1	2.131e-06	314145	superorder	                                            Laurasiatheria
+4.762	1	0	5	1	6.375e-05	9971	order	                                              Pholidota
+4.762	1	0	5	1	6.375e-05	9972	family	                                                Manidae
+4.762	1	0	5	1	0.0001368	9973	genus	                                                  Manis
+4.762	1	0	5	1	0.0004831	143292	species	                                                    Manis pentadactyla
+4.762	1	1	5	1	0.0005534	749565	subspecies	                                                      Manis pentadactyla pentadactyla

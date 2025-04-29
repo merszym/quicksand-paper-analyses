@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:46Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/bf/9d149341ba48eb833dc8a6dd781bbf
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl30_rep9_simadna_neanderthals.kraken.report --output output.kraken rl30_rep9_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10	3	3	391	1	NA	0	no rank	unclassified
+90	27	0	569	1.01	4.632e-05	1	no rank	root
+90	27	0	569	1.01	4.632e-05	131567	no rank	  cellular organisms
+90	27	0	569	1.01	4.632e-05	2759	superkingdom	    Eukaryota
+90	27	0	569	1.01	4.632e-05	33154	clade	      Opisthokonta
+90	27	0	569	1.01	4.632e-05	33208	kingdom	        Metazoa
+90	27	0	569	1.01	4.632e-05	6072	clade	          Eumetazoa
+90	27	0	569	1.01	4.632e-05	33213	clade	            Bilateria
+90	27	0	569	1.01	4.632e-05	33511	clade	              Deuterostomia
+90	27	0	569	1.01	4.632e-05	7711	phylum	                Chordata
+90	27	0	569	1.01	4.632e-05	89593	subphylum	                  Craniata
+90	27	0	569	1.01	4.632e-05	7742	clade	                    Vertebrata
+90	27	0	569	1.01	4.632e-05	7776	clade	                      Gnathostomata
+90	27	0	569	1.01	4.632e-05	117570	clade	                        Teleostomi
+90	27	0	569	1.01	4.632e-05	117571	clade	                          Euteleostomi
+90	27	0	569	1.01	4.632e-05	8287	superclass	                            Sarcopterygii
+90	27	0	569	1.01	4.632e-05	1338369	clade	                              Dipnotetrapodomorpha
+90	27	0	569	1.01	4.632e-05	32523	clade	                                Tetrapoda
+90	27	0	569	1.01	4.632e-05	32524	clade	                                  Amniota
+90	27	0	569	1.01	4.632e-05	40674	class	                                    Mammalia
+90	27	0	560	1.01	4.575e-05	32525	clade	                                      Theria
+86.67	26	0	529	1.01	4.555e-05	9347	clade	                                        Eutheria
+86.67	26	1	506	1.01	4.661e-05	1437010	clade	                                          Boreoeutheria
+83.33	25	0	467	1	8.884e-05	314146	superorder	                                            Euarchontoglires
+83.33	25	0	462	1	0.0002532	9443	order	                                              Primates
+83.33	25	0	455	1	0.0003735	376913	suborder	                                                Haplorrhini
+83.33	25	0	455	1	0.0003873	314293	infraorder	                                                  Simiiformes
+83.33	25	0	442	1	0.0006571	9526	parvorder	                                                    Catarrhini
+80	24	1	398	1.01	0.00285	314295	superfamily	                                                      Hominoidea
+76.67	23	0	372	1	0.005236	9604	family	                                                        Hominidae
+73.33	22	3	364	1	0.007237	207598	subfamily	                                                          Homininae
+63.33	19	11	243	1	0.01497	9605	genus	                                                            Homo
+26.67	8	4	52	1	0.005999	9606	species	                                                              Homo sapiens
+13.33	4	4	26	1	0.01422	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.333	1	0	5	1	0.0002512	607660	subfamily	                                                          Ponginae
+3.333	1	0	5	1	0.0002512	9599	genus	                                                            Pongo
+3.333	1	1	5	1	0.0005541	9601	species	                                                              Pongo abelii
+3.333	1	0	11	1	2.088e-05	314294	superfamily	                                                      Cercopithecoidea
+3.333	1	0	11	1	2.088e-05	9527	family	                                                        Cercopithecidae
+3.333	1	1	11	1	3.567e-05	9528	subfamily	                                                          Cercopithecinae
+3.333	1	0	3	1	5.789e-06	9263	clade	                                        Metatheria
+3.333	1	0	3	1	0.0001014	38611	order	                                          Peramelemorphia
+3.333	1	0	3	1	0.0001478	9342	family	                                            Peramelidae
+3.333	1	0	3	1	0.0002795	37888	genus	                                              Isoodon
+3.333	1	1	3	1	0.0002795	37698	species	                                                Isoodon macrourus

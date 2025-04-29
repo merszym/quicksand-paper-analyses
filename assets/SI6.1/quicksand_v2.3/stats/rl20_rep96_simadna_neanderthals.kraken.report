@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:05Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/83/d9f38fb66116a90d6a401821dd89d2
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl20_rep96_simadna_neanderthals.kraken.report --output output.kraken rl20_rep96_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+20	4	4	293	1	NA	0	no rank	unclassified
+80	16	0	304	1	2.475e-05	1	no rank	root
+80	16	0	304	1	2.475e-05	131567	no rank	  cellular organisms
+80	16	0	304	1	2.475e-05	2759	superkingdom	    Eukaryota
+80	16	0	304	1	2.475e-05	33154	clade	      Opisthokonta
+80	16	0	304	1	2.475e-05	33208	kingdom	        Metazoa
+80	16	0	304	1	2.475e-05	6072	clade	          Eumetazoa
+80	16	0	304	1	2.475e-05	33213	clade	            Bilateria
+80	16	0	304	1	2.475e-05	33511	clade	              Deuterostomia
+80	16	0	304	1	2.475e-05	7711	phylum	                Chordata
+80	16	0	304	1	2.475e-05	89593	subphylum	                  Craniata
+80	16	0	304	1	2.475e-05	7742	clade	                    Vertebrata
+80	16	0	304	1	2.475e-05	7776	clade	                      Gnathostomata
+80	16	0	304	1	2.475e-05	117570	clade	                        Teleostomi
+80	16	0	304	1	2.475e-05	117571	clade	                          Euteleostomi
+80	16	0	304	1	2.475e-05	8287	superclass	                            Sarcopterygii
+80	16	0	304	1	2.475e-05	1338369	clade	                              Dipnotetrapodomorpha
+80	16	0	304	1	2.475e-05	32523	clade	                                Tetrapoda
+80	16	0	304	1	2.475e-05	32524	clade	                                  Amniota
+80	16	0	304	1	2.475e-05	40674	class	                                    Mammalia
+80	16	0	295	1	2.41e-05	32525	clade	                                      Theria
+80	16	0	279	1	2.403e-05	9347	clade	                                        Eutheria
+80	16	0	256	1	2.358e-05	1437010	clade	                                          Boreoeutheria
+75	15	0	221	1	4.204e-05	314146	superorder	                                            Euarchontoglires
+75	15	0	221	1	0.0001211	9443	order	                                              Primates
+70	14	0	216	1	0.0001773	376913	suborder	                                                Haplorrhini
+70	14	0	216	1	0.0001838	314293	infraorder	                                                  Simiiformes
+70	14	1	210	1	0.0003122	9526	parvorder	                                                    Catarrhini
+65	13	0	195	1	0.001397	314295	superfamily	                                                      Hominoidea
+65	13	0	190	1	0.002674	9604	family	                                                        Hominidae
+65	13	0	187	1	0.003718	207598	subfamily	                                                          Homininae
+60	12	6	147	1	0.009058	9605	genus	                                                            Homo
+30	6	5	57	1	0.006576	9606	species	                                                              Homo sapiens
+5	1	1	5	1	0.002734	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5	1	0	5	1	0.0003409	9596	genus	                                                            Pan
+5	1	1	2	1	0.0003342	9597	species	                                                              Pan paniscus
+5	1	0	3	1	5.01e-06	376911	suborder	                                                Strepsirrhini
+5	1	0	3	1	5.871e-06	376915	infraorder	                                                  Lemuriformes
+5	1	0	1	1	1.435e-05	9445	family	                                                    Lemuridae
+5	1	0	1	1	7.393e-05	9454	genus	                                                      Varecia
+5	1	1	1	1	7.393e-05	9455	species	                                                        Varecia variegata
+5	1	0	10	1	1.937e-06	314145	superorder	                                            Laurasiatheria
+5	1	1	8	1	5.593e-06	91561	order	                                              Artiodactyla

@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:42Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/b5/b2ef1e8e68fd7389521e7db89ad4bf
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl27_rep98_simadna_neanderthals.kraken.report --output output.kraken rl27_rep98_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+18.52	5	5	322	1	NA	0	no rank	unclassified
+81.48	22	0	578	1.01	4.705e-05	1	no rank	root
+81.48	22	0	578	1.01	4.705e-05	131567	no rank	  cellular organisms
+81.48	22	0	578	1.01	4.705e-05	2759	superkingdom	    Eukaryota
+81.48	22	0	578	1.01	4.705e-05	33154	clade	      Opisthokonta
+81.48	22	0	578	1.01	4.705e-05	33208	kingdom	        Metazoa
+81.48	22	0	578	1.01	4.705e-05	6072	clade	          Eumetazoa
+81.48	22	0	578	1.01	4.705e-05	33213	clade	            Bilateria
+81.48	22	0	578	1.01	4.705e-05	33511	clade	              Deuterostomia
+81.48	22	0	578	1.01	4.705e-05	7711	phylum	                Chordata
+81.48	22	0	578	1.01	4.705e-05	89593	subphylum	                  Craniata
+81.48	22	0	578	1.01	4.705e-05	7742	clade	                    Vertebrata
+81.48	22	0	578	1.01	4.705e-05	7776	clade	                      Gnathostomata
+81.48	22	0	578	1.01	4.705e-05	117570	clade	                        Teleostomi
+81.48	22	0	578	1.01	4.705e-05	117571	clade	                          Euteleostomi
+81.48	22	0	578	1.01	4.705e-05	8287	superclass	                            Sarcopterygii
+81.48	22	0	578	1.01	4.705e-05	1338369	clade	                              Dipnotetrapodomorpha
+81.48	22	0	578	1.01	4.705e-05	32523	clade	                                Tetrapoda
+81.48	22	0	578	1.01	4.705e-05	32524	clade	                                  Amniota
+81.48	22	0	578	1.01	4.705e-05	40674	class	                                    Mammalia
+81.48	22	0	578	1.01	4.722e-05	32525	clade	                                      Theria
+81.48	22	1	552	1.01	4.754e-05	9347	clade	                                        Eutheria
+77.78	21	0	520	1.01	4.79e-05	1437010	clade	                                          Boreoeutheria
+74.07	20	0	460	1.01	8.75e-05	314146	superorder	                                            Euarchontoglires
+74.07	20	0	445	1.01	0.0002439	9443	order	                                              Primates
+74.07	20	0	438	1.01	0.0003595	376913	suborder	                                                Haplorrhini
+74.07	20	0	438	1.01	0.0003728	314293	infraorder	                                                  Simiiformes
+74.07	20	1	430	1.01	0.0006392	9526	parvorder	                                                    Catarrhini
+70.37	19	0	417	1.01	0.002986	314295	superfamily	                                                      Hominoidea
+70.37	19	0	403	1.01	0.005672	9604	family	                                                        Hominidae
+70.37	19	1	396	1.01	0.007873	207598	subfamily	                                                          Homininae
+66.67	18	9	338	1.01	0.02083	9605	genus	                                                            Homo
+33.33	9	1	165	1.01	0.01904	9606	species	                                                              Homo sapiens
+25.93	7	7	92	1	0.0503	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.704	1	1	15	1	0.005756	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+3.704	1	0	2	1	3.875e-07	314145	superorder	                                            Laurasiatheria
+3.704	1	0	2	1	1.398e-06	91561	order	                                              Artiodactyla
+3.704	1	0	2	1	2.203e-06	9845	suborder	                                                Ruminantia
+3.704	1	0	2	1	2.3e-06	35500	infraorder	                                                  Pecora
+3.704	1	0	2	1	3.437e-06	9895	family	                                                    Bovidae
+3.704	1	0	2	1	5.073e-05	9959	subfamily	                                                      Hippotraginae
+3.704	1	0	2	1	0.0001086	37184	genus	                                                        Hippotragus
+3.704	1	1	2	1	0.0002477	37189	species	                                                          Hippotragus niger

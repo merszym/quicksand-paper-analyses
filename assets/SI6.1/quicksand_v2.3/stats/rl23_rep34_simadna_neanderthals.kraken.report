@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:41Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/0d/fa8266b73ab60ef0194965e40ebd7e
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl23_rep34_simadna_neanderthals.kraken.report --output output.kraken rl23_rep34_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+8.696	2	2	359	1	NA	0	no rank	unclassified
+91.3	21	0	316	1	2.572e-05	1	no rank	root
+91.3	21	0	316	1	2.572e-05	131567	no rank	  cellular organisms
+91.3	21	0	316	1	2.572e-05	2759	superkingdom	    Eukaryota
+91.3	21	0	316	1	2.572e-05	33154	clade	      Opisthokonta
+91.3	21	0	316	1	2.572e-05	33208	kingdom	        Metazoa
+91.3	21	0	316	1	2.572e-05	6072	clade	          Eumetazoa
+91.3	21	0	316	1	2.572e-05	33213	clade	            Bilateria
+91.3	21	0	316	1	2.572e-05	33511	clade	              Deuterostomia
+91.3	21	0	316	1	2.572e-05	7711	phylum	                Chordata
+91.3	21	0	316	1	2.572e-05	89593	subphylum	                  Craniata
+91.3	21	0	316	1	2.572e-05	7742	clade	                    Vertebrata
+91.3	21	0	316	1	2.572e-05	7776	clade	                      Gnathostomata
+91.3	21	0	316	1	2.572e-05	117570	clade	                        Teleostomi
+91.3	21	0	316	1	2.572e-05	117571	clade	                          Euteleostomi
+91.3	21	0	316	1	2.572e-05	8287	superclass	                            Sarcopterygii
+91.3	21	0	316	1	2.572e-05	1338369	clade	                              Dipnotetrapodomorpha
+91.3	21	0	316	1	2.572e-05	32523	clade	                                Tetrapoda
+91.3	21	0	316	1	2.572e-05	32524	clade	                                  Amniota
+91.3	21	0	316	1	2.572e-05	40674	class	                                    Mammalia
+91.3	21	0	316	1	2.581e-05	32525	clade	                                      Theria
+91.3	21	0	285	1	2.454e-05	9347	clade	                                        Eutheria
+91.3	21	2	282	1	2.598e-05	1437010	clade	                                          Boreoeutheria
+82.61	19	1	237	1	4.508e-05	314146	superorder	                                            Euarchontoglires
+78.26	18	0	214	1	0.0001173	9443	order	                                              Primates
+78.26	18	0	211	1	0.0001732	376913	suborder	                                                Haplorrhini
+78.26	18	0	211	1	0.0001796	314293	infraorder	                                                  Simiiformes
+73.91	17	3	205	1	0.0003047	9526	parvorder	                                                    Catarrhini
+52.17	12	0	187	1	0.001339	314295	superfamily	                                                      Hominoidea
+47.83	11	0	174	1	0.002449	9604	family	                                                        Hominidae
+47.83	11	1	165	1	0.00328	207598	subfamily	                                                          Homininae
+43.48	10	4	133	1	0.008196	9605	genus	                                                            Homo
+26.09	6	3	50	1	0.005768	9606	species	                                                              Homo sapiens
+8.696	2	2	12	1	0.006561	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.348	1	1	5	1	0.001919	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4.348	1	0	6	1	9.009e-05	9577	family	                                                        Hylobatidae
+4.348	1	0	6	1	0.0008221	325166	genus	                                                          Symphalangus
+4.348	1	1	6	1	0.0008221	9590	species	                                                            Symphalangus syndactylus
+8.696	2	0	11	1	2.088e-05	314294	superfamily	                                                      Cercopithecoidea
+8.696	2	0	11	1	2.088e-05	9527	family	                                                        Cercopithecidae
+8.696	2	0	4	1	1.297e-05	9528	subfamily	                                                          Cercopithecinae
+8.696	2	1	4	1	3.789e-05	9539	genus	                                                            Macaca
+4.348	1	1	2	1	0.0006673	9551	species	                                                              Macaca assamensis
+4.348	1	0	4	1	8.078e-06	9479	parvorder	                                                    Platyrrhini
+4.348	1	0	2	1	1.407e-05	376919	family	                                                      Pitheciidae
+4.348	1	0	1	1	1.527e-05	38039	subfamily	                                                        Pitheciinae
+4.348	1	1	1	1	3.767e-05	30595	genus	                                                          Cacajao

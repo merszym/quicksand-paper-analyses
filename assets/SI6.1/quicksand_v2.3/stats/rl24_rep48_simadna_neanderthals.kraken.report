@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:13Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/3d/a2627a64f0cb69af27b8e857c453f4
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl24_rep48_simadna_neanderthals.kraken.report --output output.kraken rl24_rep48_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+4.167	1	1	316	1	NA	0	no rank	unclassified
+95.83	23	0	549	1	4.469e-05	1	no rank	root
+95.83	23	0	549	1	4.469e-05	131567	no rank	  cellular organisms
+95.83	23	0	549	1	4.469e-05	2759	superkingdom	    Eukaryota
+95.83	23	0	549	1	4.469e-05	33154	clade	      Opisthokonta
+95.83	23	0	549	1	4.469e-05	33208	kingdom	        Metazoa
+95.83	23	0	549	1	4.469e-05	6072	clade	          Eumetazoa
+95.83	23	0	549	1	4.469e-05	33213	clade	            Bilateria
+95.83	23	0	549	1	4.469e-05	33511	clade	              Deuterostomia
+95.83	23	0	549	1	4.469e-05	7711	phylum	                Chordata
+95.83	23	0	549	1	4.469e-05	89593	subphylum	                  Craniata
+95.83	23	0	549	1	4.469e-05	7742	clade	                    Vertebrata
+95.83	23	0	549	1	4.469e-05	7776	clade	                      Gnathostomata
+95.83	23	0	549	1	4.469e-05	117570	clade	                        Teleostomi
+95.83	23	0	549	1	4.469e-05	117571	clade	                          Euteleostomi
+95.83	23	0	549	1	4.469e-05	8287	superclass	                            Sarcopterygii
+95.83	23	0	549	1	4.469e-05	1338369	clade	                              Dipnotetrapodomorpha
+95.83	23	0	549	1	4.469e-05	32523	clade	                                Tetrapoda
+95.83	23	0	549	1	4.469e-05	32524	clade	                                  Amniota
+95.83	23	0	549	1	4.469e-05	40674	class	                                    Mammalia
+95.83	23	0	546	1	4.46e-05	32525	clade	                                      Theria
+95.83	23	0	519	1	4.469e-05	9347	clade	                                        Eutheria
+95.83	23	0	496	1	4.569e-05	1437010	clade	                                          Boreoeutheria
+87.5	21	1	451	1	8.579e-05	314146	superorder	                                            Euarchontoglires
+83.33	20	0	412	1	0.0002258	9443	order	                                              Primates
+83.33	20	0	410	1	0.0003365	376913	suborder	                                                Haplorrhini
+83.33	20	0	410	1	0.000349	314293	infraorder	                                                  Simiiformes
+83.33	20	0	391	1	0.0005812	9526	parvorder	                                                    Catarrhini
+83.33	20	0	369	1	0.002643	314295	superfamily	                                                      Hominoidea
+83.33	20	0	367	1	0.005166	9604	family	                                                        Hominidae
+83.33	20	2	357	1	0.007097	207598	subfamily	                                                          Homininae
+75	18	12	250	1	0.01541	9605	genus	                                                            Homo
+25	6	3	102	1	0.01177	9606	species	                                                              Homo sapiens
+12.5	3	3	26	1	0.01422	63221	subspecies	                                                                Homo sapiens neanderthalensis
+8.333	2	0	11	1	2.131e-06	314145	superorder	                                            Laurasiatheria
+4.167	1	0	7	1	1.181e-05	9362	order	                                              Eulipotyphla
+4.167	1	0	7	1	1.932e-05	9376	family	                                                Soricidae
+4.167	1	0	7	1	2.969e-05	183663	subfamily	                                                  Soricinae
+4.167	1	0	5	1	6.531e-05	9379	genus	                                                    Sorex
+4.167	1	1	5	1	0.0007454	2083004	species	                                                      Sorex sinalis
+4.167	1	0	1	1	7.828e-07	33554	order	                                              Carnivora
+4.167	1	0	1	1	1.281e-06	379584	suborder	                                                Caniformia
+4.167	1	0	1	1	3.588e-06	9655	family	                                                  Mustelidae
+4.167	1	0	1	1	1.677e-05	169418	subfamily	                                                    Mustelinae
+4.167	1	1	1	1	1.903e-05	9665	genus	                                                      Mustela

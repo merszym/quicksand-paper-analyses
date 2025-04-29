@@ -1,0 +1,49 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:41Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/52/cf3a7c000f4b28e2c134d2a1f4dfab
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep20_simadna_neanderthals.kraken.report --output output.kraken rl17_rep20_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	17	0	250	1.05	2.035e-05	1	no rank	root
+100	17	0	250	1.05	2.035e-05	131567	no rank	  cellular organisms
+100	17	0	250	1.05	2.035e-05	2759	superkingdom	    Eukaryota
+100	17	0	250	1.05	2.035e-05	33154	clade	      Opisthokonta
+100	17	0	250	1.05	2.035e-05	33208	kingdom	        Metazoa
+100	17	0	250	1.05	2.035e-05	6072	clade	          Eumetazoa
+100	17	0	250	1.05	2.035e-05	33213	clade	            Bilateria
+100	17	0	250	1.05	2.035e-05	33511	clade	              Deuterostomia
+100	17	0	250	1.05	2.035e-05	7711	phylum	                Chordata
+100	17	0	250	1.05	2.035e-05	89593	subphylum	                  Craniata
+100	17	0	250	1.05	2.035e-05	7742	clade	                    Vertebrata
+100	17	0	250	1.05	2.035e-05	7776	clade	                      Gnathostomata
+100	17	0	250	1.05	2.035e-05	117570	clade	                        Teleostomi
+100	17	0	250	1.05	2.035e-05	117571	clade	                          Euteleostomi
+100	17	0	250	1.05	2.035e-05	8287	superclass	                            Sarcopterygii
+100	17	0	250	1.05	2.035e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	17	0	250	1.05	2.035e-05	32523	clade	                                Tetrapoda
+100	17	0	250	1.05	2.035e-05	32524	clade	                                  Amniota
+100	17	0	250	1.05	2.035e-05	40674	class	                                    Mammalia
+100	17	1	250	1.05	2.042e-05	32525	clade	                                      Theria
+94.12	16	0	244	1.03	2.101e-05	9347	clade	                                        Eutheria
+94.12	16	1	227	1.04	2.091e-05	1437010	clade	                                          Boreoeutheria
+88.24	15	0	197	1.04	3.747e-05	314146	superorder	                                            Euarchontoglires
+82.35	14	0	179	1.04	9.812e-05	9443	order	                                              Primates
+82.35	14	0	176	1.05	0.0001445	376913	suborder	                                                Haplorrhini
+82.35	14	0	176	1.05	0.0001498	314293	infraorder	                                                  Simiiformes
+82.35	14	0	152	1.05	0.000226	9526	parvorder	                                                    Catarrhini
+76.47	13	0	146	1.05	0.001046	314295	superfamily	                                                      Hominoidea
+76.47	13	0	132	1.06	0.001858	9604	family	                                                        Hominidae
+76.47	13	2	132	1.06	0.002624	207598	subfamily	                                                          Homininae
+64.71	11	3	107	1.07	0.006594	9605	genus	                                                            Homo
+47.06	8	5	63	1	0.007268	9606	species	                                                              Homo sapiens
+11.76	2	2	8	1	0.004374	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.882	1	1	1	1	0.0003837	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+5.882	1	0	3	1	5.695e-06	314294	superfamily	                                                      Cercopithecoidea
+5.882	1	0	3	1	5.695e-06	9527	family	                                                        Cercopithecidae
+5.882	1	0	3	1	9.729e-06	9528	subfamily	                                                          Cercopithecinae
+5.882	1	0	3	1	2.841e-05	9539	genus	                                                            Macaca
+5.882	1	1	1	1	0.0002927	9542	species	                                                              Macaca fuscata
+5.882	1	0	2	1	6.106e-07	314147	clade	                                              Glires
+5.882	1	0	2	1	6.527e-07	9989	order	                                                Rodentia
+5.882	1	0	2	1	2.965e-05	1963757	suborder	                                                  Castorimorpha
+5.882	1	0	2	1	5.747e-05	10015	family	                                                    Heteromyidae
+5.882	1	0	2	1	0.0001571	38663	subfamily	                                                      Perognathinae
+5.882	1	0	2	1	0.0001571	38664	genus	                                                        Chaetodipus
+5.882	1	1	2	1	0.0001571	38672	species	                                                          Chaetodipus penicillatus

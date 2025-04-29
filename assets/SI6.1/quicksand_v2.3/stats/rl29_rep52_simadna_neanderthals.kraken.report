@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:26Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/4e/b313373aab87fa2c5c8a8194f3e5ff
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep52_simadna_neanderthals.kraken.report --output output.kraken rl29_rep52_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10.34	3	3	368	1	NA	0	no rank	unclassified
+89.66	26	0	419	1.02	3.411e-05	1	no rank	root
+89.66	26	0	419	1.02	3.411e-05	131567	no rank	  cellular organisms
+89.66	26	0	419	1.02	3.411e-05	2759	superkingdom	    Eukaryota
+89.66	26	0	419	1.02	3.411e-05	33154	clade	      Opisthokonta
+89.66	26	0	419	1.02	3.411e-05	33208	kingdom	        Metazoa
+89.66	26	0	419	1.02	3.411e-05	6072	clade	          Eumetazoa
+89.66	26	0	419	1.02	3.411e-05	33213	clade	            Bilateria
+89.66	26	0	419	1.02	3.411e-05	33511	clade	              Deuterostomia
+89.66	26	0	419	1.02	3.411e-05	7711	phylum	                Chordata
+89.66	26	0	419	1.02	3.411e-05	89593	subphylum	                  Craniata
+89.66	26	0	419	1.02	3.411e-05	7742	clade	                    Vertebrata
+89.66	26	0	419	1.02	3.411e-05	7776	clade	                      Gnathostomata
+89.66	26	0	419	1.02	3.411e-05	117570	clade	                        Teleostomi
+89.66	26	0	419	1.02	3.411e-05	117571	clade	                          Euteleostomi
+89.66	26	0	419	1.02	3.411e-05	8287	superclass	                            Sarcopterygii
+89.66	26	0	419	1.02	3.411e-05	1338369	clade	                              Dipnotetrapodomorpha
+89.66	26	0	419	1.02	3.411e-05	32523	clade	                                Tetrapoda
+89.66	26	0	419	1.02	3.411e-05	32524	clade	                                  Amniota
+89.66	26	0	419	1.02	3.411e-05	40674	class	                                    Mammalia
+89.66	26	1	418	1.02	3.415e-05	32525	clade	                                      Theria
+86.21	25	0	406	1.02	3.496e-05	9347	clade	                                        Eutheria
+86.21	25	3	367	1.02	3.381e-05	1437010	clade	                                          Boreoeutheria
+72.41	21	1	324	1.01	6.163e-05	314146	superorder	                                            Euarchontoglires
+68.97	20	0	312	1.01	0.000171	9443	order	                                              Primates
+68.97	20	0	312	1.01	0.0002561	376913	suborder	                                                Haplorrhini
+68.97	20	0	312	1.01	0.0002656	314293	infraorder	                                                  Simiiformes
+68.97	20	2	296	1.01	0.00044	9526	parvorder	                                                    Catarrhini
+62.07	18	0	261	1.01	0.001869	314295	superfamily	                                                      Hominoidea
+62.07	18	1	247	1.01	0.003477	9604	family	                                                        Hominidae
+58.62	17	3	242	1.01	0.004811	207598	subfamily	                                                          Homininae
+41.38	12	2	154	1.01	0.00949	9605	genus	                                                            Homo
+34.48	10	2	104	1.02	0.012	9606	species	                                                              Homo sapiens
+24.14	7	7	50	1.04	0.02734	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.448	1	1	6	1	0.002302	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+6.897	2	1	24	1	0.001636	9596	genus	                                                            Pan
+3.448	1	1	7	1	0.00117	9597	species	                                                              Pan paniscus
+3.448	1	0	1	1	1.937e-07	314145	superorder	                                            Laurasiatheria
+3.448	1	0	1	1	1.275e-05	9971	order	                                              Pholidota
+3.448	1	0	1	1	1.275e-05	9972	family	                                                Manidae
+3.448	1	1	1	1	4.987e-05	2736678	genus	                                                  Phataginus

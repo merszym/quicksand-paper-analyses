@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:05Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/25/2938d94a25cf99a941230517818c4a
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl30_rep33_simadna_neanderthals.kraken.report --output output.kraken rl30_rep33_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+16.67	5	5	422	1	NA	0	no rank	unclassified
+83.33	25	0	488	1	3.972e-05	1	no rank	root
+83.33	25	0	488	1	3.972e-05	131567	no rank	  cellular organisms
+83.33	25	0	488	1	3.972e-05	2759	superkingdom	    Eukaryota
+83.33	25	0	488	1	3.972e-05	33154	clade	      Opisthokonta
+83.33	25	0	488	1	3.972e-05	33208	kingdom	        Metazoa
+83.33	25	0	488	1	3.972e-05	6072	clade	          Eumetazoa
+83.33	25	0	488	1	3.972e-05	33213	clade	            Bilateria
+83.33	25	0	488	1	3.972e-05	33511	clade	              Deuterostomia
+83.33	25	0	488	1	3.972e-05	7711	phylum	                Chordata
+83.33	25	0	488	1	3.972e-05	89593	subphylum	                  Craniata
+83.33	25	0	488	1	3.972e-05	7742	clade	                    Vertebrata
+83.33	25	0	488	1	3.972e-05	7776	clade	                      Gnathostomata
+83.33	25	0	488	1	3.972e-05	117570	clade	                        Teleostomi
+83.33	25	0	488	1	3.972e-05	117571	clade	                          Euteleostomi
+83.33	25	0	488	1	3.972e-05	8287	superclass	                            Sarcopterygii
+83.33	25	0	488	1	3.972e-05	1338369	clade	                              Dipnotetrapodomorpha
+83.33	25	0	488	1	3.972e-05	32523	clade	                                Tetrapoda
+83.33	25	0	488	1	3.972e-05	32524	clade	                                  Amniota
+83.33	25	0	488	1	3.972e-05	40674	class	                                    Mammalia
+83.33	25	0	488	1	3.986e-05	32525	clade	                                      Theria
+83.33	25	0	479	1	4.125e-05	9347	clade	                                        Eutheria
+83.33	25	1	459	1	4.228e-05	1437010	clade	                                          Boreoeutheria
+76.67	23	0	419	1	7.971e-05	314146	superorder	                                            Euarchontoglires
+76.67	23	0	407	1	0.0002231	9443	order	                                              Primates
+76.67	23	0	407	1	0.0003341	376913	suborder	                                                Haplorrhini
+76.67	23	1	407	1	0.0003464	314293	infraorder	                                                  Simiiformes
+70	21	0	384	1	0.0005708	9526	parvorder	                                                    Catarrhini
+70	21	0	352	1	0.002521	314295	superfamily	                                                      Hominoidea
+70	21	1	343	1	0.004828	9604	family	                                                        Hominidae
+66.67	20	1	325	1	0.006461	207598	subfamily	                                                          Homininae
+60	18	10	287	1	0.01769	9605	genus	                                                            Homo
+26.67	8	3	89	1	0.01027	9606	species	                                                              Homo sapiens
+16.67	5	5	38	1	0.02078	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.333	1	1	1	1	6.328e-05	9592	genus	                                                            Gorilla
+3.333	1	0	17	1	3.433e-05	9479	parvorder	                                                    Platyrrhini
+3.333	1	0	14	1	0.000166	378855	family	                                                      Atelidae
+3.333	1	0	14	1	0.000285	38066	subfamily	                                                        Alouattinae
+3.333	1	0	14	1	0.000285	9499	genus	                                                          Alouatta
+3.333	1	0	13	1	0.00275	182256	species	                                                            Alouatta guariba
+3.333	1	1	13	1	0.00275	183328	subspecies	                                                              Alouatta guariba clamitans
+3.333	1	0	11	1	2.131e-06	314145	superorder	                                            Laurasiatheria
+3.333	1	0	8	1	6.263e-06	33554	order	                                              Carnivora
+3.333	1	0	5	1	6.406e-06	379584	suborder	                                                Caniformia
+3.333	1	0	5	1	3.631e-05	9608	family	                                                  Canidae
+3.333	1	0	5	1	0.0005987	68740	genus	                                                    Speothos
+3.333	1	1	5	1	0.0005987	68741	species	                                                      Speothos venaticus

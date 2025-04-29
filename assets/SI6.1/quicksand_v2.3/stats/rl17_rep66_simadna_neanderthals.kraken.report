@@ -1,0 +1,52 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:51Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/87/dc8502ca3e20e2f72cdee0d0aebb94
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep66_simadna_neanderthals.kraken.report --output output.kraken rl17_rep66_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+5.882	1	1	216	1	NA	0	no rank	unclassified
+94.12	16	0	325	1	2.646e-05	1	no rank	root
+94.12	16	0	325	1	2.646e-05	131567	no rank	  cellular organisms
+94.12	16	0	325	1	2.646e-05	2759	superkingdom	    Eukaryota
+94.12	16	0	325	1	2.646e-05	33154	clade	      Opisthokonta
+94.12	16	0	325	1	2.646e-05	33208	kingdom	        Metazoa
+94.12	16	0	325	1	2.646e-05	6072	clade	          Eumetazoa
+94.12	16	0	325	1	2.646e-05	33213	clade	            Bilateria
+94.12	16	0	325	1	2.646e-05	33511	clade	              Deuterostomia
+94.12	16	0	325	1	2.646e-05	7711	phylum	                Chordata
+94.12	16	0	325	1	2.646e-05	89593	subphylum	                  Craniata
+94.12	16	0	325	1	2.646e-05	7742	clade	                    Vertebrata
+94.12	16	0	325	1	2.646e-05	7776	clade	                      Gnathostomata
+94.12	16	0	325	1	2.646e-05	117570	clade	                        Teleostomi
+94.12	16	0	325	1	2.646e-05	117571	clade	                          Euteleostomi
+94.12	16	0	325	1	2.646e-05	8287	superclass	                            Sarcopterygii
+94.12	16	0	325	1	2.646e-05	1338369	clade	                              Dipnotetrapodomorpha
+94.12	16	0	325	1	2.646e-05	32523	clade	                                Tetrapoda
+94.12	16	0	325	1	2.646e-05	32524	clade	                                  Amniota
+94.12	16	0	325	1	2.646e-05	40674	class	                                    Mammalia
+94.12	16	0	304	1	2.483e-05	32525	clade	                                      Theria
+94.12	16	0	292	1	2.515e-05	9347	clade	                                        Eutheria
+94.12	16	1	266	1	2.45e-05	1437010	clade	                                          Boreoeutheria
+88.24	15	0	248	1	4.718e-05	314146	superorder	                                            Euarchontoglires
+82.35	14	0	230	1	0.0001261	9443	order	                                              Primates
+76.47	13	0	224	1	0.0001839	376913	suborder	                                                Haplorrhini
+76.47	13	0	224	1	0.0001907	314293	infraorder	                                                  Simiiformes
+76.47	13	0	224	1	0.000333	9526	parvorder	                                                    Catarrhini
+64.71	11	0	202	1	0.001447	314295	superfamily	                                                      Hominoidea
+64.71	11	0	198	1	0.002787	9604	family	                                                        Hominidae
+64.71	11	2	190	1	0.003777	207598	subfamily	                                                          Homininae
+52.94	9	5	171	1	0.01054	9605	genus	                                                            Homo
+23.53	4	1	68	1	0.007845	9606	species	                                                              Homo sapiens
+17.65	3	3	33	1	0.01804	63221	subspecies	                                                                Homo sapiens neanderthalensis
+11.76	2	0	7	1	1.329e-05	314294	superfamily	                                                      Cercopithecoidea
+11.76	2	0	7	1	1.329e-05	9527	family	                                                        Cercopithecidae
+11.76	2	1	6	1	2.886e-05	9569	subfamily	                                                          Colobinae
+5.882	1	1	4	1	0.0001308	542827	genus	                                                            Rhinopithecus
+5.882	1	0	5	1	8.349e-06	376911	suborder	                                                Strepsirrhini
+5.882	1	0	5	1	9.785e-06	376915	infraorder	                                                  Lemuriformes
+5.882	1	0	5	1	2.533e-05	30615	family	                                                    Cheirogaleidae
+5.882	1	0	5	1	0.0003216	83691	genus	                                                      Mirza
+5.882	1	1	5	1	0.0008999	339999	species	                                                        Mirza zaza
+5.882	1	0	4	1	1.221e-06	314147	clade	                                              Glires
+5.882	1	0	4	1	1.305e-06	9989	order	                                                Rodentia
+5.882	1	0	1	1	2.369e-06	33550	suborder	                                                  Hystricomorpha
+5.882	1	0	1	1	4.386e-06	10161	family	                                                    Echimyidae
+5.882	1	0	1	1	6.439e-06	10162	genus	                                                      Proechimys
+5.882	1	1	1	1	0.0001319	34837	species	                                                        Proechimys longicaudatus

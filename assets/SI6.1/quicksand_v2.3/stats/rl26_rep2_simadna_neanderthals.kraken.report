@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:59Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ca/9db729ec87442405efadd39e3714cb
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl26_rep2_simadna_neanderthals.kraken.report --output output.kraken rl26_rep2_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+7.692	2	2	261	1	NA	0	no rank	unclassified
+92.31	24	0	444	1	3.614e-05	1	no rank	root
+92.31	24	0	444	1	3.614e-05	131567	no rank	  cellular organisms
+92.31	24	0	444	1	3.614e-05	2759	superkingdom	    Eukaryota
+92.31	24	0	444	1	3.614e-05	33154	clade	      Opisthokonta
+92.31	24	0	444	1	3.614e-05	33208	kingdom	        Metazoa
+92.31	24	0	444	1	3.614e-05	6072	clade	          Eumetazoa
+92.31	24	0	444	1	3.614e-05	33213	clade	            Bilateria
+92.31	24	0	444	1	3.614e-05	33511	clade	              Deuterostomia
+92.31	24	0	444	1	3.614e-05	7711	phylum	                Chordata
+92.31	24	0	444	1	3.614e-05	89593	subphylum	                  Craniata
+92.31	24	0	444	1	3.614e-05	7742	clade	                    Vertebrata
+92.31	24	0	444	1	3.614e-05	7776	clade	                      Gnathostomata
+92.31	24	0	444	1	3.614e-05	117570	clade	                        Teleostomi
+92.31	24	0	444	1	3.614e-05	117571	clade	                          Euteleostomi
+92.31	24	0	444	1	3.614e-05	8287	superclass	                            Sarcopterygii
+92.31	24	0	444	1	3.614e-05	1338369	clade	                              Dipnotetrapodomorpha
+92.31	24	0	444	1	3.614e-05	32523	clade	                                Tetrapoda
+92.31	24	0	444	1	3.614e-05	32524	clade	                                  Amniota
+92.31	24	0	444	1	3.614e-05	40674	class	                                    Mammalia
+92.31	24	1	441	1	3.603e-05	32525	clade	                                      Theria
+88.46	23	0	422	1	3.634e-05	9347	clade	                                        Eutheria
+88.46	23	1	401	1	3.694e-05	1437010	clade	                                          Boreoeutheria
+80.77	21	0	324	1	6.163e-05	314146	superorder	                                            Euarchontoglires
+76.92	20	0	309	1	0.0001694	9443	order	                                              Primates
+76.92	20	0	305	1	0.0002503	376913	suborder	                                                Haplorrhini
+76.92	20	0	305	1	0.0002596	314293	infraorder	                                                  Simiiformes
+76.92	20	2	281	1	0.0004177	9526	parvorder	                                                    Catarrhini
+69.23	18	0	261	1	0.001869	314295	superfamily	                                                      Hominoidea
+69.23	18	0	257	1	0.003617	9604	family	                                                        Hominidae
+69.23	18	2	249	1	0.00495	207598	subfamily	                                                          Homininae
+57.69	15	7	181	1	0.01115	9605	genus	                                                            Homo
+30.77	8	2	73	1	0.008422	9606	species	                                                              Homo sapiens
+19.23	5	5	34	1	0.01859	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.846	1	1	5	1	0.001919	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+3.846	1	1	4	1	0.0002531	9592	genus	                                                            Gorilla
+3.846	1	0	6	1	1.832e-06	314147	clade	                                              Glires
+3.846	1	0	6	1	1.958e-06	9989	order	                                                Rodentia
+3.846	1	0	1	1	2.369e-06	33550	suborder	                                                  Hystricomorpha
+3.846	1	0	1	1	4.386e-06	10161	family	                                                    Echimyidae
+3.846	1	0	1	1	5.056e-05	1744847	genus	                                                      Toromys
+3.846	1	1	1	1	0.000102	2171663	species	                                                        Toromys albiventris
+3.846	1	0	12	1	2.325e-06	314145	superorder	                                            Laurasiatheria
+3.846	1	0	6	1	5.392e-05	9787	order	                                              Perissodactyla
+3.846	1	0	6	1	0.0001306	9803	family	                                                Rhinocerotidae
+3.846	1	0	6	1	0.0008624	222862	genus	                                                  Coelodonta
+3.846	1	1	6	1	0.0008624	222863	species	                                                    Coelodonta antiquitatis

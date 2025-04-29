@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:59Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/aa/766e223c3a1bfb6c9ccecd2295df05
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl28_rep21_simadna_neanderthals.kraken.report --output output.kraken rl28_rep21_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+7.143	2	2	440	1	NA	0	no rank	unclassified
+92.86	26	0	543	1	4.42e-05	1	no rank	root
+92.86	26	0	543	1	4.42e-05	131567	no rank	  cellular organisms
+92.86	26	0	543	1	4.42e-05	2759	superkingdom	    Eukaryota
+92.86	26	0	543	1	4.42e-05	33154	clade	      Opisthokonta
+92.86	26	0	543	1	4.42e-05	33208	kingdom	        Metazoa
+92.86	26	0	543	1	4.42e-05	6072	clade	          Eumetazoa
+92.86	26	0	543	1	4.42e-05	33213	clade	            Bilateria
+92.86	26	0	543	1	4.42e-05	33511	clade	              Deuterostomia
+92.86	26	0	543	1	4.42e-05	7711	phylum	                Chordata
+92.86	26	0	543	1	4.42e-05	89593	subphylum	                  Craniata
+92.86	26	0	543	1	4.42e-05	7742	clade	                    Vertebrata
+92.86	26	0	543	1	4.42e-05	7776	clade	                      Gnathostomata
+92.86	26	0	543	1	4.42e-05	117570	clade	                        Teleostomi
+92.86	26	0	543	1	4.42e-05	117571	clade	                          Euteleostomi
+92.86	26	0	543	1	4.42e-05	8287	superclass	                            Sarcopterygii
+92.86	26	0	543	1	4.42e-05	1338369	clade	                              Dipnotetrapodomorpha
+92.86	26	0	543	1	4.42e-05	32523	clade	                                Tetrapoda
+92.86	26	0	543	1	4.42e-05	32524	clade	                                  Amniota
+92.86	26	0	543	1	4.42e-05	40674	class	                                    Mammalia
+92.86	26	0	539	1	4.403e-05	32525	clade	                                      Theria
+92.86	26	1	518	1	4.461e-05	9347	clade	                                        Eutheria
+89.29	25	2	490	1	4.514e-05	1437010	clade	                                          Boreoeutheria
+82.14	23	0	404	1	7.685e-05	314146	superorder	                                            Euarchontoglires
+75	21	0	386	1	0.0002116	9443	order	                                              Primates
+75	21	0	369	1	0.0003029	376913	suborder	                                                Haplorrhini
+75	21	0	369	1	0.0003141	314293	infraorder	                                                  Simiiformes
+75	21	1	340	1	0.0005054	9526	parvorder	                                                    Catarrhini
+71.43	20	1	329	1	0.002356	314295	superfamily	                                                      Hominoidea
+67.86	19	0	305	1	0.004293	9604	family	                                                        Hominidae
+67.86	19	1	301	1	0.005984	207598	subfamily	                                                          Homininae
+64.29	18	6	254	1	0.01565	9605	genus	                                                            Homo
+42.86	12	8	75	1	0.008653	9606	species	                                                              Homo sapiens
+14.29	4	4	19	1	0.01039	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.571	1	0	5	1	1.527e-06	314147	clade	                                              Glires
+3.571	1	0	5	1	1.632e-06	9989	order	                                                Rodentia
+3.571	1	0	4	1	6.678e-06	33553	suborder	                                                  Sciuromorpha
+3.571	1	0	4	1	7.081e-06	55153	family	                                                    Sciuridae
+3.571	1	0	4	1	0.0003659	337720	subfamily	                                                      Ratufinae
+3.571	1	0	4	1	0.0003659	226820	genus	                                                        Ratufa
+3.571	1	1	4	1	0.0003659	226822	species	                                                          Ratufa bicolor
+3.571	1	0	1	1	1.24e-05	9392	order	                                              Scandentia
+3.571	1	0	1	1	1.24e-05	9393	family	                                                Tupaiidae
+3.571	1	0	1	1	9.71e-05	246552	genus	                                                  Dendrogale
+3.571	1	1	1	1	9.71e-05	284669	species	                                                    Dendrogale murina

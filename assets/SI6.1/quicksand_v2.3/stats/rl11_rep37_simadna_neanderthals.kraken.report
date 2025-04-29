@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:15:11Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/a4/7dc10cfe1049b736150ed8fb37a345
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl11_rep37_simadna_neanderthals.kraken.report --output output.kraken rl11_rep37_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+9.091	1	1	171	1	NA	0	no rank	unclassified
+90.91	10	0	102	1	8.303e-06	1	no rank	root
+90.91	10	0	102	1	8.303e-06	131567	no rank	  cellular organisms
+90.91	10	0	102	1	8.303e-06	2759	superkingdom	    Eukaryota
+90.91	10	0	102	1	8.303e-06	33154	clade	      Opisthokonta
+90.91	10	0	102	1	8.303e-06	33208	kingdom	        Metazoa
+90.91	10	0	102	1	8.303e-06	6072	clade	          Eumetazoa
+90.91	10	0	102	1	8.303e-06	33213	clade	            Bilateria
+90.91	10	0	102	1	8.303e-06	33511	clade	              Deuterostomia
+90.91	10	0	102	1	8.303e-06	7711	phylum	                Chordata
+90.91	10	0	102	1	8.303e-06	89593	subphylum	                  Craniata
+90.91	10	0	102	1	8.303e-06	7742	clade	                    Vertebrata
+90.91	10	0	102	1	8.303e-06	7776	clade	                      Gnathostomata
+90.91	10	0	102	1	8.303e-06	117570	clade	                        Teleostomi
+90.91	10	0	102	1	8.303e-06	117571	clade	                          Euteleostomi
+90.91	10	0	102	1	8.303e-06	8287	superclass	                            Sarcopterygii
+90.91	10	0	102	1	8.303e-06	1338369	clade	                              Dipnotetrapodomorpha
+90.91	10	0	102	1	8.303e-06	32523	clade	                                Tetrapoda
+90.91	10	0	102	1	8.303e-06	32524	clade	                                  Amniota
+90.91	10	0	102	1	8.303e-06	40674	class	                                    Mammalia
+90.91	10	1	102	1	8.332e-06	32525	clade	                                      Theria
+81.82	9	0	101	1	8.698e-06	9347	clade	                                        Eutheria
+81.82	9	1	101	1	9.304e-06	1437010	clade	                                          Boreoeutheria
+72.73	8	0	96	1	1.826e-05	314146	superorder	                                            Euarchontoglires
+63.64	7	0	87	1	4.769e-05	9443	order	                                              Primates
+63.64	7	0	82	1	6.731e-05	376913	suborder	                                                Haplorrhini
+63.64	7	0	82	1	6.979e-05	314293	infraorder	                                                  Simiiformes
+63.64	7	0	78	1	0.000116	9526	parvorder	                                                    Catarrhini
+63.64	7	1	63	1	0.0004512	314295	superfamily	                                                      Hominoidea
+54.55	6	0	59	1	0.0008304	9604	family	                                                        Hominidae
+54.55	6	1	59	1	0.001173	207598	subfamily	                                                          Homininae
+36.36	4	2	34	1	0.002095	9605	genus	                                                            Homo
+9.091	1	1	11	1	0.01001	1425170	species	                                                              Homo heidelbergensis
+9.091	1	0	1	1	0.0001154	9606	species	                                                              Homo sapiens
+9.091	1	1	1	1	0.0005467	63221	subspecies	                                                                Homo sapiens neanderthalensis
+9.091	1	0	12	1	0.0008182	9596	genus	                                                            Pan
+9.091	1	1	8	1	0.001309	9598	species	                                                              Pan troglodytes
+9.091	1	0	5	1	1.527e-06	314147	clade	                                              Glires
+9.091	1	0	5	1	1.632e-06	9989	order	                                                Rodentia
+9.091	1	0	5	1	2.68e-06	1963758	suborder	                                                  Myomorpha
+9.091	1	0	5	1	2.835e-06	337687	clade	                                                    Muroidea
+9.091	1	0	5	1	5.214e-06	10066	family	                                                      Muridae
+9.091	1	0	5	1	5.743e-06	39107	subfamily	                                                        Murinae
+9.091	1	1	5	1	0.0001055	10128	genus	                                                          Apodemus

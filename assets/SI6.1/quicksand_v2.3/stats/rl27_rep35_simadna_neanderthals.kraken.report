@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:29Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/99/5be91cd57ae5cd8014e236a93cc52d
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl27_rep35_simadna_neanderthals.kraken.report --output output.kraken rl27_rep35_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+3.704	1	1	319	1	NA	0	no rank	unclassified
+96.3	26	0	453	1	3.687e-05	1	no rank	root
+96.3	26	0	453	1	3.687e-05	131567	no rank	  cellular organisms
+96.3	26	0	453	1	3.687e-05	2759	superkingdom	    Eukaryota
+96.3	26	0	453	1	3.687e-05	33154	clade	      Opisthokonta
+96.3	26	0	453	1	3.687e-05	33208	kingdom	        Metazoa
+96.3	26	0	453	1	3.687e-05	6072	clade	          Eumetazoa
+96.3	26	0	453	1	3.687e-05	33213	clade	            Bilateria
+96.3	26	0	453	1	3.687e-05	33511	clade	              Deuterostomia
+96.3	26	0	453	1	3.687e-05	7711	phylum	                Chordata
+96.3	26	0	453	1	3.687e-05	89593	subphylum	                  Craniata
+96.3	26	0	453	1	3.687e-05	7742	clade	                    Vertebrata
+96.3	26	0	453	1	3.687e-05	7776	clade	                      Gnathostomata
+96.3	26	0	453	1	3.687e-05	117570	clade	                        Teleostomi
+96.3	26	0	453	1	3.687e-05	117571	clade	                          Euteleostomi
+96.3	26	0	453	1	3.687e-05	8287	superclass	                            Sarcopterygii
+96.3	26	0	453	1	3.687e-05	1338369	clade	                              Dipnotetrapodomorpha
+96.3	26	0	453	1	3.687e-05	32523	clade	                                Tetrapoda
+96.3	26	0	453	1	3.687e-05	32524	clade	                                  Amniota
+96.3	26	0	453	1	3.687e-05	40674	class	                                    Mammalia
+96.3	26	0	453	1	3.701e-05	32525	clade	                                      Theria
+96.3	26	1	446	1	3.841e-05	9347	clade	                                        Eutheria
+92.59	25	1	414	1	3.814e-05	1437010	clade	                                          Boreoeutheria
+88.89	24	2	381	1	7.248e-05	314146	superorder	                                            Euarchontoglires
+81.48	22	0	344	1	0.0001886	9443	order	                                              Primates
+81.48	22	0	338	1	0.0002774	376913	suborder	                                                Haplorrhini
+81.48	22	0	338	1	0.0002877	314293	infraorder	                                                  Simiiformes
+81.48	22	1	337	1	0.000501	9526	parvorder	                                                    Catarrhini
+70.37	19	0	303	1	0.00217	314295	superfamily	                                                      Hominoidea
+70.37	19	0	302	1	0.004251	9604	family	                                                        Hominidae
+70.37	19	1	300	1	0.005964	207598	subfamily	                                                          Homininae
+66.67	18	5	262	1	0.01614	9605	genus	                                                            Homo
+48.15	13	6	119	1	0.01373	9606	species	                                                              Homo sapiens
+25.93	7	7	60	1	0.0328	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.407	2	0	12	1	2.278e-05	314294	superfamily	                                                      Cercopithecoidea
+7.407	2	0	12	1	2.278e-05	9527	family	                                                        Cercopithecidae
+3.704	1	0	8	1	3.848e-05	9569	subfamily	                                                          Colobinae
+3.704	1	1	2	1	6.54e-05	542827	genus	                                                            Rhinopithecus
+3.704	1	0	2	1	6.486e-06	9528	subfamily	                                                          Cercopithecinae
+3.704	1	0	2	1	0.0002417	2059839	genus	                                                            Allochrocebus
+3.704	1	1	2	1	0.0002417	100224	species	                                                              Allochrocebus lhoesti

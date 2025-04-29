@@ -1,0 +1,49 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:31Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/18/cbf3870275d018bc3f74c2df8027a3
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl16_rep78_simadna_neanderthals.kraken.report --output output.kraken rl16_rep78_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+25	4	4	171	1	NA	0	no rank	unclassified
+75	12	0	227	1	1.848e-05	1	no rank	root
+75	12	0	227	1	1.848e-05	131567	no rank	  cellular organisms
+75	12	0	227	1	1.848e-05	2759	superkingdom	    Eukaryota
+75	12	0	227	1	1.848e-05	33154	clade	      Opisthokonta
+75	12	0	227	1	1.848e-05	33208	kingdom	        Metazoa
+75	12	0	227	1	1.848e-05	6072	clade	          Eumetazoa
+75	12	0	227	1	1.848e-05	33213	clade	            Bilateria
+75	12	0	227	1	1.848e-05	33511	clade	              Deuterostomia
+75	12	0	227	1	1.848e-05	7711	phylum	                Chordata
+75	12	0	227	1	1.848e-05	89593	subphylum	                  Craniata
+75	12	0	227	1	1.848e-05	7742	clade	                    Vertebrata
+75	12	0	227	1	1.848e-05	7776	clade	                      Gnathostomata
+75	12	0	227	1	1.848e-05	117570	clade	                        Teleostomi
+75	12	0	227	1	1.848e-05	117571	clade	                          Euteleostomi
+75	12	0	227	1	1.848e-05	8287	superclass	                            Sarcopterygii
+75	12	0	227	1	1.848e-05	1338369	clade	                              Dipnotetrapodomorpha
+75	12	0	227	1	1.848e-05	32523	clade	                                Tetrapoda
+75	12	0	227	1	1.848e-05	32524	clade	                                  Amniota
+75	12	0	227	1	1.848e-05	40674	class	                                    Mammalia
+75	12	0	215	1	1.756e-05	32525	clade	                                      Theria
+75	12	0	195	1	1.679e-05	9347	clade	                                        Eutheria
+75	12	0	180	1	1.658e-05	1437010	clade	                                          Boreoeutheria
+62.5	10	1	145	1	2.758e-05	314146	superorder	                                            Euarchontoglires
+56.25	9	0	135	1	7.4e-05	9443	order	                                              Primates
+56.25	9	0	134	1	0.00011	376913	suborder	                                                Haplorrhini
+56.25	9	0	134	1	0.0001141	314293	infraorder	                                                  Simiiformes
+56.25	9	0	129	1	0.0001918	9526	parvorder	                                                    Catarrhini
+56.25	9	1	117	1	0.0008379	314295	superfamily	                                                      Hominoidea
+50	8	0	104	1	0.001464	9604	family	                                                        Hominidae
+50	8	1	104	1	0.002068	207598	subfamily	                                                          Homininae
+43.75	7	6	87	1	0.005361	9605	genus	                                                            Homo
+6.25	1	1	11	1	0.001269	9606	species	                                                              Homo sapiens
+12.5	2	0	9	1	1.744e-06	314145	superorder	                                            Laurasiatheria
+6.25	1	0	6	1	4.097e-06	9397	order	                                              Chiroptera
+6.25	1	0	6	1	5.29e-06	30560	suborder	                                                Microchiroptera
+6.25	1	0	6	1	1.224e-05	9431	family	                                                  Vespertilionidae
+6.25	1	0	1	1	4.292e-06	9434	genus	                                                    Myotis
+6.25	1	1	1	1	0.0001442	155915	species	                                                      Myotis ikonnikovi
+6.25	1	0	3	1	2.097e-06	91561	order	                                              Artiodactyla
+6.25	1	0	3	1	7.438e-06	2653789	suborder	                                                Whippomorpha
+6.25	1	0	3	1	7.768e-06	9721	infraorder	                                                  Cetacea
+6.25	1	0	3	1	1.003e-05	9722	parvorder	                                                    Odontoceti
+6.25	1	0	3	1	3.24e-05	9726	family	                                                      Delphinidae
+6.25	1	0	3	1	0.0007928	9729	genus	                                                        Globicephala
+6.25	1	1	3	1	0.003071	38241	species	                                                          Globicephala macrorhynchus

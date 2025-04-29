@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:11Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/d8/f1cc74dbbaf0b29a83e360b019e4cb
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl19_rep19_simadna_neanderthals.kraken.report --output output.kraken rl19_rep19_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10.53	2	2	262	1	NA	0	no rank	unclassified
+89.47	17	0	244	1	1.986e-05	1	no rank	root
+89.47	17	0	244	1	1.986e-05	131567	no rank	  cellular organisms
+89.47	17	0	244	1	1.986e-05	2759	superkingdom	    Eukaryota
+89.47	17	0	244	1	1.986e-05	33154	clade	      Opisthokonta
+89.47	17	0	244	1	1.986e-05	33208	kingdom	        Metazoa
+89.47	17	0	244	1	1.986e-05	6072	clade	          Eumetazoa
+89.47	17	0	244	1	1.986e-05	33213	clade	            Bilateria
+89.47	17	0	244	1	1.986e-05	33511	clade	              Deuterostomia
+89.47	17	0	244	1	1.986e-05	7711	phylum	                Chordata
+89.47	17	0	244	1	1.986e-05	89593	subphylum	                  Craniata
+89.47	17	0	244	1	1.986e-05	7742	clade	                    Vertebrata
+89.47	17	0	244	1	1.986e-05	7776	clade	                      Gnathostomata
+89.47	17	0	244	1	1.986e-05	117570	clade	                        Teleostomi
+89.47	17	0	244	1	1.986e-05	117571	clade	                          Euteleostomi
+89.47	17	0	244	1	1.986e-05	8287	superclass	                            Sarcopterygii
+89.47	17	0	244	1	1.986e-05	1338369	clade	                              Dipnotetrapodomorpha
+89.47	17	0	244	1	1.986e-05	32523	clade	                                Tetrapoda
+89.47	17	0	244	1	1.986e-05	32524	clade	                                  Amniota
+89.47	17	0	244	1	1.986e-05	40674	class	                                    Mammalia
+89.47	17	0	240	1	1.961e-05	32525	clade	                                      Theria
+89.47	17	0	223	1	1.92e-05	9347	clade	                                        Eutheria
+89.47	17	0	212	1	1.953e-05	1437010	clade	                                          Boreoeutheria
+84.21	16	1	174	1	3.31e-05	314146	superorder	                                            Euarchontoglires
+78.95	15	1	162	1	8.88e-05	9443	order	                                              Primates
+73.68	14	0	161	1	0.0001321	376913	suborder	                                                Haplorrhini
+73.68	14	0	161	1	0.000137	314293	infraorder	                                                  Simiiformes
+73.68	14	0	154	1	0.0002289	9526	parvorder	                                                    Catarrhini
+57.89	11	0	140	1	0.001003	314295	superfamily	                                                      Hominoidea
+57.89	11	1	127	1	0.001788	9604	family	                                                        Hominidae
+52.63	10	0	121	1	0.002406	207598	subfamily	                                                          Homininae
+52.63	10	4	96	1	0.005916	9605	genus	                                                            Homo
+31.58	6	5	45	1	0.005192	9606	species	                                                              Homo sapiens
+5.263	1	1	13	1	0.007108	63221	subspecies	                                                                Homo sapiens neanderthalensis
+15.79	3	0	10	1	1.898e-05	314294	superfamily	                                                      Cercopithecoidea
+15.79	3	0	10	1	1.898e-05	9527	family	                                                        Cercopithecidae
+10.53	2	0	8	1	3.848e-05	9569	subfamily	                                                          Colobinae
+10.53	2	0	4	1	0.0004221	9573	genus	                                                            Presbytis
+10.53	2	2	4	1	0.0004221	78451	species	                                                              Presbytis melalophos
+5.263	1	0	2	1	6.486e-06	9528	subfamily	                                                          Cercopithecinae
+5.263	1	1	2	1	1.894e-05	9539	genus	                                                            Macaca
+5.263	1	0	5	1	9.687e-07	314145	superorder	                                            Laurasiatheria
+5.263	1	0	1	1	1.687e-06	9362	order	                                              Eulipotyphla
+5.263	1	0	1	1	2.759e-06	9376	family	                                                Soricidae
+5.263	1	0	1	1	4.242e-06	183663	subfamily	                                                  Soricinae
+5.263	1	0	1	1	1.306e-05	9379	genus	                                                    Sorex
+5.263	1	1	1	1	0.0001674	62287	species	                                                      Sorex tundrensis

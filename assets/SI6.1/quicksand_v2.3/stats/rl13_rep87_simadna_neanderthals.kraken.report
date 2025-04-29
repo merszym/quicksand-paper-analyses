@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:55Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/18/b2e5b2ae7a5341905b1d34e79273bf
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl13_rep87_simadna_neanderthals.kraken.report --output output.kraken rl13_rep87_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+7.692	1	1	136	1	NA	0	no rank	unclassified
+92.31	12	0	247	1	2.011e-05	1	no rank	root
+92.31	12	0	247	1	2.011e-05	131567	no rank	  cellular organisms
+92.31	12	0	247	1	2.011e-05	2759	superkingdom	    Eukaryota
+92.31	12	0	247	1	2.011e-05	33154	clade	      Opisthokonta
+92.31	12	0	247	1	2.011e-05	33208	kingdom	        Metazoa
+92.31	12	0	247	1	2.011e-05	6072	clade	          Eumetazoa
+92.31	12	0	247	1	2.011e-05	33213	clade	            Bilateria
+92.31	12	0	247	1	2.011e-05	33511	clade	              Deuterostomia
+92.31	12	0	247	1	2.011e-05	7711	phylum	                Chordata
+92.31	12	0	247	1	2.011e-05	89593	subphylum	                  Craniata
+92.31	12	0	247	1	2.011e-05	7742	clade	                    Vertebrata
+92.31	12	0	247	1	2.011e-05	7776	clade	                      Gnathostomata
+92.31	12	0	247	1	2.011e-05	117570	clade	                        Teleostomi
+92.31	12	0	247	1	2.011e-05	117571	clade	                          Euteleostomi
+92.31	12	0	247	1	2.011e-05	8287	superclass	                            Sarcopterygii
+92.31	12	0	247	1	2.011e-05	1338369	clade	                              Dipnotetrapodomorpha
+92.31	12	0	247	1	2.011e-05	32523	clade	                                Tetrapoda
+92.31	12	0	247	1	2.011e-05	32524	clade	                                  Amniota
+92.31	12	0	247	1	2.011e-05	40674	class	                                    Mammalia
+92.31	12	0	247	1	2.018e-05	32525	clade	                                      Theria
+92.31	12	1	222	1	1.912e-05	9347	clade	                                        Eutheria
+84.62	11	0	211	1	1.944e-05	1437010	clade	                                          Boreoeutheria
+76.92	10	0	178	1	3.386e-05	314146	superorder	                                            Euarchontoglires
+69.23	9	0	159	1	8.715e-05	9443	order	                                              Primates
+69.23	9	0	157	1	0.0001289	376913	suborder	                                                Haplorrhini
+69.23	9	0	157	1	0.0001336	314293	infraorder	                                                  Simiiformes
+69.23	9	0	154	1	0.0002289	9526	parvorder	                                                    Catarrhini
+69.23	9	0	133	1	0.0009525	314295	superfamily	                                                      Hominoidea
+69.23	9	0	128	1	0.001802	9604	family	                                                        Hominidae
+69.23	9	1	128	1	0.002545	207598	subfamily	                                                          Homininae
+61.54	8	3	113	1	0.006963	9605	genus	                                                            Homo
+38.46	5	2	76	1	0.008768	9606	species	                                                              Homo sapiens
+23.08	3	3	19	1	0.01039	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.692	1	0	11	1	3.358e-06	314147	clade	                                              Glires
+7.692	1	0	8	1	3.981e-05	9975	order	                                                Lagomorpha
+7.692	1	0	8	1	8.718e-05	9976	family	                                                  Ochotonidae
+7.692	1	0	8	1	8.718e-05	9977	genus	                                                    Ochotona
+7.692	1	1	8	1	0.0009507	130830	species	                                                      Ochotona erythrotis
+7.692	1	0	3	1	5.812e-07	314145	superorder	                                            Laurasiatheria
+7.692	1	0	2	1	1.366e-06	9397	order	                                              Chiroptera
+7.692	1	0	1	1	8.816e-07	30560	suborder	                                                Microchiroptera
+7.692	1	0	1	1	2.041e-06	9431	family	                                                  Vespertilionidae
+7.692	1	1	1	1	4.374e-05	258918	genus	                                                    Histiotus

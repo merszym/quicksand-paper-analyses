@@ -1,0 +1,64 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:35Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/3a/ecfe22bbec3b1d6ba5e375ccf93ffc
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep64_simadna_neanderthals.kraken.report --output output.kraken rl29_rep64_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10.34	3	3	388	1	NA	0	no rank	unclassified
+89.66	26	0	428	1	3.484e-05	1	no rank	root
+89.66	26	0	428	1	3.484e-05	131567	no rank	  cellular organisms
+89.66	26	0	428	1	3.484e-05	2759	superkingdom	    Eukaryota
+89.66	26	0	428	1	3.484e-05	33154	clade	      Opisthokonta
+89.66	26	0	428	1	3.484e-05	33208	kingdom	        Metazoa
+89.66	26	0	428	1	3.484e-05	6072	clade	          Eumetazoa
+89.66	26	0	428	1	3.484e-05	33213	clade	            Bilateria
+89.66	26	0	428	1	3.484e-05	33511	clade	              Deuterostomia
+89.66	26	0	428	1	3.484e-05	7711	phylum	                Chordata
+89.66	26	0	428	1	3.484e-05	89593	subphylum	                  Craniata
+89.66	26	0	428	1	3.484e-05	7742	clade	                    Vertebrata
+89.66	26	0	428	1	3.484e-05	7776	clade	                      Gnathostomata
+89.66	26	0	428	1	3.484e-05	117570	clade	                        Teleostomi
+89.66	26	0	428	1	3.484e-05	117571	clade	                          Euteleostomi
+89.66	26	0	428	1	3.484e-05	8287	superclass	                            Sarcopterygii
+89.66	26	0	428	1	3.484e-05	1338369	clade	                              Dipnotetrapodomorpha
+89.66	26	0	428	1	3.484e-05	32523	clade	                                Tetrapoda
+89.66	26	0	428	1	3.484e-05	32524	clade	                                  Amniota
+89.66	26	0	428	1	3.484e-05	40674	class	                                    Mammalia
+89.66	26	1	425	1	3.472e-05	32525	clade	                                      Theria
+86.21	25	0	377	1	3.247e-05	9347	clade	                                        Eutheria
+82.76	24	1	330	1	3.04e-05	1437010	clade	                                          Boreoeutheria
+72.41	21	0	254	1	4.832e-05	314146	superorder	                                            Euarchontoglires
+72.41	21	1	247	1	0.0001354	9443	order	                                              Primates
+65.52	19	0	221	1	0.0001814	376913	suborder	                                                Haplorrhini
+65.52	19	0	221	1	0.0001881	314293	infraorder	                                                  Simiiformes
+65.52	19	0	221	1	0.0003285	9526	parvorder	                                                    Catarrhini
+62.07	18	2	176	1	0.00126	314295	superfamily	                                                      Hominoidea
+55.17	16	0	139	1	0.001956	9604	family	                                                        Hominidae
+55.17	16	2	136	1	0.002704	207598	subfamily	                                                          Homininae
+44.83	13	9	97	1	0.005977	9605	genus	                                                            Homo
+13.79	4	2	17	1	0.001961	9606	species	                                                              Homo sapiens
+6.897	2	2	5	1	0.002734	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.448	1	0	1	1	6.328e-05	9592	genus	                                                            Gorilla
+3.448	1	1	1	1	0.0001839	499232	species	                                                              Gorilla beringei
+3.448	1	0	11	1	2.088e-05	314294	superfamily	                                                      Cercopithecoidea
+3.448	1	0	11	1	2.088e-05	9527	family	                                                        Cercopithecidae
+3.448	1	0	8	1	3.848e-05	9569	subfamily	                                                          Colobinae
+3.448	1	0	8	1	0.0008209	591932	genus	                                                            Piliocolobus
+3.448	1	1	8	1	0.0008209	164648	species	                                                              Piliocolobus badius
+3.448	1	0	5	1	8.349e-06	376911	suborder	                                                Strepsirrhini
+3.448	1	0	5	1	9.785e-06	376915	infraorder	                                                  Lemuriformes
+3.448	1	1	2	1	1.013e-05	30615	family	                                                    Cheirogaleidae
+6.897	2	0	8	1	1.55e-06	314145	superorder	                                            Laurasiatheria
+3.448	1	0	5	1	3.414e-06	9397	order	                                              Chiroptera
+3.448	1	0	3	1	2.645e-06	30560	suborder	                                                Microchiroptera
+3.448	1	0	3	1	6.122e-06	9431	family	                                                  Vespertilionidae
+3.448	1	0	3	1	1.288e-05	9434	genus	                                                    Myotis
+3.448	1	1	3	1	0.0004076	187014	species	                                                      Myotis macrodactylus
+3.448	1	0	3	1	2.097e-06	91561	order	                                              Artiodactyla
+3.448	1	0	3	1	3.304e-06	9845	suborder	                                                Ruminantia
+3.448	1	0	3	1	3.449e-06	35500	infraorder	                                                  Pecora
+3.448	1	0	2	1	1.014e-05	9850	family	                                                    Cervidae
+3.448	1	0	2	1	2.466e-05	9881	subfamily	                                                      Odocoileinae
+3.448	1	0	2	1	9.836e-05	43333	genus	                                                        Mazama
+3.448	1	1	2	1	0.0006133	43334	species	                                                          Mazama americana
+3.448	1	0	3	1	1.047e-05	311790	superorder	                                          Afrotheria
+3.448	1	0	3	1	2.134e-05	28734	order	                                            Macroscelidea
+3.448	1	0	3	1	2.134e-05	28735	family	                                              Macroscelididae
+3.448	1	1	3	1	0.0001554	151030	genus	                                                Rhynchocyon

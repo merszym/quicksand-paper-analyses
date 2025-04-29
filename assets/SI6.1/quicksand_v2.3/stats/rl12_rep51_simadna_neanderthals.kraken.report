@@ -1,0 +1,49 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:26Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/a9/09230fe9817f2d7bd5b3c1036d07fa
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl12_rep51_simadna_neanderthals.kraken.report --output output.kraken rl12_rep51_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+25	3	3	157	1	NA	0	no rank	unclassified
+75	9	0	164	1	1.335e-05	1	no rank	root
+75	9	0	164	1	1.335e-05	131567	no rank	  cellular organisms
+75	9	0	164	1	1.335e-05	2759	superkingdom	    Eukaryota
+75	9	0	164	1	1.335e-05	33154	clade	      Opisthokonta
+75	9	0	164	1	1.335e-05	33208	kingdom	        Metazoa
+75	9	0	164	1	1.335e-05	6072	clade	          Eumetazoa
+75	9	0	164	1	1.335e-05	33213	clade	            Bilateria
+75	9	0	164	1	1.335e-05	33511	clade	              Deuterostomia
+75	9	0	164	1	1.335e-05	7711	phylum	                Chordata
+75	9	0	164	1	1.335e-05	89593	subphylum	                  Craniata
+75	9	0	164	1	1.335e-05	7742	clade	                    Vertebrata
+75	9	0	164	1	1.335e-05	7776	clade	                      Gnathostomata
+75	9	0	164	1	1.335e-05	117570	clade	                        Teleostomi
+75	9	0	164	1	1.335e-05	117571	clade	                          Euteleostomi
+75	9	0	164	1	1.335e-05	8287	superclass	                            Sarcopterygii
+75	9	0	164	1	1.335e-05	1338369	clade	                              Dipnotetrapodomorpha
+75	9	0	164	1	1.335e-05	32523	clade	                                Tetrapoda
+75	9	0	164	1	1.335e-05	32524	clade	                                  Amniota
+75	9	0	164	1	1.335e-05	40674	class	                                    Mammalia
+75	9	0	152	1	1.242e-05	32525	clade	                                      Theria
+75	9	0	141	1	1.214e-05	9347	clade	                                        Eutheria
+75	9	0	136	1	1.253e-05	1437010	clade	                                          Boreoeutheria
+66.67	8	0	119	1	2.264e-05	314146	superorder	                                            Euarchontoglires
+58.33	7	0	108	1	5.92e-05	9443	order	                                              Primates
+58.33	7	0	108	1	8.865e-05	376913	suborder	                                                Haplorrhini
+58.33	7	0	108	1	9.192e-05	314293	infraorder	                                                  Simiiformes
+58.33	7	0	100	1	0.0001487	9526	parvorder	                                                    Catarrhini
+58.33	7	0	100	1	0.0007162	314295	superfamily	                                                      Hominoidea
+58.33	7	0	99	1	0.001393	9604	family	                                                        Hominidae
+58.33	7	0	98	1	0.001948	207598	subfamily	                                                          Homininae
+50	6	5	75	1	0.004622	9605	genus	                                                            Homo
+8.333	1	1	3	1	0.0003461	9606	species	                                                              Homo sapiens
+8.333	1	1	5	1	0.0003164	9592	genus	                                                            Gorilla
+8.333	1	0	3	1	9.159e-07	314147	clade	                                              Glires
+8.333	1	0	3	1	9.791e-07	9989	order	                                                Rodentia
+8.333	1	0	3	1	1.608e-06	1963758	suborder	                                                  Myomorpha
+8.333	1	0	3	1	1.701e-06	337687	clade	                                                    Muroidea
+8.333	1	0	3	1	3.129e-06	10066	family	                                                      Muridae
+8.333	1	1	3	1	4.547e-05	10045	subfamily	                                                        Gerbillinae
+8.333	1	0	6	1	1.162e-06	314145	superorder	                                            Laurasiatheria
+8.333	1	0	6	1	4.097e-06	9397	order	                                              Chiroptera
+8.333	1	0	6	1	5.29e-06	30560	suborder	                                                Microchiroptera
+8.333	1	0	6	1	1.224e-05	9431	family	                                                  Vespertilionidae
+8.333	1	0	1	1	4.292e-06	9434	genus	                                                    Myotis
+8.333	1	1	1	1	0.0001442	155915	species	                                                      Myotis ikonnikovi

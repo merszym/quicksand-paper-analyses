@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:20:51Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/c0/1cfef3b04c73534bb75814de66a0e6
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl11_rep84_simadna_neanderthals.kraken.report --output output.kraken rl11_rep84_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	11	0	176	1	1.433e-05	1	no rank	root
+100	11	0	176	1	1.433e-05	131567	no rank	  cellular organisms
+100	11	0	176	1	1.433e-05	2759	superkingdom	    Eukaryota
+100	11	0	176	1	1.433e-05	33154	clade	      Opisthokonta
+100	11	0	176	1	1.433e-05	33208	kingdom	        Metazoa
+100	11	0	176	1	1.433e-05	6072	clade	          Eumetazoa
+100	11	0	176	1	1.433e-05	33213	clade	            Bilateria
+100	11	0	176	1	1.433e-05	33511	clade	              Deuterostomia
+100	11	0	176	1	1.433e-05	7711	phylum	                Chordata
+100	11	0	176	1	1.433e-05	89593	subphylum	                  Craniata
+100	11	0	176	1	1.433e-05	7742	clade	                    Vertebrata
+100	11	0	176	1	1.433e-05	7776	clade	                      Gnathostomata
+100	11	0	176	1	1.433e-05	117570	clade	                        Teleostomi
+100	11	0	176	1	1.433e-05	117571	clade	                          Euteleostomi
+100	11	0	176	1	1.433e-05	8287	superclass	                            Sarcopterygii
+100	11	0	176	1	1.433e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	11	0	176	1	1.433e-05	32523	clade	                                Tetrapoda
+100	11	0	176	1	1.433e-05	32524	clade	                                  Amniota
+100	11	0	176	1	1.433e-05	40674	class	                                    Mammalia
+100	11	0	176	1	1.438e-05	32525	clade	                                      Theria
+100	11	0	166	1	1.43e-05	9347	clade	                                        Eutheria
+100	11	1	164	1	1.511e-05	1437010	clade	                                          Boreoeutheria
+90.91	10	0	142	1	2.701e-05	314146	superorder	                                            Euarchontoglires
+90.91	10	0	134	1	7.345e-05	9443	order	                                              Primates
+90.91	10	0	132	1	0.0001083	376913	suborder	                                                Haplorrhini
+90.91	10	0	132	1	0.0001124	314293	infraorder	                                                  Simiiformes
+81.82	9	0	128	1	0.0001903	9526	parvorder	                                                    Catarrhini
+81.82	9	0	127	1	0.0009095	314295	superfamily	                                                      Hominoidea
+81.82	9	0	125	1	0.001759	9604	family	                                                        Hominidae
+81.82	9	0	101	1	0.002008	207598	subfamily	                                                          Homininae
+63.64	7	3	74	1	0.00456	9605	genus	                                                            Homo
+36.36	4	2	30	1	0.003461	9606	species	                                                              Homo sapiens
+18.18	2	2	8	1	0.004374	63221	subspecies	                                                                Homo sapiens neanderthalensis
+9.091	1	0	5	1	0.0003164	9592	genus	                                                            Gorilla
+9.091	1	1	5	1	0.0007077	9593	species	                                                              Gorilla gorilla
+9.091	1	0	1	1	6.818e-05	9596	genus	                                                            Pan
+9.091	1	1	1	1	0.0001671	9597	species	                                                              Pan paniscus
+9.091	1	0	4	1	8.078e-06	9479	parvorder	                                                    Platyrrhini
+9.091	1	0	4	1	1.817e-05	9498	family	                                                      Cebidae
+9.091	1	0	4	1	2.521e-05	9480	subfamily	                                                        Callitrichinae
+9.091	1	1	4	1	7.571e-05	9486	genus	                                                          Saguinus

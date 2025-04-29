@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:37Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/35/2e1a8734ab14444a492004261de2ab
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl21_rep22_simadna_neanderthals.kraken.report --output output.kraken rl21_rep22_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+4.762	1	1	172	1	NA	0	no rank	unclassified
+95.24	20	0	383	1	3.118e-05	1	no rank	root
+95.24	20	0	383	1	3.118e-05	131567	no rank	  cellular organisms
+95.24	20	0	383	1	3.118e-05	2759	superkingdom	    Eukaryota
+95.24	20	0	383	1	3.118e-05	33154	clade	      Opisthokonta
+95.24	20	0	383	1	3.118e-05	33208	kingdom	        Metazoa
+95.24	20	0	383	1	3.118e-05	6072	clade	          Eumetazoa
+95.24	20	0	383	1	3.118e-05	33213	clade	            Bilateria
+95.24	20	0	383	1	3.118e-05	33511	clade	              Deuterostomia
+95.24	20	0	383	1	3.118e-05	7711	phylum	                Chordata
+95.24	20	0	383	1	3.118e-05	89593	subphylum	                  Craniata
+95.24	20	0	383	1	3.118e-05	7742	clade	                    Vertebrata
+95.24	20	0	383	1	3.118e-05	7776	clade	                      Gnathostomata
+95.24	20	0	383	1	3.118e-05	117570	clade	                        Teleostomi
+95.24	20	0	383	1	3.118e-05	117571	clade	                          Euteleostomi
+95.24	20	0	383	1	3.118e-05	8287	superclass	                            Sarcopterygii
+95.24	20	0	383	1	3.118e-05	1338369	clade	                              Dipnotetrapodomorpha
+95.24	20	0	383	1	3.118e-05	32523	clade	                                Tetrapoda
+95.24	20	0	383	1	3.118e-05	32524	clade	                                  Amniota
+95.24	20	0	383	1	3.118e-05	40674	class	                                    Mammalia
+95.24	20	0	375	1	3.063e-05	32525	clade	                                      Theria
+95.24	20	1	369	1	3.178e-05	9347	clade	                                        Eutheria
+90.48	19	0	321	1	2.957e-05	1437010	clade	                                          Boreoeutheria
+90.48	19	0	261	1	4.965e-05	314146	superorder	                                            Euarchontoglires
+90.48	19	0	259	1	0.000142	9443	order	                                              Primates
+90.48	19	0	259	1	0.0002126	376913	suborder	                                                Haplorrhini
+90.48	19	1	259	1	0.0002204	314293	infraorder	                                                  Simiiformes
+80.95	17	0	243	1	0.0003612	9526	parvorder	                                                    Catarrhini
+80.95	17	0	209	1	0.001497	314295	superfamily	                                                      Hominoidea
+80.95	17	0	187	1	0.002632	9604	family	                                                        Hominidae
+80.95	17	0	184	1	0.003658	207598	subfamily	                                                          Homininae
+71.43	15	9	172	1	0.0106	9605	genus	                                                            Homo
+28.57	6	4	40	1	0.004615	9606	species	                                                              Homo sapiens
+9.524	2	2	7	1	0.003827	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.762	1	1	3	1	0.0002045	9596	genus	                                                            Pan
+4.762	1	0	3	1	0.0001898	9592	genus	                                                            Gorilla
+4.762	1	1	3	1	0.0004246	9593	species	                                                              Gorilla gorilla
+4.762	1	0	14	1	2.827e-05	9479	parvorder	                                                    Platyrrhini
+4.762	1	0	14	1	0.000166	378855	family	                                                      Atelidae
+4.762	1	0	14	1	0.000285	38066	subfamily	                                                        Alouattinae
+4.762	1	0	14	1	0.000285	9499	genus	                                                          Alouatta
+4.762	1	0	13	1	0.00275	182256	species	                                                            Alouatta guariba
+4.762	1	1	13	1	0.00275	183328	subspecies	                                                              Alouatta guariba clamitans

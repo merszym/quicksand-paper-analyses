@@ -1,0 +1,55 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:50Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/d6/925df1ff700fb8d832732713c447b0
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl25_rep94_simadna_neanderthals.kraken.report --output output.kraken rl25_rep94_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+8	2	2	315	1	NA	0	no rank	unclassified
+92	23	0	361	1.05	2.939e-05	1	no rank	root
+92	23	0	361	1.05	2.939e-05	131567	no rank	  cellular organisms
+92	23	0	361	1.05	2.939e-05	2759	superkingdom	    Eukaryota
+92	23	0	361	1.05	2.939e-05	33154	clade	      Opisthokonta
+92	23	0	361	1.05	2.939e-05	33208	kingdom	        Metazoa
+92	23	0	361	1.05	2.939e-05	6072	clade	          Eumetazoa
+92	23	0	361	1.05	2.939e-05	33213	clade	            Bilateria
+92	23	0	361	1.05	2.939e-05	33511	clade	              Deuterostomia
+92	23	0	361	1.05	2.939e-05	7711	phylum	                Chordata
+92	23	0	361	1.05	2.939e-05	89593	subphylum	                  Craniata
+92	23	0	361	1.05	2.939e-05	7742	clade	                    Vertebrata
+92	23	0	361	1.05	2.939e-05	7776	clade	                      Gnathostomata
+92	23	0	361	1.05	2.939e-05	117570	clade	                        Teleostomi
+92	23	0	361	1.05	2.939e-05	117571	clade	                          Euteleostomi
+92	23	0	361	1.05	2.939e-05	8287	superclass	                            Sarcopterygii
+92	23	0	361	1.05	2.939e-05	1338369	clade	                              Dipnotetrapodomorpha
+92	23	0	361	1.05	2.939e-05	32523	clade	                                Tetrapoda
+92	23	0	361	1.05	2.939e-05	32524	clade	                                  Amniota
+92	23	0	361	1.05	2.939e-05	40674	class	                                    Mammalia
+92	23	0	361	1.05	2.949e-05	32525	clade	                                      Theria
+92	23	0	360	1.05	3.1e-05	9347	clade	                                        Eutheria
+88	22	1	355	1.05	3.27e-05	1437010	clade	                                          Boreoeutheria
+80	20	0	287	1.06	5.46e-05	314146	superorder	                                            Euarchontoglires
+80	20	0	271	1.06	0.0001485	9443	order	                                              Primates
+80	20	0	270	1.06	0.0002216	376913	suborder	                                                Haplorrhini
+80	20	0	270	1.06	0.0002298	314293	infraorder	                                                  Simiiformes
+80	20	1	267	1.06	0.0003969	9526	parvorder	                                                    Catarrhini
+72	18	0	240	1.07	0.001719	314295	superfamily	                                                      Hominoidea
+72	18	1	231	1.07	0.003251	9604	family	                                                        Hominidae
+68	17	0	224	1.08	0.004453	207598	subfamily	                                                          Homininae
+68	17	4	200	1.08	0.01232	9605	genus	                                                            Homo
+52	13	6	147	1.1	0.01696	9606	species	                                                              Homo sapiens
+24	6	6	34	1	0.01859	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4	1	1	10	1	0.003837	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4	1	0	2	1	3.797e-06	314294	superfamily	                                                      Cercopithecoidea
+4	1	0	2	1	3.797e-06	9527	family	                                                        Cercopithecidae
+4	1	0	2	1	6.486e-06	9528	subfamily	                                                          Cercopithecinae
+4	1	0	2	1	0.0002194	75565	genus	                                                            Lophocebus
+4	1	1	2	1	0.0002194	75566	species	                                                              Lophocebus aterrimus
+4	1	0	8	1	1.55e-06	314145	superorder	                                            Laurasiatheria
+4	1	0	6	1	4.697e-06	33554	order	                                              Carnivora
+4	1	0	6	1	1.258e-05	379583	suborder	                                                Feliformia
+4	1	0	5	1	6.729e-05	9673	family	                                                  Viverridae
+4	1	0	5	1	0.0006838	219110	subfamily	                                                    Hemigalinae
+4	1	0	5	1	0.0006838	94183	genus	                                                      Chrotogale
+4	1	1	5	1	0.0006838	94184	species	                                                        Chrotogale owstoni
+4	1	0	2	1	6.983e-06	311790	superorder	                                          Afrotheria
+4	1	0	2	1	4.248e-05	9779	order	                                            Proboscidea
+4	1	0	2	1	4.248e-05	9780	family	                                              Elephantidae
+4	1	0	2	1	0.0002552	9782	genus	                                                Elephas
+4	1	1	2	1	0.001176	251093	species	                                                  Elephas antiquus

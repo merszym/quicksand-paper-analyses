@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:58Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/49/b1a77a9cebf82d7d64405abb07aaed
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl19_rep92_simadna_neanderthals.kraken.report --output output.kraken rl19_rep92_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+5.263	1	1	209	1	NA	0	no rank	unclassified
+94.74	18	0	310	1	2.523e-05	1	no rank	root
+94.74	18	0	310	1	2.523e-05	131567	no rank	  cellular organisms
+94.74	18	0	310	1	2.523e-05	2759	superkingdom	    Eukaryota
+94.74	18	0	310	1	2.523e-05	33154	clade	      Opisthokonta
+94.74	18	0	310	1	2.523e-05	33208	kingdom	        Metazoa
+94.74	18	0	310	1	2.523e-05	6072	clade	          Eumetazoa
+94.74	18	0	310	1	2.523e-05	33213	clade	            Bilateria
+94.74	18	0	310	1	2.523e-05	33511	clade	              Deuterostomia
+94.74	18	0	310	1	2.523e-05	7711	phylum	                Chordata
+94.74	18	0	310	1	2.523e-05	89593	subphylum	                  Craniata
+94.74	18	0	310	1	2.523e-05	7742	clade	                    Vertebrata
+94.74	18	0	310	1	2.523e-05	7776	clade	                      Gnathostomata
+94.74	18	0	310	1	2.523e-05	117570	clade	                        Teleostomi
+94.74	18	0	310	1	2.523e-05	117571	clade	                          Euteleostomi
+94.74	18	0	310	1	2.523e-05	8287	superclass	                            Sarcopterygii
+94.74	18	0	310	1	2.523e-05	1338369	clade	                              Dipnotetrapodomorpha
+94.74	18	0	310	1	2.523e-05	32523	clade	                                Tetrapoda
+94.74	18	0	310	1	2.523e-05	32524	clade	                                  Amniota
+94.74	18	0	310	1	2.523e-05	40674	class	                                    Mammalia
+94.74	18	0	310	1	2.532e-05	32525	clade	                                      Theria
+94.74	18	0	305	1	2.626e-05	9347	clade	                                        Eutheria
+94.74	18	0	305	1	2.81e-05	1437010	clade	                                          Boreoeutheria
+94.74	18	0	243	1	4.623e-05	314146	superorder	                                            Euarchontoglires
+89.47	17	0	229	1	0.0001255	9443	order	                                              Primates
+89.47	17	0	227	1	0.0001863	376913	suborder	                                                Haplorrhini
+89.47	17	0	227	1	0.0001932	314293	infraorder	                                                  Simiiformes
+89.47	17	0	227	1	0.0003375	9526	parvorder	                                                    Catarrhini
+89.47	17	0	199	1	0.001425	314295	superfamily	                                                      Hominoidea
+89.47	17	0	191	1	0.002688	9604	family	                                                        Hominidae
+89.47	17	3	182	1	0.003618	207598	subfamily	                                                          Homininae
+73.68	14	3	163	1	0.01004	9605	genus	                                                            Homo
+57.89	11	3	113	1	0.01304	9606	species	                                                              Homo sapiens
+36.84	7	7	39	1	0.02132	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.263	1	1	4	1	0.001535	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+5.263	1	0	3	1	9.159e-07	314147	clade	                                              Glires
+5.263	1	0	3	1	9.791e-07	9989	order	                                                Rodentia
+5.263	1	0	3	1	7.108e-06	33550	suborder	                                                  Hystricomorpha
+5.263	1	0	3	1	1.316e-05	10161	family	                                                    Echimyidae
+5.263	1	0	3	1	1.932e-05	10162	genus	                                                      Proechimys
+5.263	1	1	3	1	0.0004269	2033317	species	                                                        Proechimys kulinae

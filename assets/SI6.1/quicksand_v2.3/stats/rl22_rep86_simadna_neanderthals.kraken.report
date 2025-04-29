@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:01Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/d8/f691a28bc7c42e81bb7e9115997037
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl22_rep86_simadna_neanderthals.kraken.report --output output.kraken rl22_rep86_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	22	0	370	1.04	3.012e-05	1	no rank	root
+100	22	0	370	1.04	3.012e-05	131567	no rank	  cellular organisms
+100	22	0	370	1.04	3.012e-05	2759	superkingdom	    Eukaryota
+100	22	0	370	1.04	3.012e-05	33154	clade	      Opisthokonta
+100	22	0	370	1.04	3.012e-05	33208	kingdom	        Metazoa
+100	22	0	370	1.04	3.012e-05	6072	clade	          Eumetazoa
+100	22	0	370	1.04	3.012e-05	33213	clade	            Bilateria
+100	22	0	370	1.04	3.012e-05	33511	clade	              Deuterostomia
+100	22	0	370	1.04	3.012e-05	7711	phylum	                Chordata
+100	22	0	370	1.04	3.012e-05	89593	subphylum	                  Craniata
+100	22	0	370	1.04	3.012e-05	7742	clade	                    Vertebrata
+100	22	0	370	1.04	3.012e-05	7776	clade	                      Gnathostomata
+100	22	0	370	1.04	3.012e-05	117570	clade	                        Teleostomi
+100	22	0	370	1.04	3.012e-05	117571	clade	                          Euteleostomi
+100	22	0	370	1.04	3.012e-05	8287	superclass	                            Sarcopterygii
+100	22	0	370	1.04	3.012e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	22	0	370	1.04	3.012e-05	32523	clade	                                Tetrapoda
+100	22	0	370	1.04	3.012e-05	32524	clade	                                  Amniota
+100	22	0	370	1.04	3.012e-05	40674	class	                                    Mammalia
+100	22	0	370	1.04	3.023e-05	32525	clade	                                      Theria
+100	22	1	344	1.04	2.962e-05	9347	clade	                                        Eutheria
+95.45	21	2	332	1.04	3.058e-05	1437010	clade	                                          Boreoeutheria
+86.36	19	1	276	1.05	5.25e-05	314146	superorder	                                            Euarchontoglires
+77.27	17	0	263	1.05	0.0001442	9443	order	                                              Primates
+77.27	17	0	263	1.05	0.0002159	376913	suborder	                                                Haplorrhini
+77.27	17	0	263	1.05	0.0002239	314293	infraorder	                                                  Simiiformes
+77.27	17	1	263	1.05	0.000391	9526	parvorder	                                                    Catarrhini
+72.73	16	0	258	1.05	0.001848	314295	superfamily	                                                      Hominoidea
+72.73	16	1	253	1.06	0.003561	9604	family	                                                        Hominidae
+68.18	15	0	244	1.06	0.004851	207598	subfamily	                                                          Homininae
+63.64	14	7	206	1.07	0.01269	9605	genus	                                                            Homo
+31.82	7	5	75	1	0.008653	9606	species	                                                              Homo sapiens
+4.545	1	1	14	1	0.007654	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.545	1	1	7	1	0.002686	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4.545	1	0	8	1	0.0005454	9596	genus	                                                            Pan
+4.545	1	1	1	1	0.0001636	9598	species	                                                              Pan troglodytes
+4.545	1	0	3	1	9.159e-07	314147	clade	                                              Glires
+4.545	1	0	3	1	9.791e-07	9989	order	                                                Rodentia
+4.545	1	0	3	1	1.608e-06	1963758	suborder	                                                  Myomorpha
+4.545	1	0	3	1	1.701e-06	337687	clade	                                                    Muroidea
+4.545	1	0	3	1	3.129e-06	10066	family	                                                      Muridae
+4.545	1	1	3	1	3.446e-06	39107	subfamily	                                                        Murinae

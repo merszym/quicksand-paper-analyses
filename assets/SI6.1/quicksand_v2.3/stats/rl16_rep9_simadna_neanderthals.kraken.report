@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:12Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/52/e32b38068de5af51dcdc38e98bcf18
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl16_rep9_simadna_neanderthals.kraken.report --output output.kraken rl16_rep9_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+12.5	2	2	335	1	NA	0	no rank	unclassified
+87.5	14	0	203	1	1.652e-05	1	no rank	root
+87.5	14	0	203	1	1.652e-05	131567	no rank	  cellular organisms
+87.5	14	0	203	1	1.652e-05	2759	superkingdom	    Eukaryota
+87.5	14	0	203	1	1.652e-05	33154	clade	      Opisthokonta
+87.5	14	0	203	1	1.652e-05	33208	kingdom	        Metazoa
+87.5	14	0	203	1	1.652e-05	6072	clade	          Eumetazoa
+87.5	14	0	203	1	1.652e-05	33213	clade	            Bilateria
+87.5	14	0	203	1	1.652e-05	33511	clade	              Deuterostomia
+87.5	14	0	203	1	1.652e-05	7711	phylum	                Chordata
+87.5	14	0	203	1	1.652e-05	89593	subphylum	                  Craniata
+87.5	14	0	203	1	1.652e-05	7742	clade	                    Vertebrata
+87.5	14	0	203	1	1.652e-05	7776	clade	                      Gnathostomata
+87.5	14	0	203	1	1.652e-05	117570	clade	                        Teleostomi
+87.5	14	0	203	1	1.652e-05	117571	clade	                          Euteleostomi
+87.5	14	0	203	1	1.652e-05	8287	superclass	                            Sarcopterygii
+87.5	14	0	203	1	1.652e-05	1338369	clade	                              Dipnotetrapodomorpha
+87.5	14	0	203	1	1.652e-05	32523	clade	                                Tetrapoda
+87.5	14	0	203	1	1.652e-05	32524	clade	                                  Amniota
+87.5	14	0	203	1	1.652e-05	40674	class	                                    Mammalia
+87.5	14	0	202	1	1.65e-05	32525	clade	                                      Theria
+81.25	13	0	192	1	1.653e-05	9347	clade	                                        Eutheria
+81.25	13	0	185	1	1.704e-05	1437010	clade	                                          Boreoeutheria
+81.25	13	0	165	1	3.139e-05	314146	superorder	                                            Euarchontoglires
+81.25	13	0	163	1	8.935e-05	9443	order	                                              Primates
+81.25	13	0	163	1	0.0001338	376913	suborder	                                                Haplorrhini
+81.25	13	1	163	1	0.0001387	314293	infraorder	                                                  Simiiformes
+75	12	0	151	1	0.0002245	9526	parvorder	                                                    Catarrhini
+68.75	11	0	146	1	0.001046	314295	superfamily	                                                      Hominoidea
+68.75	11	0	138	1	0.001942	9604	family	                                                        Hominidae
+68.75	11	2	138	1	0.002744	207598	subfamily	                                                          Homininae
+56.25	9	4	102	1	0.006285	9605	genus	                                                            Homo
+31.25	5	1	64	1	0.007383	9606	species	                                                              Homo sapiens
+25	4	4	30	1	0.0164	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.25	1	0	1	1	1.898e-06	314294	superfamily	                                                      Cercopithecoidea
+6.25	1	0	1	1	1.898e-06	9527	family	                                                        Cercopithecidae
+6.25	1	1	1	1	3.243e-06	9528	subfamily	                                                          Cercopithecinae
+6.25	1	0	3	1	5.789e-06	9263	clade	                                        Metatheria
+6.25	1	0	3	1	2.091e-05	38608	order	                                          Dasyuromorphia
+6.25	1	0	3	1	2.539e-05	9277	family	                                            Dasyuridae
+6.25	1	0	3	1	0.0001305	9300	genus	                                              Sminthopsis
+6.25	1	1	3	1	0.0002575	9301	species	                                                Sminthopsis crassicaudata

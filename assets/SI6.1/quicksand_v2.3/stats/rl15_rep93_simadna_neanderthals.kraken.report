@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:22:41Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/69/93bd2f1941d70722a3266232a0e612
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl15_rep93_simadna_neanderthals.kraken.report --output output.kraken rl15_rep93_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+6.667	1	1	196	1	NA	0	no rank	unclassified
+93.33	14	0	282	1	2.296e-05	1	no rank	root
+93.33	14	0	282	1	2.296e-05	131567	no rank	  cellular organisms
+93.33	14	0	282	1	2.296e-05	2759	superkingdom	    Eukaryota
+93.33	14	0	282	1	2.296e-05	33154	clade	      Opisthokonta
+93.33	14	0	282	1	2.296e-05	33208	kingdom	        Metazoa
+93.33	14	0	282	1	2.296e-05	6072	clade	          Eumetazoa
+93.33	14	0	282	1	2.296e-05	33213	clade	            Bilateria
+93.33	14	0	282	1	2.296e-05	33511	clade	              Deuterostomia
+93.33	14	0	282	1	2.296e-05	7711	phylum	                Chordata
+93.33	14	0	282	1	2.296e-05	89593	subphylum	                  Craniata
+93.33	14	0	282	1	2.296e-05	7742	clade	                    Vertebrata
+93.33	14	0	282	1	2.296e-05	7776	clade	                      Gnathostomata
+93.33	14	0	282	1	2.296e-05	117570	clade	                        Teleostomi
+93.33	14	0	282	1	2.296e-05	117571	clade	                          Euteleostomi
+93.33	14	0	282	1	2.296e-05	8287	superclass	                            Sarcopterygii
+93.33	14	0	282	1	2.296e-05	1338369	clade	                              Dipnotetrapodomorpha
+93.33	14	0	282	1	2.296e-05	32523	clade	                                Tetrapoda
+93.33	14	0	282	1	2.296e-05	32524	clade	                                  Amniota
+93.33	14	0	282	1	2.296e-05	40674	class	                                    Mammalia
+93.33	14	0	278	1	2.271e-05	32525	clade	                                      Theria
+93.33	14	0	255	1	2.196e-05	9347	clade	                                        Eutheria
+93.33	14	1	251	1	2.312e-05	1437010	clade	                                          Boreoeutheria
+86.67	13	0	231	1	4.394e-05	314146	superorder	                                            Euarchontoglires
+86.67	13	0	230	1	0.0001261	9443	order	                                              Primates
+80	12	0	225	1	0.0001847	376913	suborder	                                                Haplorrhini
+80	12	0	225	1	0.0001915	314293	infraorder	                                                  Simiiformes
+80	12	0	225	1	0.0003345	9526	parvorder	                                                    Catarrhini
+80	12	0	192	1	0.001375	314295	superfamily	                                                      Hominoidea
+73.33	11	0	182	1	0.002562	9604	family	                                                        Hominidae
+73.33	11	3	173	1	0.003439	207598	subfamily	                                                          Homininae
+53.33	8	5	98	1	0.006039	9605	genus	                                                            Homo
+20	3	0	33	1	0.003807	9606	species	                                                              Homo sapiens
+20	3	3	33	1	0.01804	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.667	1	0	1	1	1.502e-05	9577	family	                                                        Hylobatidae
+6.667	1	0	1	1	0.000137	325166	genus	                                                          Symphalangus
+6.667	1	1	1	1	0.000137	9590	species	                                                            Symphalangus syndactylus
+6.667	1	0	4	1	6.679e-06	376911	suborder	                                                Strepsirrhini
+6.667	1	0	4	1	5.305e-05	376917	infraorder	                                                  Lorisiformes
+6.667	1	0	4	1	7.889e-05	9461	family	                                                    Lorisidae
+6.667	1	0	4	1	0.0002975	9469	genus	                                                      Nycticebus
+6.667	1	0	4	1	0.001279	9470	species	                                                        Nycticebus coucang
+6.667	1	1	4	1	0.001743	2020906	subspecies	                                                          Nycticebus coucang insularis

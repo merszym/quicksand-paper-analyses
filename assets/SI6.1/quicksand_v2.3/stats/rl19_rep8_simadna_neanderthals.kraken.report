@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:35Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/27/045422b030dbfc38c95f10d48356b8
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl19_rep8_simadna_neanderthals.kraken.report --output output.kraken rl19_rep8_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10.53	2	2	356	1	NA	0	no rank	unclassified
+89.47	17	0	232	1	1.889e-05	1	no rank	root
+89.47	17	0	232	1	1.889e-05	131567	no rank	  cellular organisms
+89.47	17	0	232	1	1.889e-05	2759	superkingdom	    Eukaryota
+89.47	17	0	232	1	1.889e-05	33154	clade	      Opisthokonta
+89.47	17	0	232	1	1.889e-05	33208	kingdom	        Metazoa
+89.47	17	0	232	1	1.889e-05	6072	clade	          Eumetazoa
+89.47	17	0	232	1	1.889e-05	33213	clade	            Bilateria
+89.47	17	0	232	1	1.889e-05	33511	clade	              Deuterostomia
+89.47	17	0	232	1	1.889e-05	7711	phylum	                Chordata
+89.47	17	0	232	1	1.889e-05	89593	subphylum	                  Craniata
+89.47	17	0	232	1	1.889e-05	7742	clade	                    Vertebrata
+89.47	17	0	232	1	1.889e-05	7776	clade	                      Gnathostomata
+89.47	17	0	232	1	1.889e-05	117570	clade	                        Teleostomi
+89.47	17	0	232	1	1.889e-05	117571	clade	                          Euteleostomi
+89.47	17	0	232	1	1.889e-05	8287	superclass	                            Sarcopterygii
+89.47	17	0	232	1	1.889e-05	1338369	clade	                              Dipnotetrapodomorpha
+89.47	17	0	232	1	1.889e-05	32523	clade	                                Tetrapoda
+89.47	17	0	232	1	1.889e-05	32524	clade	                                  Amniota
+89.47	17	0	232	1	1.889e-05	40674	class	                                    Mammalia
+89.47	17	0	232	1	1.895e-05	32525	clade	                                      Theria
+89.47	17	1	221	1	1.903e-05	9347	clade	                                        Eutheria
+84.21	16	0	208	1	1.916e-05	1437010	clade	                                          Boreoeutheria
+78.95	15	0	176	1	3.348e-05	314146	superorder	                                            Euarchontoglires
+78.95	15	0	158	1	8.661e-05	9443	order	                                              Primates
+78.95	15	0	158	1	0.0001297	376913	suborder	                                                Haplorrhini
+78.95	15	1	158	1	0.0001345	314293	infraorder	                                                  Simiiformes
+68.42	13	1	149	1	0.0002215	9526	parvorder	                                                    Catarrhini
+63.16	12	0	143	1	0.001024	314295	superfamily	                                                      Hominoidea
+63.16	12	0	142	1	0.001999	9604	family	                                                        Hominidae
+63.16	12	3	142	1	0.002823	207598	subfamily	                                                          Homininae
+42.11	8	1	112	1	0.006902	9605	genus	                                                            Homo
+31.58	6	2	82	1	0.00946	9606	species	                                                              Homo sapiens
+21.05	4	4	63	1	0.03445	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.263	1	1	11	1	0.01001	1425170	species	                                                              Homo heidelbergensis
+5.263	1	0	3	1	0.0001898	9592	genus	                                                            Gorilla
+5.263	1	1	3	1	0.0004246	9593	species	                                                              Gorilla gorilla
+5.263	1	0	2	1	4.039e-06	9479	parvorder	                                                    Platyrrhini
+5.263	1	0	1	1	1.185e-05	378855	family	                                                      Atelidae
+5.263	1	0	1	1	2.036e-05	38066	subfamily	                                                        Alouattinae
+5.263	1	1	1	1	2.036e-05	9499	genus	                                                          Alouatta
+5.263	1	0	5	1	9.687e-07	314145	superorder	                                            Laurasiatheria
+5.263	1	0	5	1	3.914e-06	33554	order	                                              Carnivora
+5.263	1	0	3	1	3.844e-06	379584	suborder	                                                Caniformia
+5.263	1	0	3	1	3.335e-05	9709	family	                                                  Phocidae
+5.263	1	0	3	1	0.0001758	9717	genus	                                                    Phoca
+5.263	1	1	3	1	0.0005542	39088	species	                                                      Phoca fasciata

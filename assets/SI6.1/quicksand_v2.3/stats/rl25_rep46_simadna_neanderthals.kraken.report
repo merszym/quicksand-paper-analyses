@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:19:08Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ce/c9a668180077c102f1665813502ecc
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl25_rep46_simadna_neanderthals.kraken.report --output output.kraken rl25_rep46_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+24	6	6	295	1	NA	0	no rank	unclassified
+76	19	0	386	1	3.142e-05	1	no rank	root
+76	19	0	386	1	3.142e-05	131567	no rank	  cellular organisms
+76	19	0	386	1	3.142e-05	2759	superkingdom	    Eukaryota
+76	19	0	386	1	3.142e-05	33154	clade	      Opisthokonta
+76	19	0	386	1	3.142e-05	33208	kingdom	        Metazoa
+76	19	0	386	1	3.142e-05	6072	clade	          Eumetazoa
+76	19	0	386	1	3.142e-05	33213	clade	            Bilateria
+76	19	0	386	1	3.142e-05	33511	clade	              Deuterostomia
+76	19	0	386	1	3.142e-05	7711	phylum	                Chordata
+76	19	0	386	1	3.142e-05	89593	subphylum	                  Craniata
+76	19	0	386	1	3.142e-05	7742	clade	                    Vertebrata
+76	19	0	386	1	3.142e-05	7776	clade	                      Gnathostomata
+76	19	0	386	1	3.142e-05	117570	clade	                        Teleostomi
+76	19	0	386	1	3.142e-05	117571	clade	                          Euteleostomi
+76	19	0	386	1	3.142e-05	8287	superclass	                            Sarcopterygii
+76	19	0	386	1	3.142e-05	1338369	clade	                              Dipnotetrapodomorpha
+76	19	0	386	1	3.142e-05	32523	clade	                                Tetrapoda
+76	19	0	386	1	3.142e-05	32524	clade	                                  Amniota
+76	19	0	386	1	3.142e-05	40674	class	                                    Mammalia
+76	19	0	386	1	3.153e-05	32525	clade	                                      Theria
+76	19	1	344	1	2.962e-05	9347	clade	                                        Eutheria
+72	18	0	317	1	2.92e-05	1437010	clade	                                          Boreoeutheria
+72	18	0	263	1	5.003e-05	314146	superorder	                                            Euarchontoglires
+72	18	0	252	1	0.0001381	9443	order	                                              Primates
+72	18	0	247	1	0.0002027	376913	suborder	                                                Haplorrhini
+72	18	0	247	1	0.0002102	314293	infraorder	                                                  Simiiformes
+68	17	0	231	1	0.0003434	9526	parvorder	                                                    Catarrhini
+68	17	1	218	1	0.001561	314295	superfamily	                                                      Hominoidea
+60	15	0	210	1	0.002956	9604	family	                                                        Hominidae
+60	15	3	210	1	0.004175	207598	subfamily	                                                          Homininae
+48	12	6	162	1	0.009983	9605	genus	                                                            Homo
+24	6	3	66	1	0.007614	9606	species	                                                              Homo sapiens
+8	2	2	13	1	0.007108	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4	1	1	16	1	0.00614	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4	1	0	2	1	3.003e-05	9577	family	                                                        Hylobatidae
+4	1	0	1	1	4.269e-05	9578	genus	                                                          Hylobates
+4	1	1	1	1	0.0001418	9579	species	                                                            Hylobates agilis
+4	1	0	3	1	6.059e-06	9479	parvorder	                                                    Platyrrhini
+4	1	0	3	1	3.556e-05	378855	family	                                                      Atelidae
+4	1	0	3	1	6.107e-05	38066	subfamily	                                                        Alouattinae
+4	1	1	3	1	6.107e-05	9499	genus	                                                          Alouatta

@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:49Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/2a/8c5c78e4b9635dba9df887e0228768
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl23_rep72_simadna_neanderthals.kraken.report --output output.kraken rl23_rep72_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+8.696	2	2	218	1	NA	0	no rank	unclassified
+91.3	21	0	437	1.01	3.557e-05	1	no rank	root
+91.3	21	0	437	1.01	3.557e-05	131567	no rank	  cellular organisms
+91.3	21	0	437	1.01	3.557e-05	2759	superkingdom	    Eukaryota
+91.3	21	0	437	1.01	3.557e-05	33154	clade	      Opisthokonta
+91.3	21	0	437	1.01	3.557e-05	33208	kingdom	        Metazoa
+91.3	21	0	437	1.01	3.557e-05	6072	clade	          Eumetazoa
+91.3	21	0	437	1.01	3.557e-05	33213	clade	            Bilateria
+91.3	21	0	437	1.01	3.557e-05	33511	clade	              Deuterostomia
+91.3	21	0	437	1.01	3.557e-05	7711	phylum	                Chordata
+91.3	21	0	437	1.01	3.557e-05	89593	subphylum	                  Craniata
+91.3	21	0	437	1.01	3.557e-05	7742	clade	                    Vertebrata
+91.3	21	0	437	1.01	3.557e-05	7776	clade	                      Gnathostomata
+91.3	21	0	437	1.01	3.557e-05	117570	clade	                        Teleostomi
+91.3	21	0	437	1.01	3.557e-05	117571	clade	                          Euteleostomi
+91.3	21	0	437	1.01	3.557e-05	8287	superclass	                            Sarcopterygii
+91.3	21	0	437	1.01	3.557e-05	1338369	clade	                              Dipnotetrapodomorpha
+91.3	21	0	437	1.01	3.557e-05	32523	clade	                                Tetrapoda
+91.3	21	0	437	1.01	3.557e-05	32524	clade	                                  Amniota
+91.3	21	0	437	1.01	3.557e-05	40674	class	                                    Mammalia
+91.3	21	0	437	1.01	3.57e-05	32525	clade	                                      Theria
+91.3	21	0	407	1.01	3.505e-05	9347	clade	                                        Eutheria
+91.3	21	0	379	1.01	3.491e-05	1437010	clade	                                          Boreoeutheria
+86.96	20	0	322	1.01	6.125e-05	314146	superorder	                                            Euarchontoglires
+86.96	20	0	294	1.01	0.0001612	9443	order	                                              Primates
+86.96	20	0	294	1.01	0.0002413	376913	suborder	                                                Haplorrhini
+86.96	20	1	294	1.01	0.0002502	314293	infraorder	                                                  Simiiformes
+82.61	19	1	289	1.01	0.0004296	9526	parvorder	                                                    Catarrhini
+78.26	18	1	250	1.02	0.00179	314295	superfamily	                                                      Hominoidea
+73.91	17	0	224	1.02	0.003153	9604	family	                                                        Hominidae
+73.91	17	2	214	1.02	0.004254	207598	subfamily	                                                          Homininae
+65.22	15	3	178	1.02	0.01097	9605	genus	                                                            Homo
+52.17	12	5	111	1.04	0.01281	9606	species	                                                              Homo sapiens
+26.09	6	6	56	1	0.03062	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.348	1	1	4	1	0.001535	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4.348	1	0	3	1	5.812e-07	314145	superorder	                                            Laurasiatheria
+4.348	1	0	3	1	2.097e-06	91561	order	                                              Artiodactyla
+4.348	1	0	2	1	2.203e-06	9845	suborder	                                                Ruminantia
+4.348	1	0	2	1	2.3e-06	35500	infraorder	                                                  Pecora
+4.348	1	0	2	1	3.437e-06	9895	family	                                                    Bovidae
+4.348	1	0	1	1	7.939e-06	9948	subfamily	                                                      Antilopinae
+4.348	1	0	1	1	0.0001666	66443	genus	                                                        Oreotragus
+4.348	1	1	1	1	0.0001666	66444	species	                                                          Oreotragus oreotragus

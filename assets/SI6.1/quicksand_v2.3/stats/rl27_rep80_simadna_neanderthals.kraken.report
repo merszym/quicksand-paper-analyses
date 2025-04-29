@@ -1,0 +1,54 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:39Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/3e/401d87beac99ec1a275889f9b226ae
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl27_rep80_simadna_neanderthals.kraken.report --output output.kraken rl27_rep80_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+18.52	5	5	471	1	NA	0	no rank	unclassified
+81.48	22	0	399	1	3.248e-05	1	no rank	root
+81.48	22	0	399	1	3.248e-05	131567	no rank	  cellular organisms
+81.48	22	0	399	1	3.248e-05	2759	superkingdom	    Eukaryota
+81.48	22	0	399	1	3.248e-05	33154	clade	      Opisthokonta
+81.48	22	0	399	1	3.248e-05	33208	kingdom	        Metazoa
+81.48	22	0	399	1	3.248e-05	6072	clade	          Eumetazoa
+81.48	22	0	399	1	3.248e-05	33213	clade	            Bilateria
+81.48	22	0	399	1	3.248e-05	33511	clade	              Deuterostomia
+81.48	22	0	399	1	3.248e-05	7711	phylum	                Chordata
+81.48	22	0	399	1	3.248e-05	89593	subphylum	                  Craniata
+81.48	22	0	399	1	3.248e-05	7742	clade	                    Vertebrata
+81.48	22	0	399	1	3.248e-05	7776	clade	                      Gnathostomata
+81.48	22	0	399	1	3.248e-05	117570	clade	                        Teleostomi
+81.48	22	0	399	1	3.248e-05	117571	clade	                          Euteleostomi
+81.48	22	0	399	1	3.248e-05	8287	superclass	                            Sarcopterygii
+81.48	22	0	399	1	3.248e-05	1338369	clade	                              Dipnotetrapodomorpha
+81.48	22	0	399	1	3.248e-05	32523	clade	                                Tetrapoda
+81.48	22	0	399	1	3.248e-05	32524	clade	                                  Amniota
+81.48	22	0	399	1	3.248e-05	40674	class	                                    Mammalia
+81.48	22	0	399	1	3.259e-05	32525	clade	                                      Theria
+81.48	22	0	374	1	3.221e-05	9347	clade	                                        Eutheria
+81.48	22	1	348	1	3.206e-05	1437010	clade	                                          Boreoeutheria
+74.07	20	1	249	1	4.737e-05	314146	superorder	                                            Euarchontoglires
+66.67	18	1	232	1	0.0001272	9443	order	                                              Primates
+62.96	17	0	230	1	0.0001888	376913	suborder	                                                Haplorrhini
+62.96	17	2	230	1	0.0001958	314293	infraorder	                                                  Simiiformes
+55.56	15	2	222	1	0.00033	9526	parvorder	                                                    Catarrhini
+44.44	12	1	199	1	0.001425	314295	superfamily	                                                      Hominoidea
+40.74	11	0	196	1	0.002759	9604	family	                                                        Hominidae
+40.74	11	2	194	1	0.003857	207598	subfamily	                                                          Homininae
+33.33	9	5	150	1	0.009243	9605	genus	                                                            Homo
+14.81	4	3	63	1	0.007268	9606	species	                                                              Homo sapiens
+3.704	1	1	23	1	0.01258	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.704	1	0	2	1	3.797e-06	314294	superfamily	                                                      Cercopithecoidea
+3.704	1	0	2	1	3.797e-06	9527	family	                                                        Cercopithecidae
+3.704	1	0	2	1	6.486e-06	9528	subfamily	                                                          Cercopithecinae
+3.704	1	0	2	1	1.894e-05	9539	genus	                                                            Macaca
+3.704	1	1	2	1	0.0008861	9545	species	                                                              Macaca nemestrina
+3.704	1	0	2	1	6.106e-07	314147	clade	                                              Glires
+3.704	1	0	2	1	6.527e-07	9989	order	                                                Rodentia
+3.704	1	0	2	1	1.072e-06	1963758	suborder	                                                  Myomorpha
+3.704	1	0	2	1	1.134e-06	337687	clade	                                                    Muroidea
+3.704	1	0	1	1	1.615e-06	337677	family	                                                      Cricetidae
+3.704	1	1	1	1	3.493e-06	39087	subfamily	                                                        Arvicolinae
+3.704	1	0	18	1	3.487e-06	314145	superorder	                                            Laurasiatheria
+3.704	1	0	9	1	1.518e-05	9362	order	                                              Eulipotyphla
+3.704	1	0	9	1	2.483e-05	9376	family	                                                Soricidae
+3.704	1	0	9	1	3.818e-05	183663	subfamily	                                                  Soricinae
+3.704	1	0	9	1	0.0001176	9379	genus	                                                    Sorex
+3.704	1	1	9	1	0.001342	2083004	species	                                                      Sorex sinalis

@@ -1,0 +1,49 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:18Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/62/45fe5cbe9127c6c4ddc6f0a37a9b15
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl26_rep50_simadna_neanderthals.kraken.report --output output.kraken rl26_rep50_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+7.692	2	2	484	1	NA	0	no rank	unclassified
+92.31	24	0	313	1.02	2.548e-05	1	no rank	root
+92.31	24	0	313	1.02	2.548e-05	131567	no rank	  cellular organisms
+92.31	24	0	313	1.02	2.548e-05	2759	superkingdom	    Eukaryota
+92.31	24	0	313	1.02	2.548e-05	33154	clade	      Opisthokonta
+92.31	24	0	313	1.02	2.548e-05	33208	kingdom	        Metazoa
+92.31	24	0	313	1.02	2.548e-05	6072	clade	          Eumetazoa
+92.31	24	0	313	1.02	2.548e-05	33213	clade	            Bilateria
+92.31	24	0	313	1.02	2.548e-05	33511	clade	              Deuterostomia
+92.31	24	0	313	1.02	2.548e-05	7711	phylum	                Chordata
+92.31	24	0	313	1.02	2.548e-05	89593	subphylum	                  Craniata
+92.31	24	0	313	1.02	2.548e-05	7742	clade	                    Vertebrata
+92.31	24	0	313	1.02	2.548e-05	7776	clade	                      Gnathostomata
+92.31	24	0	313	1.02	2.548e-05	117570	clade	                        Teleostomi
+92.31	24	0	313	1.02	2.548e-05	117571	clade	                          Euteleostomi
+92.31	24	0	313	1.02	2.548e-05	8287	superclass	                            Sarcopterygii
+92.31	24	0	313	1.02	2.548e-05	1338369	clade	                              Dipnotetrapodomorpha
+92.31	24	0	313	1.02	2.548e-05	32523	clade	                                Tetrapoda
+92.31	24	0	313	1.02	2.548e-05	32524	clade	                                  Amniota
+92.31	24	0	313	1.02	2.548e-05	40674	class	                                    Mammalia
+92.31	24	1	295	1.02	2.41e-05	32525	clade	                                      Theria
+88.46	23	0	287	1.02	2.471e-05	9347	clade	                                        Eutheria
+84.62	22	1	280	1.02	2.579e-05	1437010	clade	                                          Boreoeutheria
+80.77	21	1	255	1.02	4.851e-05	314146	superorder	                                            Euarchontoglires
+76.92	20	0	242	1.02	0.0001326	9443	order	                                              Primates
+76.92	20	0	242	1.02	0.0001986	376913	suborder	                                                Haplorrhini
+76.92	20	0	242	1.02	0.000206	314293	infraorder	                                                  Simiiformes
+73.08	19	1	227	1.02	0.0003375	9526	parvorder	                                                    Catarrhini
+69.23	18	0	210	1.02	0.001504	314295	superfamily	                                                      Hominoidea
+61.54	16	0	194	1.03	0.002731	9604	family	                                                        Hominidae
+61.54	16	1	184	1.03	0.003658	207598	subfamily	                                                          Homininae
+57.69	15	10	169	1.03	0.01041	9605	genus	                                                            Homo
+15.38	4	3	35	1.09	0.004038	9606	species	                                                              Homo sapiens
+3.846	1	1	7	1	0.003827	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.846	1	1	5	1	0.00455	1425170	species	                                                              Homo heidelbergensis
+7.692	2	0	6	1	9.009e-05	9577	family	                                                        Hylobatidae
+3.846	1	0	4	1	0.0001707	9578	genus	                                                          Hylobates
+3.846	1	1	4	1	0.0005763	9580	species	                                                            Hylobates lar
+3.846	1	0	1	1	6.879e-05	325167	genus	                                                          Hoolock
+3.846	1	1	1	1	0.0002589	61851	species	                                                            Hoolock hoolock
+3.846	1	1	8	1	1.616e-05	9479	parvorder	                                                    Platyrrhini
+3.846	1	0	4	1	1.397e-05	311790	superorder	                                          Afrotheria
+3.846	1	0	4	1	8.495e-05	9779	order	                                            Proboscidea
+3.846	1	0	4	1	8.495e-05	9780	family	                                              Elephantidae
+3.846	1	0	4	1	0.0005989	37348	genus	                                                Mammuthus
+3.846	1	1	4	1	0.003515	1027716	species	                                                  Mammuthus columbi

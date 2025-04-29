@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:10Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/25/adf8b4228ec6095434db5889147aa6
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl18_rep90_simadna_neanderthals.kraken.report --output output.kraken rl18_rep90_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	18	0	319	1	2.597e-05	1	no rank	root
+100	18	0	319	1	2.597e-05	131567	no rank	  cellular organisms
+100	18	0	319	1	2.597e-05	2759	superkingdom	    Eukaryota
+100	18	0	319	1	2.597e-05	33154	clade	      Opisthokonta
+100	18	0	319	1	2.597e-05	33208	kingdom	        Metazoa
+100	18	0	319	1	2.597e-05	6072	clade	          Eumetazoa
+100	18	0	319	1	2.597e-05	33213	clade	            Bilateria
+100	18	0	319	1	2.597e-05	33511	clade	              Deuterostomia
+100	18	0	319	1	2.597e-05	7711	phylum	                Chordata
+100	18	0	319	1	2.597e-05	89593	subphylum	                  Craniata
+100	18	0	319	1	2.597e-05	7742	clade	                    Vertebrata
+100	18	0	319	1	2.597e-05	7776	clade	                      Gnathostomata
+100	18	0	319	1	2.597e-05	117570	clade	                        Teleostomi
+100	18	0	319	1	2.597e-05	117571	clade	                          Euteleostomi
+100	18	0	319	1	2.597e-05	8287	superclass	                            Sarcopterygii
+100	18	0	319	1	2.597e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	18	0	319	1	2.597e-05	32523	clade	                                Tetrapoda
+100	18	0	319	1	2.597e-05	32524	clade	                                  Amniota
+100	18	0	319	1	2.597e-05	40674	class	                                    Mammalia
+100	18	0	317	1	2.59e-05	32525	clade	                                      Theria
+100	18	0	298	1	2.566e-05	9347	clade	                                        Eutheria
+94.44	17	0	272	1	2.506e-05	1437010	clade	                                          Boreoeutheria
+94.44	17	1	257	1	4.889e-05	314146	superorder	                                            Euarchontoglires
+88.89	16	0	246	1	0.0001348	9443	order	                                              Primates
+88.89	16	0	242	1	0.0001986	376913	suborder	                                                Haplorrhini
+88.89	16	0	242	1	0.000206	314293	infraorder	                                                  Simiiformes
+88.89	16	1	242	1	0.0003597	9526	parvorder	                                                    Catarrhini
+77.78	14	0	195	1	0.001397	314295	superfamily	                                                      Hominoidea
+77.78	14	0	191	1	0.002688	9604	family	                                                        Hominidae
+77.78	14	0	191	1	0.003797	207598	subfamily	                                                          Homininae
+66.67	12	8	119	1	0.007333	9605	genus	                                                            Homo
+22.22	4	3	27	1	0.003115	9606	species	                                                              Homo sapiens
+5.556	1	1	1	1	0.0005467	63221	subspecies	                                                                Homo sapiens neanderthalensis
+11.11	2	1	10	1	0.0006328	9592	genus	                                                            Gorilla
+5.556	1	1	2	1	0.0002831	9593	species	                                                              Gorilla gorilla
+5.556	1	0	1	1	1.898e-06	314294	superfamily	                                                      Cercopithecoidea
+5.556	1	0	1	1	1.898e-06	9527	family	                                                        Cercopithecidae
+5.556	1	0	1	1	3.243e-06	9528	subfamily	                                                          Cercopithecinae
+5.556	1	1	1	1	2.866e-05	392815	genus	                                                            Chlorocebus
+5.556	1	0	4	1	1.397e-05	311790	superorder	                                          Afrotheria
+5.556	1	0	4	1	8.495e-05	9779	order	                                            Proboscidea
+5.556	1	0	4	1	8.495e-05	9780	family	                                              Elephantidae
+5.556	1	0	4	1	0.0005989	37348	genus	                                                Mammuthus
+5.556	1	1	4	1	0.003515	1027716	species	                                                  Mammuthus columbi

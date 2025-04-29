@@ -1,0 +1,49 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:29Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/c0/d317e4513ce8484b24ae2631744bcf
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl27_rep46_simadna_neanderthals.kraken.report --output output.kraken rl27_rep46_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+18.52	5	5	392	1	NA	0	no rank	unclassified
+81.48	22	0	440	1	3.582e-05	1	no rank	root
+81.48	22	0	440	1	3.582e-05	131567	no rank	  cellular organisms
+81.48	22	0	440	1	3.582e-05	2759	superkingdom	    Eukaryota
+81.48	22	0	440	1	3.582e-05	33154	clade	      Opisthokonta
+81.48	22	0	440	1	3.582e-05	33208	kingdom	        Metazoa
+81.48	22	0	440	1	3.582e-05	6072	clade	          Eumetazoa
+81.48	22	0	440	1	3.582e-05	33213	clade	            Bilateria
+81.48	22	0	440	1	3.582e-05	33511	clade	              Deuterostomia
+81.48	22	0	440	1	3.582e-05	7711	phylum	                Chordata
+81.48	22	0	440	1	3.582e-05	89593	subphylum	                  Craniata
+81.48	22	0	440	1	3.582e-05	7742	clade	                    Vertebrata
+81.48	22	0	440	1	3.582e-05	7776	clade	                      Gnathostomata
+81.48	22	0	440	1	3.582e-05	117570	clade	                        Teleostomi
+81.48	22	0	440	1	3.582e-05	117571	clade	                          Euteleostomi
+81.48	22	0	440	1	3.582e-05	8287	superclass	                            Sarcopterygii
+81.48	22	0	440	1	3.582e-05	1338369	clade	                              Dipnotetrapodomorpha
+81.48	22	0	440	1	3.582e-05	32523	clade	                                Tetrapoda
+81.48	22	0	440	1	3.582e-05	32524	clade	                                  Amniota
+81.48	22	0	440	1	3.582e-05	40674	class	                                    Mammalia
+81.48	22	0	437	1	3.57e-05	32525	clade	                                      Theria
+81.48	22	2	396	1	3.41e-05	9347	clade	                                        Eutheria
+74.07	20	2	365	1	3.362e-05	1437010	clade	                                          Boreoeutheria
+62.96	17	0	319	1	6.068e-05	314146	superorder	                                            Euarchontoglires
+62.96	17	0	317	1	0.0001738	9443	order	                                              Primates
+62.96	17	0	317	1	0.0002602	376913	suborder	                                                Haplorrhini
+62.96	17	0	317	1	0.0002698	314293	infraorder	                                                  Simiiformes
+62.96	17	1	304	1	0.0004519	9526	parvorder	                                                    Catarrhini
+55.56	15	0	286	1	0.002048	314295	superfamily	                                                      Hominoidea
+55.56	15	0	255	1	0.003589	9604	family	                                                        Hominidae
+55.56	15	0	239	1	0.004751	207598	subfamily	                                                          Homininae
+55.56	15	4	212	1	0.01306	9605	genus	                                                            Homo
+40.74	11	6	127	1	0.01465	9606	species	                                                              Homo sapiens
+18.52	5	5	38	1	0.02078	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.704	1	0	5	1	9.492e-06	314294	superfamily	                                                      Cercopithecoidea
+3.704	1	0	5	1	9.492e-06	9527	family	                                                        Cercopithecidae
+3.704	1	0	5	1	2.405e-05	9569	subfamily	                                                          Colobinae
+3.704	1	0	5	1	6.601e-05	54136	genus	                                                            Trachypithecus
+3.704	1	1	5	1	0.002633	1042121	species	                                                              Trachypithecus shortridgei
+3.704	1	0	3	1	5.812e-07	314145	superorder	                                            Laurasiatheria
+3.704	1	0	3	1	2.097e-06	91561	order	                                              Artiodactyla
+3.704	1	0	3	1	3.304e-06	9845	suborder	                                                Ruminantia
+3.704	1	0	3	1	3.449e-06	35500	infraorder	                                                  Pecora
+3.704	1	0	3	1	5.156e-06	9895	family	                                                    Bovidae
+3.704	1	0	3	1	7.61e-05	9959	subfamily	                                                      Hippotraginae
+3.704	1	1	3	1	0.0002027	9957	genus	                                                        Oryx

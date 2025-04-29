@@ -1,0 +1,53 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:18:13Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/52/cc221bafcaa4f2a312a7d8cb3b319c
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl28_rep38_simadna_neanderthals.kraken.report --output output.kraken rl28_rep38_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+3.571	1	1	388	1.02	NA	0	no rank	unclassified
+96.43	27	0	504	1.01	4.103e-05	1	no rank	root
+96.43	27	0	504	1.01	4.103e-05	131567	no rank	  cellular organisms
+96.43	27	0	504	1.01	4.103e-05	2759	superkingdom	    Eukaryota
+96.43	27	0	504	1.01	4.103e-05	33154	clade	      Opisthokonta
+96.43	27	0	504	1.01	4.103e-05	33208	kingdom	        Metazoa
+96.43	27	0	504	1.01	4.103e-05	6072	clade	          Eumetazoa
+96.43	27	0	504	1.01	4.103e-05	33213	clade	            Bilateria
+96.43	27	0	504	1.01	4.103e-05	33511	clade	              Deuterostomia
+96.43	27	0	504	1.01	4.103e-05	7711	phylum	                Chordata
+96.43	27	0	504	1.01	4.103e-05	89593	subphylum	                  Craniata
+96.43	27	0	504	1.01	4.103e-05	7742	clade	                    Vertebrata
+96.43	27	0	504	1.01	4.103e-05	7776	clade	                      Gnathostomata
+96.43	27	0	504	1.01	4.103e-05	117570	clade	                        Teleostomi
+96.43	27	0	504	1.01	4.103e-05	117571	clade	                          Euteleostomi
+96.43	27	0	504	1.01	4.103e-05	8287	superclass	                            Sarcopterygii
+96.43	27	0	504	1.01	4.103e-05	1338369	clade	                              Dipnotetrapodomorpha
+96.43	27	0	504	1.01	4.103e-05	32523	clade	                                Tetrapoda
+96.43	27	0	504	1.01	4.103e-05	32524	clade	                                  Amniota
+96.43	27	0	504	1.01	4.103e-05	40674	class	                                    Mammalia
+96.43	27	0	504	1.01	4.117e-05	32525	clade	                                      Theria
+96.43	27	1	485	1.01	4.177e-05	9347	clade	                                        Eutheria
+92.86	26	1	445	1.01	4.099e-05	1437010	clade	                                          Boreoeutheria
+85.71	24	0	363	1.01	6.905e-05	314146	superorder	                                            Euarchontoglires
+85.71	24	0	339	1.01	0.0001858	9443	order	                                              Primates
+85.71	24	0	334	1.01	0.0002741	376913	suborder	                                                Haplorrhini
+85.71	24	1	334	1.01	0.0002843	314293	infraorder	                                                  Simiiformes
+78.57	22	1	319	1.01	0.0004742	9526	parvorder	                                                    Catarrhini
+71.43	20	0	282	1.01	0.00202	314295	superfamily	                                                      Hominoidea
+71.43	20	0	281	1.01	0.003955	9604	family	                                                        Hominidae
+71.43	20	4	273	1.01	0.005427	207598	subfamily	                                                          Homininae
+53.57	15	5	213	1	0.01313	9605	genus	                                                            Homo
+35.71	10	4	141	1	0.01627	9606	species	                                                              Homo sapiens
+21.43	6	6	59	1	0.03226	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.571	1	0	3	1	0.0002045	9596	genus	                                                            Pan
+3.571	1	1	3	1	0.0005013	9597	species	                                                              Pan paniscus
+3.571	1	0	9	1	1.709e-05	314294	superfamily	                                                      Cercopithecoidea
+3.571	1	0	9	1	1.709e-05	9527	family	                                                        Cercopithecidae
+3.571	1	1	3	1	1.443e-05	9569	subfamily	                                                          Colobinae
+3.571	1	0	3	1	6.059e-06	9479	parvorder	                                                    Platyrrhini
+3.571	1	0	1	1	7.037e-06	376919	family	                                                      Pitheciidae
+3.571	1	0	1	1	1.322e-05	38069	subfamily	                                                        Callicebinae
+3.571	1	0	1	1	1.973e-05	1812035	genus	                                                          Plecturocebus
+3.571	1	1	1	1	0.000128	230833	species	                                                            Plecturocebus donacophilus
+3.571	1	0	16	1	3.1e-06	314145	superorder	                                            Laurasiatheria
+3.571	1	0	8	1	5.462e-06	9397	order	                                              Chiroptera
+3.571	1	0	7	1	6.172e-06	30560	suborder	                                                Microchiroptera
+3.571	1	0	7	1	1.429e-05	9431	family	                                                  Vespertilionidae
+3.571	1	0	5	1	2.146e-05	9434	genus	                                                    Myotis
+3.571	1	1	3	1	0.0004266	302711	species	                                                      Myotis aurascens

@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:12Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/9f/e979de2d7780e68af3cbabea470f92
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl26_rep35_simadna_neanderthals.kraken.report --output output.kraken rl26_rep35_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+19.23	5	5	263	1	NA	0	no rank	unclassified
+80.77	21	0	430	1	3.5e-05	1	no rank	root
+80.77	21	0	430	1	3.5e-05	131567	no rank	  cellular organisms
+80.77	21	0	430	1	3.5e-05	2759	superkingdom	    Eukaryota
+80.77	21	0	430	1	3.5e-05	33154	clade	      Opisthokonta
+80.77	21	0	430	1	3.5e-05	33208	kingdom	        Metazoa
+80.77	21	0	430	1	3.5e-05	6072	clade	          Eumetazoa
+80.77	21	0	430	1	3.5e-05	33213	clade	            Bilateria
+80.77	21	0	430	1	3.5e-05	33511	clade	              Deuterostomia
+80.77	21	0	430	1	3.5e-05	7711	phylum	                Chordata
+80.77	21	0	430	1	3.5e-05	89593	subphylum	                  Craniata
+80.77	21	0	430	1	3.5e-05	7742	clade	                    Vertebrata
+80.77	21	0	430	1	3.5e-05	7776	clade	                      Gnathostomata
+80.77	21	0	430	1	3.5e-05	117570	clade	                        Teleostomi
+80.77	21	0	430	1	3.5e-05	117571	clade	                          Euteleostomi
+80.77	21	0	430	1	3.5e-05	8287	superclass	                            Sarcopterygii
+80.77	21	0	430	1	3.5e-05	1338369	clade	                              Dipnotetrapodomorpha
+80.77	21	0	430	1	3.5e-05	32523	clade	                                Tetrapoda
+80.77	21	0	430	1	3.5e-05	32524	clade	                                  Amniota
+80.77	21	0	430	1	3.5e-05	40674	class	                                    Mammalia
+80.77	21	0	419	1	3.423e-05	32525	clade	                                      Theria
+80.77	21	0	411	1	3.539e-05	9347	clade	                                        Eutheria
+80.77	21	1	394	1	3.63e-05	1437010	clade	                                          Boreoeutheria
+76.92	20	0	353	1	6.715e-05	314146	superorder	                                            Euarchontoglires
+76.92	20	0	346	1	0.0001897	9443	order	                                              Primates
+76.92	20	0	342	1	0.0002807	376913	suborder	                                                Haplorrhini
+76.92	20	0	342	1	0.0002911	314293	infraorder	                                                  Simiiformes
+76.92	20	1	330	1	0.0004906	9526	parvorder	                                                    Catarrhini
+69.23	18	0	284	1	0.002034	314295	superfamily	                                                      Hominoidea
+69.23	18	1	274	1	0.003857	9604	family	                                                        Hominidae
+65.38	17	1	269	1	0.005348	207598	subfamily	                                                          Homininae
+57.69	15	7	185	1	0.0114	9605	genus	                                                            Homo
+30.77	8	5	87	1	0.01004	9606	species	                                                              Homo sapiens
+7.692	2	2	15	1	0.008201	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.846	1	1	4	1	0.001535	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+3.846	1	0	14	1	0.0008859	9592	genus	                                                            Gorilla
+3.846	1	1	6	1	0.0008493	9593	species	                                                              Gorilla gorilla
+3.846	1	0	13	1	2.468e-05	314294	superfamily	                                                      Cercopithecoidea
+3.846	1	0	13	1	2.468e-05	9527	family	                                                        Cercopithecidae
+3.846	1	0	10	1	3.243e-05	9528	subfamily	                                                          Cercopithecinae
+3.846	1	0	4	1	0.0005173	9564	genus	                                                            Theropithecus
+3.846	1	1	4	1	0.0005173	9565	species	                                                              Theropithecus gelada

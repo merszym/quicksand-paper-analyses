@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:11Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/47/ca5ce58b64524a26b204a9660a72ef
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep100_simadna_neanderthals.kraken.report --output output.kraken rl17_rep100_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+5.882	1	1	314	1	NA	0	no rank	unclassified
+94.12	16	0	308	1.04	2.507e-05	1	no rank	root
+94.12	16	0	308	1.04	2.507e-05	131567	no rank	  cellular organisms
+94.12	16	0	308	1.04	2.507e-05	2759	superkingdom	    Eukaryota
+94.12	16	0	308	1.04	2.507e-05	33154	clade	      Opisthokonta
+94.12	16	0	308	1.04	2.507e-05	33208	kingdom	        Metazoa
+94.12	16	0	308	1.04	2.507e-05	6072	clade	          Eumetazoa
+94.12	16	0	308	1.04	2.507e-05	33213	clade	            Bilateria
+94.12	16	0	308	1.04	2.507e-05	33511	clade	              Deuterostomia
+94.12	16	0	308	1.04	2.507e-05	7711	phylum	                Chordata
+94.12	16	0	308	1.04	2.507e-05	89593	subphylum	                  Craniata
+94.12	16	0	308	1.04	2.507e-05	7742	clade	                    Vertebrata
+94.12	16	0	308	1.04	2.507e-05	7776	clade	                      Gnathostomata
+94.12	16	0	308	1.04	2.507e-05	117570	clade	                        Teleostomi
+94.12	16	0	308	1.04	2.507e-05	117571	clade	                          Euteleostomi
+94.12	16	0	308	1.04	2.507e-05	8287	superclass	                            Sarcopterygii
+94.12	16	0	308	1.04	2.507e-05	1338369	clade	                              Dipnotetrapodomorpha
+94.12	16	0	308	1.04	2.507e-05	32523	clade	                                Tetrapoda
+94.12	16	0	308	1.04	2.507e-05	32524	clade	                                  Amniota
+94.12	16	0	308	1.04	2.507e-05	40674	class	                                    Mammalia
+94.12	16	0	304	1.04	2.483e-05	32525	clade	                                      Theria
+94.12	16	0	287	1.05	2.471e-05	9347	clade	                                        Eutheria
+94.12	16	1	264	1.05	2.432e-05	1437010	clade	                                          Boreoeutheria
+88.24	15	0	219	1.05	4.166e-05	314146	superorder	                                            Euarchontoglires
+88.24	15	0	211	1.06	0.0001157	9443	order	                                              Primates
+88.24	15	0	209	1.06	0.0001715	376913	suborder	                                                Haplorrhini
+88.24	15	0	209	1.06	0.0001779	314293	infraorder	                                                  Simiiformes
+82.35	14	0	197	1.06	0.0002929	9526	parvorder	                                                    Catarrhini
+70.59	12	0	178	1.06	0.001275	314295	superfamily	                                                      Hominoidea
+70.59	12	0	165	1.06	0.002322	9604	family	                                                        Hominidae
+70.59	12	2	165	1.06	0.00328	207598	subfamily	                                                          Homininae
+52.94	9	4	138	1.07	0.008504	9605	genus	                                                            Homo
+29.41	5	5	66	1	0.007614	9606	species	                                                              Homo sapiens
+5.882	1	1	9	1	0.0006136	9596	genus	                                                            Pan
+11.76	2	0	8	1	1.519e-05	314294	superfamily	                                                      Cercopithecoidea
+11.76	2	0	8	1	1.519e-05	9527	family	                                                        Cercopithecidae
+11.76	2	0	8	1	3.848e-05	9569	subfamily	                                                          Colobinae
+5.882	1	0	3	1	3.96e-05	54136	genus	                                                            Trachypithecus
+5.882	1	1	3	1	0.0006203	164650	species	                                                              Trachypithecus geei
+5.882	1	0	3	1	0.0001394	54132	genus	                                                            Pygathrix
+5.882	1	1	3	1	0.0009294	1194332	species	                                                              Pygathrix cinerea 1 RL-2012
+5.882	1	0	7	1	1.414e-05	9479	parvorder	                                                    Platyrrhini
+5.882	1	0	7	1	8.298e-05	378855	family	                                                      Atelidae
+5.882	1	0	7	1	0.0001425	38066	subfamily	                                                        Alouattinae
+5.882	1	0	7	1	0.0001425	9499	genus	                                                          Alouatta
+5.882	1	0	7	1	0.001481	182256	species	                                                            Alouatta guariba
+5.882	1	1	7	1	0.001481	183328	subspecies	                                                              Alouatta guariba clamitans

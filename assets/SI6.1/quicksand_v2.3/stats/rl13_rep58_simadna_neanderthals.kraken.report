@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:53Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/81/4a8e3c23e51b08719d26f60d3dfe5e
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl13_rep58_simadna_neanderthals.kraken.report --output output.kraken rl13_rep58_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+23.08	3	3	206	1	NA	0	no rank	unclassified
+76.92	10	0	170	1	1.384e-05	1	no rank	root
+76.92	10	0	170	1	1.384e-05	131567	no rank	  cellular organisms
+76.92	10	0	170	1	1.384e-05	2759	superkingdom	    Eukaryota
+76.92	10	0	170	1	1.384e-05	33154	clade	      Opisthokonta
+76.92	10	0	170	1	1.384e-05	33208	kingdom	        Metazoa
+76.92	10	0	170	1	1.384e-05	6072	clade	          Eumetazoa
+76.92	10	0	170	1	1.384e-05	33213	clade	            Bilateria
+76.92	10	0	170	1	1.384e-05	33511	clade	              Deuterostomia
+76.92	10	0	170	1	1.384e-05	7711	phylum	                Chordata
+76.92	10	0	170	1	1.384e-05	89593	subphylum	                  Craniata
+76.92	10	0	170	1	1.384e-05	7742	clade	                    Vertebrata
+76.92	10	0	170	1	1.384e-05	7776	clade	                      Gnathostomata
+76.92	10	0	170	1	1.384e-05	117570	clade	                        Teleostomi
+76.92	10	0	170	1	1.384e-05	117571	clade	                          Euteleostomi
+76.92	10	0	170	1	1.384e-05	8287	superclass	                            Sarcopterygii
+76.92	10	0	170	1	1.384e-05	1338369	clade	                              Dipnotetrapodomorpha
+76.92	10	0	170	1	1.384e-05	32523	clade	                                Tetrapoda
+76.92	10	0	170	1	1.384e-05	32524	clade	                                  Amniota
+76.92	10	0	170	1	1.384e-05	40674	class	                                    Mammalia
+76.92	10	0	170	1	1.389e-05	32525	clade	                                      Theria
+76.92	10	0	163	1	1.404e-05	9347	clade	                                        Eutheria
+76.92	10	0	153	1	1.409e-05	1437010	clade	                                          Boreoeutheria
+76.92	10	0	137	1	2.606e-05	314146	superorder	                                            Euarchontoglires
+76.92	10	0	130	1	7.126e-05	9443	order	                                              Primates
+76.92	10	0	130	1	0.0001067	376913	suborder	                                                Haplorrhini
+76.92	10	1	130	1	0.0001107	314293	infraorder	                                                  Simiiformes
+69.23	9	0	98	1	0.0001457	9526	parvorder	                                                    Catarrhini
+61.54	8	0	94	1	0.0006732	314295	superfamily	                                                      Hominoidea
+61.54	8	0	86	1	0.00121	9604	family	                                                        Hominidae
+53.85	7	0	85	1	0.00169	207598	subfamily	                                                          Homininae
+46.15	6	1	42	1	0.002588	9605	genus	                                                            Homo
+38.46	5	4	18	1	0.002077	9606	species	                                                              Homo sapiens
+7.692	1	1	4	1	0.002187	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.692	1	0	10	1	0.0006818	9596	genus	                                                            Pan
+7.692	1	1	10	1	0.001671	9597	species	                                                              Pan paniscus
+7.692	1	0	1	1	5.024e-05	607660	subfamily	                                                          Ponginae
+7.692	1	0	1	1	5.024e-05	9599	genus	                                                            Pongo
+7.692	1	1	1	1	0.0001139	9600	species	                                                              Pongo pygmaeus
+7.692	1	0	1	1	1.898e-06	314294	superfamily	                                                      Cercopithecoidea
+7.692	1	1	1	1	1.898e-06	9527	family	                                                        Cercopithecidae

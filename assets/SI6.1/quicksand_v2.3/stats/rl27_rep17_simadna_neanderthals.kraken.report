@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:57Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/34/2c7fb09b03235959e03f1515431078
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl27_rep17_simadna_neanderthals.kraken.report --output output.kraken rl27_rep17_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+14.81	4	4	391	1	NA	0	no rank	unclassified
+85.19	23	0	447	1	3.639e-05	1	no rank	root
+85.19	23	0	447	1	3.639e-05	131567	no rank	  cellular organisms
+85.19	23	0	447	1	3.639e-05	2759	superkingdom	    Eukaryota
+85.19	23	0	447	1	3.639e-05	33154	clade	      Opisthokonta
+85.19	23	0	447	1	3.639e-05	33208	kingdom	        Metazoa
+85.19	23	0	447	1	3.639e-05	6072	clade	          Eumetazoa
+85.19	23	0	447	1	3.639e-05	33213	clade	            Bilateria
+85.19	23	0	447	1	3.639e-05	33511	clade	              Deuterostomia
+85.19	23	0	447	1	3.639e-05	7711	phylum	                Chordata
+85.19	23	0	447	1	3.639e-05	89593	subphylum	                  Craniata
+85.19	23	0	447	1	3.639e-05	7742	clade	                    Vertebrata
+85.19	23	0	447	1	3.639e-05	7776	clade	                      Gnathostomata
+85.19	23	0	447	1	3.639e-05	117570	clade	                        Teleostomi
+85.19	23	0	447	1	3.639e-05	117571	clade	                          Euteleostomi
+85.19	23	0	447	1	3.639e-05	8287	superclass	                            Sarcopterygii
+85.19	23	0	447	1	3.639e-05	1338369	clade	                              Dipnotetrapodomorpha
+85.19	23	0	447	1	3.639e-05	32523	clade	                                Tetrapoda
+85.19	23	0	447	1	3.639e-05	32524	clade	                                  Amniota
+85.19	23	0	447	1	3.639e-05	40674	class	                                    Mammalia
+85.19	23	1	440	1	3.594e-05	32525	clade	                                      Theria
+81.48	22	0	408	1	3.513e-05	9347	clade	                                        Eutheria
+81.48	22	0	392	1	3.611e-05	1437010	clade	                                          Boreoeutheria
+77.78	21	0	342	1	6.506e-05	314146	superorder	                                            Euarchontoglires
+74.07	20	0	328	1	0.0001798	9443	order	                                              Primates
+74.07	20	0	328	1	0.0002692	376913	suborder	                                                Haplorrhini
+74.07	20	0	328	1	0.0002792	314293	infraorder	                                                  Simiiformes
+74.07	20	2	326	1	0.0004846	9526	parvorder	                                                    Catarrhini
+66.67	18	0	290	1	0.002077	314295	superfamily	                                                      Hominoidea
+66.67	18	0	289	1	0.004068	9604	family	                                                        Hominidae
+66.67	18	2	266	1	0.005288	207598	subfamily	                                                          Homininae
+55.56	15	9	228	1	0.01405	9605	genus	                                                            Homo
+22.22	6	2	64	1	0.007383	9606	species	                                                              Homo sapiens
+14.81	4	4	29	1	0.01586	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.704	1	0	8	1	0.0005454	9596	genus	                                                            Pan
+3.704	1	1	8	1	0.001309	9598	species	                                                              Pan troglodytes
+3.704	1	0	2	1	6.106e-07	314147	clade	                                              Glires
+3.704	1	1	2	1	6.527e-07	9989	order	                                                Rodentia
+3.704	1	0	3	1	5.812e-07	314145	superorder	                                            Laurasiatheria
+3.704	1	0	2	1	1.566e-06	33554	order	                                              Carnivora
+3.704	1	0	2	1	4.193e-06	379583	suborder	                                                Feliformia
+3.704	1	0	2	1	9.647e-06	9681	family	                                                  Felidae
+3.704	1	0	2	1	0.000403	338151	subfamily	                                                    Acinonychinae
+3.704	1	0	2	1	0.000403	32535	genus	                                                      Acinonyx
+3.704	1	1	2	1	0.000403	32536	species	                                                        Acinonyx jubatus

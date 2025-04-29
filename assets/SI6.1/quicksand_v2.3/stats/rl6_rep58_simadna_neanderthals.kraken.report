@@ -1,0 +1,36 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:17:50Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/07/636cd5c24c7ee9927db054ef3cace5
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl6_rep58_simadna_neanderthals.kraken.report --output output.kraken rl6_rep58_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	6	0	109	1	8.873e-06	1	no rank	root
+100	6	0	109	1	8.873e-06	131567	no rank	  cellular organisms
+100	6	0	109	1	8.873e-06	2759	superkingdom	    Eukaryota
+100	6	0	109	1	8.873e-06	33154	clade	      Opisthokonta
+100	6	0	109	1	8.873e-06	33208	kingdom	        Metazoa
+100	6	0	109	1	8.873e-06	6072	clade	          Eumetazoa
+100	6	0	109	1	8.873e-06	33213	clade	            Bilateria
+100	6	0	109	1	8.873e-06	33511	clade	              Deuterostomia
+100	6	0	109	1	8.873e-06	7711	phylum	                Chordata
+100	6	0	109	1	8.873e-06	89593	subphylum	                  Craniata
+100	6	0	109	1	8.873e-06	7742	clade	                    Vertebrata
+100	6	0	109	1	8.873e-06	7776	clade	                      Gnathostomata
+100	6	0	109	1	8.873e-06	117570	clade	                        Teleostomi
+100	6	0	109	1	8.873e-06	117571	clade	                          Euteleostomi
+100	6	0	109	1	8.873e-06	8287	superclass	                            Sarcopterygii
+100	6	0	109	1	8.873e-06	1338369	clade	                              Dipnotetrapodomorpha
+100	6	0	109	1	8.873e-06	32523	clade	                                Tetrapoda
+100	6	0	109	1	8.873e-06	32524	clade	                                  Amniota
+100	6	0	109	1	8.873e-06	40674	class	                                    Mammalia
+100	6	0	109	1	8.904e-06	32525	clade	                                      Theria
+100	6	0	102	1	8.784e-06	9347	clade	                                        Eutheria
+100	6	0	102	1	9.396e-06	1437010	clade	                                          Boreoeutheria
+100	6	0	90	1	1.712e-05	314146	superorder	                                            Euarchontoglires
+100	6	0	90	1	4.933e-05	9443	order	                                              Primates
+100	6	0	90	1	7.387e-05	376913	suborder	                                                Haplorrhini
+100	6	0	90	1	7.66e-05	314293	infraorder	                                                  Simiiformes
+100	6	0	90	1	0.0001338	9526	parvorder	                                                    Catarrhini
+100	6	0	90	1	0.0006445	314295	superfamily	                                                      Hominoidea
+100	6	0	90	1	0.001267	9604	family	                                                        Hominidae
+100	6	0	90	1	0.001789	207598	subfamily	                                                          Homininae
+100	6	2	72	1	0.004437	9605	genus	                                                            Homo
+66.67	4	2	46	1	0.005307	9606	species	                                                              Homo sapiens
+33.33	2	2	15	1	0.008201	63221	subspecies	                                                                Homo sapiens neanderthalensis

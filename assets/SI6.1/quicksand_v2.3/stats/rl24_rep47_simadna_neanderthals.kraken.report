@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:14Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/77/90147ec3ba21a425018da93217be85
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl24_rep47_simadna_neanderthals.kraken.report --output output.kraken rl24_rep47_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+12.5	3	3	240	1	NA	0	no rank	unclassified
+87.5	21	0	469	1	3.818e-05	1	no rank	root
+87.5	21	0	469	1	3.818e-05	131567	no rank	  cellular organisms
+87.5	21	0	469	1	3.818e-05	2759	superkingdom	    Eukaryota
+87.5	21	0	469	1	3.818e-05	33154	clade	      Opisthokonta
+87.5	21	0	469	1	3.818e-05	33208	kingdom	        Metazoa
+87.5	21	0	469	1	3.818e-05	6072	clade	          Eumetazoa
+87.5	21	0	469	1	3.818e-05	33213	clade	            Bilateria
+87.5	21	0	469	1	3.818e-05	33511	clade	              Deuterostomia
+87.5	21	0	469	1	3.818e-05	7711	phylum	                Chordata
+87.5	21	0	469	1	3.818e-05	89593	subphylum	                  Craniata
+87.5	21	0	469	1	3.818e-05	7742	clade	                    Vertebrata
+87.5	21	0	469	1	3.818e-05	7776	clade	                      Gnathostomata
+87.5	21	0	469	1	3.818e-05	117570	clade	                        Teleostomi
+87.5	21	0	469	1	3.818e-05	117571	clade	                          Euteleostomi
+87.5	21	0	469	1	3.818e-05	8287	superclass	                            Sarcopterygii
+87.5	21	0	469	1	3.818e-05	1338369	clade	                              Dipnotetrapodomorpha
+87.5	21	0	469	1	3.818e-05	32523	clade	                                Tetrapoda
+87.5	21	0	469	1	3.818e-05	32524	clade	                                  Amniota
+87.5	21	0	469	1	3.818e-05	40674	class	                                    Mammalia
+87.5	21	0	469	1	3.831e-05	32525	clade	                                      Theria
+87.5	21	0	454	1	3.91e-05	9347	clade	                                        Eutheria
+87.5	21	2	415	1	3.823e-05	1437010	clade	                                          Boreoeutheria
+75	18	0	376	1	7.153e-05	314146	superorder	                                            Euarchontoglires
+75	18	0	353	1	0.0001935	9443	order	                                              Primates
+75	18	0	349	1	0.0002865	376913	suborder	                                                Haplorrhini
+75	18	0	348	1	0.0002962	314293	infraorder	                                                  Simiiformes
+70.83	17	0	327	1	0.0004861	9526	parvorder	                                                    Catarrhini
+70.83	17	0	311	1	0.002227	314295	superfamily	                                                      Hominoidea
+70.83	17	0	311	1	0.004377	9604	family	                                                        Hominidae
+70.83	17	2	308	1	0.006123	207598	subfamily	                                                          Homininae
+58.33	14	6	210	1	0.01294	9605	genus	                                                            Homo
+33.33	8	4	66	1	0.007614	9606	species	                                                              Homo sapiens
+12.5	3	3	23	1	0.01258	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.167	1	1	3	1	0.001151	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4.167	1	1	3	1	0.0002045	9596	genus	                                                            Pan
+4.167	1	0	6	1	1.212e-05	9479	parvorder	                                                    Platyrrhini
+4.167	1	0	1	1	7.037e-06	376919	family	                                                      Pitheciidae
+4.167	1	1	1	1	1.527e-05	38039	subfamily	                                                        Pitheciinae
+4.167	1	0	6	1	1.162e-06	314145	superorder	                                            Laurasiatheria
+4.167	1	0	1	1	6.991e-07	91561	order	                                              Artiodactyla
+4.167	1	0	1	1	1.101e-06	9845	suborder	                                                Ruminantia
+4.167	1	0	1	1	1.15e-06	35500	infraorder	                                                  Pecora
+4.167	1	1	1	1	1.719e-06	9895	family	                                                    Bovidae

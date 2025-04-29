@@ -1,0 +1,52 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:50Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/f0/be37cc57a8af1112130d65e0603508
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl21_rep59_simadna_neanderthals.kraken.report --output output.kraken rl21_rep59_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+28.57	6	6	326	1	NA	0	no rank	unclassified
+71.43	15	0	218	1	1.775e-05	1	no rank	root
+71.43	15	0	218	1	1.775e-05	131567	no rank	  cellular organisms
+71.43	15	0	218	1	1.775e-05	2759	superkingdom	    Eukaryota
+71.43	15	0	218	1	1.775e-05	33154	clade	      Opisthokonta
+71.43	15	0	218	1	1.775e-05	33208	kingdom	        Metazoa
+71.43	15	0	218	1	1.775e-05	6072	clade	          Eumetazoa
+71.43	15	0	218	1	1.775e-05	33213	clade	            Bilateria
+71.43	15	0	218	1	1.775e-05	33511	clade	              Deuterostomia
+71.43	15	0	218	1	1.775e-05	7711	phylum	                Chordata
+71.43	15	0	218	1	1.775e-05	89593	subphylum	                  Craniata
+71.43	15	0	218	1	1.775e-05	7742	clade	                    Vertebrata
+71.43	15	0	218	1	1.775e-05	7776	clade	                      Gnathostomata
+71.43	15	0	218	1	1.775e-05	117570	clade	                        Teleostomi
+71.43	15	0	218	1	1.775e-05	117571	clade	                          Euteleostomi
+71.43	15	0	218	1	1.775e-05	8287	superclass	                            Sarcopterygii
+71.43	15	0	218	1	1.775e-05	1338369	clade	                              Dipnotetrapodomorpha
+71.43	15	0	218	1	1.775e-05	32523	clade	                                Tetrapoda
+71.43	15	0	218	1	1.775e-05	32524	clade	                                  Amniota
+71.43	15	0	218	1	1.775e-05	40674	class	                                    Mammalia
+71.43	15	0	218	1	1.781e-05	32525	clade	                                      Theria
+71.43	15	0	213	1	1.834e-05	9347	clade	                                        Eutheria
+71.43	15	1	197	1	1.815e-05	1437010	clade	                                          Boreoeutheria
+66.67	14	1	167	1	3.177e-05	314146	superorder	                                            Euarchontoglires
+57.14	12	1	153	1	8.386e-05	9443	order	                                              Primates
+52.38	11	0	149	1	0.0001223	376913	suborder	                                                Haplorrhini
+47.62	10	0	147	1	0.0001251	314293	infraorder	                                                  Simiiformes
+47.62	10	0	143	1	0.0002126	9526	parvorder	                                                    Catarrhini
+42.86	9	1	133	1	0.0009525	314295	superfamily	                                                      Hominoidea
+38.1	8	0	131	1	0.001844	9604	family	                                                        Hominidae
+38.1	8	0	128	1	0.002545	207598	subfamily	                                                          Homininae
+38.1	8	3	85	1	0.005238	9605	genus	                                                            Homo
+23.81	5	4	35	1	0.004038	9606	species	                                                              Homo sapiens
+4.762	1	1	8	1	0.004374	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.762	1	0	2	1	3.797e-06	314294	superfamily	                                                      Cercopithecoidea
+4.762	1	0	2	1	3.797e-06	9527	family	                                                        Cercopithecidae
+4.762	1	0	2	1	6.486e-06	9528	subfamily	                                                          Cercopithecinae
+4.762	1	0	2	1	0.0002194	75565	genus	                                                            Lophocebus
+4.762	1	1	2	1	0.0002194	75566	species	                                                              Lophocebus aterrimus
+4.762	1	0	2	1	4.653e-05	376912	infraorder	                                                  Tarsiiformes
+4.762	1	0	2	1	4.653e-05	9475	family	                                                    Tarsiidae
+4.762	1	0	2	1	0.0001972	1971489	genus	                                                      Cephalopachus
+4.762	1	1	2	1	0.0001972	9477	species	                                                        Cephalopachus bancanus
+4.762	1	0	4	1	1.221e-06	314147	clade	                                              Glires
+4.762	1	0	4	1	1.305e-06	9989	order	                                                Rodentia
+4.762	1	0	3	1	7.108e-06	33550	suborder	                                                  Hystricomorpha
+4.762	1	0	3	1	1.316e-05	10161	family	                                                    Echimyidae
+4.762	1	0	3	1	0.0001517	1744847	genus	                                                      Toromys
+4.762	1	1	3	1	0.0003059	2171663	species	                                                        Toromys albiventris

@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:19:42Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/8a/1a6528cd2a98a6dfb1d21a3fc3f0ef
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl18_rep49_simadna_neanderthals.kraken.report --output output.kraken rl18_rep49_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+22.22	4	4	351	1	NA	0	no rank	unclassified
+77.78	14	0	268	1	2.182e-05	1	no rank	root
+77.78	14	0	268	1	2.182e-05	131567	no rank	  cellular organisms
+77.78	14	0	268	1	2.182e-05	2759	superkingdom	    Eukaryota
+77.78	14	0	268	1	2.182e-05	33154	clade	      Opisthokonta
+77.78	14	0	268	1	2.182e-05	33208	kingdom	        Metazoa
+77.78	14	0	268	1	2.182e-05	6072	clade	          Eumetazoa
+77.78	14	0	268	1	2.182e-05	33213	clade	            Bilateria
+77.78	14	0	268	1	2.182e-05	33511	clade	              Deuterostomia
+77.78	14	0	268	1	2.182e-05	7711	phylum	                Chordata
+77.78	14	0	268	1	2.182e-05	89593	subphylum	                  Craniata
+77.78	14	0	268	1	2.182e-05	7742	clade	                    Vertebrata
+77.78	14	0	268	1	2.182e-05	7776	clade	                      Gnathostomata
+77.78	14	0	268	1	2.182e-05	117570	clade	                        Teleostomi
+77.78	14	0	268	1	2.182e-05	117571	clade	                          Euteleostomi
+77.78	14	0	268	1	2.182e-05	8287	superclass	                            Sarcopterygii
+77.78	14	0	268	1	2.182e-05	1338369	clade	                              Dipnotetrapodomorpha
+77.78	14	0	268	1	2.182e-05	32523	clade	                                Tetrapoda
+77.78	14	0	268	1	2.182e-05	32524	clade	                                  Amniota
+77.78	14	0	268	1	2.182e-05	40674	class	                                    Mammalia
+77.78	14	1	267	1	2.181e-05	32525	clade	                                      Theria
+72.22	13	0	250	1	2.153e-05	9347	clade	                                        Eutheria
+72.22	13	1	242	1	2.229e-05	1437010	clade	                                          Boreoeutheria
+66.67	12	0	209	1	3.976e-05	314146	superorder	                                            Euarchontoglires
+66.67	12	0	194	1	0.0001063	9443	order	                                              Primates
+66.67	12	0	194	1	0.0001592	376913	suborder	                                                Haplorrhini
+66.67	12	0	194	1	0.0001651	314293	infraorder	                                                  Simiiformes
+66.67	12	0	190	1	0.0002824	9526	parvorder	                                                    Catarrhini
+55.56	10	1	162	1	0.00116	314295	superfamily	                                                      Hominoidea
+50	9	0	147	1	0.002069	9604	family	                                                        Hominidae
+50	9	1	147	1	0.002922	207598	subfamily	                                                          Homininae
+44.44	8	5	133	1	0.008196	9605	genus	                                                            Homo
+16.67	3	2	34	1	0.003922	9606	species	                                                              Homo sapiens
+5.556	1	1	15	1	0.008201	63221	subspecies	                                                                Homo sapiens neanderthalensis
+11.11	2	0	11	1	2.088e-05	314294	superfamily	                                                      Cercopithecoidea
+11.11	2	0	11	1	2.088e-05	9527	family	                                                        Cercopithecidae
+11.11	2	0	9	1	2.919e-05	9528	subfamily	                                                          Cercopithecinae
+5.556	1	0	7	1	6.63e-05	9539	genus	                                                            Macaca
+5.556	1	1	1	1	0.0002927	9542	species	                                                              Macaca fuscata
+5.556	1	0	2	1	9.62e-05	9529	genus	                                                            Cercocebus
+5.556	1	1	2	1	0.0003313	75569	species	                                                              Cercocebus chrysogaster

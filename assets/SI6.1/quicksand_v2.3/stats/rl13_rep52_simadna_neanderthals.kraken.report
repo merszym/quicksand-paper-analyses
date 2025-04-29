@@ -1,0 +1,52 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:46Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/57/b9d2ebc6af5b1e9ae60f4f82aa7476
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl13_rep52_simadna_neanderthals.kraken.report --output output.kraken rl13_rep52_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+7.692	1	1	139	1	NA	0	no rank	unclassified
+92.31	12	0	239	1	1.945e-05	1	no rank	root
+92.31	12	0	239	1	1.945e-05	131567	no rank	  cellular organisms
+92.31	12	0	239	1	1.945e-05	2759	superkingdom	    Eukaryota
+92.31	12	0	239	1	1.945e-05	33154	clade	      Opisthokonta
+92.31	12	0	239	1	1.945e-05	33208	kingdom	        Metazoa
+92.31	12	0	239	1	1.945e-05	6072	clade	          Eumetazoa
+92.31	12	0	239	1	1.945e-05	33213	clade	            Bilateria
+92.31	12	0	239	1	1.945e-05	33511	clade	              Deuterostomia
+92.31	12	0	239	1	1.945e-05	7711	phylum	                Chordata
+92.31	12	0	239	1	1.945e-05	89593	subphylum	                  Craniata
+92.31	12	0	239	1	1.945e-05	7742	clade	                    Vertebrata
+92.31	12	0	239	1	1.945e-05	7776	clade	                      Gnathostomata
+92.31	12	0	239	1	1.945e-05	117570	clade	                        Teleostomi
+92.31	12	0	239	1	1.945e-05	117571	clade	                          Euteleostomi
+92.31	12	0	239	1	1.945e-05	8287	superclass	                            Sarcopterygii
+92.31	12	0	239	1	1.945e-05	1338369	clade	                              Dipnotetrapodomorpha
+92.31	12	0	239	1	1.945e-05	32523	clade	                                Tetrapoda
+92.31	12	0	239	1	1.945e-05	32524	clade	                                  Amniota
+92.31	12	0	239	1	1.945e-05	40674	class	                                    Mammalia
+92.31	12	0	225	1	1.838e-05	32525	clade	                                      Theria
+92.31	12	0	213	1	1.834e-05	9347	clade	                                        Eutheria
+92.31	12	0	207	1	1.907e-05	1437010	clade	                                          Boreoeutheria
+76.92	10	0	169	1	3.215e-05	314146	superorder	                                            Euarchontoglires
+76.92	10	0	164	1	8.989e-05	9443	order	                                              Primates
+69.23	9	0	160	1	0.0001313	376913	suborder	                                                Haplorrhini
+69.23	9	0	160	1	0.0001362	314293	infraorder	                                                  Simiiformes
+69.23	9	0	160	1	0.0002379	9526	parvorder	                                                    Catarrhini
+69.23	9	0	149	1	0.001067	314295	superfamily	                                                      Hominoidea
+69.23	9	0	148	1	0.002083	9604	family	                                                        Hominidae
+61.54	8	0	143	1	0.002843	207598	subfamily	                                                          Homininae
+61.54	8	2	123	1	0.007579	9605	genus	                                                            Homo
+46.15	6	3	44	1	0.005076	9606	species	                                                              Homo sapiens
+23.08	3	3	17	1	0.009295	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.692	1	0	2	1	0.0001005	607660	subfamily	                                                          Ponginae
+7.692	1	0	2	1	0.0001005	9599	genus	                                                            Pongo
+7.692	1	1	2	1	0.0002217	9601	species	                                                              Pongo abelii
+7.692	1	0	2	1	3.34e-06	376911	suborder	                                                Strepsirrhini
+7.692	1	0	2	1	3.914e-06	376915	infraorder	                                                  Lemuriformes
+7.692	1	0	2	1	1.19e-05	30614	family	                                                    Lepilemuridae
+7.692	1	1	2	1	1.271e-05	9452	genus	                                                      Lepilemur
+15.38	2	0	4	1	7.749e-07	314145	superorder	                                            Laurasiatheria
+7.692	1	0	2	1	3.373e-06	9362	order	                                              Eulipotyphla
+7.692	1	0	2	1	1.279e-05	9373	family	                                                Talpidae
+7.692	1	0	2	1	8.802e-05	62294	genus	                                                  Mogera
+7.692	1	1	2	1	0.0002434	2804713	species	                                                    Mogera hainana
+7.692	1	0	2	1	1.566e-06	33554	order	                                              Carnivora
+7.692	1	0	2	1	2.563e-06	379584	suborder	                                                Caniformia
+7.692	1	1	2	1	7.177e-06	9655	family	                                                  Mustelidae

@@ -1,0 +1,55 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:22:36Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/49/94e5121e894bd80d8fb28f21e4be17
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl15_rep1_simadna_neanderthals.kraken.report --output output.kraken rl15_rep1_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+13.33	2	2	174	1	NA	0	no rank	unclassified
+86.67	13	0	207	1	1.685e-05	1	no rank	root
+86.67	13	0	207	1	1.685e-05	131567	no rank	  cellular organisms
+86.67	13	0	207	1	1.685e-05	2759	superkingdom	    Eukaryota
+86.67	13	0	207	1	1.685e-05	33154	clade	      Opisthokonta
+86.67	13	0	207	1	1.685e-05	33208	kingdom	        Metazoa
+86.67	13	0	207	1	1.685e-05	6072	clade	          Eumetazoa
+86.67	13	0	207	1	1.685e-05	33213	clade	            Bilateria
+86.67	13	0	207	1	1.685e-05	33511	clade	              Deuterostomia
+86.67	13	0	207	1	1.685e-05	7711	phylum	                Chordata
+86.67	13	0	207	1	1.685e-05	89593	subphylum	                  Craniata
+86.67	13	0	207	1	1.685e-05	7742	clade	                    Vertebrata
+86.67	13	0	207	1	1.685e-05	7776	clade	                      Gnathostomata
+86.67	13	0	207	1	1.685e-05	117570	clade	                        Teleostomi
+86.67	13	0	207	1	1.685e-05	117571	clade	                          Euteleostomi
+86.67	13	0	207	1	1.685e-05	8287	superclass	                            Sarcopterygii
+86.67	13	0	207	1	1.685e-05	1338369	clade	                              Dipnotetrapodomorpha
+86.67	13	0	207	1	1.685e-05	32523	clade	                                Tetrapoda
+86.67	13	0	207	1	1.685e-05	32524	clade	                                  Amniota
+86.67	13	0	207	1	1.685e-05	40674	class	                                    Mammalia
+86.67	13	0	207	1	1.691e-05	32525	clade	                                      Theria
+86.67	13	0	207	1	1.783e-05	9347	clade	                                        Eutheria
+86.67	13	0	202	1	1.861e-05	1437010	clade	                                          Boreoeutheria
+80	12	0	144	1	2.739e-05	314146	superorder	                                            Euarchontoglires
+73.33	11	0	133	1	7.29e-05	9443	order	                                              Primates
+73.33	11	0	131	1	0.0001075	376913	suborder	                                                Haplorrhini
+73.33	11	0	131	1	0.0001115	314293	infraorder	                                                  Simiiformes
+73.33	11	0	127	1	0.0001888	9526	parvorder	                                                    Catarrhini
+73.33	11	0	125	1	0.0008952	314295	superfamily	                                                      Hominoidea
+73.33	11	0	123	1	0.001731	9604	family	                                                        Hominidae
+66.67	10	0	116	1	0.002306	207598	subfamily	                                                          Homininae
+66.67	10	4	111	1	0.00684	9605	genus	                                                            Homo
+40	6	4	53	1	0.006114	9606	species	                                                              Homo sapiens
+6.667	1	1	9	1	0.003454	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+6.667	1	1	5	1	0.002734	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.667	1	0	5	1	0.0002512	607660	subfamily	                                                          Ponginae
+6.667	1	0	5	1	0.0002512	9599	genus	                                                            Pongo
+6.667	1	1	5	1	0.0005541	9601	species	                                                              Pongo abelii
+6.667	1	0	4	1	1.221e-06	314147	clade	                                              Glires
+6.667	1	0	4	1	1.305e-06	9989	order	                                                Rodentia
+6.667	1	0	4	1	2.144e-06	1963758	suborder	                                                  Myomorpha
+6.667	1	0	4	1	2.268e-06	337687	clade	                                                    Muroidea
+6.667	1	0	4	1	6.461e-06	337677	family	                                                      Cricetidae
+6.667	1	0	2	1	6.987e-06	39087	subfamily	                                                        Arvicolinae
+6.667	1	0	2	1	0.0001294	269648	genus	                                                          Chionomys
+6.667	1	1	2	1	0.0002624	269650	species	                                                            Chionomys roberti
+6.667	1	0	1	1	1.937e-07	314145	superorder	                                            Laurasiatheria
+6.667	1	0	1	1	6.828e-07	9397	order	                                              Chiroptera
+6.667	1	0	1	1	8.816e-07	30560	suborder	                                                Microchiroptera
+6.667	1	0	1	1	2.041e-06	9431	family	                                                  Vespertilionidae
+6.667	1	0	1	1	4.292e-06	9434	genus	                                                    Myotis
+6.667	1	1	1	1	0.000116	225401	species	                                                      Myotis formosus

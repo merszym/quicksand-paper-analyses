@@ -1,0 +1,60 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:18:08Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/12/6dfcfe2cb86fd8bcf6bf41fda79677
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl28_rep14_simadna_neanderthals.kraken.report --output output.kraken rl28_rep14_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+14.29	4	4	387	1	NA	0	no rank	unclassified
+85.71	24	0	457	1	3.72e-05	1	no rank	root
+85.71	24	0	457	1	3.72e-05	131567	no rank	  cellular organisms
+85.71	24	0	457	1	3.72e-05	2759	superkingdom	    Eukaryota
+85.71	24	0	457	1	3.72e-05	33154	clade	      Opisthokonta
+85.71	24	0	457	1	3.72e-05	33208	kingdom	        Metazoa
+85.71	24	0	457	1	3.72e-05	6072	clade	          Eumetazoa
+85.71	24	0	457	1	3.72e-05	33213	clade	            Bilateria
+85.71	24	0	457	1	3.72e-05	33511	clade	              Deuterostomia
+85.71	24	0	457	1	3.72e-05	7711	phylum	                Chordata
+85.71	24	0	457	1	3.72e-05	89593	subphylum	                  Craniata
+85.71	24	0	457	1	3.72e-05	7742	clade	                    Vertebrata
+85.71	24	0	457	1	3.72e-05	7776	clade	                      Gnathostomata
+85.71	24	0	457	1	3.72e-05	117570	clade	                        Teleostomi
+85.71	24	0	457	1	3.72e-05	117571	clade	                          Euteleostomi
+85.71	24	0	457	1	3.72e-05	8287	superclass	                            Sarcopterygii
+85.71	24	0	457	1	3.72e-05	1338369	clade	                              Dipnotetrapodomorpha
+85.71	24	0	457	1	3.72e-05	32523	clade	                                Tetrapoda
+85.71	24	0	457	1	3.72e-05	32524	clade	                                  Amniota
+85.71	24	0	457	1	3.72e-05	40674	class	                                    Mammalia
+85.71	24	1	457	1	3.733e-05	32525	clade	                                      Theria
+82.14	23	2	433	1	3.729e-05	9347	clade	                                        Eutheria
+75	21	0	396	1	3.648e-05	1437010	clade	                                          Boreoeutheria
+71.43	20	0	344	1	6.544e-05	314146	superorder	                                            Euarchontoglires
+67.86	19	0	341	1	0.0001869	9443	order	                                              Primates
+64.29	18	0	336	1	0.0002758	376913	suborder	                                                Haplorrhini
+64.29	18	0	336	1	0.000286	314293	infraorder	                                                  Simiiformes
+60.71	17	2	321	1	0.0004772	9526	parvorder	                                                    Catarrhini
+53.57	15	0	301	1	0.002156	314295	superfamily	                                                      Hominoidea
+53.57	15	0	277	1	0.003899	9604	family	                                                        Hominidae
+53.57	15	0	277	1	0.005507	207598	subfamily	                                                          Homininae
+53.57	15	7	214	1	0.01319	9605	genus	                                                            Homo
+28.57	8	5	91	1	0.0105	9606	species	                                                              Homo sapiens
+10.71	3	3	28	1	0.01531	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.571	1	0	7	1	1.414e-05	9479	parvorder	                                                    Platyrrhini
+3.571	1	0	7	1	3.18e-05	9498	family	                                                      Cebidae
+3.571	1	0	6	1	3.781e-05	9480	subfamily	                                                        Callitrichinae
+3.571	1	0	6	1	0.0003083	2681187	genus	                                                          Leontocebus
+3.571	1	0	6	1	0.0005825	9487	species	                                                            Leontocebus fuscicollis
+3.571	1	1	6	1	0.0009743	343424	subspecies	                                                              Leontocebus fuscicollis weddelli
+3.571	1	0	1	1	1.67e-06	376911	suborder	                                                Strepsirrhini
+3.571	1	0	1	1	1.957e-06	376915	infraorder	                                                  Lemuriformes
+3.571	1	0	1	1	1.435e-05	9445	family	                                                    Lemuridae
+3.571	1	1	1	1	2.832e-05	13513	genus	                                                      Eulemur
+3.571	1	0	2	1	6.106e-07	314147	clade	                                              Glires
+3.571	1	0	2	1	6.527e-07	9989	order	                                                Rodentia
+3.571	1	0	2	1	1.072e-06	1963758	suborder	                                                  Myomorpha
+3.571	1	0	2	1	1.134e-06	337687	clade	                                                    Muroidea
+3.571	1	0	2	1	3.23e-06	337677	family	                                                      Cricetidae
+3.571	1	0	2	1	1.19e-05	337963	subfamily	                                                        Neotominae
+3.571	1	0	2	1	2.76e-05	10040	genus	                                                          Peromyscus
+3.571	1	1	2	1	0.0003849	97213	species	                                                            Peromyscus pectoralis
+3.571	1	0	5	1	9.687e-07	314145	superorder	                                            Laurasiatheria
+3.571	1	0	5	1	4.493e-05	9787	order	                                              Perissodactyla
+3.571	1	0	5	1	0.0001075	9788	family	                                                Equidae
+3.571	1	0	5	1	0.0001075	9789	genus	                                                  Equus
+3.571	1	1	5	1	0.001074	9793	species	                                                    Equus asinus

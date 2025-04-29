@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:10Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/99/566e99afc7d73dc63bba6e70812f65
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl24_rep27_simadna_neanderthals.kraken.report --output output.kraken rl24_rep27_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+16.67	4	4	356	1	NA	0	no rank	unclassified
+83.33	20	0	459	1	3.736e-05	1	no rank	root
+83.33	20	0	459	1	3.736e-05	131567	no rank	  cellular organisms
+83.33	20	0	459	1	3.736e-05	2759	superkingdom	    Eukaryota
+83.33	20	0	459	1	3.736e-05	33154	clade	      Opisthokonta
+83.33	20	0	459	1	3.736e-05	33208	kingdom	        Metazoa
+83.33	20	0	459	1	3.736e-05	6072	clade	          Eumetazoa
+83.33	20	0	459	1	3.736e-05	33213	clade	            Bilateria
+83.33	20	0	459	1	3.736e-05	33511	clade	              Deuterostomia
+83.33	20	0	459	1	3.736e-05	7711	phylum	                Chordata
+83.33	20	0	459	1	3.736e-05	89593	subphylum	                  Craniata
+83.33	20	0	459	1	3.736e-05	7742	clade	                    Vertebrata
+83.33	20	0	459	1	3.736e-05	7776	clade	                      Gnathostomata
+83.33	20	0	459	1	3.736e-05	117570	clade	                        Teleostomi
+83.33	20	0	459	1	3.736e-05	117571	clade	                          Euteleostomi
+83.33	20	0	459	1	3.736e-05	8287	superclass	                            Sarcopterygii
+83.33	20	0	459	1	3.736e-05	1338369	clade	                              Dipnotetrapodomorpha
+83.33	20	0	459	1	3.736e-05	32523	clade	                                Tetrapoda
+83.33	20	0	459	1	3.736e-05	32524	clade	                                  Amniota
+83.33	20	0	459	1	3.736e-05	40674	class	                                    Mammalia
+83.33	20	0	459	1	3.75e-05	32525	clade	                                      Theria
+79.17	19	0	451	1	3.884e-05	9347	clade	                                        Eutheria
+79.17	19	1	425	1	3.915e-05	1437010	clade	                                          Boreoeutheria
+75	18	0	365	1	6.943e-05	314146	superorder	                                            Euarchontoglires
+75	18	0	347	1	0.0001902	9443	order	                                              Primates
+75	18	0	342	1	0.0002807	376913	suborder	                                                Haplorrhini
+75	18	0	342	1	0.0002911	314293	infraorder	                                                  Simiiformes
+75	18	0	324	1	0.0004816	9526	parvorder	                                                    Catarrhini
+75	18	0	307	1	0.002199	314295	superfamily	                                                      Hominoidea
+70.83	17	0	297	1	0.00418	9604	family	                                                        Hominidae
+70.83	17	1	288	1	0.005726	207598	subfamily	                                                          Homininae
+66.67	16	5	232	1	0.0143	9605	genus	                                                            Homo
+41.67	10	6	118	1	0.01361	9606	species	                                                              Homo sapiens
+16.67	4	4	50	1	0.02734	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.167	1	1	1	1	0.0009099	1425170	species	                                                              Homo heidelbergensis
+4.167	1	0	5	1	7.508e-05	9577	family	                                                        Hylobatidae
+4.167	1	0	2	1	8.537e-05	9578	genus	                                                          Hylobates
+4.167	1	1	2	1	0.0002836	9579	species	                                                            Hylobates agilis
+4.167	1	0	1	1	1.93e-06	9263	clade	                                        Metatheria
+4.167	1	0	1	1	5.24e-06	38609	order	                                          Diprotodontia
+4.167	1	0	1	1	2.016e-05	9307	family	                                            Macropodidae
+4.167	1	0	1	1	9.058e-05	65633	genus	                                              Lagostrophus
+4.167	1	1	1	1	9.058e-05	65634	species	                                                Lagostrophus fasciatus

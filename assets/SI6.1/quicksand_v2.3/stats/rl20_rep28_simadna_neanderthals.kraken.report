@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:19Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/6f/5d4620d4aae56849785dde69ad75b8
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl20_rep28_simadna_neanderthals.kraken.report --output output.kraken rl20_rep28_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+5	1	1	300	1	NA	0	no rank	unclassified
+95	19	0	408	1	3.321e-05	1	no rank	root
+95	19	0	408	1	3.321e-05	131567	no rank	  cellular organisms
+95	19	0	408	1	3.321e-05	2759	superkingdom	    Eukaryota
+95	19	0	408	1	3.321e-05	33154	clade	      Opisthokonta
+95	19	0	408	1	3.321e-05	33208	kingdom	        Metazoa
+95	19	0	408	1	3.321e-05	6072	clade	          Eumetazoa
+95	19	0	408	1	3.321e-05	33213	clade	            Bilateria
+95	19	0	408	1	3.321e-05	33511	clade	              Deuterostomia
+95	19	0	408	1	3.321e-05	7711	phylum	                Chordata
+95	19	0	408	1	3.321e-05	89593	subphylum	                  Craniata
+95	19	0	408	1	3.321e-05	7742	clade	                    Vertebrata
+95	19	0	408	1	3.321e-05	7776	clade	                      Gnathostomata
+95	19	0	408	1	3.321e-05	117570	clade	                        Teleostomi
+95	19	0	408	1	3.321e-05	117571	clade	                          Euteleostomi
+95	19	0	408	1	3.321e-05	8287	superclass	                            Sarcopterygii
+95	19	0	408	1	3.321e-05	1338369	clade	                              Dipnotetrapodomorpha
+95	19	0	408	1	3.321e-05	32523	clade	                                Tetrapoda
+95	19	0	408	1	3.321e-05	32524	clade	                                  Amniota
+95	19	0	408	1	3.321e-05	40674	class	                                    Mammalia
+95	19	0	408	1	3.333e-05	32525	clade	                                      Theria
+95	19	0	408	1	3.513e-05	9347	clade	                                        Eutheria
+95	19	0	403	1	3.712e-05	1437010	clade	                                          Boreoeutheria
+95	19	0	366	1	6.962e-05	314146	superorder	                                            Euarchontoglires
+95	19	0	355	1	0.0001946	9443	order	                                              Primates
+95	19	0	353	1	0.0002897	376913	suborder	                                                Haplorrhini
+95	19	0	352	1	0.0002996	314293	infraorder	                                                  Simiiformes
+95	19	0	338	1	0.0005025	9526	parvorder	                                                    Catarrhini
+75	15	0	303	1	0.00217	314295	superfamily	                                                      Hominoidea
+70	14	0	285	1	0.004011	9604	family	                                                        Hominidae
+70	14	1	276	1	0.005487	207598	subfamily	                                                          Homininae
+65	13	6	245	1	0.0151	9605	genus	                                                            Homo
+35	7	4	81	1	0.009345	9606	species	                                                              Homo sapiens
+15	3	3	28	1	0.01531	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5	1	1	4	1	6.006e-05	9577	family	                                                        Hylobatidae
+20	4	0	24	1	4.556e-05	314294	superfamily	                                                      Cercopithecoidea
+20	4	0	24	1	4.556e-05	9527	family	                                                        Cercopithecidae
+15	3	1	13	1	4.216e-05	9528	subfamily	                                                          Cercopithecinae
+5	1	1	6	1	5.683e-05	9539	genus	                                                            Macaca
+5	1	0	1	1	0.0001011	9537	genus	                                                            Erythrocebus
+5	1	1	1	1	0.0001011	9538	species	                                                              Erythrocebus patas
+5	1	0	11	1	5.291e-05	9569	subfamily	                                                          Colobinae
+5	1	0	9	1	0.0004182	54132	genus	                                                            Pygathrix
+5	1	1	9	1	0.001244	310352	species	                                                              Pygathrix nigripes

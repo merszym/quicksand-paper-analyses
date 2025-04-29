@@ -1,0 +1,49 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:59Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/8e/edef43304581714b8f11e7298cd160
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl20_rep86_simadna_neanderthals.kraken.report --output output.kraken rl20_rep86_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+15	3	3	304	1	NA	0	no rank	unclassified
+85	17	0	388	1	3.158e-05	1	no rank	root
+85	17	0	388	1	3.158e-05	131567	no rank	  cellular organisms
+85	17	0	388	1	3.158e-05	2759	superkingdom	    Eukaryota
+85	17	0	388	1	3.158e-05	33154	clade	      Opisthokonta
+85	17	0	388	1	3.158e-05	33208	kingdom	        Metazoa
+85	17	0	388	1	3.158e-05	6072	clade	          Eumetazoa
+85	17	0	388	1	3.158e-05	33213	clade	            Bilateria
+85	17	0	388	1	3.158e-05	33511	clade	              Deuterostomia
+85	17	0	388	1	3.158e-05	7711	phylum	                Chordata
+85	17	0	388	1	3.158e-05	89593	subphylum	                  Craniata
+85	17	0	388	1	3.158e-05	7742	clade	                    Vertebrata
+85	17	0	388	1	3.158e-05	7776	clade	                      Gnathostomata
+85	17	0	388	1	3.158e-05	117570	clade	                        Teleostomi
+85	17	0	388	1	3.158e-05	117571	clade	                          Euteleostomi
+85	17	0	388	1	3.158e-05	8287	superclass	                            Sarcopterygii
+85	17	0	388	1	3.158e-05	1338369	clade	                              Dipnotetrapodomorpha
+85	17	0	388	1	3.158e-05	32523	clade	                                Tetrapoda
+85	17	0	388	1	3.158e-05	32524	clade	                                  Amniota
+85	17	0	388	1	3.158e-05	40674	class	                                    Mammalia
+85	17	0	388	1	3.17e-05	32525	clade	                                      Theria
+85	17	0	386	1	3.324e-05	9347	clade	                                        Eutheria
+85	17	0	363	1	3.344e-05	1437010	clade	                                          Boreoeutheria
+85	17	0	323	1	6.144e-05	314146	superorder	                                            Euarchontoglires
+75	15	0	290	1	0.000159	9443	order	                                              Primates
+75	15	0	290	1	0.000238	376913	suborder	                                                Haplorrhini
+75	15	1	290	1	0.0002468	314293	infraorder	                                                  Simiiformes
+70	14	0	288	1	0.0004281	9526	parvorder	                                                    Catarrhini
+70	14	0	288	1	0.002063	314295	superfamily	                                                      Hominoidea
+70	14	0	287	1	0.00404	9604	family	                                                        Hominidae
+70	14	1	285	1	0.005666	207598	subfamily	                                                          Homininae
+65	13	3	239	1	0.01473	9605	genus	                                                            Homo
+50	10	4	154	1	0.01777	9606	species	                                                              Homo sapiens
+30	6	6	68	1	0.03718	63221	subspecies	                                                                Homo sapiens neanderthalensis
+10	2	0	6	1	1.832e-06	314147	clade	                                              Glires
+10	2	0	6	1	1.958e-06	9989	order	                                                Rodentia
+5	1	0	5	1	1.185e-05	33550	suborder	                                                  Hystricomorpha
+5	1	0	5	1	2.193e-05	10161	family	                                                    Echimyidae
+5	1	0	5	1	3.219e-05	10162	genus	                                                      Proechimys
+5	1	1	4	1	0.0005276	34837	species	                                                        Proechimys longicaudatus
+5	1	0	1	1	5.36e-07	1963758	suborder	                                                  Myomorpha
+5	1	0	1	1	5.67e-07	337687	clade	                                                    Muroidea
+5	1	0	1	1	1.043e-06	10066	family	                                                      Muridae
+5	1	0	1	1	1.149e-06	39107	subfamily	                                                        Murinae
+5	1	0	1	1	6.711e-05	41266	genus	                                                          Leopoldamys
+5	1	1	1	1	0.0001409	69073	species	                                                            Leopoldamys sabanus

@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:03Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/16/3c8f0ab8b70a404c8bb8269482bbff
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl15_rep96_simadna_neanderthals.kraken.report --output output.kraken rl15_rep96_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+13.33	2	2	203	1	NA	0	no rank	unclassified
+86.67	13	0	196	1.01	1.595e-05	1	no rank	root
+86.67	13	0	196	1.01	1.595e-05	131567	no rank	  cellular organisms
+86.67	13	0	196	1.01	1.595e-05	2759	superkingdom	    Eukaryota
+86.67	13	0	196	1.01	1.595e-05	33154	clade	      Opisthokonta
+86.67	13	0	196	1.01	1.595e-05	33208	kingdom	        Metazoa
+86.67	13	0	196	1.01	1.595e-05	6072	clade	          Eumetazoa
+86.67	13	0	196	1.01	1.595e-05	33213	clade	            Bilateria
+86.67	13	0	196	1.01	1.595e-05	33511	clade	              Deuterostomia
+86.67	13	0	196	1.01	1.595e-05	7711	phylum	                Chordata
+86.67	13	0	196	1.01	1.595e-05	89593	subphylum	                  Craniata
+86.67	13	0	196	1.01	1.595e-05	7742	clade	                    Vertebrata
+86.67	13	0	196	1.01	1.595e-05	7776	clade	                      Gnathostomata
+86.67	13	0	196	1.01	1.595e-05	117570	clade	                        Teleostomi
+86.67	13	0	196	1.01	1.595e-05	117571	clade	                          Euteleostomi
+86.67	13	0	196	1.01	1.595e-05	8287	superclass	                            Sarcopterygii
+86.67	13	0	196	1.01	1.595e-05	1338369	clade	                              Dipnotetrapodomorpha
+86.67	13	0	196	1.01	1.595e-05	32523	clade	                                Tetrapoda
+86.67	13	0	196	1.01	1.595e-05	32524	clade	                                  Amniota
+86.67	13	0	196	1.01	1.595e-05	40674	class	                                    Mammalia
+86.67	13	0	196	1.01	1.601e-05	32525	clade	                                      Theria
+86.67	13	0	185	1.01	1.593e-05	9347	clade	                                        Eutheria
+86.67	13	1	164	1.01	1.511e-05	1437010	clade	                                          Boreoeutheria
+80	12	1	150	1.01	2.853e-05	314146	superorder	                                            Euarchontoglires
+66.67	10	0	142	1.01	7.784e-05	9443	order	                                              Primates
+66.67	10	0	141	1.01	0.0001157	376913	suborder	                                                Haplorrhini
+66.67	10	0	141	1.01	0.00012	314293	infraorder	                                                  Simiiformes
+66.67	10	1	141	1.01	0.0002096	9526	parvorder	                                                    Catarrhini
+60	9	0	134	1.01	0.0009597	314295	superfamily	                                                      Hominoidea
+60	9	0	125	1.02	0.001759	9604	family	                                                        Hominidae
+60	9	0	125	1.02	0.002485	207598	subfamily	                                                          Homininae
+60	9	5	114	1.02	0.007025	9605	genus	                                                            Homo
+26.67	4	2	37	1	0.004269	9606	species	                                                              Homo sapiens
+13.33	2	2	22	1	0.01203	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.667	1	0	2	1	6.106e-07	314147	clade	                                              Glires
+6.667	1	0	2	1	6.527e-07	9989	order	                                                Rodentia
+6.667	1	0	2	1	2.965e-05	1963757	suborder	                                                  Castorimorpha
+6.667	1	0	2	1	5.747e-05	10015	family	                                                    Heteromyidae
+6.667	1	0	2	1	0.0001571	38663	subfamily	                                                      Perognathinae
+6.667	1	0	2	1	0.0001571	38664	genus	                                                        Chaetodipus
+6.667	1	1	2	1	0.0001571	38672	species	                                                          Chaetodipus penicillatus

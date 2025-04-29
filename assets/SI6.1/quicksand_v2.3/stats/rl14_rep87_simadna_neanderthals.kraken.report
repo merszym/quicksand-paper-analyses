@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:57Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/18/b424e30aaab7f8697c68a9974ae453
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl14_rep87_simadna_neanderthals.kraken.report --output output.kraken rl14_rep87_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	14	0	262	1.02	2.133e-05	1	no rank	root
+100	14	0	262	1.02	2.133e-05	131567	no rank	  cellular organisms
+100	14	0	262	1.02	2.133e-05	2759	superkingdom	    Eukaryota
+100	14	0	262	1.02	2.133e-05	33154	clade	      Opisthokonta
+100	14	0	262	1.02	2.133e-05	33208	kingdom	        Metazoa
+100	14	0	262	1.02	2.133e-05	6072	clade	          Eumetazoa
+100	14	0	262	1.02	2.133e-05	33213	clade	            Bilateria
+100	14	0	262	1.02	2.133e-05	33511	clade	              Deuterostomia
+100	14	0	262	1.02	2.133e-05	7711	phylum	                Chordata
+100	14	0	262	1.02	2.133e-05	89593	subphylum	                  Craniata
+100	14	0	262	1.02	2.133e-05	7742	clade	                    Vertebrata
+100	14	0	262	1.02	2.133e-05	7776	clade	                      Gnathostomata
+100	14	0	262	1.02	2.133e-05	117570	clade	                        Teleostomi
+100	14	0	262	1.02	2.133e-05	117571	clade	                          Euteleostomi
+100	14	0	262	1.02	2.133e-05	8287	superclass	                            Sarcopterygii
+100	14	0	262	1.02	2.133e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	14	0	262	1.02	2.133e-05	32523	clade	                                Tetrapoda
+100	14	0	262	1.02	2.133e-05	32524	clade	                                  Amniota
+100	14	0	262	1.02	2.133e-05	40674	class	                                    Mammalia
+100	14	0	258	1.02	2.108e-05	32525	clade	                                      Theria
+100	14	0	238	1.02	2.05e-05	9347	clade	                                        Eutheria
+100	14	0	220	1.02	2.027e-05	1437010	clade	                                          Boreoeutheria
+92.86	13	0	186	1.02	3.538e-05	314146	superorder	                                            Euarchontoglires
+92.86	13	0	179	1.02	9.812e-05	9443	order	                                              Primates
+92.86	13	0	179	1.02	0.0001469	376913	suborder	                                                Haplorrhini
+92.86	13	2	179	1.02	0.0001524	314293	infraorder	                                                  Simiiformes
+78.57	11	1	164	1.02	0.0002438	9526	parvorder	                                                    Catarrhini
+71.43	10	1	149	1.03	0.001067	314295	superfamily	                                                      Hominoidea
+57.14	8	0	125	1	0.001759	9604	family	                                                        Hominidae
+50	7	1	124	1	0.002465	207598	subfamily	                                                          Homininae
+42.86	6	2	87	1	0.005361	9605	genus	                                                            Homo
+28.57	4	1	48	1	0.005538	9606	species	                                                              Homo sapiens
+21.43	3	3	26	1	0.01422	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.143	1	0	1	1	5.024e-05	607660	subfamily	                                                          Ponginae
+7.143	1	0	1	1	5.024e-05	9599	genus	                                                            Pongo
+7.143	1	1	1	1	0.0001108	9601	species	                                                              Pongo abelii
+7.143	1	0	9	1.44	0.0001351	9577	family	                                                        Hylobatidae
+7.143	1	1	9	1.44	0.0006191	325167	genus	                                                          Hoolock
+7.143	1	0	1	1	1.937e-07	314145	superorder	                                            Laurasiatheria
+7.143	1	0	1	1	6.828e-07	9397	order	                                              Chiroptera
+7.143	1	0	1	1	8.816e-07	30560	suborder	                                                Microchiroptera
+7.143	1	0	1	1	2.041e-06	9431	family	                                                  Vespertilionidae
+7.143	1	1	1	1	4.311e-05	51299	genus	                                                    Nyctalus

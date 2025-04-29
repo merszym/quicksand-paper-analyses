@@ -1,0 +1,52 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:34Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/65/2cb665cd19e5eeeb5dd8f8c5a09fd0
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl18_rep82_simadna_neanderthals.kraken.report --output output.kraken rl18_rep82_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+22.22	4	4	232	1	NA	0	no rank	unclassified
+77.78	14	0	269	1	2.19e-05	1	no rank	root
+77.78	14	0	269	1	2.19e-05	131567	no rank	  cellular organisms
+77.78	14	0	269	1	2.19e-05	2759	superkingdom	    Eukaryota
+77.78	14	0	269	1	2.19e-05	33154	clade	      Opisthokonta
+77.78	14	0	269	1	2.19e-05	33208	kingdom	        Metazoa
+77.78	14	0	269	1	2.19e-05	6072	clade	          Eumetazoa
+77.78	14	0	269	1	2.19e-05	33213	clade	            Bilateria
+77.78	14	0	269	1	2.19e-05	33511	clade	              Deuterostomia
+77.78	14	0	269	1	2.19e-05	7711	phylum	                Chordata
+77.78	14	0	269	1	2.19e-05	89593	subphylum	                  Craniata
+77.78	14	0	269	1	2.19e-05	7742	clade	                    Vertebrata
+77.78	14	0	269	1	2.19e-05	7776	clade	                      Gnathostomata
+77.78	14	0	269	1	2.19e-05	117570	clade	                        Teleostomi
+77.78	14	0	269	1	2.19e-05	117571	clade	                          Euteleostomi
+77.78	14	0	269	1	2.19e-05	8287	superclass	                            Sarcopterygii
+77.78	14	0	269	1	2.19e-05	1338369	clade	                              Dipnotetrapodomorpha
+77.78	14	0	269	1	2.19e-05	32523	clade	                                Tetrapoda
+77.78	14	0	269	1	2.19e-05	32524	clade	                                  Amniota
+77.78	14	0	269	1	2.19e-05	40674	class	                                    Mammalia
+77.78	14	0	269	1	2.197e-05	32525	clade	                                      Theria
+77.78	14	1	258	1	2.222e-05	9347	clade	                                        Eutheria
+72.22	13	0	233	1	2.146e-05	1437010	clade	                                          Boreoeutheria
+66.67	12	0	216	1	4.109e-05	314146	superorder	                                            Euarchontoglires
+61.11	11	0	209	1	0.0001146	9443	order	                                              Primates
+61.11	11	0	209	1	0.0001715	376913	suborder	                                                Haplorrhini
+61.11	11	0	209	1	0.0001779	314293	infraorder	                                                  Simiiformes
+61.11	11	1	209	1	0.0003107	9526	parvorder	                                                    Catarrhini
+55.56	10	0	202	1	0.001447	314295	superfamily	                                                      Hominoidea
+55.56	10	0	198	1	0.002787	9604	family	                                                        Hominidae
+55.56	10	2	190	1	0.003777	207598	subfamily	                                                          Homininae
+44.44	8	2	162	1	0.009983	9605	genus	                                                            Homo
+33.33	6	3	56	1	0.006461	9606	species	                                                              Homo sapiens
+16.67	3	3	39	1	0.02132	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.556	1	0	2	1	6.106e-07	314147	clade	                                              Glires
+5.556	1	0	2	1	6.527e-07	9989	order	                                                Rodentia
+5.556	1	0	2	1	3.339e-06	33553	suborder	                                                  Sciuromorpha
+5.556	1	0	2	1	3.541e-06	55153	family	                                                    Sciuridae
+5.556	1	0	2	1	1.298e-05	337724	subfamily	                                                      Callosciurinae
+5.556	1	0	2	1	1.298e-05	337736	tribe	                                                        Callosciurini
+5.556	1	0	2	1	4.529e-05	64663	genus	                                                          Callosciurus
+5.556	1	1	2	1	0.0002341	64676	species	                                                            Callosciurus prevostii
+5.556	1	0	4	1	7.749e-07	314145	superorder	                                            Laurasiatheria
+5.556	1	0	1	1	6.828e-07	9397	order	                                              Chiroptera
+5.556	1	0	1	1	3.129e-06	30559	suborder	                                                Megachiroptera
+5.556	1	0	1	1	3.129e-06	9398	family	                                                  Pteropodidae
+5.556	1	0	1	1	4.568e-06	77225	subfamily	                                                    Pteropodinae
+5.556	1	0	1	1	2.281e-05	9406	genus	                                                      Rousettus
+5.556	1	1	1	1	0.000191	77223	species	                                                        Rousettus madagascariensis

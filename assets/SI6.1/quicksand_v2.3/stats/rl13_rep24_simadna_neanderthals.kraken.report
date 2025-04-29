@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:36Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/18/a18f63b637bfc62447c43ab115e908
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl13_rep24_simadna_neanderthals.kraken.report --output output.kraken rl13_rep24_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+23.08	3	3	177	1.01	NA	0	no rank	unclassified
+76.92	10	0	129	1.01	1.05e-05	1	no rank	root
+76.92	10	0	129	1.01	1.05e-05	131567	no rank	  cellular organisms
+76.92	10	0	129	1.01	1.05e-05	2759	superkingdom	    Eukaryota
+76.92	10	0	129	1.01	1.05e-05	33154	clade	      Opisthokonta
+76.92	10	0	129	1.01	1.05e-05	33208	kingdom	        Metazoa
+76.92	10	0	129	1.01	1.05e-05	6072	clade	          Eumetazoa
+76.92	10	0	129	1.01	1.05e-05	33213	clade	            Bilateria
+76.92	10	0	129	1.01	1.05e-05	33511	clade	              Deuterostomia
+76.92	10	0	129	1.01	1.05e-05	7711	phylum	                Chordata
+76.92	10	0	129	1.01	1.05e-05	89593	subphylum	                  Craniata
+76.92	10	0	129	1.01	1.05e-05	7742	clade	                    Vertebrata
+76.92	10	0	129	1.01	1.05e-05	7776	clade	                      Gnathostomata
+76.92	10	0	129	1.01	1.05e-05	117570	clade	                        Teleostomi
+76.92	10	0	129	1.01	1.05e-05	117571	clade	                          Euteleostomi
+76.92	10	0	129	1.01	1.05e-05	8287	superclass	                            Sarcopterygii
+76.92	10	0	129	1.01	1.05e-05	1338369	clade	                              Dipnotetrapodomorpha
+76.92	10	0	129	1.01	1.05e-05	32523	clade	                                Tetrapoda
+76.92	10	0	129	1.01	1.05e-05	32524	clade	                                  Amniota
+76.92	10	0	129	1.01	1.05e-05	40674	class	                                    Mammalia
+76.92	10	0	129	1.01	1.054e-05	32525	clade	                                      Theria
+76.92	10	0	126	1.01	1.085e-05	9347	clade	                                        Eutheria
+76.92	10	0	124	1.01	1.142e-05	1437010	clade	                                          Boreoeutheria
+76.92	10	0	121	1.01	2.302e-05	314146	superorder	                                            Euarchontoglires
+69.23	9	0	119	1.01	6.523e-05	9443	order	                                              Primates
+69.23	9	0	119	1.01	9.768e-05	376913	suborder	                                                Haplorrhini
+69.23	9	0	119	1.01	0.0001013	314293	infraorder	                                                  Simiiformes
+69.23	9	0	119	1.01	0.0001769	9526	parvorder	                                                    Catarrhini
+69.23	9	0	107	1.01	0.0007663	314295	superfamily	                                                      Hominoidea
+69.23	9	0	102	1.01	0.001436	9604	family	                                                        Hominidae
+69.23	9	1	100	1.01	0.001988	207598	subfamily	                                                          Homininae
+61.54	8	2	77	1.01	0.004745	9605	genus	                                                            Homo
+46.15	6	2	32	1.03	0.003692	9606	species	                                                              Homo sapiens
+30.77	4	4	16	1.06	0.008748	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.692	1	0	2	1	6.106e-07	314147	clade	                                              Glires
+7.692	1	0	2	1	6.527e-07	9989	order	                                                Rodentia
+7.692	1	0	2	1	1.072e-06	1963758	suborder	                                                  Myomorpha
+7.692	1	0	2	1	1.134e-06	337687	clade	                                                    Muroidea
+7.692	1	0	2	1	3.23e-06	337677	family	                                                      Cricetidae
+7.692	1	0	2	1	1.19e-05	337963	subfamily	                                                        Neotominae
+7.692	1	0	2	1	2.76e-05	10040	genus	                                                          Peromyscus
+7.692	1	1	2	1	0.0002949	322709	species	                                                            Peromyscus megalops

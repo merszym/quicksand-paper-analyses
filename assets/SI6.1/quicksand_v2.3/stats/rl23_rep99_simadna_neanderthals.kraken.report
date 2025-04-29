@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:09Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/a2/7d7d9d234d8c95915db247f5828e72
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl23_rep99_simadna_neanderthals.kraken.report --output output.kraken rl23_rep99_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	23	0	386	1.07	3.142e-05	1	no rank	root
+100	23	0	386	1.07	3.142e-05	131567	no rank	  cellular organisms
+100	23	0	386	1.07	3.142e-05	2759	superkingdom	    Eukaryota
+100	23	0	386	1.07	3.142e-05	33154	clade	      Opisthokonta
+100	23	0	386	1.07	3.142e-05	33208	kingdom	        Metazoa
+100	23	0	386	1.07	3.142e-05	6072	clade	          Eumetazoa
+100	23	0	386	1.07	3.142e-05	33213	clade	            Bilateria
+100	23	0	386	1.07	3.142e-05	33511	clade	              Deuterostomia
+100	23	0	386	1.07	3.142e-05	7711	phylum	                Chordata
+100	23	0	386	1.07	3.142e-05	89593	subphylum	                  Craniata
+100	23	0	386	1.07	3.142e-05	7742	clade	                    Vertebrata
+100	23	0	386	1.07	3.142e-05	7776	clade	                      Gnathostomata
+100	23	0	386	1.07	3.142e-05	117570	clade	                        Teleostomi
+100	23	0	386	1.07	3.142e-05	117571	clade	                          Euteleostomi
+100	23	0	386	1.07	3.142e-05	8287	superclass	                            Sarcopterygii
+100	23	0	386	1.07	3.142e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	23	0	386	1.07	3.142e-05	32523	clade	                                Tetrapoda
+100	23	0	386	1.07	3.142e-05	32524	clade	                                  Amniota
+100	23	1	386	1.07	3.142e-05	40674	class	                                    Mammalia
+95.65	22	0	379	1.07	3.096e-05	32525	clade	                                      Theria
+95.65	22	0	368	1.07	3.169e-05	9347	clade	                                        Eutheria
+91.3	21	2	349	1.05	3.215e-05	1437010	clade	                                          Boreoeutheria
+82.61	19	0	285	1.03	5.421e-05	314146	superorder	                                            Euarchontoglires
+82.61	19	0	273	1.03	0.0001496	9443	order	                                              Primates
+82.61	19	0	269	1.02	0.0002208	376913	suborder	                                                Haplorrhini
+82.61	19	0	269	1.02	0.000229	314293	infraorder	                                                  Simiiformes
+82.61	19	2	262	1.02	0.0003895	9526	parvorder	                                                    Catarrhini
+69.57	16	0	211	1.03	0.001511	314295	superfamily	                                                      Hominoidea
+69.57	16	0	195	1.03	0.002745	9604	family	                                                        Hominidae
+69.57	16	1	193	1.03	0.003837	207598	subfamily	                                                          Homininae
+65.22	15	7	121	1.05	0.007456	9605	genus	                                                            Homo
+34.78	8	5	39	1.13	0.004499	9606	species	                                                              Homo sapiens
+13.04	3	3	6	1.17	0.00328	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.348	1	0	8	1	1.519e-05	314294	superfamily	                                                      Cercopithecoidea
+4.348	1	0	8	1	1.519e-05	9527	family	                                                        Cercopithecidae
+4.348	1	1	6	1	2.886e-05	9569	subfamily	                                                          Colobinae
+4.348	1	0	1	1	3.491e-06	311790	superorder	                                          Afrotheria
+4.348	1	0	1	1	7.112e-06	28734	order	                                            Macroscelidea
+4.348	1	0	1	1	7.112e-06	28735	family	                                              Macroscelididae
+4.348	1	0	1	1	5.181e-05	151030	genus	                                                Rhynchocyon
+4.348	1	1	1	1	0.0001172	3036954	species	                                                  Rhynchocyon stuhlmanni

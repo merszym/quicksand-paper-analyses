@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:27Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/5f/49989c704ffea46afd1c5e747e910f
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl16_rep47_simadna_neanderthals.kraken.report --output output.kraken rl16_rep47_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+18.75	3	3	228	1	NA	0	no rank	unclassified
+81.25	13	0	178	1	1.449e-05	1	no rank	root
+81.25	13	0	178	1	1.449e-05	131567	no rank	  cellular organisms
+81.25	13	0	178	1	1.449e-05	2759	superkingdom	    Eukaryota
+81.25	13	0	178	1	1.449e-05	33154	clade	      Opisthokonta
+81.25	13	0	178	1	1.449e-05	33208	kingdom	        Metazoa
+81.25	13	0	178	1	1.449e-05	6072	clade	          Eumetazoa
+81.25	13	0	178	1	1.449e-05	33213	clade	            Bilateria
+81.25	13	0	178	1	1.449e-05	33511	clade	              Deuterostomia
+81.25	13	0	178	1	1.449e-05	7711	phylum	                Chordata
+81.25	13	0	178	1	1.449e-05	89593	subphylum	                  Craniata
+81.25	13	0	178	1	1.449e-05	7742	clade	                    Vertebrata
+81.25	13	0	178	1	1.449e-05	7776	clade	                      Gnathostomata
+81.25	13	0	178	1	1.449e-05	117570	clade	                        Teleostomi
+81.25	13	0	178	1	1.449e-05	117571	clade	                          Euteleostomi
+81.25	13	0	178	1	1.449e-05	8287	superclass	                            Sarcopterygii
+81.25	13	0	178	1	1.449e-05	1338369	clade	                              Dipnotetrapodomorpha
+81.25	13	0	178	1	1.449e-05	32523	clade	                                Tetrapoda
+81.25	13	0	178	1	1.449e-05	32524	clade	                                  Amniota
+81.25	13	0	178	1	1.449e-05	40674	class	                                    Mammalia
+81.25	13	1	178	1	1.454e-05	32525	clade	                                      Theria
+75	12	0	161	1	1.386e-05	9347	clade	                                        Eutheria
+75	12	1	158	1	1.456e-05	1437010	clade	                                          Boreoeutheria
+68.75	11	0	140	1	2.663e-05	314146	superorder	                                            Euarchontoglires
+68.75	11	0	124	1	6.797e-05	9443	order	                                              Primates
+68.75	11	0	117	1	9.603e-05	376913	suborder	                                                Haplorrhini
+68.75	11	1	117	1	9.959e-05	314293	infraorder	                                                  Simiiformes
+62.5	10	0	108	1	0.0001605	9526	parvorder	                                                    Catarrhini
+50	8	0	88	1	0.0006302	314295	superfamily	                                                      Hominoidea
+50	8	0	84	1	0.001182	9604	family	                                                        Hominidae
+50	8	3	84	1	0.00167	207598	subfamily	                                                          Homininae
+25	4	2	36	1	0.002218	9605	genus	                                                            Homo
+12.5	2	1	23	1	0.002653	9606	species	                                                              Homo sapiens
+6.25	1	1	18	1	0.009841	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.25	1	0	1	1	6.818e-05	9596	genus	                                                            Pan
+6.25	1	1	1	1	0.0001636	9598	species	                                                              Pan troglodytes
+12.5	2	0	11	1	2.088e-05	314294	superfamily	                                                      Cercopithecoidea
+12.5	2	0	11	1	2.088e-05	9527	family	                                                        Cercopithecidae
+12.5	2	0	11	1	5.291e-05	9569	subfamily	                                                          Colobinae
+6.25	1	0	10	1	0.000132	54136	genus	                                                            Trachypithecus
+6.25	1	1	10	1	0.002977	465719	species	                                                              Trachypithecus poliocephalus
+6.25	1	1	1	1	3.27e-05	542827	genus	                                                            Rhinopithecus

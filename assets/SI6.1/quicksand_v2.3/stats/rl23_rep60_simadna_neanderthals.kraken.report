@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:47Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/00/2c95b3bcb2c56bd8019b024a8f411d
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl23_rep60_simadna_neanderthals.kraken.report --output output.kraken rl23_rep60_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+13.04	3	3	261	1.02	NA	0	no rank	unclassified
+86.96	20	0	395	1.05	3.215e-05	1	no rank	root
+86.96	20	0	395	1.05	3.215e-05	131567	no rank	  cellular organisms
+86.96	20	0	395	1.05	3.215e-05	2759	superkingdom	    Eukaryota
+86.96	20	0	395	1.05	3.215e-05	33154	clade	      Opisthokonta
+86.96	20	0	395	1.05	3.215e-05	33208	kingdom	        Metazoa
+86.96	20	0	395	1.05	3.215e-05	6072	clade	          Eumetazoa
+86.96	20	0	395	1.05	3.215e-05	33213	clade	            Bilateria
+86.96	20	0	395	1.05	3.215e-05	33511	clade	              Deuterostomia
+86.96	20	0	395	1.05	3.215e-05	7711	phylum	                Chordata
+86.96	20	0	395	1.05	3.215e-05	89593	subphylum	                  Craniata
+86.96	20	0	395	1.05	3.215e-05	7742	clade	                    Vertebrata
+86.96	20	0	395	1.05	3.215e-05	7776	clade	                      Gnathostomata
+86.96	20	0	395	1.05	3.215e-05	117570	clade	                        Teleostomi
+86.96	20	0	395	1.05	3.215e-05	117571	clade	                          Euteleostomi
+86.96	20	0	395	1.05	3.215e-05	8287	superclass	                            Sarcopterygii
+86.96	20	0	395	1.05	3.215e-05	1338369	clade	                              Dipnotetrapodomorpha
+86.96	20	0	395	1.05	3.215e-05	32523	clade	                                Tetrapoda
+86.96	20	0	395	1.05	3.215e-05	32524	clade	                                  Amniota
+86.96	20	0	395	1.05	3.215e-05	40674	class	                                    Mammalia
+86.96	20	0	394	1.05	3.219e-05	32525	clade	                                      Theria
+86.96	20	0	370	1.05	3.186e-05	9347	clade	                                        Eutheria
+86.96	20	1	355	1.05	3.27e-05	1437010	clade	                                          Boreoeutheria
+78.26	18	0	318	1.06	6.049e-05	314146	superorder	                                            Euarchontoglires
+78.26	18	0	305	1.06	0.0001672	9443	order	                                              Primates
+78.26	18	0	303	1.06	0.0002487	376913	suborder	                                                Haplorrhini
+78.26	18	2	303	1.06	0.0002579	314293	infraorder	                                                  Simiiformes
+69.57	16	0	290	1.07	0.0004311	9526	parvorder	                                                    Catarrhini
+65.22	15	0	268	1.07	0.001919	314295	superfamily	                                                      Hominoidea
+65.22	15	0	266	1.07	0.003744	9604	family	                                                        Hominidae
+65.22	15	0	266	1.07	0.005288	207598	subfamily	                                                          Homininae
+65.22	15	6	233	1.08	0.01436	9605	genus	                                                            Homo
+39.13	9	3	84	1.1	0.009691	9606	species	                                                              Homo sapiens
+21.74	5	5	39	1.21	0.02132	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.348	1	1	4	1	0.001535	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4.348	1	0	8	1	1.519e-05	314294	superfamily	                                                      Cercopithecoidea
+4.348	1	0	8	1	1.519e-05	9527	family	                                                        Cercopithecidae
+4.348	1	0	1	1	4.81e-06	9569	subfamily	                                                          Colobinae
+4.348	1	1	1	1	1.32e-05	54136	genus	                                                            Trachypithecus
+4.348	1	0	1	1	1.937e-07	314145	superorder	                                            Laurasiatheria
+4.348	1	0	1	1	1.275e-05	9971	order	                                              Pholidota
+4.348	1	0	1	1	1.275e-05	9972	family	                                                Manidae
+4.348	1	1	1	1	4.987e-05	2736678	genus	                                                  Phataginus

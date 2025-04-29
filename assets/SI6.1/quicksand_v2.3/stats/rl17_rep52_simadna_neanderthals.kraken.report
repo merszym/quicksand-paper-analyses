@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:49Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/74/1ba7b25f18a1853813e1e0784d32f1
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep52_simadna_neanderthals.kraken.report --output output.kraken rl17_rep52_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+5.882	1	1	230	1	NA	0	no rank	unclassified
+94.12	16	0	277	1.08	2.255e-05	1	no rank	root
+94.12	16	0	277	1.08	2.255e-05	131567	no rank	  cellular organisms
+94.12	16	0	277	1.08	2.255e-05	2759	superkingdom	    Eukaryota
+94.12	16	0	277	1.08	2.255e-05	33154	clade	      Opisthokonta
+94.12	16	0	277	1.08	2.255e-05	33208	kingdom	        Metazoa
+94.12	16	0	277	1.08	2.255e-05	6072	clade	          Eumetazoa
+94.12	16	0	277	1.08	2.255e-05	33213	clade	            Bilateria
+94.12	16	0	277	1.08	2.255e-05	33511	clade	              Deuterostomia
+94.12	16	0	277	1.08	2.255e-05	7711	phylum	                Chordata
+94.12	16	0	277	1.08	2.255e-05	89593	subphylum	                  Craniata
+94.12	16	0	277	1.08	2.255e-05	7742	clade	                    Vertebrata
+94.12	16	0	277	1.08	2.255e-05	7776	clade	                      Gnathostomata
+94.12	16	0	277	1.08	2.255e-05	117570	clade	                        Teleostomi
+94.12	16	0	277	1.08	2.255e-05	117571	clade	                          Euteleostomi
+94.12	16	0	277	1.08	2.255e-05	8287	superclass	                            Sarcopterygii
+94.12	16	0	277	1.08	2.255e-05	1338369	clade	                              Dipnotetrapodomorpha
+94.12	16	0	277	1.08	2.255e-05	32523	clade	                                Tetrapoda
+94.12	16	0	277	1.08	2.255e-05	32524	clade	                                  Amniota
+94.12	16	0	277	1.08	2.255e-05	40674	class	                                    Mammalia
+94.12	16	1	277	1.08	2.263e-05	32525	clade	                                      Theria
+88.24	15	0	274	1.08	2.36e-05	9347	clade	                                        Eutheria
+88.24	15	0	273	1.08	2.515e-05	1437010	clade	                                          Boreoeutheria
+88.24	15	0	269	1.09	5.117e-05	314146	superorder	                                            Euarchontoglires
+88.24	15	0	268	1.09	0.0001469	9443	order	                                              Primates
+88.24	15	0	268	1.09	0.00022	376913	suborder	                                                Haplorrhini
+88.24	15	0	268	1.09	0.0002281	314293	infraorder	                                                  Simiiformes
+88.24	15	1	255	1.09	0.0003791	9526	parvorder	                                                    Catarrhini
+76.47	13	0	251	1.09	0.001798	314295	superfamily	                                                      Hominoidea
+76.47	13	0	233	1.1	0.003279	9604	family	                                                        Hominidae
+76.47	13	1	233	1.1	0.004632	207598	subfamily	                                                          Homininae
+64.71	11	5	168	1.08	0.01035	9605	genus	                                                            Homo
+35.29	6	5	77	1.13	0.008883	9606	species	                                                              Homo sapiens
+5.882	1	1	2	1	0.001093	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.882	1	0	6	1	0.0004091	9596	genus	                                                            Pan
+5.882	1	1	6	1	0.0009817	9598	species	                                                              Pan troglodytes
+5.882	1	0	1	1	1.898e-06	314294	superfamily	                                                      Cercopithecoidea
+5.882	1	0	1	1	1.898e-06	9527	family	                                                        Cercopithecidae
+5.882	1	0	1	1	3.243e-06	9528	subfamily	                                                          Cercopithecinae
+5.882	1	0	1	1	3.542e-05	9554	genus	                                                            Papio
+5.882	1	1	1	1	0.0002351	36229	species	                                                              Papio ursinus

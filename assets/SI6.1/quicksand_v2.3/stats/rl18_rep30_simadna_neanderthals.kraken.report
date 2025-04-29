@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:18Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ca/edef34a16e5232a6361c2b6ceed035
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl18_rep30_simadna_neanderthals.kraken.report --output output.kraken rl18_rep30_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+11.11	2	2	339	1	NA	0	no rank	unclassified
+88.89	16	0	316	1	2.572e-05	1	no rank	root
+88.89	16	0	316	1	2.572e-05	131567	no rank	  cellular organisms
+88.89	16	0	316	1	2.572e-05	2759	superkingdom	    Eukaryota
+88.89	16	0	316	1	2.572e-05	33154	clade	      Opisthokonta
+88.89	16	0	316	1	2.572e-05	33208	kingdom	        Metazoa
+88.89	16	0	316	1	2.572e-05	6072	clade	          Eumetazoa
+88.89	16	0	316	1	2.572e-05	33213	clade	            Bilateria
+88.89	16	0	316	1	2.572e-05	33511	clade	              Deuterostomia
+88.89	16	0	316	1	2.572e-05	7711	phylum	                Chordata
+88.89	16	0	316	1	2.572e-05	89593	subphylum	                  Craniata
+88.89	16	0	316	1	2.572e-05	7742	clade	                    Vertebrata
+88.89	16	0	316	1	2.572e-05	7776	clade	                      Gnathostomata
+88.89	16	0	316	1	2.572e-05	117570	clade	                        Teleostomi
+88.89	16	0	316	1	2.572e-05	117571	clade	                          Euteleostomi
+88.89	16	0	316	1	2.572e-05	8287	superclass	                            Sarcopterygii
+88.89	16	0	316	1	2.572e-05	1338369	clade	                              Dipnotetrapodomorpha
+88.89	16	0	316	1	2.572e-05	32523	clade	                                Tetrapoda
+88.89	16	0	316	1	2.572e-05	32524	clade	                                  Amniota
+88.89	16	0	316	1	2.572e-05	40674	class	                                    Mammalia
+88.89	16	0	314	1	2.565e-05	32525	clade	                                      Theria
+88.89	16	0	291	1	2.506e-05	9347	clade	                                        Eutheria
+88.89	16	1	275	1	2.533e-05	1437010	clade	                                          Boreoeutheria
+83.33	15	1	238	1	4.527e-05	314146	superorder	                                            Euarchontoglires
+77.78	14	0	219	1	0.00012	9443	order	                                              Primates
+77.78	14	0	219	1	0.0001798	376913	suborder	                                                Haplorrhini
+77.78	14	0	219	1	0.0001864	314293	infraorder	                                                  Simiiformes
+66.67	12	0	209	1	0.0003107	9526	parvorder	                                                    Catarrhini
+61.11	11	0	195	1	0.001397	314295	superfamily	                                                      Hominoidea
+61.11	11	0	184	1	0.00259	9604	family	                                                        Hominidae
+61.11	11	1	182	1	0.003618	207598	subfamily	                                                          Homininae
+50	9	5	152	1	0.009367	9605	genus	                                                            Homo
+22.22	4	2	48	1	0.005538	9606	species	                                                              Homo sapiens
+11.11	2	2	10	1	0.005467	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.556	1	0	7	1	0.0004773	9596	genus	                                                            Pan
+5.556	1	1	7	1	0.001145	9598	species	                                                              Pan troglodytes
+5.556	1	0	10	1	1.898e-05	314294	superfamily	                                                      Cercopithecoidea
+5.556	1	0	10	1	1.898e-05	9527	family	                                                        Cercopithecidae
+5.556	1	0	9	1	2.919e-05	9528	subfamily	                                                          Cercopithecinae
+5.556	1	0	2	1	0.0002194	75565	genus	                                                            Lophocebus
+5.556	1	1	2	1	0.0002194	75566	species	                                                              Lophocebus aterrimus
+11.11	2	0	10	1	2.02e-05	9479	parvorder	                                                    Platyrrhini
+5.556	1	0	6	1	2.726e-05	9498	family	                                                      Cebidae
+5.556	1	0	4	1	0.0001214	38070	subfamily	                                                        Cebinae
+5.556	1	1	4	1	0.0002663	9513	genus	                                                          Cebus
+5.556	1	0	4	1	0.0001355	376918	family	                                                      Aotidae
+5.556	1	1	4	1	0.0001355	9504	genus	                                                        Aotus

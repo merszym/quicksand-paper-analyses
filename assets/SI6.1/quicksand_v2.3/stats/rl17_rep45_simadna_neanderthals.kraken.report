@@ -1,0 +1,43 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:49Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/26/67362f24aec91d0456a8ea9fd19719
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep45_simadna_neanderthals.kraken.report --output output.kraken rl17_rep45_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+29.41	5	5	206	1	NA	0	no rank	unclassified
+70.59	12	0	231	1.06	1.88e-05	1	no rank	root
+70.59	12	0	231	1.06	1.88e-05	131567	no rank	  cellular organisms
+70.59	12	0	231	1.06	1.88e-05	2759	superkingdom	    Eukaryota
+70.59	12	0	231	1.06	1.88e-05	33154	clade	      Opisthokonta
+70.59	12	0	231	1.06	1.88e-05	33208	kingdom	        Metazoa
+70.59	12	0	231	1.06	1.88e-05	6072	clade	          Eumetazoa
+70.59	12	0	231	1.06	1.88e-05	33213	clade	            Bilateria
+70.59	12	0	231	1.06	1.88e-05	33511	clade	              Deuterostomia
+70.59	12	0	231	1.06	1.88e-05	7711	phylum	                Chordata
+70.59	12	0	231	1.06	1.88e-05	89593	subphylum	                  Craniata
+70.59	12	0	231	1.06	1.88e-05	7742	clade	                    Vertebrata
+70.59	12	0	231	1.06	1.88e-05	7776	clade	                      Gnathostomata
+70.59	12	0	231	1.06	1.88e-05	117570	clade	                        Teleostomi
+70.59	12	0	231	1.06	1.88e-05	117571	clade	                          Euteleostomi
+70.59	12	0	231	1.06	1.88e-05	8287	superclass	                            Sarcopterygii
+70.59	12	0	231	1.06	1.88e-05	1338369	clade	                              Dipnotetrapodomorpha
+70.59	12	0	231	1.06	1.88e-05	32523	clade	                                Tetrapoda
+70.59	12	0	231	1.06	1.88e-05	32524	clade	                                  Amniota
+70.59	12	0	231	1.06	1.88e-05	40674	class	                                    Mammalia
+70.59	12	0	231	1.06	1.887e-05	32525	clade	                                      Theria
+70.59	12	0	222	1.06	1.912e-05	9347	clade	                                        Eutheria
+70.59	12	0	214	1.07	1.971e-05	1437010	clade	                                          Boreoeutheria
+70.59	12	0	180	1.08	3.424e-05	314146	superorder	                                            Euarchontoglires
+70.59	12	1	174	1.08	9.538e-05	9443	order	                                              Primates
+64.71	11	0	171	1.08	0.0001404	376913	suborder	                                                Haplorrhini
+64.71	11	0	171	1.08	0.0001455	314293	infraorder	                                                  Simiiformes
+58.82	10	0	150	1.09	0.000223	9526	parvorder	                                                    Catarrhini
+58.82	10	0	147	1.1	0.001053	314295	superfamily	                                                      Hominoidea
+58.82	10	0	139	1.1	0.001956	9604	family	                                                        Hominidae
+58.82	10	0	135	1.1	0.002684	207598	subfamily	                                                          Homininae
+58.82	10	3	99	1.14	0.006101	9605	genus	                                                            Homo
+41.18	7	4	51	1.02	0.005884	9606	species	                                                              Homo sapiens
+11.76	2	2	20	1	0.01093	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.882	1	1	4	1	0.001535	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+5.882	1	0	10	1	2.02e-05	9479	parvorder	                                                    Platyrrhini
+5.882	1	0	10	1	4.543e-05	9498	family	                                                      Cebidae
+5.882	1	0	6	1	3.781e-05	9480	subfamily	                                                        Callitrichinae
+5.882	1	0	6	1	0.0003629	30587	genus	                                                          Leontopithecus
+5.882	1	1	4	1	0.0006291	30588	species	                                                            Leontopithecus rosalia

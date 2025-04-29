@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:51Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/1a/841bf40cf5924715827e85f576fd3d
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep74_simadna_neanderthals.kraken.report --output output.kraken rl17_rep74_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+11.76	2	2	208	1	NA	0	no rank	unclassified
+88.24	15	0	378	1	3.077e-05	1	no rank	root
+88.24	15	0	378	1	3.077e-05	131567	no rank	  cellular organisms
+88.24	15	0	378	1	3.077e-05	2759	superkingdom	    Eukaryota
+88.24	15	0	378	1	3.077e-05	33154	clade	      Opisthokonta
+88.24	15	0	378	1	3.077e-05	33208	kingdom	        Metazoa
+88.24	15	0	378	1	3.077e-05	6072	clade	          Eumetazoa
+88.24	15	0	378	1	3.077e-05	33213	clade	            Bilateria
+88.24	15	0	378	1	3.077e-05	33511	clade	              Deuterostomia
+88.24	15	0	378	1	3.077e-05	7711	phylum	                Chordata
+88.24	15	0	378	1	3.077e-05	89593	subphylum	                  Craniata
+88.24	15	0	378	1	3.077e-05	7742	clade	                    Vertebrata
+88.24	15	0	378	1	3.077e-05	7776	clade	                      Gnathostomata
+88.24	15	0	378	1	3.077e-05	117570	clade	                        Teleostomi
+88.24	15	0	378	1	3.077e-05	117571	clade	                          Euteleostomi
+88.24	15	0	378	1	3.077e-05	8287	superclass	                            Sarcopterygii
+88.24	15	0	378	1	3.077e-05	1338369	clade	                              Dipnotetrapodomorpha
+88.24	15	0	378	1	3.077e-05	32523	clade	                                Tetrapoda
+88.24	15	0	378	1	3.077e-05	32524	clade	                                  Amniota
+88.24	15	0	378	1	3.077e-05	40674	class	                                    Mammalia
+88.24	15	0	378	1	3.088e-05	32525	clade	                                      Theria
+82.35	14	0	373	1	3.212e-05	9347	clade	                                        Eutheria
+82.35	14	0	357	1	3.289e-05	1437010	clade	                                          Boreoeutheria
+82.35	14	0	333	1	6.335e-05	314146	superorder	                                            Euarchontoglires
+82.35	14	0	306	1	0.0001677	9443	order	                                              Primates
+82.35	14	0	303	1	0.0002487	376913	suborder	                                                Haplorrhini
+82.35	14	0	303	1	0.0002579	314293	infraorder	                                                  Simiiformes
+76.47	13	2	293	1	0.0004356	9526	parvorder	                                                    Catarrhini
+64.71	11	0	276	1	0.001977	314295	superfamily	                                                      Hominoidea
+64.71	11	1	256	1	0.003603	9604	family	                                                        Hominidae
+58.82	10	0	248	1	0.00493	207598	subfamily	                                                          Homininae
+58.82	10	3	192	1	0.01183	9605	genus	                                                            Homo
+41.18	7	4	71	1	0.008191	9606	species	                                                              Homo sapiens
+17.65	3	3	22	1	0.01203	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.882	1	0	4	1	8.078e-06	9479	parvorder	                                                    Platyrrhini
+5.882	1	0	3	1	2.111e-05	376919	family	                                                      Pitheciidae
+5.882	1	0	3	1	4.581e-05	38039	subfamily	                                                        Pitheciinae
+5.882	1	0	3	1	0.000113	30595	genus	                                                          Cacajao
+5.882	1	1	3	1	0.000981	70825	species	                                                            Cacajao melanocephalus
+5.882	1	0	5	1	9.649e-06	9263	clade	                                        Metatheria
+5.882	1	0	5	1	0.0002241	38606	order	                                          Paucituberculata
+5.882	1	0	5	1	0.0002241	30659	family	                                            Caenolestidae
+5.882	1	0	5	1	0.0004519	33558	genus	                                              Rhyncholestes
+5.882	1	1	5	1	0.0004519	33559	species	                                                Rhyncholestes raphanurus

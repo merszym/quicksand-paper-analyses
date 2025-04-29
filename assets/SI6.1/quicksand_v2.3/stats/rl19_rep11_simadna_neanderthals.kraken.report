@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:11Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ae/709d6cbdf977ccd90abe025e8dbc32
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl19_rep11_simadna_neanderthals.kraken.report --output output.kraken rl19_rep11_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10.53	2	2	207	1	NA	0	no rank	unclassified
+89.47	17	0	343	1	2.792e-05	1	no rank	root
+89.47	17	0	343	1	2.792e-05	131567	no rank	  cellular organisms
+89.47	17	0	343	1	2.792e-05	2759	superkingdom	    Eukaryota
+89.47	17	0	343	1	2.792e-05	33154	clade	      Opisthokonta
+89.47	17	0	343	1	2.792e-05	33208	kingdom	        Metazoa
+89.47	17	0	343	1	2.792e-05	6072	clade	          Eumetazoa
+89.47	17	0	343	1	2.792e-05	33213	clade	            Bilateria
+89.47	17	0	343	1	2.792e-05	33511	clade	              Deuterostomia
+89.47	17	0	343	1	2.792e-05	7711	phylum	                Chordata
+89.47	17	0	343	1	2.792e-05	89593	subphylum	                  Craniata
+89.47	17	0	343	1	2.792e-05	7742	clade	                    Vertebrata
+89.47	17	0	343	1	2.792e-05	7776	clade	                      Gnathostomata
+89.47	17	0	343	1	2.792e-05	117570	clade	                        Teleostomi
+89.47	17	0	343	1	2.792e-05	117571	clade	                          Euteleostomi
+89.47	17	0	343	1	2.792e-05	8287	superclass	                            Sarcopterygii
+89.47	17	0	343	1	2.792e-05	1338369	clade	                              Dipnotetrapodomorpha
+89.47	17	0	343	1	2.792e-05	32523	clade	                                Tetrapoda
+89.47	17	0	343	1	2.792e-05	32524	clade	                                  Amniota
+89.47	17	0	343	1	2.792e-05	40674	class	                                    Mammalia
+89.47	17	0	333	1	2.72e-05	32525	clade	                                      Theria
+89.47	17	1	320	1	2.756e-05	9347	clade	                                        Eutheria
+84.21	16	0	296	1	2.727e-05	1437010	clade	                                          Boreoeutheria
+84.21	16	2	247	1	4.699e-05	314146	superorder	                                            Euarchontoglires
+73.68	14	0	230	1	0.0001261	9443	order	                                              Primates
+73.68	14	0	224	1	0.0001839	376913	suborder	                                                Haplorrhini
+73.68	14	0	224	1	0.0001907	314293	infraorder	                                                  Simiiformes
+68.42	13	1	192	1	0.0002854	9526	parvorder	                                                    Catarrhini
+57.89	11	1	166	1	0.001189	314295	superfamily	                                                      Hominoidea
+52.63	10	0	160	1	0.002252	9604	family	                                                        Hominidae
+52.63	10	1	157	1	0.003121	207598	subfamily	                                                          Homininae
+47.37	9	6	124	1	0.007641	9605	genus	                                                            Homo
+15.79	3	2	42	1	0.004845	9606	species	                                                              Homo sapiens
+5.263	1	1	10	1	0.005467	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.263	1	0	4	1	7.594e-06	314294	superfamily	                                                      Cercopithecoidea
+5.263	1	0	4	1	7.594e-06	9527	family	                                                        Cercopithecidae
+5.263	1	0	2	1	6.486e-06	9528	subfamily	                                                          Cercopithecinae
+5.263	1	1	2	1	7.084e-05	9554	genus	                                                            Papio
+5.263	1	0	1	1	2.02e-06	9479	parvorder	                                                    Platyrrhini
+5.263	1	0	1	1	4.543e-06	9498	family	                                                      Cebidae
+5.263	1	0	1	1	6.302e-06	9480	subfamily	                                                        Callitrichinae
+5.263	1	0	1	1	6.048e-05	30587	genus	                                                          Leontopithecus
+5.263	1	1	1	1	0.0001573	30588	species	                                                            Leontopithecus rosalia

@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:56Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/9d/d141ed5be94520b7b3c0c3ab3cf0c3
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl27_rep10_simadna_neanderthals.kraken.report --output output.kraken rl27_rep10_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+7.407	2	2	353	1	NA	0	no rank	unclassified
+92.59	25	0	368	1.02	2.996e-05	1	no rank	root
+92.59	25	0	368	1.02	2.996e-05	131567	no rank	  cellular organisms
+92.59	25	0	368	1.02	2.996e-05	2759	superkingdom	    Eukaryota
+92.59	25	0	368	1.02	2.996e-05	33154	clade	      Opisthokonta
+92.59	25	0	368	1.02	2.996e-05	33208	kingdom	        Metazoa
+92.59	25	0	368	1.02	2.996e-05	6072	clade	          Eumetazoa
+92.59	25	0	368	1.02	2.996e-05	33213	clade	            Bilateria
+92.59	25	0	368	1.02	2.996e-05	33511	clade	              Deuterostomia
+92.59	25	0	368	1.02	2.996e-05	7711	phylum	                Chordata
+92.59	25	0	368	1.02	2.996e-05	89593	subphylum	                  Craniata
+92.59	25	0	368	1.02	2.996e-05	7742	clade	                    Vertebrata
+92.59	25	0	368	1.02	2.996e-05	7776	clade	                      Gnathostomata
+92.59	25	0	368	1.02	2.996e-05	117570	clade	                        Teleostomi
+92.59	25	0	368	1.02	2.996e-05	117571	clade	                          Euteleostomi
+92.59	25	0	368	1.02	2.996e-05	8287	superclass	                            Sarcopterygii
+92.59	25	0	368	1.02	2.996e-05	1338369	clade	                              Dipnotetrapodomorpha
+92.59	25	0	368	1.02	2.996e-05	32523	clade	                                Tetrapoda
+92.59	25	0	368	1.02	2.996e-05	32524	clade	                                  Amniota
+92.59	25	0	368	1.02	2.996e-05	40674	class	                                    Mammalia
+92.59	25	1	361	1.02	2.949e-05	32525	clade	                                      Theria
+88.89	24	0	355	1.02	3.057e-05	9347	clade	                                        Eutheria
+88.89	24	1	340	1.02	3.132e-05	1437010	clade	                                          Boreoeutheria
+81.48	22	0	304	1.03	5.783e-05	314146	superorder	                                            Euarchontoglires
+81.48	22	0	290	1.03	0.000159	9443	order	                                              Primates
+77.78	21	0	279	1.03	0.000229	376913	suborder	                                                Haplorrhini
+77.78	21	0	279	1.03	0.0002375	314293	infraorder	                                                  Simiiformes
+77.78	21	1	274	1.03	0.0004073	9526	parvorder	                                                    Catarrhini
+74.07	20	0	258	1.03	0.001848	314295	superfamily	                                                      Hominoidea
+70.37	19	0	222	1.02	0.003125	9604	family	                                                        Hominidae
+70.37	19	1	218	1.02	0.004334	207598	subfamily	                                                          Homininae
+62.96	17	10	201	1.02	0.01239	9605	genus	                                                            Homo
+25.93	7	3	88	1	0.01015	9606	species	                                                              Homo sapiens
+11.11	3	3	24	1	0.01312	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.704	1	1	20	1	0.007675	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+3.704	1	0	5	1	0.0003164	9592	genus	                                                            Gorilla
+3.704	1	1	5	1	0.0007077	9593	species	                                                              Gorilla gorilla
+3.704	1	1	3	1	4.505e-05	9577	family	                                                        Hylobatidae
+3.704	1	0	8	1	1.336e-05	376911	suborder	                                                Strepsirrhini
+3.704	1	1	8	1	1.566e-05	376915	infraorder	                                                  Lemuriformes
+3.704	1	0	1	1	1.937e-07	314145	superorder	                                            Laurasiatheria
+3.704	1	0	1	1	7.828e-07	33554	order	                                              Carnivora
+3.704	1	0	1	1	1.281e-06	379584	suborder	                                                Caniformia
+3.704	1	0	1	1	3.588e-06	9655	family	                                                  Mustelidae
+3.704	1	0	1	1	3.916e-05	1008252	subfamily	                                                    Melinae
+3.704	1	0	1	1	5.524e-05	9661	genus	                                                      Meles
+3.704	1	1	1	1	0.0002378	702266	species	                                                        Meles leucurus

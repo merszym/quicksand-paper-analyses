@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:17Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/24/b7a945fd9e066db337bb17215277b0
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl20_rep10_simadna_neanderthals.kraken.report --output output.kraken rl20_rep10_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+15	3	3	259	1	NA	0	no rank	unclassified
+85	17	0	273	1	2.222e-05	1	no rank	root
+85	17	0	273	1	2.222e-05	131567	no rank	  cellular organisms
+85	17	0	273	1	2.222e-05	2759	superkingdom	    Eukaryota
+85	17	0	273	1	2.222e-05	33154	clade	      Opisthokonta
+85	17	0	273	1	2.222e-05	33208	kingdom	        Metazoa
+85	17	0	273	1	2.222e-05	6072	clade	          Eumetazoa
+85	17	0	273	1	2.222e-05	33213	clade	            Bilateria
+85	17	0	273	1	2.222e-05	33511	clade	              Deuterostomia
+85	17	0	273	1	2.222e-05	7711	phylum	                Chordata
+85	17	0	273	1	2.222e-05	89593	subphylum	                  Craniata
+85	17	0	273	1	2.222e-05	7742	clade	                    Vertebrata
+85	17	0	273	1	2.222e-05	7776	clade	                      Gnathostomata
+85	17	0	273	1	2.222e-05	117570	clade	                        Teleostomi
+85	17	0	273	1	2.222e-05	117571	clade	                          Euteleostomi
+85	17	0	273	1	2.222e-05	8287	superclass	                            Sarcopterygii
+85	17	0	273	1	2.222e-05	1338369	clade	                              Dipnotetrapodomorpha
+85	17	0	273	1	2.222e-05	32523	clade	                                Tetrapoda
+85	17	0	273	1	2.222e-05	32524	clade	                                  Amniota
+85	17	0	273	1	2.222e-05	40674	class	                                    Mammalia
+85	17	0	273	1	2.23e-05	32525	clade	                                      Theria
+85	17	0	267	1	2.299e-05	9347	clade	                                        Eutheria
+85	17	1	240	1	2.211e-05	1437010	clade	                                          Boreoeutheria
+80	16	1	210	1	3.995e-05	314146	superorder	                                            Euarchontoglires
+70	14	0	176	1	9.647e-05	9443	order	                                              Primates
+70	14	0	174	1	0.0001428	376913	suborder	                                                Haplorrhini
+70	14	0	173	1	0.0001472	314293	infraorder	                                                  Simiiformes
+70	14	1	169	1	0.0002512	9526	parvorder	                                                    Catarrhini
+65	13	0	158	1	0.001132	314295	superfamily	                                                      Hominoidea
+60	12	0	146	1	0.002055	9604	family	                                                        Hominidae
+60	12	0	143	1	0.002843	207598	subfamily	                                                          Homininae
+55	11	3	120	1	0.007395	9605	genus	                                                            Homo
+40	8	6	79	1	0.009114	9606	species	                                                              Homo sapiens
+10	2	2	16	1	0.008748	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5	1	1	5	1	0.0003164	9592	genus	                                                            Gorilla
+5	1	0	4	1	6.006e-05	9577	family	                                                        Hylobatidae
+5	1	1	3	1	0.0002045	325165	genus	                                                          Nomascus
+5	1	0	7	1	2.137e-06	314147	clade	                                              Glires
+5	1	0	7	1	2.285e-06	9989	order	                                                Rodentia
+5	1	0	7	1	3.752e-06	1963758	suborder	                                                  Myomorpha
+5	1	0	7	1	3.969e-06	337687	clade	                                                    Muroidea
+5	1	0	7	1	1.131e-05	337677	family	                                                      Cricetidae
+5	1	0	7	1	4.166e-05	337963	subfamily	                                                        Neotominae
+5	1	0	7	1	0.0002154	42407	genus	                                                          Neotoma
+5	1	1	7	1	0.0009312	85047	species	                                                            Neotoma magister

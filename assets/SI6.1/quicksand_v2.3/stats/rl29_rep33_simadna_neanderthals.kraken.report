@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:24Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ad/447017e4103b0ff0395d1e6767b453
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep33_simadna_neanderthals.kraken.report --output output.kraken rl29_rep33_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+6.897	2	2	337	1.02	NA	0	no rank	unclassified
+93.1	27	0	554	1.05	4.51e-05	1	no rank	root
+93.1	27	0	554	1.05	4.51e-05	131567	no rank	  cellular organisms
+93.1	27	0	554	1.05	4.51e-05	2759	superkingdom	    Eukaryota
+93.1	27	0	554	1.05	4.51e-05	33154	clade	      Opisthokonta
+93.1	27	0	554	1.05	4.51e-05	33208	kingdom	        Metazoa
+93.1	27	0	554	1.05	4.51e-05	6072	clade	          Eumetazoa
+93.1	27	0	554	1.05	4.51e-05	33213	clade	            Bilateria
+93.1	27	0	554	1.05	4.51e-05	33511	clade	              Deuterostomia
+93.1	27	0	554	1.05	4.51e-05	7711	phylum	                Chordata
+93.1	27	0	554	1.05	4.51e-05	89593	subphylum	                  Craniata
+93.1	27	0	554	1.05	4.51e-05	7742	clade	                    Vertebrata
+93.1	27	0	554	1.05	4.51e-05	7776	clade	                      Gnathostomata
+93.1	27	0	554	1.05	4.51e-05	117570	clade	                        Teleostomi
+93.1	27	0	554	1.05	4.51e-05	117571	clade	                          Euteleostomi
+93.1	27	0	554	1.05	4.51e-05	8287	superclass	                            Sarcopterygii
+93.1	27	0	554	1.05	4.51e-05	1338369	clade	                              Dipnotetrapodomorpha
+93.1	27	0	554	1.05	4.51e-05	32523	clade	                                Tetrapoda
+93.1	27	0	554	1.05	4.51e-05	32524	clade	                                  Amniota
+93.1	27	0	554	1.05	4.51e-05	40674	class	                                    Mammalia
+93.1	27	0	554	1.05	4.526e-05	32525	clade	                                      Theria
+93.1	27	0	541	1.05	4.659e-05	9347	clade	                                        Eutheria
+93.1	27	2	522	1.05	4.809e-05	1437010	clade	                                          Boreoeutheria
+86.21	25	0	463	1.06	8.808e-05	314146	superorder	                                            Euarchontoglires
+86.21	25	0	455	1.06	0.0002494	9443	order	                                              Primates
+86.21	25	0	449	1.06	0.0003685	376913	suborder	                                                Haplorrhini
+86.21	25	0	449	1.06	0.0003822	314293	infraorder	                                                  Simiiformes
+82.76	24	1	422	1.05	0.0006273	9526	parvorder	                                                    Catarrhini
+79.31	23	0	403	1.05	0.002886	314295	superfamily	                                                      Hominoidea
+75.86	22	0	385	1.05	0.005419	9604	family	                                                        Hominidae
+75.86	22	1	383	1.05	0.007614	207598	subfamily	                                                          Homininae
+72.41	21	11	326	1.06	0.02009	9605	genus	                                                            Homo
+34.48	10	4	123	1	0.01419	9606	species	                                                              Homo sapiens
+20.69	6	6	59	1	0.03226	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.448	1	0	4	1.5	6.006e-05	9577	family	                                                        Hylobatidae
+3.448	1	1	2	2	0.0001364	325165	genus	                                                          Nomascus
+3.448	1	0	7	1	1.414e-05	9479	parvorder	                                                    Platyrrhini
+3.448	1	0	7	1	3.18e-05	9498	family	                                                      Cebidae
+3.448	1	0	7	1	4.412e-05	9480	subfamily	                                                        Callitrichinae
+3.448	1	0	7	1	0.0001325	9486	genus	                                                          Saguinus
+3.448	1	1	7	1	0.001178	1079039	species	                                                            Saguinus inustus

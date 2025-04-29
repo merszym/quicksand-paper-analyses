@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:09Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/99/b06c8ea03d18bb29b0e96d5b11e924
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl13_rep15_simadna_neanderthals.kraken.report --output output.kraken rl13_rep15_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+15.38	2	2	192	1	NA	0	no rank	unclassified
+84.62	11	0	198	1	1.612e-05	1	no rank	root
+84.62	11	0	198	1	1.612e-05	131567	no rank	  cellular organisms
+84.62	11	0	198	1	1.612e-05	2759	superkingdom	    Eukaryota
+84.62	11	0	198	1	1.612e-05	33154	clade	      Opisthokonta
+84.62	11	0	198	1	1.612e-05	33208	kingdom	        Metazoa
+84.62	11	0	198	1	1.612e-05	6072	clade	          Eumetazoa
+84.62	11	0	198	1	1.612e-05	33213	clade	            Bilateria
+84.62	11	0	198	1	1.612e-05	33511	clade	              Deuterostomia
+84.62	11	0	198	1	1.612e-05	7711	phylum	                Chordata
+84.62	11	0	198	1	1.612e-05	89593	subphylum	                  Craniata
+84.62	11	0	198	1	1.612e-05	7742	clade	                    Vertebrata
+84.62	11	0	198	1	1.612e-05	7776	clade	                      Gnathostomata
+84.62	11	0	198	1	1.612e-05	117570	clade	                        Teleostomi
+84.62	11	0	198	1	1.612e-05	117571	clade	                          Euteleostomi
+84.62	11	0	198	1	1.612e-05	8287	superclass	                            Sarcopterygii
+84.62	11	0	198	1	1.612e-05	1338369	clade	                              Dipnotetrapodomorpha
+84.62	11	0	198	1	1.612e-05	32523	clade	                                Tetrapoda
+84.62	11	0	198	1	1.612e-05	32524	clade	                                  Amniota
+84.62	11	0	198	1	1.612e-05	40674	class	                                    Mammalia
+84.62	11	0	198	1	1.617e-05	32525	clade	                                      Theria
+76.92	10	0	189	1	1.628e-05	9347	clade	                                        Eutheria
+76.92	10	1	173	1	1.594e-05	1437010	clade	                                          Boreoeutheria
+69.23	9	0	144	1	2.739e-05	314146	superorder	                                            Euarchontoglires
+69.23	9	0	131	1	7.181e-05	9443	order	                                              Primates
+69.23	9	0	131	1	0.0001075	376913	suborder	                                                Haplorrhini
+69.23	9	0	131	1	0.0001115	314293	infraorder	                                                  Simiiformes
+69.23	9	0	124	1	0.0001843	9526	parvorder	                                                    Catarrhini
+69.23	9	0	124	1	0.000888	314295	superfamily	                                                      Hominoidea
+61.54	8	0	122	1	0.001717	9604	family	                                                        Hominidae
+61.54	8	0	122	1	0.002425	207598	subfamily	                                                          Homininae
+61.54	8	6	73	1	0.004498	9605	genus	                                                            Homo
+15.38	2	1	17	1	0.001961	9606	species	                                                              Homo sapiens
+7.692	1	1	5	1	0.002734	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.692	1	0	1	1	1.502e-05	9577	family	                                                        Hylobatidae
+7.692	1	0	1	1	4.269e-05	9578	genus	                                                          Hylobates
+7.692	1	1	1	1	0.000147	9589	species	                                                            Hylobates pileatus
+7.692	1	0	1	1	1.93e-06	9263	clade	                                        Metatheria
+7.692	1	0	1	1	5.24e-06	38609	order	                                          Diprotodontia
+7.692	1	0	1	1	2.016e-05	9307	family	                                            Macropodidae
+7.692	1	0	1	1	9.058e-05	65633	genus	                                              Lagostrophus
+7.692	1	1	1	1	9.058e-05	65634	species	                                                Lagostrophus fasciatus

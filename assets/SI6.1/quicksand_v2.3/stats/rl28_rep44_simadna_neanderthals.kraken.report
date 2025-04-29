@@ -1,0 +1,63 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:03Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/14/15e47f5600e764368ea75a8913a9c8
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl28_rep44_simadna_neanderthals.kraken.report --output output.kraken rl28_rep44_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+14.29	4	4	406	1	NA	0	no rank	unclassified
+85.71	24	0	422	1.04	3.435e-05	1	no rank	root
+85.71	24	0	422	1.04	3.435e-05	131567	no rank	  cellular organisms
+85.71	24	0	422	1.04	3.435e-05	2759	superkingdom	    Eukaryota
+85.71	24	0	422	1.04	3.435e-05	33154	clade	      Opisthokonta
+85.71	24	0	422	1.04	3.435e-05	33208	kingdom	        Metazoa
+85.71	24	0	422	1.04	3.435e-05	6072	clade	          Eumetazoa
+85.71	24	0	422	1.04	3.435e-05	33213	clade	            Bilateria
+85.71	24	0	422	1.04	3.435e-05	33511	clade	              Deuterostomia
+85.71	24	0	422	1.04	3.435e-05	7711	phylum	                Chordata
+85.71	24	0	422	1.04	3.435e-05	89593	subphylum	                  Craniata
+85.71	24	0	422	1.04	3.435e-05	7742	clade	                    Vertebrata
+85.71	24	0	422	1.04	3.435e-05	7776	clade	                      Gnathostomata
+85.71	24	0	422	1.04	3.435e-05	117570	clade	                        Teleostomi
+85.71	24	0	422	1.04	3.435e-05	117571	clade	                          Euteleostomi
+85.71	24	0	422	1.04	3.435e-05	8287	superclass	                            Sarcopterygii
+85.71	24	0	422	1.04	3.435e-05	1338369	clade	                              Dipnotetrapodomorpha
+85.71	24	0	422	1.04	3.435e-05	32523	clade	                                Tetrapoda
+85.71	24	0	422	1.04	3.435e-05	32524	clade	                                  Amniota
+85.71	24	0	422	1.04	3.435e-05	40674	class	                                    Mammalia
+85.71	24	1	394	1.04	3.219e-05	32525	clade	                                      Theria
+82.14	23	1	385	1.04	3.315e-05	9347	clade	                                        Eutheria
+78.57	22	0	358	1.04	3.298e-05	1437010	clade	                                          Boreoeutheria
+71.43	20	0	310	1.05	5.897e-05	314146	superorder	                                            Euarchontoglires
+64.29	18	0	295	1.05	0.0001617	9443	order	                                              Primates
+60.71	17	0	293	1.05	0.0002405	376913	suborder	                                                Haplorrhini
+60.71	17	0	293	1.05	0.0002494	314293	infraorder	                                                  Simiiformes
+60.71	17	0	293	1.05	0.0004356	9526	parvorder	                                                    Catarrhini
+60.71	17	0	275	1.04	0.001969	314295	superfamily	                                                      Hominoidea
+60.71	17	0	268	1.04	0.003772	9604	family	                                                        Hominidae
+60.71	17	0	261	1.03	0.005189	207598	subfamily	                                                          Homininae
+60.71	17	3	184	1.01	0.01134	9605	genus	                                                            Homo
+50	14	6	95	1.02	0.01096	9606	species	                                                              Homo sapiens
+25	7	7	48	1.04	0.02624	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.571	1	1	2	1	0.0007675	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+3.571	1	0	2	1	3.34e-06	376911	suborder	                                                Strepsirrhini
+3.571	1	0	1	1	8.966e-05	376916	infraorder	                                                  Chiromyiformes
+3.571	1	0	1	1	8.966e-05	30613	family	                                                    Daubentoniidae
+3.571	1	0	1	1	8.966e-05	13038	genus	                                                      Daubentonia
+3.571	1	1	1	1	8.966e-05	31869	species	                                                        Daubentonia madagascariensis
+7.143	2	0	6	1	1.832e-06	314147	clade	                                              Glires
+7.143	2	1	6	1	1.958e-06	9989	order	                                                Rodentia
+3.571	1	0	3	1	1.608e-06	1963758	suborder	                                                  Myomorpha
+3.571	1	0	3	1	1.701e-06	337687	clade	                                                    Muroidea
+3.571	1	0	3	1	3.129e-06	10066	family	                                                      Muridae
+3.571	1	0	3	1	3.446e-06	39107	subfamily	                                                        Murinae
+3.571	1	0	3	1	3.47e-05	10088	genus	                                                          Mus
+3.571	1	0	3	1	4.896e-05	862507	subgenus	                                                            Mus
+3.571	1	1	3	1	0.000242	10090	species	                                                              Mus musculus
+7.143	2	0	12	1	2.325e-06	314145	superorder	                                            Laurasiatheria
+3.571	1	0	9	1	6.292e-06	91561	order	                                              Artiodactyla
+3.571	1	0	9	1	2.231e-05	2653789	suborder	                                                Whippomorpha
+3.571	1	0	9	1	2.33e-05	9721	infraorder	                                                  Cetacea
+3.571	1	0	9	1	3.01e-05	9722	parvorder	                                                    Odontoceti
+3.571	1	1	9	1	9.719e-05	9726	family	                                                      Delphinidae
+3.571	1	0	1	1	6.828e-07	9397	order	                                              Chiroptera
+3.571	1	0	1	1	8.816e-07	30560	suborder	                                                Microchiroptera
+3.571	1	0	1	1	2.041e-06	9431	family	                                                  Vespertilionidae
+3.571	1	0	1	1	4.992e-05	27671	genus	                                                    Pipistrellus
+3.571	1	1	1	1	0.0001015	258946	species	                                                      Pipistrellus coromandra

@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:30:03Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/71/b82a0a571340da856059496ac46dcf
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl30_rep75_simadna_neanderthals.kraken.report --output output.kraken rl30_rep75_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10	3	3	438	1	NA	0	no rank	unclassified
+90	27	0	523	1.05	4.257e-05	1	no rank	root
+90	27	0	523	1.05	4.257e-05	131567	no rank	  cellular organisms
+90	27	0	523	1.05	4.257e-05	2759	superkingdom	    Eukaryota
+90	27	0	523	1.05	4.257e-05	33154	clade	      Opisthokonta
+90	27	0	523	1.05	4.257e-05	33208	kingdom	        Metazoa
+90	27	0	523	1.05	4.257e-05	6072	clade	          Eumetazoa
+90	27	0	523	1.05	4.257e-05	33213	clade	            Bilateria
+90	27	0	523	1.05	4.257e-05	33511	clade	              Deuterostomia
+90	27	0	523	1.05	4.257e-05	7711	phylum	                Chordata
+90	27	0	523	1.05	4.257e-05	89593	subphylum	                  Craniata
+90	27	0	523	1.05	4.257e-05	7742	clade	                    Vertebrata
+90	27	0	523	1.05	4.257e-05	7776	clade	                      Gnathostomata
+90	27	0	523	1.05	4.257e-05	117570	clade	                        Teleostomi
+90	27	0	523	1.05	4.257e-05	117571	clade	                          Euteleostomi
+90	27	0	523	1.05	4.257e-05	8287	superclass	                            Sarcopterygii
+90	27	0	523	1.05	4.257e-05	1338369	clade	                              Dipnotetrapodomorpha
+90	27	0	523	1.05	4.257e-05	32523	clade	                                Tetrapoda
+90	27	0	523	1.05	4.257e-05	32524	clade	                                  Amniota
+90	27	0	523	1.05	4.257e-05	40674	class	                                    Mammalia
+90	27	0	520	1.05	4.248e-05	32525	clade	                                      Theria
+90	27	0	503	1.05	4.332e-05	9347	clade	                                        Eutheria
+90	27	1	474	1.04	4.367e-05	1437010	clade	                                          Boreoeutheria
+86.67	26	1	398	1	7.571e-05	314146	superorder	                                            Euarchontoglires
+83.33	25	0	369	1	0.0002023	9443	order	                                              Primates
+83.33	25	0	364	1	0.0002988	376913	suborder	                                                Haplorrhini
+83.33	25	0	361	1	0.0003073	314293	infraorder	                                                  Simiiformes
+76.67	23	0	325	1	0.0004831	9526	parvorder	                                                    Catarrhini
+76.67	23	0	304	1	0.002177	314295	superfamily	                                                      Hominoidea
+76.67	23	1	285	1	0.004011	9604	family	                                                        Hominidae
+73.33	22	2	279	1	0.005547	207598	subfamily	                                                          Homininae
+63.33	19	8	203	1	0.01251	9605	genus	                                                            Homo
+36.67	11	8	58	1	0.006691	9606	species	                                                              Homo sapiens
+10	3	3	19	1	0.01039	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.333	1	0	5	1	0.0003409	9596	genus	                                                            Pan
+3.333	1	1	5	1	0.0008354	9597	species	                                                              Pan paniscus
+6.667	2	0	9	1	1.818e-05	9479	parvorder	                                                    Platyrrhini
+3.333	1	0	7	1	4.926e-05	376919	family	                                                      Pitheciidae
+3.333	1	0	7	1	0.0001069	38039	subfamily	                                                        Pitheciinae
+3.333	1	0	7	1	0.0003602	9524	genus	                                                          Chiropotes
+3.333	1	1	7	1	0.0009104	198627	species	                                                            Chiropotes albinasus
+3.333	1	0	1	1	1.185e-05	378855	family	                                                      Atelidae
+3.333	1	0	1	1	2.036e-05	38066	subfamily	                                                        Alouattinae
+3.333	1	0	1	1	2.036e-05	9499	genus	                                                          Alouatta
+3.333	1	1	1	1	0.0002336	198115	species	                                                            Alouatta macconnelli

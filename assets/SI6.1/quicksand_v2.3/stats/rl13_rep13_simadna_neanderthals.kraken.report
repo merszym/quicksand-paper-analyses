@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:09Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/69/6482e7e3abbb78a7bb8e82e767f39c
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl13_rep13_simadna_neanderthals.kraken.report --output output.kraken rl13_rep13_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+23.08	3	3	232	1	NA	0	no rank	unclassified
+76.92	10	0	90	1.02	7.326e-06	1	no rank	root
+76.92	10	0	90	1.02	7.326e-06	131567	no rank	  cellular organisms
+76.92	10	0	90	1.02	7.326e-06	2759	superkingdom	    Eukaryota
+76.92	10	0	90	1.02	7.326e-06	33154	clade	      Opisthokonta
+76.92	10	0	90	1.02	7.326e-06	33208	kingdom	        Metazoa
+76.92	10	0	90	1.02	7.326e-06	6072	clade	          Eumetazoa
+76.92	10	0	90	1.02	7.326e-06	33213	clade	            Bilateria
+76.92	10	0	90	1.02	7.326e-06	33511	clade	              Deuterostomia
+76.92	10	0	90	1.02	7.326e-06	7711	phylum	                Chordata
+76.92	10	0	90	1.02	7.326e-06	89593	subphylum	                  Craniata
+76.92	10	0	90	1.02	7.326e-06	7742	clade	                    Vertebrata
+76.92	10	0	90	1.02	7.326e-06	7776	clade	                      Gnathostomata
+76.92	10	0	90	1.02	7.326e-06	117570	clade	                        Teleostomi
+76.92	10	0	90	1.02	7.326e-06	117571	clade	                          Euteleostomi
+76.92	10	0	90	1.02	7.326e-06	8287	superclass	                            Sarcopterygii
+76.92	10	0	90	1.02	7.326e-06	1338369	clade	                              Dipnotetrapodomorpha
+76.92	10	0	90	1.02	7.326e-06	32523	clade	                                Tetrapoda
+76.92	10	0	90	1.02	7.326e-06	32524	clade	                                  Amniota
+76.92	10	0	90	1.02	7.326e-06	40674	class	                                    Mammalia
+76.92	10	0	90	1.02	7.352e-06	32525	clade	                                      Theria
+76.92	10	0	87	1.02	7.492e-06	9347	clade	                                        Eutheria
+76.92	10	0	87	1.02	8.015e-06	1437010	clade	                                          Boreoeutheria
+76.92	10	0	75	1.03	1.427e-05	314146	superorder	                                            Euarchontoglires
+76.92	10	0	74	1.03	4.056e-05	9443	order	                                              Primates
+76.92	10	0	74	1.03	6.074e-05	376913	suborder	                                                Haplorrhini
+76.92	10	0	74	1.03	6.299e-05	314293	infraorder	                                                  Simiiformes
+76.92	10	0	71	1.03	0.0001055	9526	parvorder	                                                    Catarrhini
+69.23	9	0	68	1.03	0.000487	314295	superfamily	                                                      Hominoidea
+69.23	9	0	62	1.03	0.0008726	9604	family	                                                        Hominidae
+69.23	9	1	62	1.03	0.001233	207598	subfamily	                                                          Homininae
+53.85	7	5	53	1	0.003266	9605	genus	                                                            Homo
+15.38	2	0	10	1	0.001154	9606	species	                                                              Homo sapiens
+15.38	2	2	10	1	0.005467	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.692	1	0	2	1	0.0001266	9592	genus	                                                            Gorilla
+7.692	1	1	2	1	0.0003677	499232	species	                                                              Gorilla beringei
+7.692	1	0	3	1	5.695e-06	314294	superfamily	                                                      Cercopithecoidea
+7.692	1	0	3	1	5.695e-06	9527	family	                                                        Cercopithecidae
+7.692	1	0	3	1	1.443e-05	9569	subfamily	                                                          Colobinae
+7.692	1	0	2	1	2.64e-05	54136	genus	                                                            Trachypithecus
+7.692	1	1	2	1	0.0002905	66063	species	                                                              Trachypithecus johnii

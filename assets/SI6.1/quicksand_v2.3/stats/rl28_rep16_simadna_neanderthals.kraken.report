@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:56Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/c4/ba88273a4a097472123dd642e487b9
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl28_rep16_simadna_neanderthals.kraken.report --output output.kraken rl28_rep16_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10.71	3	3	361	1	NA	0	no rank	unclassified
+89.29	25	0	466	1.02	3.793e-05	1	no rank	root
+89.29	25	0	466	1.02	3.793e-05	131567	no rank	  cellular organisms
+89.29	25	0	466	1.02	3.793e-05	2759	superkingdom	    Eukaryota
+89.29	25	0	466	1.02	3.793e-05	33154	clade	      Opisthokonta
+89.29	25	0	466	1.02	3.793e-05	33208	kingdom	        Metazoa
+89.29	25	0	466	1.02	3.793e-05	6072	clade	          Eumetazoa
+89.29	25	0	466	1.02	3.793e-05	33213	clade	            Bilateria
+89.29	25	0	466	1.02	3.793e-05	33511	clade	              Deuterostomia
+89.29	25	0	466	1.02	3.793e-05	7711	phylum	                Chordata
+89.29	25	0	466	1.02	3.793e-05	89593	subphylum	                  Craniata
+89.29	25	0	466	1.02	3.793e-05	7742	clade	                    Vertebrata
+89.29	25	0	466	1.02	3.793e-05	7776	clade	                      Gnathostomata
+89.29	25	0	466	1.02	3.793e-05	117570	clade	                        Teleostomi
+89.29	25	0	466	1.02	3.793e-05	117571	clade	                          Euteleostomi
+89.29	25	0	466	1.02	3.793e-05	8287	superclass	                            Sarcopterygii
+89.29	25	0	466	1.02	3.793e-05	1338369	clade	                              Dipnotetrapodomorpha
+89.29	25	0	466	1.02	3.793e-05	32523	clade	                                Tetrapoda
+89.29	25	0	466	1.02	3.793e-05	32524	clade	                                  Amniota
+89.29	25	0	466	1.02	3.793e-05	40674	class	                                    Mammalia
+89.29	25	0	464	1.02	3.79e-05	32525	clade	                                      Theria
+85.71	24	0	441	1.02	3.798e-05	9347	clade	                                        Eutheria
+82.14	23	0	407	1.03	3.749e-05	1437010	clade	                                          Boreoeutheria
+82.14	23	0	365	1.03	6.943e-05	314146	superorder	                                            Euarchontoglires
+82.14	23	0	348	1.03	0.0001908	9443	order	                                              Primates
+82.14	23	0	343	1.03	0.0002815	376913	suborder	                                                Haplorrhini
+82.14	23	0	343	1.03	0.0002919	314293	infraorder	                                                  Simiiformes
+82.14	23	1	322	1.03	0.0004787	9526	parvorder	                                                    Catarrhini
+78.57	22	0	288	1.04	0.002063	314295	superfamily	                                                      Hominoidea
+78.57	22	0	283	1.04	0.003983	9604	family	                                                        Hominidae
+78.57	22	3	281	1.04	0.005586	207598	subfamily	                                                          Homininae
+64.29	18	7	211	1.05	0.013	9605	genus	                                                            Homo
+39.29	11	7	93	1	0.01073	9606	species	                                                              Homo sapiens
+14.29	4	4	33	1	0.01804	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.571	1	0	3	1	0.0001898	9592	genus	                                                            Gorilla
+3.571	1	1	3	1	0.0004246	9593	species	                                                              Gorilla gorilla
+3.571	1	0	4	1	1.272e-05	9348	superorder	                                          Xenarthra
+3.571	1	0	4	1	2.52e-05	948950	order	                                            Pilosa
+3.571	1	0	4	1	3.296e-05	948953	suborder	                                              Folivora
+3.571	1	0	4	1	9.122e-05	9352	family	                                                Bradypodidae
+3.571	1	0	4	1	9.122e-05	9353	genus	                                                  Bradypus
+3.571	1	1	4	1	0.0003628	227087	species	                                                    Bradypus torquatus
+3.571	1	0	3	1	5.789e-06	9263	clade	                                        Metatheria
+3.571	1	0	3	1	0.0002977	38607	order	                                          Microbiotheria
+3.571	1	0	3	1	0.0002977	30660	family	                                            Microbiotheriidae
+3.571	1	0	3	1	0.0002977	33561	genus	                                              Dromiciops
+3.571	1	1	3	1	0.0002977	33562	species	                                                Dromiciops gliroides

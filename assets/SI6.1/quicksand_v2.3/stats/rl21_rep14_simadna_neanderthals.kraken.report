@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:09Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/f5/15a1194075460e6169897822561332
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl21_rep14_simadna_neanderthals.kraken.report --output output.kraken rl21_rep14_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+4.762	1	1	396	1	NA	0	no rank	unclassified
+95.24	20	0	396	1.01	3.223e-05	1	no rank	root
+95.24	20	0	396	1.01	3.223e-05	131567	no rank	  cellular organisms
+95.24	20	0	396	1.01	3.223e-05	2759	superkingdom	    Eukaryota
+95.24	20	0	396	1.01	3.223e-05	33154	clade	      Opisthokonta
+95.24	20	0	396	1.01	3.223e-05	33208	kingdom	        Metazoa
+95.24	20	0	396	1.01	3.223e-05	6072	clade	          Eumetazoa
+95.24	20	0	396	1.01	3.223e-05	33213	clade	            Bilateria
+95.24	20	0	396	1.01	3.223e-05	33511	clade	              Deuterostomia
+95.24	20	0	396	1.01	3.223e-05	7711	phylum	                Chordata
+95.24	20	0	396	1.01	3.223e-05	89593	subphylum	                  Craniata
+95.24	20	0	396	1.01	3.223e-05	7742	clade	                    Vertebrata
+95.24	20	0	396	1.01	3.223e-05	7776	clade	                      Gnathostomata
+95.24	20	0	396	1.01	3.223e-05	117570	clade	                        Teleostomi
+95.24	20	0	396	1.01	3.223e-05	117571	clade	                          Euteleostomi
+95.24	20	0	396	1.01	3.223e-05	8287	superclass	                            Sarcopterygii
+95.24	20	0	396	1.01	3.223e-05	1338369	clade	                              Dipnotetrapodomorpha
+95.24	20	0	396	1.01	3.223e-05	32523	clade	                                Tetrapoda
+95.24	20	0	396	1.01	3.223e-05	32524	clade	                                  Amniota
+95.24	20	0	396	1.01	3.223e-05	40674	class	                                    Mammalia
+95.24	20	0	364	1.01	2.973e-05	32525	clade	                                      Theria
+95.24	20	0	344	1.01	2.962e-05	9347	clade	                                        Eutheria
+95.24	20	1	322	1.01	2.966e-05	1437010	clade	                                          Boreoeutheria
+90.48	19	0	293	1.01	5.574e-05	314146	superorder	                                            Euarchontoglires
+90.48	19	0	291	1.01	0.0001595	9443	order	                                              Primates
+90.48	19	0	290	1.01	0.000238	376913	suborder	                                                Haplorrhini
+90.48	19	0	290	1.01	0.0002468	314293	infraorder	                                                  Simiiformes
+85.71	18	0	286	1.01	0.0004252	9526	parvorder	                                                    Catarrhini
+85.71	18	0	273	1.01	0.001955	314295	superfamily	                                                      Hominoidea
+85.71	18	0	247	1.01	0.003477	9604	family	                                                        Hominidae
+80.95	17	3	243	1.01	0.004831	207598	subfamily	                                                          Homininae
+57.14	12	7	149	1	0.009182	9605	genus	                                                            Homo
+23.81	5	2	49	1	0.005653	9606	species	                                                              Homo sapiens
+14.29	3	3	19	1	0.01039	63221	subspecies	                                                                Homo sapiens neanderthalensis
+9.524	2	0	21	1	0.001329	9592	genus	                                                            Gorilla
+4.762	1	1	18	1	0.002548	9593	species	                                                              Gorilla gorilla
+4.762	1	1	1	1	0.0001839	499232	species	                                                              Gorilla beringei
+4.762	1	0	4	1	0.000201	607660	subfamily	                                                          Ponginae
+4.762	1	1	4	1	0.000201	9599	genus	                                                            Pongo
+4.762	1	0	4	1	8.078e-06	9479	parvorder	                                                    Platyrrhini
+4.762	1	0	4	1	4.742e-05	378855	family	                                                      Atelidae
+4.762	1	0	4	1	0.0001178	38068	subfamily	                                                        Atelinae
+4.762	1	0	4	1	0.0004444	9518	genus	                                                          Lagothrix
+4.762	1	1	4	1	0.0004444	9519	species	                                                            Lagothrix lagotricha

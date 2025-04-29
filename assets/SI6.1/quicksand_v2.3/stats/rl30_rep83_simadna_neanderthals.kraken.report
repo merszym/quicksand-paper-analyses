@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:40Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ee/2b11272f60dc1a7dde806d8b2f1d00
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl30_rep83_simadna_neanderthals.kraken.report --output output.kraken rl30_rep83_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+16.67	5	5	317	1	NA	0	no rank	unclassified
+83.33	25	0	385	1.04	3.134e-05	1	no rank	root
+83.33	25	0	385	1.04	3.134e-05	131567	no rank	  cellular organisms
+83.33	25	0	385	1.04	3.134e-05	2759	superkingdom	    Eukaryota
+83.33	25	0	385	1.04	3.134e-05	33154	clade	      Opisthokonta
+83.33	25	0	385	1.04	3.134e-05	33208	kingdom	        Metazoa
+83.33	25	0	385	1.04	3.134e-05	6072	clade	          Eumetazoa
+83.33	25	0	385	1.04	3.134e-05	33213	clade	            Bilateria
+83.33	25	0	385	1.04	3.134e-05	33511	clade	              Deuterostomia
+83.33	25	0	385	1.04	3.134e-05	7711	phylum	                Chordata
+83.33	25	0	385	1.04	3.134e-05	89593	subphylum	                  Craniata
+83.33	25	0	385	1.04	3.134e-05	7742	clade	                    Vertebrata
+83.33	25	0	385	1.04	3.134e-05	7776	clade	                      Gnathostomata
+83.33	25	0	385	1.04	3.134e-05	117570	clade	                        Teleostomi
+83.33	25	0	385	1.04	3.134e-05	117571	clade	                          Euteleostomi
+83.33	25	0	385	1.04	3.134e-05	8287	superclass	                            Sarcopterygii
+83.33	25	0	385	1.04	3.134e-05	1338369	clade	                              Dipnotetrapodomorpha
+83.33	25	0	385	1.04	3.134e-05	32523	clade	                                Tetrapoda
+83.33	25	0	385	1.04	3.134e-05	32524	clade	                                  Amniota
+83.33	25	0	385	1.04	3.134e-05	40674	class	                                    Mammalia
+83.33	25	0	381	1.04	3.112e-05	32525	clade	                                      Theria
+83.33	25	0	365	1.04	3.143e-05	9347	clade	                                        Eutheria
+83.33	25	1	340	1.03	3.132e-05	1437010	clade	                                          Boreoeutheria
+80	24	1	316	1	6.011e-05	314146	superorder	                                            Euarchontoglires
+70	21	0	286	1	0.0001568	9443	order	                                              Primates
+70	21	0	284	1	0.0002331	376913	suborder	                                                Haplorrhini
+70	21	0	284	1	0.0002417	314293	infraorder	                                                  Simiiformes
+70	21	0	275	1	0.0004088	9526	parvorder	                                                    Catarrhini
+70	21	1	248	1	0.001776	314295	superfamily	                                                      Hominoidea
+66.67	20	0	234	1	0.003294	9604	family	                                                        Hominidae
+66.67	20	4	219	1	0.004354	207598	subfamily	                                                          Homininae
+53.33	16	9	164	1	0.01011	9605	genus	                                                            Homo
+23.33	7	2	78	1	0.008999	9606	species	                                                              Homo sapiens
+16.67	5	5	32	1	0.0175	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.667	2	0	3	1	9.159e-07	314147	clade	                                              Glires
+6.667	2	0	3	1	9.791e-07	9989	order	                                                Rodentia
+3.333	1	1	1	1	2.369e-06	33550	suborder	                                                  Hystricomorpha
+3.333	1	0	1	1	1.67e-06	33553	suborder	                                                  Sciuromorpha
+3.333	1	0	1	1	1.77e-06	55153	family	                                                    Sciuridae
+3.333	1	0	1	1	4.037e-06	9991	subfamily	                                                      Sciurinae
+3.333	1	0	1	1	5.404e-06	337752	tribe	                                                        Sciurini
+3.333	1	0	1	1	4.952e-05	2895727	genus	                                                          Echinosciurus
+3.333	1	1	1	1	0.0001514	1473542	species	                                                            Echinosciurus colliaei

@@ -1,0 +1,67 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:30:03Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/21/c7d618417e95d2389e990a638dd691
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl30_rep72_simadna_neanderthals.kraken.report --output output.kraken rl30_rep72_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+20	6	6	479	1	NA	0	no rank	unclassified
+80	24	0	427	1	3.476e-05	1	no rank	root
+80	24	0	427	1	3.476e-05	131567	no rank	  cellular organisms
+80	24	0	427	1	3.476e-05	2759	superkingdom	    Eukaryota
+80	24	0	427	1	3.476e-05	33154	clade	      Opisthokonta
+80	24	0	427	1	3.476e-05	33208	kingdom	        Metazoa
+80	24	0	427	1	3.476e-05	6072	clade	          Eumetazoa
+80	24	0	427	1	3.476e-05	33213	clade	            Bilateria
+80	24	0	427	1	3.476e-05	33511	clade	              Deuterostomia
+80	24	0	427	1	3.476e-05	7711	phylum	                Chordata
+80	24	0	427	1	3.476e-05	89593	subphylum	                  Craniata
+80	24	0	427	1	3.476e-05	7742	clade	                    Vertebrata
+80	24	0	427	1	3.476e-05	7776	clade	                      Gnathostomata
+80	24	0	427	1	3.476e-05	117570	clade	                        Teleostomi
+80	24	0	427	1	3.476e-05	117571	clade	                          Euteleostomi
+80	24	0	427	1	3.476e-05	8287	superclass	                            Sarcopterygii
+80	24	0	427	1	3.476e-05	1338369	clade	                              Dipnotetrapodomorpha
+80	24	0	427	1	3.476e-05	32523	clade	                                Tetrapoda
+80	24	0	427	1	3.476e-05	32524	clade	                                  Amniota
+80	24	0	427	1	3.476e-05	40674	class	                                    Mammalia
+80	24	0	427	1	3.488e-05	32525	clade	                                      Theria
+80	24	0	410	1	3.531e-05	9347	clade	                                        Eutheria
+76.67	23	0	373	1	3.436e-05	1437010	clade	                                          Boreoeutheria
+73.33	22	0	309	1	5.878e-05	314146	superorder	                                            Euarchontoglires
+66.67	20	0	287	1	0.0001573	9443	order	                                              Primates
+66.67	20	0	287	1	0.0002356	376913	suborder	                                                Haplorrhini
+66.67	20	0	287	1	0.0002443	314293	infraorder	                                                  Simiiformes
+66.67	20	1	280	1	0.0004162	9526	parvorder	                                                    Catarrhini
+60	18	1	223	1	0.001597	314295	superfamily	                                                      Hominoidea
+56.67	17	0	206	1	0.002899	9604	family	                                                        Hominidae
+56.67	17	0	190	1	0.003777	207598	subfamily	                                                          Homininae
+56.67	17	9	172	1	0.0106	9605	genus	                                                            Homo
+26.67	8	6	65	1	0.007499	9606	species	                                                              Homo sapiens
+6.667	2	2	10	1	0.005467	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.333	1	0	8	1	1.519e-05	314294	superfamily	                                                      Cercopithecoidea
+3.333	1	0	8	1	1.519e-05	9527	family	                                                        Cercopithecidae
+3.333	1	0	4	1	1.297e-05	9528	subfamily	                                                          Cercopithecinae
+3.333	1	0	4	1	0.0004043	9537	genus	                                                            Erythrocebus
+3.333	1	1	4	1	0.0004043	9538	species	                                                              Erythrocebus patas
+6.667	2	0	10	1	3.053e-06	314147	clade	                                              Glires
+6.667	2	0	10	1	3.264e-06	9989	order	                                                Rodentia
+6.667	2	0	10	1	5.36e-06	1963758	suborder	                                                  Myomorpha
+6.667	2	0	10	1	5.67e-06	337687	clade	                                                    Muroidea
+3.333	1	0	8	1	1.292e-05	337677	family	                                                      Cricetidae
+3.333	1	0	8	1	4.761e-05	337963	subfamily	                                                        Neotominae
+3.333	1	0	8	1	0.0001104	10040	genus	                                                          Peromyscus
+3.333	1	1	8	1	0.001093	246392	species	                                                            Peromyscus melanophrys
+3.333	1	0	2	1	2.086e-06	10066	family	                                                      Muridae
+3.333	1	0	2	1	2.297e-06	39107	subfamily	                                                        Murinae
+3.333	1	0	2	1	0.0002471	472706	genus	                                                          Micaelamys
+3.333	1	1	2	1	0.0002471	472707	species	                                                            Micaelamys namaquensis
+3.333	1	0	12	1	2.325e-06	314145	superorder	                                            Laurasiatheria
+3.333	1	0	8	1	5.462e-06	9397	order	                                              Chiroptera
+3.333	1	0	8	1	7.053e-06	30560	suborder	                                                Microchiroptera
+3.333	1	0	8	1	0.000229	186994	family	                                                  Hipposideridae
+3.333	1	0	8	1	0.000229	58068	genus	                                                    Hipposideros
+3.333	1	0	8	1	0.001044	354741	species group	                                                      Hipposideros larvatus sensu lato
+3.333	1	1	8	1	0.001044	175524	species	                                                        Hipposideros larvatus
+3.333	1	0	9	1	2.863e-05	9348	superorder	                                          Xenarthra
+3.333	1	0	9	1	5.67e-05	948950	order	                                            Pilosa
+3.333	1	0	9	1	7.415e-05	948953	suborder	                                              Folivora
+3.333	1	0	9	1	0.0002052	9352	family	                                                Bradypodidae
+3.333	1	0	9	1	0.0002052	9353	genus	                                                  Bradypus
+3.333	1	1	9	1	0.0008853	9355	species	                                                    Bradypus variegatus

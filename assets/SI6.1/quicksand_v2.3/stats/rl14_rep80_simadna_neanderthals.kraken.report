@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:22:35Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/27/18466da99f993ac6fa3f8106af5d2d
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl14_rep80_simadna_neanderthals.kraken.report --output output.kraken rl14_rep80_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+35.71	5	5	230	1	NA	0	no rank	unclassified
+64.29	9	0	150	1	1.221e-05	1	no rank	root
+64.29	9	0	150	1	1.221e-05	131567	no rank	  cellular organisms
+64.29	9	0	150	1	1.221e-05	2759	superkingdom	    Eukaryota
+64.29	9	0	150	1	1.221e-05	33154	clade	      Opisthokonta
+64.29	9	0	150	1	1.221e-05	33208	kingdom	        Metazoa
+64.29	9	0	150	1	1.221e-05	6072	clade	          Eumetazoa
+64.29	9	0	150	1	1.221e-05	33213	clade	            Bilateria
+64.29	9	0	150	1	1.221e-05	33511	clade	              Deuterostomia
+64.29	9	0	150	1	1.221e-05	7711	phylum	                Chordata
+64.29	9	0	150	1	1.221e-05	89593	subphylum	                  Craniata
+64.29	9	0	150	1	1.221e-05	7742	clade	                    Vertebrata
+64.29	9	0	150	1	1.221e-05	7776	clade	                      Gnathostomata
+64.29	9	0	150	1	1.221e-05	117570	clade	                        Teleostomi
+64.29	9	0	150	1	1.221e-05	117571	clade	                          Euteleostomi
+64.29	9	0	150	1	1.221e-05	8287	superclass	                            Sarcopterygii
+64.29	9	0	150	1	1.221e-05	1338369	clade	                              Dipnotetrapodomorpha
+64.29	9	0	150	1	1.221e-05	32523	clade	                                Tetrapoda
+64.29	9	0	150	1	1.221e-05	32524	clade	                                  Amniota
+64.29	9	0	150	1	1.221e-05	40674	class	                                    Mammalia
+64.29	9	1	150	1	1.225e-05	32525	clade	                                      Theria
+57.14	8	0	136	1	1.171e-05	9347	clade	                                        Eutheria
+57.14	8	0	134	1	1.234e-05	1437010	clade	                                          Boreoeutheria
+57.14	8	0	124	1	2.359e-05	314146	superorder	                                            Euarchontoglires
+50	7	0	123	1	6.742e-05	9443	order	                                              Primates
+50	7	0	123	1	0.000101	376913	suborder	                                                Haplorrhini
+50	7	0	123	1	0.0001047	314293	infraorder	                                                  Simiiformes
+50	7	0	110	1	0.0001635	9526	parvorder	                                                    Catarrhini
+50	7	0	90	1	0.0006445	314295	superfamily	                                                      Hominoidea
+50	7	0	85	1	0.001196	9604	family	                                                        Hominidae
+50	7	1	84	1	0.00167	207598	subfamily	                                                          Homininae
+42.86	6	2	72	1	0.004437	9605	genus	                                                            Homo
+28.57	4	2	22	1	0.002538	9606	species	                                                              Homo sapiens
+7.143	1	1	3	1	0.00164	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.143	1	1	1	1	0.0003837	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+7.143	1	0	1	1	3.053e-07	314147	clade	                                              Glires
+7.143	1	0	1	1	3.264e-07	9989	order	                                                Rodentia
+7.143	1	0	1	1	1.67e-06	33553	suborder	                                                  Sciuromorpha
+7.143	1	0	1	1	1.77e-06	55153	family	                                                    Sciuridae
+7.143	1	0	1	1	4.037e-06	9991	subfamily	                                                      Sciurinae
+7.143	1	0	1	1	5.404e-06	337752	tribe	                                                        Sciurini
+7.143	1	1	1	1	0.0001174	2895725	genus	                                                          Parasciurus

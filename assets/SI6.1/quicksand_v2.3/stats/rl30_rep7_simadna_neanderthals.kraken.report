@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:23Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/4c/fdce679747f9ebddbeee7397edfff9
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl30_rep7_simadna_neanderthals.kraken.report --output output.kraken rl30_rep7_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+6.667	2	2	430	1	NA	0	no rank	unclassified
+93.33	28	0	389	1.04	3.166e-05	1	no rank	root
+93.33	28	0	389	1.04	3.166e-05	131567	no rank	  cellular organisms
+93.33	28	0	389	1.04	3.166e-05	2759	superkingdom	    Eukaryota
+93.33	28	0	389	1.04	3.166e-05	33154	clade	      Opisthokonta
+93.33	28	0	389	1.04	3.166e-05	33208	kingdom	        Metazoa
+93.33	28	0	389	1.04	3.166e-05	6072	clade	          Eumetazoa
+93.33	28	0	389	1.04	3.166e-05	33213	clade	            Bilateria
+93.33	28	0	389	1.04	3.166e-05	33511	clade	              Deuterostomia
+93.33	28	0	389	1.04	3.166e-05	7711	phylum	                Chordata
+93.33	28	0	389	1.04	3.166e-05	89593	subphylum	                  Craniata
+93.33	28	0	389	1.04	3.166e-05	7742	clade	                    Vertebrata
+93.33	28	0	389	1.04	3.166e-05	7776	clade	                      Gnathostomata
+93.33	28	0	389	1.04	3.166e-05	117570	clade	                        Teleostomi
+93.33	28	0	389	1.04	3.166e-05	117571	clade	                          Euteleostomi
+93.33	28	0	389	1.04	3.166e-05	8287	superclass	                            Sarcopterygii
+93.33	28	0	389	1.04	3.166e-05	1338369	clade	                              Dipnotetrapodomorpha
+93.33	28	0	389	1.04	3.166e-05	32523	clade	                                Tetrapoda
+93.33	28	0	389	1.04	3.166e-05	32524	clade	                                  Amniota
+93.33	28	0	389	1.04	3.166e-05	40674	class	                                    Mammalia
+93.33	28	0	382	1.04	3.121e-05	32525	clade	                                      Theria
+93.33	28	1	368	1.04	3.169e-05	9347	clade	                                        Eutheria
+90	27	0	347	1.04	3.197e-05	1437010	clade	                                          Boreoeutheria
+86.67	26	0	312	1.04	5.935e-05	314146	superorder	                                            Euarchontoglires
+86.67	26	0	296	1.04	0.0001622	9443	order	                                              Primates
+86.67	26	0	292	1.04	0.0002397	376913	suborder	                                                Haplorrhini
+86.67	26	0	292	1.04	0.0002485	314293	infraorder	                                                  Simiiformes
+83.33	25	0	271	1.04	0.0004029	9526	parvorder	                                                    Catarrhini
+80	24	0	255	1.05	0.001826	314295	superfamily	                                                      Hominoidea
+80	24	0	250	1.05	0.003519	9604	family	                                                        Hominidae
+80	24	4	230	1.05	0.004573	207598	subfamily	                                                          Homininae
+63.33	19	9	168	1.07	0.01035	9605	genus	                                                            Homo
+33.33	10	4	73	1	0.008422	9606	species	                                                              Homo sapiens
+20	6	6	36	1	0.01968	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.333	1	1	3	1	0.0002045	9596	genus	                                                            Pan
+3.333	1	0	6	1	1.139e-05	314294	superfamily	                                                      Cercopithecoidea
+3.333	1	0	6	1	1.139e-05	9527	family	                                                        Cercopithecidae
+3.333	1	0	6	1	2.886e-05	9569	subfamily	                                                          Colobinae
+3.333	1	0	6	1	0.0009079	43779	genus	                                                            Nasalis
+3.333	1	1	6	1	0.0009079	43780	species	                                                              Nasalis larvatus
+3.333	1	0	1	1	2.02e-06	9479	parvorder	                                                    Platyrrhini
+3.333	1	0	1	1	1.185e-05	378855	family	                                                      Atelidae
+3.333	1	0	1	1	2.945e-05	38068	subfamily	                                                        Atelinae
+3.333	1	1	1	1	4.072e-05	9506	genus	                                                          Ateles
+3.333	1	0	4	1	7.749e-07	314145	superorder	                                            Laurasiatheria
+3.333	1	0	1	1	7.828e-07	33554	order	                                              Carnivora
+3.333	1	1	1	1	2.096e-06	379583	suborder	                                                Feliformia

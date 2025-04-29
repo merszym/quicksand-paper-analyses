@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:28Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/6b/16843eef7ba237d03e40fe20a37044
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl25_rep14_simadna_neanderthals.kraken.report --output output.kraken rl25_rep14_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+20	5	5	436	1	NA	0	no rank	unclassified
+80	20	0	266	1	2.165e-05	1	no rank	root
+80	20	0	266	1	2.165e-05	131567	no rank	  cellular organisms
+80	20	0	266	1	2.165e-05	2759	superkingdom	    Eukaryota
+80	20	0	266	1	2.165e-05	33154	clade	      Opisthokonta
+80	20	0	266	1	2.165e-05	33208	kingdom	        Metazoa
+80	20	0	266	1	2.165e-05	6072	clade	          Eumetazoa
+80	20	0	266	1	2.165e-05	33213	clade	            Bilateria
+80	20	0	266	1	2.165e-05	33511	clade	              Deuterostomia
+80	20	0	266	1	2.165e-05	7711	phylum	                Chordata
+80	20	0	266	1	2.165e-05	89593	subphylum	                  Craniata
+80	20	0	266	1	2.165e-05	7742	clade	                    Vertebrata
+80	20	0	266	1	2.165e-05	7776	clade	                      Gnathostomata
+80	20	0	266	1	2.165e-05	117570	clade	                        Teleostomi
+80	20	0	266	1	2.165e-05	117571	clade	                          Euteleostomi
+80	20	0	266	1	2.165e-05	8287	superclass	                            Sarcopterygii
+80	20	0	266	1	2.165e-05	1338369	clade	                              Dipnotetrapodomorpha
+80	20	0	266	1	2.165e-05	32523	clade	                                Tetrapoda
+80	20	0	266	1	2.165e-05	32524	clade	                                  Amniota
+80	20	0	266	1	2.165e-05	40674	class	                                    Mammalia
+80	20	0	266	1	2.173e-05	32525	clade	                                      Theria
+80	20	1	260	1	2.239e-05	9347	clade	                                        Eutheria
+76	19	1	236	1	2.174e-05	1437010	clade	                                          Boreoeutheria
+72	18	1	171	1	3.253e-05	314146	superorder	                                            Euarchontoglires
+64	16	0	152	1	8.332e-05	9443	order	                                              Primates
+64	16	0	150	1	0.0001231	376913	suborder	                                                Haplorrhini
+64	16	1	150	1	0.0001277	314293	infraorder	                                                  Simiiformes
+60	15	1	145	1	0.0002156	9526	parvorder	                                                    Catarrhini
+56	14	1	129	1	0.0009238	314295	superfamily	                                                      Hominoidea
+52	13	0	114	1	0.001605	9604	family	                                                        Hominidae
+52	13	3	114	1	0.002266	207598	subfamily	                                                          Homininae
+36	9	2	58	1	0.003574	9605	genus	                                                            Homo
+28	7	6	49	1	0.005653	9606	species	                                                              Homo sapiens
+4	1	1	8	1	0.004374	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4	1	0	6	1	0.0004091	9596	genus	                                                            Pan
+4	1	1	6	1	0.0009817	9598	species	                                                              Pan troglodytes
+4	1	0	1	1	3.053e-07	314147	clade	                                              Glires
+4	1	0	1	1	3.264e-07	9989	order	                                                Rodentia
+4	1	0	1	1	5.36e-07	1963758	suborder	                                                  Myomorpha
+4	1	0	1	1	5.67e-07	337687	clade	                                                    Muroidea
+4	1	0	1	1	1.043e-06	10066	family	                                                      Muridae
+4	1	0	1	1	1.149e-06	39107	subfamily	                                                        Murinae
+4	1	0	1	1	2.597e-05	10111	genus	                                                          Praomys
+4	1	1	1	1	0.0001652	209864	species	                                                            Praomys hartwigi

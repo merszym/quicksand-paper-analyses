@@ -1,0 +1,53 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:15Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/6b/bd6c86c91d224f3ef860e8b174b8ef
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl28_rep74_simadna_neanderthals.kraken.report --output output.kraken rl28_rep74_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+17.86	5	5	406	1	NA	0	no rank	unclassified
+82.14	23	0	450	1	3.663e-05	1	no rank	root
+82.14	23	0	450	1	3.663e-05	131567	no rank	  cellular organisms
+82.14	23	0	450	1	3.663e-05	2759	superkingdom	    Eukaryota
+82.14	23	0	450	1	3.663e-05	33154	clade	      Opisthokonta
+82.14	23	0	450	1	3.663e-05	33208	kingdom	        Metazoa
+82.14	23	0	450	1	3.663e-05	6072	clade	          Eumetazoa
+82.14	23	0	450	1	3.663e-05	33213	clade	            Bilateria
+82.14	23	0	450	1	3.663e-05	33511	clade	              Deuterostomia
+82.14	23	0	450	1	3.663e-05	7711	phylum	                Chordata
+82.14	23	0	450	1	3.663e-05	89593	subphylum	                  Craniata
+82.14	23	0	450	1	3.663e-05	7742	clade	                    Vertebrata
+82.14	23	0	450	1	3.663e-05	7776	clade	                      Gnathostomata
+82.14	23	0	450	1	3.663e-05	117570	clade	                        Teleostomi
+82.14	23	0	450	1	3.663e-05	117571	clade	                          Euteleostomi
+82.14	23	0	450	1	3.663e-05	8287	superclass	                            Sarcopterygii
+82.14	23	0	450	1	3.663e-05	1338369	clade	                              Dipnotetrapodomorpha
+82.14	23	0	450	1	3.663e-05	32523	clade	                                Tetrapoda
+82.14	23	0	450	1	3.663e-05	32524	clade	                                  Amniota
+82.14	23	0	450	1	3.663e-05	40674	class	                                    Mammalia
+82.14	23	0	450	1	3.676e-05	32525	clade	                                      Theria
+82.14	23	0	440	1	3.789e-05	9347	clade	                                        Eutheria
+82.14	23	0	381	1	3.51e-05	1437010	clade	                                          Boreoeutheria
+78.57	22	1	315	1	5.992e-05	314146	superorder	                                            Euarchontoglires
+75	21	0	288	1	0.0001579	9443	order	                                              Primates
+75	21	0	283	1	0.0002323	376913	suborder	                                                Haplorrhini
+75	21	1	283	1	0.0002409	314293	infraorder	                                                  Simiiformes
+67.86	19	0	261	1	0.000388	9526	parvorder	                                                    Catarrhini
+64.29	18	1	230	1	0.001647	314295	superfamily	                                                      Hominoidea
+60.71	17	0	205	1	0.002885	9604	family	                                                        Hominidae
+60.71	17	1	199	1	0.003956	207598	subfamily	                                                          Homininae
+53.57	15	8	159	1	0.009798	9605	genus	                                                            Homo
+25	7	6	52	1	0.005999	9606	species	                                                              Homo sapiens
+3.571	1	1	3	1	0.00164	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.571	1	1	5	1	0.0003164	9592	genus	                                                            Gorilla
+3.571	1	0	14	1	2.658e-05	314294	superfamily	                                                      Cercopithecoidea
+3.571	1	0	14	1	2.658e-05	9527	family	                                                        Cercopithecidae
+3.571	1	0	11	1	3.567e-05	9528	subfamily	                                                          Cercopithecinae
+3.571	1	1	1	1	2.866e-05	392815	genus	                                                            Chlorocebus
+3.571	1	0	15	1	3.029e-05	9479	parvorder	                                                    Platyrrhini
+3.571	1	0	13	1	0.0001541	378855	family	                                                      Atelidae
+3.571	1	0	13	1	0.0002647	38066	subfamily	                                                        Alouattinae
+3.571	1	1	13	1	0.0002647	9499	genus	                                                          Alouatta
+3.571	1	0	5	1	9.687e-07	314145	superorder	                                            Laurasiatheria
+3.571	1	0	3	1	2.097e-06	91561	order	                                              Artiodactyla
+3.571	1	0	3	1	3.304e-06	9845	suborder	                                                Ruminantia
+3.571	1	0	2	1	5.618e-05	35499	infraorder	                                                  Tragulina
+3.571	1	0	2	1	5.618e-05	9846	family	                                                    Tragulidae
+3.571	1	0	2	1	0.000215	666914	genus	                                                      Hyemoschus
+3.571	1	1	2	1	0.000215	666915	species	                                                        Hyemoschus aquaticus

@@ -1,0 +1,58 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:56Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/95/340ccd9b355705861f03a5360843bb
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl27_rep12_simadna_neanderthals.kraken.report --output output.kraken rl27_rep12_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+22.22	6	6	295	1	NA	0	no rank	unclassified
+77.78	21	0	406	1.04	3.305e-05	1	no rank	root
+77.78	21	0	406	1.04	3.305e-05	131567	no rank	  cellular organisms
+77.78	21	0	406	1.04	3.305e-05	2759	superkingdom	    Eukaryota
+77.78	21	0	406	1.04	3.305e-05	33154	clade	      Opisthokonta
+77.78	21	0	406	1.04	3.305e-05	33208	kingdom	        Metazoa
+77.78	21	0	406	1.04	3.305e-05	6072	clade	          Eumetazoa
+77.78	21	0	406	1.04	3.305e-05	33213	clade	            Bilateria
+77.78	21	0	406	1.04	3.305e-05	33511	clade	              Deuterostomia
+77.78	21	0	406	1.04	3.305e-05	7711	phylum	                Chordata
+77.78	21	0	406	1.04	3.305e-05	89593	subphylum	                  Craniata
+77.78	21	0	406	1.04	3.305e-05	7742	clade	                    Vertebrata
+77.78	21	0	406	1.04	3.305e-05	7776	clade	                      Gnathostomata
+77.78	21	0	406	1.04	3.305e-05	117570	clade	                        Teleostomi
+77.78	21	0	406	1.04	3.305e-05	117571	clade	                          Euteleostomi
+77.78	21	0	406	1.04	3.305e-05	8287	superclass	                            Sarcopterygii
+77.78	21	0	406	1.04	3.305e-05	1338369	clade	                              Dipnotetrapodomorpha
+77.78	21	0	406	1.04	3.305e-05	32523	clade	                                Tetrapoda
+77.78	21	0	406	1.04	3.305e-05	32524	clade	                                  Amniota
+77.78	21	0	406	1.04	3.305e-05	40674	class	                                    Mammalia
+77.78	21	1	406	1.04	3.317e-05	32525	clade	                                      Theria
+74.07	20	0	389	1.04	3.35e-05	9347	clade	                                        Eutheria
+74.07	20	1	383	1.04	3.528e-05	1437010	clade	                                          Boreoeutheria
+62.96	17	0	325	1.04	6.182e-05	314146	superorder	                                            Euarchontoglires
+62.96	17	0	318	1.04	0.0001743	9443	order	                                              Primates
+59.26	16	0	313	1.04	0.0002569	376913	suborder	                                                Haplorrhini
+59.26	16	0	313	1.04	0.0002664	314293	infraorder	                                                  Simiiformes
+55.56	15	0	307	1.04	0.0004564	9526	parvorder	                                                    Catarrhini
+55.56	15	0	283	1.04	0.002027	314295	superfamily	                                                      Hominoidea
+55.56	15	0	258	1.04	0.003631	9604	family	                                                        Hominidae
+55.56	15	0	248	1.04	0.00493	207598	subfamily	                                                          Homininae
+55.56	15	3	192	1.06	0.01183	9605	genus	                                                            Homo
+44.44	12	6	130	1.08	0.015	9606	species	                                                              Homo sapiens
+22.22	6	6	68	1.15	0.03718	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.704	1	0	5	1	1.01e-05	9479	parvorder	                                                    Platyrrhini
+3.704	1	0	5	1	2.271e-05	9498	family	                                                      Cebidae
+3.704	1	0	5	1	0.0001518	38070	subfamily	                                                        Cebinae
+3.704	1	0	5	1	0.0003328	9513	genus	                                                          Cebus
+3.704	1	1	3	1	0.0005483	1985288	species	                                                            Cebus unicolor
+3.704	1	0	3	1	5.01e-06	376911	suborder	                                                Strepsirrhini
+3.704	1	0	3	1	5.871e-06	376915	infraorder	                                                  Lemuriformes
+3.704	1	0	2	1	1.19e-05	30614	family	                                                    Lepilemuridae
+3.704	1	1	2	1	1.271e-05	9452	genus	                                                      Lepilemur
+7.407	2	0	7	1	1.356e-06	314145	superorder	                                            Laurasiatheria
+3.704	1	0	4	1	6.746e-06	9362	order	                                              Eulipotyphla
+3.704	1	0	4	1	1.104e-05	9376	family	                                                Soricidae
+3.704	1	0	3	1	2.405e-05	183662	subfamily	                                                  Crocidurinae
+3.704	1	0	3	1	2.645e-05	36801	genus	                                                    Crocidura
+3.704	1	1	3	1	0.0003275	109474	species	                                                      Crocidura leucodon
+3.704	1	0	2	1	1.566e-06	33554	order	                                              Carnivora
+3.704	1	0	2	1	4.193e-06	379583	suborder	                                                Feliformia
+3.704	1	0	2	1	9.647e-06	9681	family	                                                  Felidae
+3.704	1	0	2	1	0.000403	338151	subfamily	                                                    Acinonychinae
+3.704	1	0	2	1	0.000403	32535	genus	                                                      Acinonyx
+3.704	1	1	2	1	0.000403	32536	species	                                                        Acinonyx jubatus

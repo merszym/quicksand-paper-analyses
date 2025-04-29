@@ -1,0 +1,62 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:32Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/46/53e9827dde4df2b6a5b2a77f9b2766
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl22_rep77_simadna_neanderthals.kraken.report --output output.kraken rl22_rep77_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+9.091	2	2	267	1	NA	0	no rank	unclassified
+90.91	20	0	441	1	3.59e-05	1	no rank	root
+90.91	20	0	441	1	3.59e-05	131567	no rank	  cellular organisms
+90.91	20	0	441	1	3.59e-05	2759	superkingdom	    Eukaryota
+90.91	20	0	441	1	3.59e-05	33154	clade	      Opisthokonta
+90.91	20	0	441	1	3.59e-05	33208	kingdom	        Metazoa
+90.91	20	0	441	1	3.59e-05	6072	clade	          Eumetazoa
+90.91	20	0	441	1	3.59e-05	33213	clade	            Bilateria
+90.91	20	0	441	1	3.59e-05	33511	clade	              Deuterostomia
+90.91	20	0	441	1	3.59e-05	7711	phylum	                Chordata
+90.91	20	0	441	1	3.59e-05	89593	subphylum	                  Craniata
+90.91	20	0	441	1	3.59e-05	7742	clade	                    Vertebrata
+90.91	20	0	441	1	3.59e-05	7776	clade	                      Gnathostomata
+90.91	20	0	441	1	3.59e-05	117570	clade	                        Teleostomi
+90.91	20	0	441	1	3.59e-05	117571	clade	                          Euteleostomi
+90.91	20	0	441	1	3.59e-05	8287	superclass	                            Sarcopterygii
+90.91	20	0	441	1	3.59e-05	1338369	clade	                              Dipnotetrapodomorpha
+90.91	20	0	441	1	3.59e-05	32523	clade	                                Tetrapoda
+90.91	20	0	441	1	3.59e-05	32524	clade	                                  Amniota
+90.91	20	0	441	1	3.59e-05	40674	class	                                    Mammalia
+90.91	20	0	438	1	3.578e-05	32525	clade	                                      Theria
+90.91	20	0	385	1	3.315e-05	9347	clade	                                        Eutheria
+90.91	20	0	352	1	3.243e-05	1437010	clade	                                          Boreoeutheria
+86.36	19	0	273	1	5.193e-05	314146	superorder	                                            Euarchontoglires
+77.27	17	0	254	1	0.0001392	9443	order	                                              Primates
+77.27	17	0	253	1	0.0002077	376913	suborder	                                                Haplorrhini
+77.27	17	0	253	1	0.0002153	314293	infraorder	                                                  Simiiformes
+77.27	17	2	239	1	0.0003553	9526	parvorder	                                                    Catarrhini
+63.64	14	0	226	1	0.001619	314295	superfamily	                                                      Hominoidea
+63.64	14	0	226	1	0.003181	9604	family	                                                        Hominidae
+63.64	14	1	224	1	0.004453	207598	subfamily	                                                          Homininae
+59.09	13	2	191	1	0.01177	9605	genus	                                                            Homo
+45.45	10	5	133	1	0.01534	9606	species	                                                              Homo sapiens
+18.18	4	4	51	1	0.02788	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.545	1	1	10	1	0.003837	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4.545	1	1	6	1	0.00546	1425170	species	                                                              Homo heidelbergensis
+4.545	1	0	4	1	7.594e-06	314294	superfamily	                                                      Cercopithecoidea
+4.545	1	0	4	1	7.594e-06	9527	family	                                                        Cercopithecidae
+4.545	1	0	4	1	1.924e-05	9569	subfamily	                                                          Colobinae
+4.545	1	0	4	1	0.0001859	54132	genus	                                                            Pygathrix
+4.545	1	1	4	1	0.001239	1194332	species	                                                              Pygathrix cinerea 1 RL-2012
+9.091	2	0	8	1	2.442e-06	314147	clade	                                              Glires
+9.091	2	0	8	1	2.611e-06	9989	order	                                                Rodentia
+9.091	2	0	8	1	4.288e-06	1963758	suborder	                                                  Myomorpha
+9.091	2	0	8	1	4.536e-06	337687	clade	                                                    Muroidea
+4.545	1	0	7	1	1.131e-05	337677	family	                                                      Cricetidae
+4.545	1	0	7	1	2.445e-05	39087	subfamily	                                                        Arvicolinae
+4.545	1	0	6	1	6.299e-05	10053	genus	                                                          Microtus
+4.545	1	1	4	1	0.0005532	100899	species	                                                            Microtus kikuchii
+4.545	1	0	1	1	1.043e-06	10066	family	                                                      Muridae
+4.545	1	1	1	1	1.149e-06	39107	subfamily	                                                        Murinae
+4.545	1	0	6	1	1.162e-06	314145	superorder	                                            Laurasiatheria
+4.545	1	0	5	1	3.496e-06	91561	order	                                              Artiodactyla
+4.545	1	0	5	1	5.506e-06	9845	suborder	                                                Ruminantia
+4.545	1	0	5	1	5.749e-06	35500	infraorder	                                                  Pecora
+4.545	1	0	5	1	8.594e-06	9895	family	                                                    Bovidae
+4.545	1	0	5	1	3.725e-05	9963	subfamily	                                                      Caprinae
+4.545	1	0	5	1	0.0003254	34870	genus	                                                        Naemorhedus
+4.545	1	1	5	1	0.001711	34871	species	                                                          Naemorhedus goral

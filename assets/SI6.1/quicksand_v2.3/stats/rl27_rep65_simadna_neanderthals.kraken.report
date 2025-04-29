@@ -1,0 +1,59 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:39Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/eb/0300a7ab073dbc4863e081f0c6e025
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl27_rep65_simadna_neanderthals.kraken.report --output output.kraken rl27_rep65_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+11.11	3	3	396	1.01	NA	0	no rank	unclassified
+88.89	24	0	387	1.01	3.15e-05	1	no rank	root
+88.89	24	0	387	1.01	3.15e-05	131567	no rank	  cellular organisms
+88.89	24	0	387	1.01	3.15e-05	2759	superkingdom	    Eukaryota
+88.89	24	0	387	1.01	3.15e-05	33154	clade	      Opisthokonta
+88.89	24	0	387	1.01	3.15e-05	33208	kingdom	        Metazoa
+88.89	24	0	387	1.01	3.15e-05	6072	clade	          Eumetazoa
+88.89	24	0	387	1.01	3.15e-05	33213	clade	            Bilateria
+88.89	24	0	387	1.01	3.15e-05	33511	clade	              Deuterostomia
+88.89	24	0	387	1.01	3.15e-05	7711	phylum	                Chordata
+88.89	24	0	387	1.01	3.15e-05	89593	subphylum	                  Craniata
+88.89	24	0	387	1.01	3.15e-05	7742	clade	                    Vertebrata
+88.89	24	0	387	1.01	3.15e-05	7776	clade	                      Gnathostomata
+88.89	24	0	387	1.01	3.15e-05	117570	clade	                        Teleostomi
+88.89	24	0	387	1.01	3.15e-05	117571	clade	                          Euteleostomi
+88.89	24	0	387	1.01	3.15e-05	8287	superclass	                            Sarcopterygii
+88.89	24	0	387	1.01	3.15e-05	1338369	clade	                              Dipnotetrapodomorpha
+88.89	24	0	387	1.01	3.15e-05	32523	clade	                                Tetrapoda
+88.89	24	0	387	1.01	3.15e-05	32524	clade	                                  Amniota
+88.89	24	0	387	1.01	3.15e-05	40674	class	                                    Mammalia
+88.89	24	0	382	1.01	3.121e-05	32525	clade	                                      Theria
+88.89	24	1	364	1.01	3.135e-05	9347	clade	                                        Eutheria
+85.19	23	0	322	1.01	2.966e-05	1437010	clade	                                          Boreoeutheria
+81.48	22	0	280	1	5.326e-05	314146	superorder	                                            Euarchontoglires
+77.78	21	0	259	1	0.000142	9443	order	                                              Primates
+77.78	21	0	258	1	0.0002118	376913	suborder	                                                Haplorrhini
+77.78	21	0	258	1	0.0002196	314293	infraorder	                                                  Simiiformes
+77.78	21	0	247	1	0.0003672	9526	parvorder	                                                    Catarrhini
+70.37	19	0	215	1	0.00154	314295	superfamily	                                                      Hominoidea
+70.37	19	2	215	1	0.003026	9604	family	                                                        Hominidae
+62.96	17	1	206	1	0.004095	207598	subfamily	                                                          Homininae
+59.26	16	6	161	1	0.009921	9605	genus	                                                            Homo
+37.04	10	4	84	1	0.009691	9606	species	                                                              Homo sapiens
+22.22	6	6	51	1	0.02788	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.407	2	0	11	1	2.088e-05	314294	superfamily	                                                      Cercopithecoidea
+7.407	2	0	11	1	2.088e-05	9527	family	                                                        Cercopithecidae
+3.704	1	0	8	1	3.848e-05	9569	subfamily	                                                          Colobinae
+3.704	1	1	8	1	0.0001056	54136	genus	                                                            Trachypithecus
+3.704	1	0	3	1	9.729e-06	9528	subfamily	                                                          Cercopithecinae
+3.704	1	0	1	1	0.0001097	75565	genus	                                                            Lophocebus
+3.704	1	1	1	1	0.0001097	75566	species	                                                              Lophocebus aterrimus
+3.704	1	0	6	1	1.832e-06	314147	clade	                                              Glires
+3.704	1	0	3	1	9.791e-07	9989	order	                                                Rodentia
+3.704	1	0	3	1	1.608e-06	1963758	suborder	                                                  Myomorpha
+3.704	1	0	3	1	1.701e-06	337687	clade	                                                    Muroidea
+3.704	1	0	3	1	4.846e-06	337677	family	                                                      Cricetidae
+3.704	1	0	3	1	1.048e-05	39087	subfamily	                                                        Arvicolinae
+3.704	1	0	3	1	3.15e-05	10053	genus	                                                          Microtus
+3.704	1	1	3	1	0.0004727	537919	species	                                                            Microtus rossiaemeridionalis
+3.704	1	0	1	1	1.937e-07	314145	superorder	                                            Laurasiatheria
+3.704	1	0	1	1	6.991e-07	91561	order	                                              Artiodactyla
+3.704	1	0	1	1	2.479e-06	2653789	suborder	                                                Whippomorpha
+3.704	1	0	1	1	2.589e-06	9721	infraorder	                                                  Cetacea
+3.704	1	0	1	1	3.344e-06	9722	parvorder	                                                    Odontoceti
+3.704	1	0	1	1	3.672e-05	9750	family	                                                      Physeteridae
+3.704	1	1	1	1	5.664e-05	9751	genus	                                                        Kogia

@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:02Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/cf/996c29341c571a11e2f3437b423173
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl22_rep87_simadna_neanderthals.kraken.report --output output.kraken rl22_rep87_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+9.091	2	2	220	1	NA	0	no rank	unclassified
+90.91	20	0	405	1	3.297e-05	1	no rank	root
+90.91	20	0	405	1	3.297e-05	131567	no rank	  cellular organisms
+90.91	20	0	405	1	3.297e-05	2759	superkingdom	    Eukaryota
+90.91	20	0	405	1	3.297e-05	33154	clade	      Opisthokonta
+90.91	20	0	405	1	3.297e-05	33208	kingdom	        Metazoa
+90.91	20	0	405	1	3.297e-05	6072	clade	          Eumetazoa
+90.91	20	0	405	1	3.297e-05	33213	clade	            Bilateria
+90.91	20	0	405	1	3.297e-05	33511	clade	              Deuterostomia
+90.91	20	0	405	1	3.297e-05	7711	phylum	                Chordata
+90.91	20	0	405	1	3.297e-05	89593	subphylum	                  Craniata
+90.91	20	0	405	1	3.297e-05	7742	clade	                    Vertebrata
+90.91	20	0	405	1	3.297e-05	7776	clade	                      Gnathostomata
+90.91	20	0	405	1	3.297e-05	117570	clade	                        Teleostomi
+90.91	20	0	405	1	3.297e-05	117571	clade	                          Euteleostomi
+90.91	20	0	405	1	3.297e-05	8287	superclass	                            Sarcopterygii
+90.91	20	0	405	1	3.297e-05	1338369	clade	                              Dipnotetrapodomorpha
+90.91	20	0	405	1	3.297e-05	32523	clade	                                Tetrapoda
+90.91	20	0	405	1	3.297e-05	32524	clade	                                  Amniota
+90.91	20	0	405	1	3.297e-05	40674	class	                                    Mammalia
+90.91	20	0	405	1	3.308e-05	32525	clade	                                      Theria
+90.91	20	1	392	1	3.376e-05	9347	clade	                                        Eutheria
+86.36	19	1	351	1	3.233e-05	1437010	clade	                                          Boreoeutheria
+81.82	18	0	321	1	6.106e-05	314146	superorder	                                            Euarchontoglires
+77.27	17	0	311	1	0.0001705	9443	order	                                              Primates
+77.27	17	0	306	1	0.0002512	376913	suborder	                                                Haplorrhini
+77.27	17	0	306	1	0.0002605	314293	infraorder	                                                  Simiiformes
+77.27	17	0	305	1	0.0004534	9526	parvorder	                                                    Catarrhini
+77.27	17	0	293	1	0.002098	314295	superfamily	                                                      Hominoidea
+77.27	17	0	293	1	0.004124	9604	family	                                                        Hominidae
+77.27	17	2	293	1	0.005825	207598	subfamily	                                                          Homininae
+68.18	15	6	250	1	0.01541	9605	genus	                                                            Homo
+36.36	8	4	96	1	0.01108	9606	species	                                                              Homo sapiens
+13.64	3	3	9	1	0.004921	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.545	1	1	20	1	0.007675	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4.545	1	1	1	1	0.0009099	1425170	species	                                                              Homo heidelbergensis
+4.545	1	0	7	1	2.137e-06	314147	clade	                                              Glires
+4.545	1	0	7	1	3.483e-05	9975	order	                                                Lagomorpha
+4.545	1	0	7	1	6.433e-05	9979	family	                                                  Leporidae
+4.545	1	0	7	1	0.0006886	48082	genus	                                                    Brachylagus
+4.545	1	1	7	1	0.0006886	48083	species	                                                      Brachylagus idahoensis

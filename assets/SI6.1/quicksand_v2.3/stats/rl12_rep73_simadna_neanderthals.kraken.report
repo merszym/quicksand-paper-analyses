@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:32Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/8c/e364c9268b98f35a205238c6eaebaf
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl12_rep73_simadna_neanderthals.kraken.report --output output.kraken rl12_rep73_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	12	0	194	1	1.579e-05	1	no rank	root
+100	12	0	194	1	1.579e-05	131567	no rank	  cellular organisms
+100	12	0	194	1	1.579e-05	2759	superkingdom	    Eukaryota
+100	12	0	194	1	1.579e-05	33154	clade	      Opisthokonta
+100	12	0	194	1	1.579e-05	33208	kingdom	        Metazoa
+100	12	0	194	1	1.579e-05	6072	clade	          Eumetazoa
+100	12	0	194	1	1.579e-05	33213	clade	            Bilateria
+100	12	0	194	1	1.579e-05	33511	clade	              Deuterostomia
+100	12	0	194	1	1.579e-05	7711	phylum	                Chordata
+100	12	0	194	1	1.579e-05	89593	subphylum	                  Craniata
+100	12	0	194	1	1.579e-05	7742	clade	                    Vertebrata
+100	12	0	194	1	1.579e-05	7776	clade	                      Gnathostomata
+100	12	0	194	1	1.579e-05	117570	clade	                        Teleostomi
+100	12	0	194	1	1.579e-05	117571	clade	                          Euteleostomi
+100	12	0	194	1	1.579e-05	8287	superclass	                            Sarcopterygii
+100	12	0	194	1	1.579e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	12	0	194	1	1.579e-05	32523	clade	                                Tetrapoda
+100	12	0	194	1	1.579e-05	32524	clade	                                  Amniota
+100	12	0	194	1	1.579e-05	40674	class	                                    Mammalia
+100	12	0	180	1	1.47e-05	32525	clade	                                      Theria
+100	12	0	165	1	1.421e-05	9347	clade	                                        Eutheria
+100	12	0	156	1	1.437e-05	1437010	clade	                                          Boreoeutheria
+91.67	11	0	133	1	2.53e-05	314146	superorder	                                            Euarchontoglires
+83.33	10	0	129	1	7.071e-05	9443	order	                                              Primates
+83.33	10	0	129	1	0.0001059	376913	suborder	                                                Haplorrhini
+83.33	10	0	129	1	0.0001098	314293	infraorder	                                                  Simiiformes
+83.33	10	0	129	1	0.0001918	9526	parvorder	                                                    Catarrhini
+83.33	10	0	118	1	0.0008451	314295	superfamily	                                                      Hominoidea
+83.33	10	0	118	1	0.001661	9604	family	                                                        Hominidae
+83.33	10	0	116	1	0.002306	207598	subfamily	                                                          Homininae
+83.33	10	5	100	1	0.006162	9605	genus	                                                            Homo
+41.67	5	3	35	1	0.004038	9606	species	                                                              Homo sapiens
+16.67	2	2	6	1	0.00328	63221	subspecies	                                                                Homo sapiens neanderthalensis
+8.333	1	0	3	1	9.159e-07	314147	clade	                                              Glires
+8.333	1	0	3	1	9.791e-07	9989	order	                                                Rodentia
+8.333	1	0	3	1	1.608e-06	1963758	suborder	                                                  Myomorpha
+8.333	1	1	3	1	1.701e-06	337687	clade	                                                    Muroidea
+8.333	1	0	5	1	9.687e-07	314145	superorder	                                            Laurasiatheria
+8.333	1	0	5	1	3.914e-06	33554	order	                                              Carnivora
+8.333	1	0	5	1	6.406e-06	379584	suborder	                                                Caniformia
+8.333	1	0	5	1	0.0005115	9705	family	                                                  Odobenidae
+8.333	1	0	5	1	0.0005115	9706	genus	                                                    Odobenus
+8.333	1	0	5	1	0.0005115	9707	species	                                                      Odobenus rosmarus
+8.333	1	1	5	1	0.0005115	62698	subspecies	                                                        Odobenus rosmarus rosmarus

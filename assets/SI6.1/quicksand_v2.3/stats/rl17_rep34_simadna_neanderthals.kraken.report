@@ -1,0 +1,54 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:48Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/48/b538983a907f9a982667b449191276
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep34_simadna_neanderthals.kraken.report --output output.kraken rl17_rep34_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+17.65	3	3	209	1	NA	0	no rank	unclassified
+82.35	14	0	209	1	1.701e-05	1	no rank	root
+82.35	14	0	209	1	1.701e-05	131567	no rank	  cellular organisms
+82.35	14	0	209	1	1.701e-05	2759	superkingdom	    Eukaryota
+82.35	14	0	209	1	1.701e-05	33154	clade	      Opisthokonta
+82.35	14	0	209	1	1.701e-05	33208	kingdom	        Metazoa
+82.35	14	0	209	1	1.701e-05	6072	clade	          Eumetazoa
+82.35	14	0	209	1	1.701e-05	33213	clade	            Bilateria
+82.35	14	0	209	1	1.701e-05	33511	clade	              Deuterostomia
+82.35	14	0	209	1	1.701e-05	7711	phylum	                Chordata
+82.35	14	0	209	1	1.701e-05	89593	subphylum	                  Craniata
+82.35	14	0	209	1	1.701e-05	7742	clade	                    Vertebrata
+82.35	14	0	209	1	1.701e-05	7776	clade	                      Gnathostomata
+82.35	14	0	209	1	1.701e-05	117570	clade	                        Teleostomi
+82.35	14	0	209	1	1.701e-05	117571	clade	                          Euteleostomi
+82.35	14	0	209	1	1.701e-05	8287	superclass	                            Sarcopterygii
+82.35	14	0	209	1	1.701e-05	1338369	clade	                              Dipnotetrapodomorpha
+82.35	14	0	209	1	1.701e-05	32523	clade	                                Tetrapoda
+82.35	14	0	209	1	1.701e-05	32524	clade	                                  Amniota
+82.35	14	0	209	1	1.701e-05	40674	class	                                    Mammalia
+82.35	14	0	209	1	1.707e-05	32525	clade	                                      Theria
+82.35	14	0	199	1	1.714e-05	9347	clade	                                        Eutheria
+82.35	14	0	190	1	1.75e-05	1437010	clade	                                          Boreoeutheria
+76.47	13	0	138	1	2.625e-05	314146	superorder	                                            Euarchontoglires
+70.59	12	0	114	1	6.249e-05	9443	order	                                              Primates
+70.59	12	0	114	1	9.357e-05	376913	suborder	                                                Haplorrhini
+70.59	12	0	113	1	9.618e-05	314293	infraorder	                                                  Simiiformes
+70.59	12	0	113	1	0.000168	9526	parvorder	                                                    Catarrhini
+70.59	12	0	95	1	0.0006804	314295	superfamily	                                                      Hominoidea
+70.59	12	1	93	1	0.001309	9604	family	                                                        Hominidae
+64.71	11	1	88	1	0.00175	207598	subfamily	                                                          Homininae
+58.82	10	5	66	1	0.004067	9605	genus	                                                            Homo
+23.53	4	3	27	1	0.003115	9606	species	                                                              Homo sapiens
+5.882	1	1	7	1	0.003827	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.882	1	1	1	1	0.0009099	1425170	species	                                                              Homo heidelbergensis
+5.882	1	0	12	1	3.664e-06	314147	clade	                                              Glires
+5.882	1	0	12	1	3.916e-06	9989	order	                                                Rodentia
+5.882	1	0	5	1	8.348e-06	33553	suborder	                                                  Sciuromorpha
+5.882	1	0	5	1	8.852e-06	55153	family	                                                    Sciuridae
+5.882	1	0	5	1	3.245e-05	337724	subfamily	                                                      Callosciurinae
+5.882	1	0	5	1	3.245e-05	337736	tribe	                                                        Callosciurini
+5.882	1	0	5	1	0.0001132	64663	genus	                                                          Callosciurus
+5.882	1	1	3	1	0.0003768	127500	species	                                                            Callosciurus finlaysonii
+5.882	1	0	2	1	3.875e-07	314145	superorder	                                            Laurasiatheria
+5.882	1	0	1	1	6.991e-07	91561	order	                                              Artiodactyla
+5.882	1	0	1	1	1.101e-06	9845	suborder	                                                Ruminantia
+5.882	1	0	1	1	1.15e-06	35500	infraorder	                                                  Pecora
+5.882	1	0	1	1	1.719e-06	9895	family	                                                    Bovidae
+5.882	1	0	1	1	3.31e-05	37170	subfamily	                                                      Alcelaphinae
+5.882	1	0	1	1	0.0002167	59526	genus	                                                        Beatragus
+5.882	1	1	1	1	0.0002167	59527	species	                                                          Beatragus hunteri

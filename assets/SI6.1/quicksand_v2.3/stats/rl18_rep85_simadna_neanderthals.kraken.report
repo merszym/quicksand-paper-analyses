@@ -1,0 +1,52 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:07Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/d7/5d233cbfcc8defdeb255d51c5da003
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl18_rep85_simadna_neanderthals.kraken.report --output output.kraken rl18_rep85_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+5.556	1	1	144	1	NA	0	no rank	unclassified
+94.44	17	0	353	1	2.873e-05	1	no rank	root
+94.44	17	0	353	1	2.873e-05	131567	no rank	  cellular organisms
+94.44	17	0	353	1	2.873e-05	2759	superkingdom	    Eukaryota
+94.44	17	0	353	1	2.873e-05	33154	clade	      Opisthokonta
+94.44	17	0	353	1	2.873e-05	33208	kingdom	        Metazoa
+94.44	17	0	353	1	2.873e-05	6072	clade	          Eumetazoa
+94.44	17	0	353	1	2.873e-05	33213	clade	            Bilateria
+94.44	17	0	353	1	2.873e-05	33511	clade	              Deuterostomia
+94.44	17	0	353	1	2.873e-05	7711	phylum	                Chordata
+94.44	17	0	353	1	2.873e-05	89593	subphylum	                  Craniata
+94.44	17	0	353	1	2.873e-05	7742	clade	                    Vertebrata
+94.44	17	0	353	1	2.873e-05	7776	clade	                      Gnathostomata
+94.44	17	0	353	1	2.873e-05	117570	clade	                        Teleostomi
+94.44	17	0	353	1	2.873e-05	117571	clade	                          Euteleostomi
+94.44	17	0	353	1	2.873e-05	8287	superclass	                            Sarcopterygii
+94.44	17	0	353	1	2.873e-05	1338369	clade	                              Dipnotetrapodomorpha
+94.44	17	0	353	1	2.873e-05	32523	clade	                                Tetrapoda
+94.44	17	0	353	1	2.873e-05	32524	clade	                                  Amniota
+94.44	17	0	353	1	2.873e-05	40674	class	                                    Mammalia
+94.44	17	0	353	1	2.884e-05	32525	clade	                                      Theria
+88.89	16	0	337	1	2.902e-05	9347	clade	                                        Eutheria
+88.89	16	0	314	1	2.893e-05	1437010	clade	                                          Boreoeutheria
+83.33	15	1	292	1	5.555e-05	314146	superorder	                                            Euarchontoglires
+77.78	14	0	284	1	0.0001557	9443	order	                                              Primates
+77.78	14	0	284	1	0.0002331	376913	suborder	                                                Haplorrhini
+77.78	14	0	284	1	0.0002417	314293	infraorder	                                                  Simiiformes
+77.78	14	0	281	1	0.0004177	9526	parvorder	                                                    Catarrhini
+77.78	14	0	264	1	0.001891	314295	superfamily	                                                      Hominoidea
+77.78	14	0	248	1	0.003491	9604	family	                                                        Hominidae
+77.78	14	0	245	1	0.004871	207598	subfamily	                                                          Homininae
+72.22	13	8	212	1	0.01306	9605	genus	                                                            Homo
+27.78	5	2	48	1	0.005538	9606	species	                                                              Homo sapiens
+16.67	3	3	26	1	0.01422	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.556	1	0	5	1	0.0003409	9596	genus	                                                            Pan
+5.556	1	1	5	1	0.0008181	9598	species	                                                              Pan troglodytes
+5.556	1	0	6	1	1.162e-06	314145	superorder	                                            Laurasiatheria
+5.556	1	0	4	1	2.796e-06	91561	order	                                              Artiodactyla
+5.556	1	0	2	1	2.203e-06	9845	suborder	                                                Ruminantia
+5.556	1	0	2	1	2.3e-06	35500	infraorder	                                                  Pecora
+5.556	1	0	2	1	1.014e-05	9850	family	                                                    Cervidae
+5.556	1	0	2	1	2.466e-05	9881	subfamily	                                                      Odocoileinae
+5.556	1	0	2	1	0.0003968	9851	genus	                                                        Alces
+5.556	1	1	2	1	0.0003968	9852	species	                                                          Alces alces
+5.556	1	0	6	1	1.158e-05	9263	clade	                                        Metatheria
+5.556	1	0	2	1	1.048e-05	38609	order	                                          Diprotodontia
+5.556	1	0	2	1	0.0001663	38624	family	                                            Phascolarctidae
+5.556	1	0	2	1	0.0001663	38625	genus	                                              Phascolarctos
+5.556	1	1	2	1	0.0001663	38626	species	                                                Phascolarctos cinereus

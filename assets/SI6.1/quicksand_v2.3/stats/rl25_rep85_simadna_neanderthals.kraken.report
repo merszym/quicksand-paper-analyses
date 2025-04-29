@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:50Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/e1/d85df5bf7998d35ffa15feaa702b2c
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl25_rep85_simadna_neanderthals.kraken.report --output output.kraken rl25_rep85_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+4	1	1	307	1	NA	0	no rank	unclassified
+96	24	0	500	1	4.07e-05	1	no rank	root
+96	24	0	500	1	4.07e-05	131567	no rank	  cellular organisms
+96	24	0	500	1	4.07e-05	2759	superkingdom	    Eukaryota
+96	24	0	500	1	4.07e-05	33154	clade	      Opisthokonta
+96	24	0	500	1	4.07e-05	33208	kingdom	        Metazoa
+96	24	0	500	1	4.07e-05	6072	clade	          Eumetazoa
+96	24	0	500	1	4.07e-05	33213	clade	            Bilateria
+96	24	0	500	1	4.07e-05	33511	clade	              Deuterostomia
+96	24	0	500	1	4.07e-05	7711	phylum	                Chordata
+96	24	0	500	1	4.07e-05	89593	subphylum	                  Craniata
+96	24	0	500	1	4.07e-05	7742	clade	                    Vertebrata
+96	24	0	500	1	4.07e-05	7776	clade	                      Gnathostomata
+96	24	0	500	1	4.07e-05	117570	clade	                        Teleostomi
+96	24	0	500	1	4.07e-05	117571	clade	                          Euteleostomi
+96	24	0	500	1	4.07e-05	8287	superclass	                            Sarcopterygii
+96	24	0	500	1	4.07e-05	1338369	clade	                              Dipnotetrapodomorpha
+96	24	0	500	1	4.07e-05	32523	clade	                                Tetrapoda
+96	24	0	500	1	4.07e-05	32524	clade	                                  Amniota
+96	24	0	500	1	4.07e-05	40674	class	                                    Mammalia
+96	24	0	500	1	4.084e-05	32525	clade	                                      Theria
+96	24	0	473	1	4.073e-05	9347	clade	                                        Eutheria
+92	23	0	452	1	4.164e-05	1437010	clade	                                          Boreoeutheria
+92	23	0	434	1	8.256e-05	314146	superorder	                                            Euarchontoglires
+92	23	1	408	1	0.0002236	9443	order	                                              Primates
+88	22	0	405	1	0.0003324	376913	suborder	                                                Haplorrhini
+88	22	0	405	1	0.0003447	314293	infraorder	                                                  Simiiformes
+84	21	0	404	1	0.0006006	9526	parvorder	                                                    Catarrhini
+84	21	0	389	1	0.002786	314295	superfamily	                                                      Hominoidea
+80	20	1	361	1	0.005081	9604	family	                                                        Hominidae
+76	19	3	348	1	0.006918	207598	subfamily	                                                          Homininae
+64	16	7	272	1	0.01676	9605	genus	                                                            Homo
+36	9	4	89	1	0.01027	9606	species	                                                              Homo sapiens
+20	5	5	41	1	0.02242	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4	1	0	6	1	9.009e-05	9577	family	                                                        Hylobatidae
+4	1	0	6	1	0.0004127	325167	genus	                                                          Hoolock
+4	1	1	6	1	0.001553	61851	species	                                                            Hoolock hoolock
+4	1	0	1	1	2.02e-06	9479	parvorder	                                                    Platyrrhini
+4	1	0	1	1	7.037e-06	376919	family	                                                      Pitheciidae
+4	1	0	1	1	1.322e-05	38069	subfamily	                                                        Callicebinae
+4	1	1	1	1	1.973e-05	1812035	genus	                                                          Plecturocebus
+4	1	0	3	1	1.047e-05	311790	superorder	                                          Afrotheria
+4	1	0	3	1	2.134e-05	28734	order	                                            Macroscelidea
+4	1	0	3	1	2.134e-05	28735	family	                                              Macroscelididae
+4	1	0	3	1	5.483e-05	28736	genus	                                                Elephantulus
+4	1	0	3	1	0.0002882	2642962	no rank	                                                  unclassified Elephantulus
+4	1	1	3	1	0.0002882	213657	species	                                                    Elephantulus sp. VB001

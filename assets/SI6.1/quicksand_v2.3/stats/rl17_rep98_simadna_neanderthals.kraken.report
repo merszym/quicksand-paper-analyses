@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:02Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/69/90a67c983c1c97113e63b9e76d9b55
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep98_simadna_neanderthals.kraken.report --output output.kraken rl17_rep98_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+29.41	5	5	223	1	NA	0	no rank	unclassified
+70.59	12	0	235	1	1.913e-05	1	no rank	root
+70.59	12	0	235	1	1.913e-05	131567	no rank	  cellular organisms
+70.59	12	0	235	1	1.913e-05	2759	superkingdom	    Eukaryota
+70.59	12	0	235	1	1.913e-05	33154	clade	      Opisthokonta
+70.59	12	0	235	1	1.913e-05	33208	kingdom	        Metazoa
+70.59	12	0	235	1	1.913e-05	6072	clade	          Eumetazoa
+70.59	12	0	235	1	1.913e-05	33213	clade	            Bilateria
+70.59	12	0	235	1	1.913e-05	33511	clade	              Deuterostomia
+70.59	12	0	235	1	1.913e-05	7711	phylum	                Chordata
+70.59	12	0	235	1	1.913e-05	89593	subphylum	                  Craniata
+70.59	12	0	235	1	1.913e-05	7742	clade	                    Vertebrata
+70.59	12	0	235	1	1.913e-05	7776	clade	                      Gnathostomata
+70.59	12	0	235	1	1.913e-05	117570	clade	                        Teleostomi
+70.59	12	0	235	1	1.913e-05	117571	clade	                          Euteleostomi
+70.59	12	0	235	1	1.913e-05	8287	superclass	                            Sarcopterygii
+70.59	12	0	235	1	1.913e-05	1338369	clade	                              Dipnotetrapodomorpha
+70.59	12	0	235	1	1.913e-05	32523	clade	                                Tetrapoda
+70.59	12	0	235	1	1.913e-05	32524	clade	                                  Amniota
+70.59	12	0	235	1	1.913e-05	40674	class	                                    Mammalia
+70.59	12	0	235	1	1.92e-05	32525	clade	                                      Theria
+70.59	12	0	229	1	1.972e-05	9347	clade	                                        Eutheria
+70.59	12	1	220	1	2.027e-05	1437010	clade	                                          Boreoeutheria
+64.71	11	0	188	1	3.576e-05	314146	superorder	                                            Euarchontoglires
+64.71	11	0	185	1	0.0001014	9443	order	                                              Primates
+64.71	11	0	177	1	0.0001453	376913	suborder	                                                Haplorrhini
+64.71	11	0	177	1	0.0001507	314293	infraorder	                                                  Simiiformes
+64.71	11	0	172	1	0.0002557	9526	parvorder	                                                    Catarrhini
+52.94	9	0	152	1	0.001089	314295	superfamily	                                                      Hominoidea
+52.94	9	0	145	1	0.002041	9604	family	                                                        Hominidae
+52.94	9	0	145	1	0.002883	207598	subfamily	                                                          Homininae
+52.94	9	5	118	1	0.007271	9605	genus	                                                            Homo
+23.53	4	1	35	1	0.004038	9606	species	                                                              Homo sapiens
+17.65	3	3	25	1	0.01367	63221	subspecies	                                                                Homo sapiens neanderthalensis
+11.76	2	0	7	1	1.329e-05	314294	superfamily	                                                      Cercopithecoidea
+11.76	2	0	7	1	1.329e-05	9527	family	                                                        Cercopithecidae
+11.76	2	0	7	1	2.27e-05	9528	subfamily	                                                          Cercopithecinae
+5.882	1	0	3	1	0.0003625	2059839	genus	                                                            Allochrocebus
+5.882	1	1	3	1	0.0003625	100224	species	                                                              Allochrocebus lhoesti
+5.882	1	0	2	1	0.00016	9567	genus	                                                            Mandrillus
+5.882	1	1	2	1	0.0003304	9561	species	                                                              Mandrillus sphinx

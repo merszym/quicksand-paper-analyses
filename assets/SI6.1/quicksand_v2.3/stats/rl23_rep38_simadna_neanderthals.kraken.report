@@ -1,0 +1,49 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:38Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/d6/dc5476c831b882e1d7757ee1481b67
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl23_rep38_simadna_neanderthals.kraken.report --output output.kraken rl23_rep38_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+17.39	4	4	247	1	NA	0	no rank	unclassified
+82.61	19	0	359	1.04	2.922e-05	1	no rank	root
+82.61	19	0	359	1.04	2.922e-05	131567	no rank	  cellular organisms
+82.61	19	0	359	1.04	2.922e-05	2759	superkingdom	    Eukaryota
+82.61	19	0	359	1.04	2.922e-05	33154	clade	      Opisthokonta
+82.61	19	0	359	1.04	2.922e-05	33208	kingdom	        Metazoa
+82.61	19	0	359	1.04	2.922e-05	6072	clade	          Eumetazoa
+82.61	19	0	359	1.04	2.922e-05	33213	clade	            Bilateria
+82.61	19	0	359	1.04	2.922e-05	33511	clade	              Deuterostomia
+82.61	19	0	359	1.04	2.922e-05	7711	phylum	                Chordata
+82.61	19	0	359	1.04	2.922e-05	89593	subphylum	                  Craniata
+82.61	19	0	359	1.04	2.922e-05	7742	clade	                    Vertebrata
+82.61	19	0	359	1.04	2.922e-05	7776	clade	                      Gnathostomata
+82.61	19	0	359	1.04	2.922e-05	117570	clade	                        Teleostomi
+82.61	19	0	359	1.04	2.922e-05	117571	clade	                          Euteleostomi
+82.61	19	0	359	1.04	2.922e-05	8287	superclass	                            Sarcopterygii
+82.61	19	0	359	1.04	2.922e-05	1338369	clade	                              Dipnotetrapodomorpha
+82.61	19	0	359	1.04	2.922e-05	32523	clade	                                Tetrapoda
+82.61	19	0	359	1.04	2.922e-05	32524	clade	                                  Amniota
+82.61	19	0	359	1.04	2.922e-05	40674	class	                                    Mammalia
+82.61	19	0	354	1.04	2.892e-05	32525	clade	                                      Theria
+82.61	19	0	343	1.04	2.954e-05	9347	clade	                                        Eutheria
+82.61	19	1	339	1.04	3.123e-05	1437010	clade	                                          Boreoeutheria
+73.91	17	0	275	1	5.231e-05	314146	superorder	                                            Euarchontoglires
+73.91	17	0	267	1	0.0001464	9443	order	                                              Primates
+73.91	17	0	267	1	0.0002192	376913	suborder	                                                Haplorrhini
+73.91	17	0	267	1	0.0002273	314293	infraorder	                                                  Simiiformes
+73.91	17	0	267	1	0.0003969	9526	parvorder	                                                    Catarrhini
+69.57	16	0	260	1	0.001862	314295	superfamily	                                                      Hominoidea
+69.57	16	0	250	1	0.003519	9604	family	                                                        Hominidae
+69.57	16	1	247	1	0.004911	207598	subfamily	                                                          Homininae
+65.22	15	7	231	1	0.01423	9605	genus	                                                            Homo
+34.78	8	2	119	1	0.01373	9606	species	                                                              Homo sapiens
+26.09	6	6	61	1	0.03335	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.348	1	0	1	1	1.898e-06	314294	superfamily	                                                      Cercopithecoidea
+4.348	1	0	1	1	1.898e-06	9527	family	                                                        Cercopithecidae
+4.348	1	0	1	1	4.81e-06	9569	subfamily	                                                          Colobinae
+4.348	1	0	1	1	1.32e-05	54136	genus	                                                            Trachypithecus
+4.348	1	1	1	1	0.0002068	164650	species	                                                              Trachypithecus geei
+4.348	1	0	11	1	2.131e-06	314145	superorder	                                            Laurasiatheria
+4.348	1	0	3	1	2.349e-06	33554	order	                                              Carnivora
+4.348	1	0	2	1	4.193e-06	379583	suborder	                                                Feliformia
+4.348	1	0	2	1	9.647e-06	9681	family	                                                  Felidae
+4.348	1	0	2	1	1.475e-05	338152	subfamily	                                                    Felinae
+4.348	1	0	2	1	0.0004069	61411	genus	                                                      Profelis
+4.348	1	1	2	1	0.0004069	61412	species	                                                        Profelis aurata

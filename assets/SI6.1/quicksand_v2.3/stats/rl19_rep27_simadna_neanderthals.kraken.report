@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:36Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/1e/7c7b2d7b9af5b6a17a742060bbc287
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl19_rep27_simadna_neanderthals.kraken.report --output output.kraken rl19_rep27_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10.53	2	2	213	1	NA	0	no rank	unclassified
+89.47	17	0	303	1.08	2.466e-05	1	no rank	root
+89.47	17	0	303	1.08	2.466e-05	131567	no rank	  cellular organisms
+89.47	17	0	303	1.08	2.466e-05	2759	superkingdom	    Eukaryota
+89.47	17	0	303	1.08	2.466e-05	33154	clade	      Opisthokonta
+89.47	17	0	303	1.08	2.466e-05	33208	kingdom	        Metazoa
+89.47	17	0	303	1.08	2.466e-05	6072	clade	          Eumetazoa
+89.47	17	0	303	1.08	2.466e-05	33213	clade	            Bilateria
+89.47	17	0	303	1.08	2.466e-05	33511	clade	              Deuterostomia
+89.47	17	0	303	1.08	2.466e-05	7711	phylum	                Chordata
+89.47	17	0	303	1.08	2.466e-05	89593	subphylum	                  Craniata
+89.47	17	0	303	1.08	2.466e-05	7742	clade	                    Vertebrata
+89.47	17	0	303	1.08	2.466e-05	7776	clade	                      Gnathostomata
+89.47	17	0	303	1.08	2.466e-05	117570	clade	                        Teleostomi
+89.47	17	0	303	1.08	2.466e-05	117571	clade	                          Euteleostomi
+89.47	17	0	303	1.08	2.466e-05	8287	superclass	                            Sarcopterygii
+89.47	17	0	303	1.08	2.466e-05	1338369	clade	                              Dipnotetrapodomorpha
+89.47	17	0	303	1.08	2.466e-05	32523	clade	                                Tetrapoda
+89.47	17	0	303	1.08	2.466e-05	32524	clade	                                  Amniota
+89.47	17	0	303	1.08	2.466e-05	40674	class	                                    Mammalia
+89.47	17	0	302	1.08	2.467e-05	32525	clade	                                      Theria
+89.47	17	0	289	1.08	2.489e-05	9347	clade	                                        Eutheria
+89.47	17	1	266	1.07	2.45e-05	1437010	clade	                                          Boreoeutheria
+84.21	16	0	208	1.09	3.957e-05	314146	superorder	                                            Euarchontoglires
+84.21	16	0	207	1.09	0.0001135	9443	order	                                              Primates
+78.95	15	0	202	1.09	0.0001658	376913	suborder	                                                Haplorrhini
+78.95	15	0	202	1.09	0.0001719	314293	infraorder	                                                  Simiiformes
+78.95	15	2	197	1.09	0.0002929	9526	parvorder	                                                    Catarrhini
+68.42	13	0	161	1.02	0.001153	314295	superfamily	                                                      Hominoidea
+68.42	13	0	152	1.02	0.002139	9604	family	                                                        Hominidae
+63.16	12	0	144	1.02	0.002863	207598	subfamily	                                                          Homininae
+63.16	12	3	131	1.02	0.008072	9605	genus	                                                            Homo
+47.37	9	2	92	1	0.01061	9606	species	                                                              Homo sapiens
+36.84	7	7	67	1	0.03663	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.263	1	0	7	1	0.0003517	607660	subfamily	                                                          Ponginae
+5.263	1	0	7	1	0.0003517	9599	genus	                                                            Pongo
+5.263	1	1	7	1	0.0007758	9601	species	                                                              Pongo abelii
+5.263	1	0	5	1	8.349e-06	376911	suborder	                                                Strepsirrhini
+5.263	1	0	5	1	9.785e-06	376915	infraorder	                                                  Lemuriformes
+5.263	1	0	5	1	7.175e-05	9445	family	                                                    Lemuridae
+5.263	1	1	5	1	0.0001416	13513	genus	                                                      Eulemur

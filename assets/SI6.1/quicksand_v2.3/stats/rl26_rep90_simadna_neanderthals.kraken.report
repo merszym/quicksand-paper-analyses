@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:55Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/da/fd5ce2ea52a1af76627b9d5cf66921
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl26_rep90_simadna_neanderthals.kraken.report --output output.kraken rl26_rep90_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+7.692	2	2	286	1	NA	0	no rank	unclassified
+92.31	24	0	402	1.01	3.272e-05	1	no rank	root
+92.31	24	0	402	1.01	3.272e-05	131567	no rank	  cellular organisms
+92.31	24	0	402	1.01	3.272e-05	2759	superkingdom	    Eukaryota
+92.31	24	0	402	1.01	3.272e-05	33154	clade	      Opisthokonta
+92.31	24	0	402	1.01	3.272e-05	33208	kingdom	        Metazoa
+92.31	24	0	402	1.01	3.272e-05	6072	clade	          Eumetazoa
+92.31	24	0	402	1.01	3.272e-05	33213	clade	            Bilateria
+92.31	24	0	402	1.01	3.272e-05	33511	clade	              Deuterostomia
+92.31	24	0	402	1.01	3.272e-05	7711	phylum	                Chordata
+92.31	24	0	402	1.01	3.272e-05	89593	subphylum	                  Craniata
+92.31	24	0	402	1.01	3.272e-05	7742	clade	                    Vertebrata
+92.31	24	0	402	1.01	3.272e-05	7776	clade	                      Gnathostomata
+92.31	24	0	402	1.01	3.272e-05	117570	clade	                        Teleostomi
+92.31	24	0	402	1.01	3.272e-05	117571	clade	                          Euteleostomi
+92.31	24	0	402	1.01	3.272e-05	8287	superclass	                            Sarcopterygii
+92.31	24	0	402	1.01	3.272e-05	1338369	clade	                              Dipnotetrapodomorpha
+92.31	24	0	402	1.01	3.272e-05	32523	clade	                                Tetrapoda
+92.31	24	0	402	1.01	3.272e-05	32524	clade	                                  Amniota
+92.31	24	0	402	1.01	3.272e-05	40674	class	                                    Mammalia
+92.31	24	0	401	1.01	3.276e-05	32525	clade	                                      Theria
+88.46	23	0	390	1.01	3.358e-05	9347	clade	                                        Eutheria
+88.46	23	1	377	1.01	3.473e-05	1437010	clade	                                          Boreoeutheria
+80.77	21	1	308	1.01	5.859e-05	314146	superorder	                                            Euarchontoglires
+76.92	20	0	294	1.01	0.0001612	9443	order	                                              Primates
+76.92	20	0	289	1.01	0.0002372	376913	suborder	                                                Haplorrhini
+76.92	20	0	289	1.01	0.000246	314293	infraorder	                                                  Simiiformes
+76.92	20	0	279	1.01	0.0004148	9526	parvorder	                                                    Catarrhini
+76.92	20	0	271	1.01	0.001941	314295	superfamily	                                                      Hominoidea
+76.92	20	0	263	1.02	0.003702	9604	family	                                                        Hominidae
+76.92	20	1	258	1.02	0.005129	207598	subfamily	                                                          Homininae
+69.23	18	6	194	1.02	0.01195	9605	genus	                                                            Homo
+46.15	12	10	93	1	0.01073	9606	species	                                                              Homo sapiens
+3.846	1	1	4	1	0.002187	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.846	1	1	2	1	0.0007675	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+3.846	1	0	5	1	0.0003409	9596	genus	                                                            Pan
+3.846	1	1	5	1	0.0008354	9597	species	                                                              Pan paniscus
+3.846	1	0	5	1	9.687e-07	314145	superorder	                                            Laurasiatheria
+3.846	1	0	1	1	1.687e-06	9362	order	                                              Eulipotyphla
+3.846	1	0	1	1	1.408e-05	9363	family	                                                Erinaceidae
+3.846	1	1	1	1	2.197e-05	9366	subfamily	                                                  Galericinae
+3.846	1	1	1	1	1.93e-06	9263	clade	                                        Metatheria

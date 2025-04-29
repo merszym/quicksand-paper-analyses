@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:25Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/78/7a495d6b186c5a3fdc835e81e5a71d
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep44_simadna_neanderthals.kraken.report --output output.kraken rl29_rep44_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10.34	3	3	296	1	NA	0	no rank	unclassified
+89.66	26	0	527	1	4.29e-05	1	no rank	root
+89.66	26	0	527	1	4.29e-05	131567	no rank	  cellular organisms
+89.66	26	0	527	1	4.29e-05	2759	superkingdom	    Eukaryota
+89.66	26	0	527	1	4.29e-05	33154	clade	      Opisthokonta
+89.66	26	0	527	1	4.29e-05	33208	kingdom	        Metazoa
+89.66	26	0	527	1	4.29e-05	6072	clade	          Eumetazoa
+89.66	26	0	527	1	4.29e-05	33213	clade	            Bilateria
+89.66	26	0	527	1	4.29e-05	33511	clade	              Deuterostomia
+89.66	26	0	527	1	4.29e-05	7711	phylum	                Chordata
+89.66	26	0	527	1	4.29e-05	89593	subphylum	                  Craniata
+89.66	26	0	527	1	4.29e-05	7742	clade	                    Vertebrata
+89.66	26	0	527	1	4.29e-05	7776	clade	                      Gnathostomata
+89.66	26	0	527	1	4.29e-05	117570	clade	                        Teleostomi
+89.66	26	0	527	1	4.29e-05	117571	clade	                          Euteleostomi
+89.66	26	0	527	1	4.29e-05	8287	superclass	                            Sarcopterygii
+89.66	26	0	527	1	4.29e-05	1338369	clade	                              Dipnotetrapodomorpha
+89.66	26	0	527	1	4.29e-05	32523	clade	                                Tetrapoda
+89.66	26	0	527	1	4.29e-05	32524	clade	                                  Amniota
+89.66	26	0	527	1	4.29e-05	40674	class	                                    Mammalia
+89.66	26	0	527	1	4.305e-05	32525	clade	                                      Theria
+89.66	26	0	502	1	4.323e-05	9347	clade	                                        Eutheria
+89.66	26	1	499	1	4.597e-05	1437010	clade	                                          Boreoeutheria
+86.21	25	2	410	1	7.799e-05	314146	superorder	                                            Euarchontoglires
+79.31	23	0	389	1	0.0002132	9443	order	                                              Primates
+79.31	23	0	387	1	0.0003176	376913	suborder	                                                Haplorrhini
+79.31	23	0	387	1	0.0003294	314293	infraorder	                                                  Simiiformes
+79.31	23	0	355	1	0.0005277	9526	parvorder	                                                    Catarrhini
+75.86	22	2	310	1	0.00222	314295	superfamily	                                                      Hominoidea
+68.97	20	0	277	1	0.003899	9604	family	                                                        Hominidae
+68.97	20	2	274	1	0.005447	207598	subfamily	                                                          Homininae
+58.62	17	8	231	1	0.01423	9605	genus	                                                            Homo
+27.59	8	2	93	1	0.01073	9606	species	                                                              Homo sapiens
+20.69	6	6	66	1	0.03609	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.448	1	1	4	1	0.00364	1425170	species	                                                              Homo heidelbergensis
+3.448	1	0	5	1	0.0003409	9596	genus	                                                            Pan
+3.448	1	1	5	1	0.0008354	9597	species	                                                              Pan paniscus
+3.448	1	0	6	1	1.139e-05	314294	superfamily	                                                      Cercopithecoidea
+3.448	1	0	6	1	1.139e-05	9527	family	                                                        Cercopithecidae
+3.448	1	0	6	1	1.946e-05	9528	subfamily	                                                          Cercopithecinae
+3.448	1	1	5	1	0.0001771	9554	genus	                                                            Papio

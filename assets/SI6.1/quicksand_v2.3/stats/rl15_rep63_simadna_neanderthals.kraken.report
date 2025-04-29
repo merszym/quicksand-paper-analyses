@@ -1,0 +1,51 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:22:43Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/f8/dbc2029b64db74a4cb522bafaa0f3f
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl15_rep63_simadna_neanderthals.kraken.report --output output.kraken rl15_rep63_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+6.667	1	1	206	1	NA	0	no rank	unclassified
+93.33	14	0	259	1	2.108e-05	1	no rank	root
+93.33	14	0	259	1	2.108e-05	131567	no rank	  cellular organisms
+93.33	14	0	259	1	2.108e-05	2759	superkingdom	    Eukaryota
+93.33	14	0	259	1	2.108e-05	33154	clade	      Opisthokonta
+93.33	14	0	259	1	2.108e-05	33208	kingdom	        Metazoa
+93.33	14	0	259	1	2.108e-05	6072	clade	          Eumetazoa
+93.33	14	0	259	1	2.108e-05	33213	clade	            Bilateria
+93.33	14	0	259	1	2.108e-05	33511	clade	              Deuterostomia
+93.33	14	0	259	1	2.108e-05	7711	phylum	                Chordata
+93.33	14	0	259	1	2.108e-05	89593	subphylum	                  Craniata
+93.33	14	0	259	1	2.108e-05	7742	clade	                    Vertebrata
+93.33	14	0	259	1	2.108e-05	7776	clade	                      Gnathostomata
+93.33	14	0	259	1	2.108e-05	117570	clade	                        Teleostomi
+93.33	14	0	259	1	2.108e-05	117571	clade	                          Euteleostomi
+93.33	14	0	259	1	2.108e-05	8287	superclass	                            Sarcopterygii
+93.33	14	0	259	1	2.108e-05	1338369	clade	                              Dipnotetrapodomorpha
+93.33	14	0	259	1	2.108e-05	32523	clade	                                Tetrapoda
+93.33	14	0	259	1	2.108e-05	32524	clade	                                  Amniota
+93.33	14	0	259	1	2.108e-05	40674	class	                                    Mammalia
+93.33	14	0	259	1	2.116e-05	32525	clade	                                      Theria
+93.33	14	0	256	1	2.205e-05	9347	clade	                                        Eutheria
+93.33	14	0	241	1	2.22e-05	1437010	clade	                                          Boreoeutheria
+86.67	13	0	193	1	3.671e-05	314146	superorder	                                            Euarchontoglires
+80	12	0	183	1	0.0001003	9443	order	                                              Primates
+73.33	11	0	178	1	0.0001461	376913	suborder	                                                Haplorrhini
+73.33	11	0	178	1	0.0001515	314293	infraorder	                                                  Simiiformes
+73.33	11	0	174	1	0.0002587	9526	parvorder	                                                    Catarrhini
+73.33	11	0	165	1	0.001182	314295	superfamily	                                                      Hominoidea
+73.33	11	0	141	1	0.001985	9604	family	                                                        Hominidae
+73.33	11	2	140	1	0.002783	207598	subfamily	                                                          Homininae
+60	9	4	86	1	0.005299	9605	genus	                                                            Homo
+33.33	5	2	47	1	0.005422	9606	species	                                                              Homo sapiens
+20	3	3	28	1	0.01531	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.667	1	0	2	1	3.34e-06	376911	suborder	                                                Strepsirrhini
+6.667	1	0	2	1	3.914e-06	376915	infraorder	                                                  Lemuriformes
+6.667	1	0	2	1	2.87e-05	9445	family	                                                    Lemuridae
+6.667	1	0	2	1	0.0002076	13556	genus	                                                      Hapalemur
+6.667	1	1	2	1	0.0002076	13557	species	                                                        Hapalemur griseus
+6.667	1	0	6	1	1.832e-06	314147	clade	                                              Glires
+6.667	1	0	6	1	1.958e-06	9989	order	                                                Rodentia
+6.667	1	0	6	1	3.216e-06	1963758	suborder	                                                  Myomorpha
+6.667	1	0	6	1	6.086e-05	1963761	superfamily	                                                    Dipodoidea
+6.667	1	0	6	1	6.086e-05	30648	family	                                                      Dipodidae
+6.667	1	0	6	1	0.0001922	52905	subfamily	                                                        Sicistinae
+6.667	1	0	6	1	0.0001922	52906	genus	                                                          Sicista
+6.667	1	1	6	1	0.0008114	489448	species	                                                            Sicista betulina
+6.667	1	1	1	1	1.937e-07	314145	superorder	                                            Laurasiatheria

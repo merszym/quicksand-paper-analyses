@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:11Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ad/d8dfddeb5745b921122c743177f619
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl13_rep38_simadna_neanderthals.kraken.report --output output.kraken rl13_rep38_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+15.38	2	2	98	1	NA	0	no rank	unclassified
+84.62	11	0	213	1	1.734e-05	1	no rank	root
+84.62	11	0	213	1	1.734e-05	131567	no rank	  cellular organisms
+84.62	11	0	213	1	1.734e-05	2759	superkingdom	    Eukaryota
+84.62	11	0	213	1	1.734e-05	33154	clade	      Opisthokonta
+84.62	11	0	213	1	1.734e-05	33208	kingdom	        Metazoa
+84.62	11	0	213	1	1.734e-05	6072	clade	          Eumetazoa
+84.62	11	0	213	1	1.734e-05	33213	clade	            Bilateria
+84.62	11	0	213	1	1.734e-05	33511	clade	              Deuterostomia
+84.62	11	0	213	1	1.734e-05	7711	phylum	                Chordata
+84.62	11	0	213	1	1.734e-05	89593	subphylum	                  Craniata
+84.62	11	0	213	1	1.734e-05	7742	clade	                    Vertebrata
+84.62	11	0	213	1	1.734e-05	7776	clade	                      Gnathostomata
+84.62	11	0	213	1	1.734e-05	117570	clade	                        Teleostomi
+84.62	11	0	213	1	1.734e-05	117571	clade	                          Euteleostomi
+84.62	11	0	213	1	1.734e-05	8287	superclass	                            Sarcopterygii
+84.62	11	0	213	1	1.734e-05	1338369	clade	                              Dipnotetrapodomorpha
+84.62	11	0	213	1	1.734e-05	32523	clade	                                Tetrapoda
+84.62	11	0	213	1	1.734e-05	32524	clade	                                  Amniota
+84.62	11	0	213	1	1.734e-05	40674	class	                                    Mammalia
+84.62	11	0	213	1	1.74e-05	32525	clade	                                      Theria
+84.62	11	0	212	1	1.826e-05	9347	clade	                                        Eutheria
+84.62	11	0	201	1	1.852e-05	1437010	clade	                                          Boreoeutheria
+76.92	10	0	177	1	3.367e-05	314146	superorder	                                            Euarchontoglires
+76.92	10	0	172	1	9.428e-05	9443	order	                                              Primates
+76.92	10	0	172	1	0.0001412	376913	suborder	                                                Haplorrhini
+76.92	10	0	172	1	0.0001464	314293	infraorder	                                                  Simiiformes
+76.92	10	1	169	1	0.0002512	9526	parvorder	                                                    Catarrhini
+69.23	9	0	167	1	0.001196	314295	superfamily	                                                      Hominoidea
+69.23	9	0	163	1	0.002294	9604	family	                                                        Hominidae
+69.23	9	0	163	1	0.003241	207598	subfamily	                                                          Homininae
+69.23	9	4	130	1	0.008011	9605	genus	                                                            Homo
+38.46	5	4	41	1	0.00473	9606	species	                                                              Homo sapiens
+7.692	1	1	1	1	0.0005467	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.692	1	0	2	1	3.875e-07	314145	superorder	                                            Laurasiatheria
+7.692	1	0	2	1	1.398e-06	91561	order	                                              Artiodactyla
+7.692	1	0	2	1	2.203e-06	9845	suborder	                                                Ruminantia
+7.692	1	0	2	1	2.3e-06	35500	infraorder	                                                  Pecora
+7.692	1	0	2	1	1.014e-05	9850	family	                                                    Cervidae
+7.692	1	0	2	1	2.466e-05	9881	subfamily	                                                      Odocoileinae
+7.692	1	0	2	1	0.0003943	9869	genus	                                                        Rangifer
+7.692	1	1	2	1	0.0003943	9870	species	                                                          Rangifer tarandus

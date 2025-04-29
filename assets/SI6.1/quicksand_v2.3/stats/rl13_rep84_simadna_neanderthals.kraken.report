@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:55Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/42/5aa078c123e110b78cb826eb24efde
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl13_rep84_simadna_neanderthals.kraken.report --output output.kraken rl13_rep84_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+23.08	3	3	170	1	NA	0	no rank	unclassified
+76.92	10	0	167	1	1.359e-05	1	no rank	root
+76.92	10	0	167	1	1.359e-05	131567	no rank	  cellular organisms
+76.92	10	0	167	1	1.359e-05	2759	superkingdom	    Eukaryota
+76.92	10	0	167	1	1.359e-05	33154	clade	      Opisthokonta
+76.92	10	0	167	1	1.359e-05	33208	kingdom	        Metazoa
+76.92	10	0	167	1	1.359e-05	6072	clade	          Eumetazoa
+76.92	10	0	167	1	1.359e-05	33213	clade	            Bilateria
+76.92	10	0	167	1	1.359e-05	33511	clade	              Deuterostomia
+76.92	10	0	167	1	1.359e-05	7711	phylum	                Chordata
+76.92	10	0	167	1	1.359e-05	89593	subphylum	                  Craniata
+76.92	10	0	167	1	1.359e-05	7742	clade	                    Vertebrata
+76.92	10	0	167	1	1.359e-05	7776	clade	                      Gnathostomata
+76.92	10	0	167	1	1.359e-05	117570	clade	                        Teleostomi
+76.92	10	0	167	1	1.359e-05	117571	clade	                          Euteleostomi
+76.92	10	0	167	1	1.359e-05	8287	superclass	                            Sarcopterygii
+76.92	10	0	167	1	1.359e-05	1338369	clade	                              Dipnotetrapodomorpha
+76.92	10	0	167	1	1.359e-05	32523	clade	                                Tetrapoda
+76.92	10	0	167	1	1.359e-05	32524	clade	                                  Amniota
+76.92	10	0	167	1	1.359e-05	40674	class	                                    Mammalia
+76.92	10	0	167	1	1.364e-05	32525	clade	                                      Theria
+76.92	10	0	150	1	1.292e-05	9347	clade	                                        Eutheria
+76.92	10	1	149	1	1.373e-05	1437010	clade	                                          Boreoeutheria
+69.23	9	0	125	1	2.378e-05	314146	superorder	                                            Euarchontoglires
+61.54	8	0	112	1	6.139e-05	9443	order	                                              Primates
+61.54	8	0	112	1	9.193e-05	376913	suborder	                                                Haplorrhini
+61.54	8	0	112	1	9.533e-05	314293	infraorder	                                                  Simiiformes
+53.85	7	1	100	1	0.0001487	9526	parvorder	                                                    Catarrhini
+46.15	6	0	96	1	0.0006875	314295	superfamily	                                                      Hominoidea
+46.15	6	0	91	1	0.001281	9604	family	                                                        Hominidae
+46.15	6	0	91	1	0.001809	207598	subfamily	                                                          Homininae
+46.15	6	2	87	1	0.005361	9605	genus	                                                            Homo
+30.77	4	2	42	1	0.004845	9606	species	                                                              Homo sapiens
+15.38	2	2	19	1	0.01039	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.692	1	0	6	1	1.212e-05	9479	parvorder	                                                    Platyrrhini
+7.692	1	0	6	1	2.726e-05	9498	family	                                                      Cebidae
+7.692	1	0	6	1	3.781e-05	9480	subfamily	                                                        Callitrichinae
+7.692	1	0	6	1	0.000307	9481	genus	                                                          Callithrix
+7.692	1	1	6	1	0.000307	1965096	subgenus	                                                            Callithrix
+7.692	1	0	8	1	2.442e-06	314147	clade	                                              Glires
+7.692	1	0	6	1	1.958e-06	9989	order	                                                Rodentia
+7.692	1	0	6	1	1.002e-05	33553	suborder	                                                  Sciuromorpha
+7.692	1	0	6	1	1.062e-05	55153	family	                                                    Sciuridae
+7.692	1	0	6	1	3.894e-05	337724	subfamily	                                                      Callosciurinae
+7.692	1	0	6	1	3.894e-05	337736	tribe	                                                        Callosciurini
+7.692	1	0	6	1	0.0003571	226576	genus	                                                          Tamiops
+7.692	1	1	6	1	0.0007487	1048687	species	                                                            Tamiops maritimus

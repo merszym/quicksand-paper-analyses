@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:49Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/95/4185c777b2ac255c0f055b3e66d9dd
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep55_simadna_neanderthals.kraken.report --output output.kraken rl17_rep55_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+17.65	3	3	196	1	NA	0	no rank	unclassified
+82.35	14	0	199	1	1.62e-05	1	no rank	root
+82.35	14	0	199	1	1.62e-05	131567	no rank	  cellular organisms
+82.35	14	0	199	1	1.62e-05	2759	superkingdom	    Eukaryota
+82.35	14	0	199	1	1.62e-05	33154	clade	      Opisthokonta
+82.35	14	0	199	1	1.62e-05	33208	kingdom	        Metazoa
+82.35	14	0	199	1	1.62e-05	6072	clade	          Eumetazoa
+82.35	14	0	199	1	1.62e-05	33213	clade	            Bilateria
+82.35	14	0	199	1	1.62e-05	33511	clade	              Deuterostomia
+82.35	14	0	199	1	1.62e-05	7711	phylum	                Chordata
+82.35	14	0	199	1	1.62e-05	89593	subphylum	                  Craniata
+82.35	14	0	199	1	1.62e-05	7742	clade	                    Vertebrata
+82.35	14	0	199	1	1.62e-05	7776	clade	                      Gnathostomata
+82.35	14	0	199	1	1.62e-05	117570	clade	                        Teleostomi
+82.35	14	0	199	1	1.62e-05	117571	clade	                          Euteleostomi
+82.35	14	0	199	1	1.62e-05	8287	superclass	                            Sarcopterygii
+82.35	14	0	199	1	1.62e-05	1338369	clade	                              Dipnotetrapodomorpha
+82.35	14	0	199	1	1.62e-05	32523	clade	                                Tetrapoda
+82.35	14	0	199	1	1.62e-05	32524	clade	                                  Amniota
+82.35	14	0	199	1	1.62e-05	40674	class	                                    Mammalia
+82.35	14	0	187	1	1.528e-05	32525	clade	                                      Theria
+82.35	14	0	181	1	1.559e-05	9347	clade	                                        Eutheria
+82.35	14	1	179	1	1.649e-05	1437010	clade	                                          Boreoeutheria
+76.47	13	0	154	1	2.93e-05	314146	superorder	                                            Euarchontoglires
+70.59	12	0	141	1	7.729e-05	9443	order	                                              Primates
+70.59	12	0	141	1	0.0001157	376913	suborder	                                                Haplorrhini
+70.59	12	0	141	1	0.00012	314293	infraorder	                                                  Simiiformes
+70.59	12	0	134	1	0.0001992	9526	parvorder	                                                    Catarrhini
+64.71	11	0	126	1	0.0009024	314295	superfamily	                                                      Hominoidea
+64.71	11	0	114	1	0.001605	9604	family	                                                        Hominidae
+64.71	11	1	114	1	0.002266	207598	subfamily	                                                          Homininae
+58.82	10	4	102	1	0.006285	9605	genus	                                                            Homo
+35.29	6	3	58	1	0.006691	9606	species	                                                              Homo sapiens
+17.65	3	3	19	1	0.01039	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.882	1	0	1	1	1.898e-06	314294	superfamily	                                                      Cercopithecoidea
+5.882	1	0	1	1	1.898e-06	9527	family	                                                        Cercopithecidae
+5.882	1	0	1	1	3.243e-06	9528	subfamily	                                                          Cercopithecinae
+5.882	1	1	1	1	3.542e-05	9554	genus	                                                            Papio
+5.882	1	0	4	1	1.221e-06	314147	clade	                                              Glires
+5.882	1	0	4	1	1.305e-06	9989	order	                                                Rodentia
+5.882	1	0	1	1	1.374e-05	1963759	suborder	                                                  Anomaluromorpha
+5.882	1	1	1	1	1.374e-05	101663	family	                                                    Anomaluridae

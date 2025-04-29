@@ -1,0 +1,68 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:18Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/d6/d6f74a42c85cc003df5b8abc0cb34a
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl26_rep60_simadna_neanderthals.kraken.report --output output.kraken rl26_rep60_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+15.38	4	4	445	1	NA	0	no rank	unclassified
+84.62	22	0	403	1	3.28e-05	1	no rank	root
+84.62	22	0	403	1	3.28e-05	131567	no rank	  cellular organisms
+84.62	22	0	403	1	3.28e-05	2759	superkingdom	    Eukaryota
+84.62	22	0	403	1	3.28e-05	33154	clade	      Opisthokonta
+84.62	22	0	403	1	3.28e-05	33208	kingdom	        Metazoa
+84.62	22	0	403	1	3.28e-05	6072	clade	          Eumetazoa
+84.62	22	0	403	1	3.28e-05	33213	clade	            Bilateria
+84.62	22	0	403	1	3.28e-05	33511	clade	              Deuterostomia
+84.62	22	0	403	1	3.28e-05	7711	phylum	                Chordata
+84.62	22	0	403	1	3.28e-05	89593	subphylum	                  Craniata
+84.62	22	0	403	1	3.28e-05	7742	clade	                    Vertebrata
+84.62	22	0	403	1	3.28e-05	7776	clade	                      Gnathostomata
+84.62	22	0	403	1	3.28e-05	117570	clade	                        Teleostomi
+84.62	22	0	403	1	3.28e-05	117571	clade	                          Euteleostomi
+84.62	22	0	403	1	3.28e-05	8287	superclass	                            Sarcopterygii
+84.62	22	0	403	1	3.28e-05	1338369	clade	                              Dipnotetrapodomorpha
+84.62	22	0	403	1	3.28e-05	32523	clade	                                Tetrapoda
+84.62	22	0	403	1	3.28e-05	32524	clade	                                  Amniota
+84.62	22	0	403	1	3.28e-05	40674	class	                                    Mammalia
+84.62	22	0	389	1	3.178e-05	32525	clade	                                      Theria
+84.62	22	0	388	1	3.341e-05	9347	clade	                                        Eutheria
+84.62	22	0	381	1	3.51e-05	1437010	clade	                                          Boreoeutheria
+76.92	20	0	350	1	6.658e-05	314146	superorder	                                            Euarchontoglires
+73.08	19	0	335	1	0.0001836	9443	order	                                              Primates
+73.08	19	0	335	1	0.000275	376913	suborder	                                                Haplorrhini
+73.08	19	0	335	1	0.0002851	314293	infraorder	                                                  Simiiformes
+69.23	18	0	318	1	0.0004727	9526	parvorder	                                                    Catarrhini
+65.38	17	0	302	1	0.002163	314295	superfamily	                                                      Hominoidea
+65.38	17	0	294	1	0.004138	9604	family	                                                        Hominidae
+65.38	17	2	275	1	0.005467	207598	subfamily	                                                          Homininae
+53.85	14	4	199	1	0.01226	9605	genus	                                                            Homo
+38.46	10	7	78	1	0.008999	9606	species	                                                              Homo sapiens
+7.692	2	2	15	1	0.008201	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.846	1	1	17	1	0.006523	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+3.846	1	0	6	1	0.0003797	9592	genus	                                                            Gorilla
+3.846	1	1	3	1	0.0004246	9593	species	                                                              Gorilla gorilla
+3.846	1	0	8	1	1.519e-05	314294	superfamily	                                                      Cercopithecoidea
+3.846	1	0	8	1	1.519e-05	9527	family	                                                        Cercopithecidae
+3.846	1	0	8	1	3.848e-05	9569	subfamily	                                                          Colobinae
+3.846	1	0	7	1	9.241e-05	54136	genus	                                                            Trachypithecus
+3.846	1	1	7	1	0.002457	122765	species	                                                              Trachypithecus cristatus
+3.846	1	0	11	1	2.222e-05	9479	parvorder	                                                    Platyrrhini
+3.846	1	0	4	1	1.817e-05	9498	family	                                                      Cebidae
+3.846	1	0	4	1	2.521e-05	9480	subfamily	                                                        Callitrichinae
+3.846	1	0	2	1	0.000121	30587	genus	                                                          Leontopithecus
+3.846	1	1	2	1	0.0003513	58710	species	                                                            Leontopithecus chrysopygus
+3.846	1	0	6	1	1.832e-06	314147	clade	                                              Glires
+3.846	1	0	6	1	1.958e-06	9989	order	                                                Rodentia
+3.846	1	0	2	1	1.072e-06	1963758	suborder	                                                  Myomorpha
+3.846	1	0	2	1	1.134e-06	337687	clade	                                                    Muroidea
+3.846	1	0	2	1	2.086e-06	10066	family	                                                      Muridae
+3.846	1	0	2	1	3.031e-05	10045	subfamily	                                                        Gerbillinae
+3.846	1	0	2	1	0.0001898	48138	genus	                                                          Psammomys
+3.846	1	1	2	1	0.0001898	48139	species	                                                            Psammomys obesus
+7.692	2	0	4	1	7.749e-07	314145	superorder	                                            Laurasiatheria
+3.846	1	0	1	1	6.828e-07	9397	order	                                              Chiroptera
+3.846	1	0	1	1	8.816e-07	30560	suborder	                                                Microchiroptera
+3.846	1	0	1	1	2.041e-06	9431	family	                                                  Vespertilionidae
+3.846	1	0	1	1	9.777e-05	27666	genus	                                                    Lasionycteris
+3.846	1	1	1	1	9.777e-05	27667	species	                                                      Lasionycteris noctivagans
+3.846	1	0	1	1	6.991e-07	91561	order	                                              Artiodactyla
+3.846	1	0	1	1	1.101e-06	9845	suborder	                                                Ruminantia
+3.846	1	0	1	1	1.15e-06	35500	infraorder	                                                  Pecora
+3.846	1	1	1	1	1.719e-06	9895	family	                                                    Bovidae

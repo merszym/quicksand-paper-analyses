@@ -1,0 +1,53 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:08Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/00/2441ffa2df7b160a2a04aca96cbbde
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl28_rep56_simadna_neanderthals.kraken.report --output output.kraken rl28_rep56_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10.71	3	3	399	1.02	NA	0	no rank	unclassified
+89.29	25	0	415	1.05	3.378e-05	1	no rank	root
+89.29	25	0	415	1.05	3.378e-05	131567	no rank	  cellular organisms
+89.29	25	0	415	1.05	3.378e-05	2759	superkingdom	    Eukaryota
+89.29	25	0	415	1.05	3.378e-05	33154	clade	      Opisthokonta
+89.29	25	0	415	1.05	3.378e-05	33208	kingdom	        Metazoa
+89.29	25	0	415	1.05	3.378e-05	6072	clade	          Eumetazoa
+89.29	25	0	415	1.05	3.378e-05	33213	clade	            Bilateria
+89.29	25	0	415	1.05	3.378e-05	33511	clade	              Deuterostomia
+89.29	25	0	415	1.05	3.378e-05	7711	phylum	                Chordata
+89.29	25	0	415	1.05	3.378e-05	89593	subphylum	                  Craniata
+89.29	25	0	415	1.05	3.378e-05	7742	clade	                    Vertebrata
+89.29	25	0	415	1.05	3.378e-05	7776	clade	                      Gnathostomata
+89.29	25	0	415	1.05	3.378e-05	117570	clade	                        Teleostomi
+89.29	25	0	415	1.05	3.378e-05	117571	clade	                          Euteleostomi
+89.29	25	0	415	1.05	3.378e-05	8287	superclass	                            Sarcopterygii
+89.29	25	0	415	1.05	3.378e-05	1338369	clade	                              Dipnotetrapodomorpha
+89.29	25	0	415	1.05	3.378e-05	32523	clade	                                Tetrapoda
+89.29	25	0	415	1.05	3.378e-05	32524	clade	                                  Amniota
+89.29	25	0	415	1.05	3.378e-05	40674	class	                                    Mammalia
+89.29	25	0	415	1.05	3.39e-05	32525	clade	                                      Theria
+89.29	25	1	409	1.05	3.522e-05	9347	clade	                                        Eutheria
+85.71	24	0	391	1.05	3.602e-05	1437010	clade	                                          Boreoeutheria
+85.71	24	1	341	1.06	6.487e-05	314146	superorder	                                            Euarchontoglires
+82.14	23	0	310	1.06	0.0001699	9443	order	                                              Primates
+78.57	22	0	303	1.06	0.0002487	376913	suborder	                                                Haplorrhini
+78.57	22	0	303	1.06	0.0002579	314293	infraorder	                                                  Simiiformes
+78.57	22	0	292	1.07	0.0004341	9526	parvorder	                                                    Catarrhini
+75	21	0	267	1.06	0.001912	314295	superfamily	                                                      Hominoidea
+71.43	20	0	245	1.06	0.003448	9604	family	                                                        Hominidae
+67.86	19	2	244	1.06	0.004851	207598	subfamily	                                                          Homininae
+57.14	16	6	222	1.05	0.01368	9605	genus	                                                            Homo
+32.14	9	5	86	1.06	0.009922	9606	species	                                                              Homo sapiens
+14.29	4	4	41	1	0.02242	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.571	1	1	4	1	0.00364	1425170	species	                                                              Homo heidelbergensis
+3.571	1	0	4	1	0.0002727	9596	genus	                                                            Pan
+3.571	1	1	4	1	0.0006545	9598	species	                                                              Pan troglodytes
+3.571	1	0	1	1	5.024e-05	607660	subfamily	                                                          Ponginae
+3.571	1	0	1	1	5.024e-05	9599	genus	                                                            Pongo
+3.571	1	1	1	1	0.0001108	9601	species	                                                              Pongo abelii
+3.571	1	1	8	1	0.0001201	9577	family	                                                        Hylobatidae
+3.571	1	0	8	1	1.519e-05	314294	superfamily	                                                      Cercopithecoidea
+3.571	1	0	8	1	1.519e-05	9527	family	                                                        Cercopithecidae
+3.571	1	0	8	1	2.594e-05	9528	subfamily	                                                          Cercopithecinae
+3.571	1	0	6	1	5.683e-05	9539	genus	                                                            Macaca
+3.571	1	1	6	1	0.0009042	40843	species	                                                              Macaca tonkeana
+3.571	1	0	6	1	1.002e-05	376911	suborder	                                                Strepsirrhini
+3.571	1	0	6	1	1.174e-05	376915	infraorder	                                                  Lemuriformes
+3.571	1	0	6	1	3.04e-05	30615	family	                                                    Cheirogaleidae
+3.571	1	1	6	1	5.507e-05	13149	genus	                                                      Microcebus

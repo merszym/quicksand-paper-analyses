@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:13Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/b3/dc0d8f99484ed220126c6ae6b6548e
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl24_rep36_simadna_neanderthals.kraken.report --output output.kraken rl24_rep36_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+4.167	1	1	335	1.02	NA	0	no rank	unclassified
+95.83	23	0	438	1.01	3.565e-05	1	no rank	root
+95.83	23	0	438	1.01	3.565e-05	131567	no rank	  cellular organisms
+95.83	23	0	438	1.01	3.565e-05	2759	superkingdom	    Eukaryota
+95.83	23	0	438	1.01	3.565e-05	33154	clade	      Opisthokonta
+95.83	23	0	438	1.01	3.565e-05	33208	kingdom	        Metazoa
+95.83	23	0	438	1.01	3.565e-05	6072	clade	          Eumetazoa
+95.83	23	0	438	1.01	3.565e-05	33213	clade	            Bilateria
+95.83	23	0	438	1.01	3.565e-05	33511	clade	              Deuterostomia
+95.83	23	0	438	1.01	3.565e-05	7711	phylum	                Chordata
+95.83	23	0	438	1.01	3.565e-05	89593	subphylum	                  Craniata
+95.83	23	0	438	1.01	3.565e-05	7742	clade	                    Vertebrata
+95.83	23	0	438	1.01	3.565e-05	7776	clade	                      Gnathostomata
+95.83	23	0	438	1.01	3.565e-05	117570	clade	                        Teleostomi
+95.83	23	0	438	1.01	3.565e-05	117571	clade	                          Euteleostomi
+95.83	23	0	438	1.01	3.565e-05	8287	superclass	                            Sarcopterygii
+95.83	23	0	438	1.01	3.565e-05	1338369	clade	                              Dipnotetrapodomorpha
+95.83	23	0	438	1.01	3.565e-05	32523	clade	                                Tetrapoda
+95.83	23	0	438	1.01	3.565e-05	32524	clade	                                  Amniota
+95.83	23	0	438	1.01	3.565e-05	40674	class	                                    Mammalia
+95.83	23	0	438	1.01	3.578e-05	32525	clade	                                      Theria
+91.67	22	0	420	1.01	3.617e-05	9347	clade	                                        Eutheria
+91.67	22	1	397	1.01	3.657e-05	1437010	clade	                                          Boreoeutheria
+87.5	21	1	373	1.01	7.095e-05	314146	superorder	                                            Euarchontoglires
+83.33	20	0	361	1.01	0.0001979	9443	order	                                              Primates
+83.33	20	0	353	1.01	0.0002897	376913	suborder	                                                Haplorrhini
+83.33	20	0	353	1.01	0.0003005	314293	infraorder	                                                  Simiiformes
+83.33	20	0	349	1.01	0.0005188	9526	parvorder	                                                    Catarrhini
+83.33	20	0	306	1.02	0.002191	314295	superfamily	                                                      Hominoidea
+79.17	19	1	299	1.02	0.004208	9604	family	                                                        Hominidae
+75	18	0	289	1.02	0.005746	207598	subfamily	                                                          Homininae
+75	18	7	266	1.02	0.01639	9605	genus	                                                            Homo
+45.83	11	6	91	1.02	0.0105	9606	species	                                                              Homo sapiens
+20.83	5	5	13	1.15	0.007108	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.167	1	0	1	1	1.502e-05	9577	family	                                                        Hylobatidae
+4.167	1	0	1	1	4.269e-05	9578	genus	                                                          Hylobates
+4.167	1	1	1	1	0.000147	9589	species	                                                            Hylobates pileatus
+4.167	1	0	1	1	1.93e-06	9263	clade	                                        Metatheria
+4.167	1	0	1	1	5.24e-06	38609	order	                                          Diprotodontia
+4.167	1	0	1	1	2.731e-05	9335	family	                                            Phalangeridae
+4.167	1	0	1	1	5.428e-05	38622	genus	                                              Phalanger
+4.167	1	1	1	1	0.0001164	42473	species	                                                Phalanger orientalis

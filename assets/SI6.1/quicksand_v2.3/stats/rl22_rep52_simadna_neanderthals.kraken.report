@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:24Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ff/89e5db349b32e4735860a6f04224e1
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl22_rep52_simadna_neanderthals.kraken.report --output output.kraken rl22_rep52_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+13.64	3	3	226	1	NA	0	no rank	unclassified
+86.36	19	0	383	1	3.118e-05	1	no rank	root
+86.36	19	0	383	1	3.118e-05	131567	no rank	  cellular organisms
+86.36	19	0	383	1	3.118e-05	2759	superkingdom	    Eukaryota
+86.36	19	0	383	1	3.118e-05	33154	clade	      Opisthokonta
+86.36	19	0	383	1	3.118e-05	33208	kingdom	        Metazoa
+86.36	19	0	383	1	3.118e-05	6072	clade	          Eumetazoa
+86.36	19	0	383	1	3.118e-05	33213	clade	            Bilateria
+86.36	19	0	383	1	3.118e-05	33511	clade	              Deuterostomia
+86.36	19	0	383	1	3.118e-05	7711	phylum	                Chordata
+86.36	19	0	383	1	3.118e-05	89593	subphylum	                  Craniata
+86.36	19	0	383	1	3.118e-05	7742	clade	                    Vertebrata
+86.36	19	0	383	1	3.118e-05	7776	clade	                      Gnathostomata
+86.36	19	0	383	1	3.118e-05	117570	clade	                        Teleostomi
+86.36	19	0	383	1	3.118e-05	117571	clade	                          Euteleostomi
+86.36	19	0	383	1	3.118e-05	8287	superclass	                            Sarcopterygii
+86.36	19	0	383	1	3.118e-05	1338369	clade	                              Dipnotetrapodomorpha
+86.36	19	0	383	1	3.118e-05	32523	clade	                                Tetrapoda
+86.36	19	0	383	1	3.118e-05	32524	clade	                                  Amniota
+86.36	19	0	383	1	3.118e-05	40674	class	                                    Mammalia
+86.36	19	0	383	1	3.129e-05	32525	clade	                                      Theria
+86.36	19	1	367	1	3.16e-05	9347	clade	                                        Eutheria
+81.82	18	0	358	1	3.298e-05	1437010	clade	                                          Boreoeutheria
+77.27	17	1	309	1	5.878e-05	314146	superorder	                                            Euarchontoglires
+72.73	16	0	285	1	0.0001562	9443	order	                                              Primates
+72.73	16	0	282	1	0.0002315	376913	suborder	                                                Haplorrhini
+72.73	16	0	282	1	0.00024	314293	infraorder	                                                  Simiiformes
+72.73	16	0	282	1	0.0004192	9526	parvorder	                                                    Catarrhini
+72.73	16	0	272	1	0.001948	314295	superfamily	                                                      Hominoidea
+72.73	16	0	268	1	0.003772	9604	family	                                                        Hominidae
+72.73	16	1	248	1	0.00493	207598	subfamily	                                                          Homininae
+63.64	14	3	168	1	0.01035	9605	genus	                                                            Homo
+50	11	4	75	1	0.008653	9606	species	                                                              Homo sapiens
+22.73	5	5	27	1	0.01476	63221	subspecies	                                                                Homo sapiens neanderthalensis
+9.091	2	2	10	1	0.003837	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4.545	1	0	13	1	0.0008863	9596	genus	                                                            Pan
+4.545	1	1	4	1	0.0006545	9598	species	                                                              Pan troglodytes
+4.545	1	0	1	1	1.937e-07	314145	superorder	                                            Laurasiatheria
+4.545	1	0	1	1	6.828e-07	9397	order	                                              Chiroptera
+4.545	1	0	1	1	8.816e-07	30560	suborder	                                                Microchiroptera
+4.545	1	0	1	1	2.041e-06	9431	family	                                                  Vespertilionidae
+4.545	1	0	1	1	4.292e-06	9434	genus	                                                    Myotis
+4.545	1	1	1	1	0.0001488	27668	species	                                                      Myotis leibii

@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:13Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/cd/b0b610eec927928320656409e4a267
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl12_rep23_simadna_neanderthals.kraken.report --output output.kraken rl12_rep23_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+8.333	1	1	153	1	NA	0	no rank	unclassified
+91.67	11	0	221	1.03	1.799e-05	1	no rank	root
+91.67	11	0	221	1.03	1.799e-05	131567	no rank	  cellular organisms
+91.67	11	0	221	1.03	1.799e-05	2759	superkingdom	    Eukaryota
+91.67	11	0	221	1.03	1.799e-05	33154	clade	      Opisthokonta
+91.67	11	0	221	1.03	1.799e-05	33208	kingdom	        Metazoa
+91.67	11	0	221	1.03	1.799e-05	6072	clade	          Eumetazoa
+91.67	11	0	221	1.03	1.799e-05	33213	clade	            Bilateria
+91.67	11	0	221	1.03	1.799e-05	33511	clade	              Deuterostomia
+91.67	11	0	221	1.03	1.799e-05	7711	phylum	                Chordata
+91.67	11	0	221	1.03	1.799e-05	89593	subphylum	                  Craniata
+91.67	11	0	221	1.03	1.799e-05	7742	clade	                    Vertebrata
+91.67	11	0	221	1.03	1.799e-05	7776	clade	                      Gnathostomata
+91.67	11	0	221	1.03	1.799e-05	117570	clade	                        Teleostomi
+91.67	11	0	221	1.03	1.799e-05	117571	clade	                          Euteleostomi
+91.67	11	0	221	1.03	1.799e-05	8287	superclass	                            Sarcopterygii
+91.67	11	0	221	1.03	1.799e-05	1338369	clade	                              Dipnotetrapodomorpha
+91.67	11	0	221	1.03	1.799e-05	32523	clade	                                Tetrapoda
+91.67	11	0	221	1.03	1.799e-05	32524	clade	                                  Amniota
+91.67	11	0	221	1.03	1.799e-05	40674	class	                                    Mammalia
+91.67	11	0	221	1.03	1.805e-05	32525	clade	                                      Theria
+91.67	11	0	219	1.03	1.886e-05	9347	clade	                                        Eutheria
+91.67	11	0	203	1.03	1.87e-05	1437010	clade	                                          Boreoeutheria
+91.67	11	0	164	1.04	3.12e-05	314146	superorder	                                            Euarchontoglires
+91.67	11	0	156	1.04	8.551e-05	9443	order	                                              Primates
+91.67	11	0	156	1.04	0.000128	376913	suborder	                                                Haplorrhini
+91.67	11	0	156	1.04	0.0001328	314293	infraorder	                                                  Simiiformes
+91.67	11	0	156	1.04	0.0002319	9526	parvorder	                                                    Catarrhini
+83.33	10	0	149	1.05	0.001067	314295	superfamily	                                                      Hominoidea
+83.33	10	0	141	1.05	0.001985	9604	family	                                                        Hominidae
+83.33	10	0	141	1.05	0.002803	207598	subfamily	                                                          Homininae
+75	9	5	126	1.06	0.007764	9605	genus	                                                            Homo
+33.33	4	3	45	1	0.005192	9606	species	                                                              Homo sapiens
+8.333	1	1	5	1	0.002734	63221	subspecies	                                                                Homo sapiens neanderthalensis
+8.333	1	0	5	1	0.0003164	9592	genus	                                                            Gorilla
+8.333	1	1	5	1	0.0007077	9593	species	                                                              Gorilla gorilla
+8.333	1	0	3	1	5.695e-06	314294	superfamily	                                                      Cercopithecoidea
+8.333	1	0	3	1	5.695e-06	9527	family	                                                        Cercopithecidae
+8.333	1	0	3	1	9.729e-06	9528	subfamily	                                                          Cercopithecinae
+8.333	1	0	1	1	2.858e-05	9533	genus	                                                            Cercopithecus
+8.333	1	1	1	1	0.0001325	867370	species	                                                              Cercopithecus albogularis

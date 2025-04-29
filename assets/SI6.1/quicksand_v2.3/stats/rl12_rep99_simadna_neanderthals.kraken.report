@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:08Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/aa/d2fd809d66888c5d93c938e523d649
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl12_rep99_simadna_neanderthals.kraken.report --output output.kraken rl12_rep99_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+16.67	2	2	216	1	NA	0	no rank	unclassified
+83.33	10	0	103	1	8.384e-06	1	no rank	root
+83.33	10	0	103	1	8.384e-06	131567	no rank	  cellular organisms
+83.33	10	0	103	1	8.384e-06	2759	superkingdom	    Eukaryota
+83.33	10	0	103	1	8.384e-06	33154	clade	      Opisthokonta
+83.33	10	0	103	1	8.384e-06	33208	kingdom	        Metazoa
+83.33	10	0	103	1	8.384e-06	6072	clade	          Eumetazoa
+83.33	10	0	103	1	8.384e-06	33213	clade	            Bilateria
+83.33	10	0	103	1	8.384e-06	33511	clade	              Deuterostomia
+83.33	10	0	103	1	8.384e-06	7711	phylum	                Chordata
+83.33	10	0	103	1	8.384e-06	89593	subphylum	                  Craniata
+83.33	10	0	103	1	8.384e-06	7742	clade	                    Vertebrata
+83.33	10	0	103	1	8.384e-06	7776	clade	                      Gnathostomata
+83.33	10	0	103	1	8.384e-06	117570	clade	                        Teleostomi
+83.33	10	0	103	1	8.384e-06	117571	clade	                          Euteleostomi
+83.33	10	0	103	1	8.384e-06	8287	superclass	                            Sarcopterygii
+83.33	10	0	103	1	8.384e-06	1338369	clade	                              Dipnotetrapodomorpha
+83.33	10	0	103	1	8.384e-06	32523	clade	                                Tetrapoda
+83.33	10	0	103	1	8.384e-06	32524	clade	                                  Amniota
+83.33	10	0	103	1	8.384e-06	40674	class	                                    Mammalia
+83.33	10	0	103	1	8.414e-06	32525	clade	                                      Theria
+83.33	10	0	103	1	8.87e-06	9347	clade	                                        Eutheria
+83.33	10	0	103	1	9.488e-06	1437010	clade	                                          Boreoeutheria
+83.33	10	0	94	1	1.788e-05	314146	superorder	                                            Euarchontoglires
+83.33	10	0	91	1	4.988e-05	9443	order	                                              Primates
+83.33	10	0	89	1	7.305e-05	376913	suborder	                                                Haplorrhini
+83.33	10	0	89	1	7.575e-05	314293	infraorder	                                                  Simiiformes
+83.33	10	0	84	1	0.0001249	9526	parvorder	                                                    Catarrhini
+75	9	0	79	1	0.0005658	314295	superfamily	                                                      Hominoidea
+75	9	0	68	1	0.0009571	9604	family	                                                        Hominidae
+75	9	1	68	1	0.001352	207598	subfamily	                                                          Homininae
+50	6	1	46	1	0.002835	9605	genus	                                                            Homo
+41.67	5	0	34	1	0.003922	9606	species	                                                              Homo sapiens
+41.67	5	5	31	1	0.01695	63221	subspecies	                                                                Homo sapiens neanderthalensis
+8.333	1	0	4	1	0.0002727	9596	genus	                                                            Pan
+8.333	1	1	4	1	0.0006683	9597	species	                                                              Pan paniscus
+8.333	1	0	1	1	6.328e-05	9592	genus	                                                            Gorilla
+8.333	1	1	1	1	0.0001839	499232	species	                                                              Gorilla beringei
+8.333	1	0	1	1	1.898e-06	314294	superfamily	                                                      Cercopithecoidea
+8.333	1	0	1	1	1.898e-06	9527	family	                                                        Cercopithecidae
+8.333	1	0	1	1	3.243e-06	9528	subfamily	                                                          Cercopithecinae
+8.333	1	0	1	1	0.0001011	9537	genus	                                                            Erythrocebus
+8.333	1	1	1	1	0.0001011	9538	species	                                                              Erythrocebus patas

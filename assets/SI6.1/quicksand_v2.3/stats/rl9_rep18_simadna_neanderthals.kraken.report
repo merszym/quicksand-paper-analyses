@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:19:27Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/84/c4142877aa8a93dff9113a0f66e11b
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl9_rep18_simadna_neanderthals.kraken.report --output output.kraken rl9_rep18_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+22.22	2	2	109	1	NA	0	no rank	unclassified
+77.78	7	0	202	1	1.644e-05	1	no rank	root
+77.78	7	0	202	1	1.644e-05	131567	no rank	  cellular organisms
+77.78	7	0	202	1	1.644e-05	2759	superkingdom	    Eukaryota
+77.78	7	0	202	1	1.644e-05	33154	clade	      Opisthokonta
+77.78	7	0	202	1	1.644e-05	33208	kingdom	        Metazoa
+77.78	7	0	202	1	1.644e-05	6072	clade	          Eumetazoa
+77.78	7	0	202	1	1.644e-05	33213	clade	            Bilateria
+77.78	7	0	202	1	1.644e-05	33511	clade	              Deuterostomia
+77.78	7	0	202	1	1.644e-05	7711	phylum	                Chordata
+77.78	7	0	202	1	1.644e-05	89593	subphylum	                  Craniata
+77.78	7	0	202	1	1.644e-05	7742	clade	                    Vertebrata
+77.78	7	0	202	1	1.644e-05	7776	clade	                      Gnathostomata
+77.78	7	0	202	1	1.644e-05	117570	clade	                        Teleostomi
+77.78	7	0	202	1	1.644e-05	117571	clade	                          Euteleostomi
+77.78	7	0	202	1	1.644e-05	8287	superclass	                            Sarcopterygii
+77.78	7	0	202	1	1.644e-05	1338369	clade	                              Dipnotetrapodomorpha
+77.78	7	0	202	1	1.644e-05	32523	clade	                                Tetrapoda
+77.78	7	0	202	1	1.644e-05	32524	clade	                                  Amniota
+77.78	7	0	202	1	1.644e-05	40674	class	                                    Mammalia
+77.78	7	0	202	1	1.65e-05	32525	clade	                                      Theria
+77.78	7	1	187	1	1.61e-05	9347	clade	                                        Eutheria
+66.67	6	0	150	1	1.382e-05	1437010	clade	                                          Boreoeutheria
+66.67	6	0	104	1	1.978e-05	314146	superorder	                                            Euarchontoglires
+55.56	5	0	98	1	5.372e-05	9443	order	                                              Primates
+55.56	5	0	98	1	8.044e-05	376913	suborder	                                                Haplorrhini
+55.56	5	0	98	1	8.341e-05	314293	infraorder	                                                  Simiiformes
+55.56	5	0	73	1	0.0001085	9526	parvorder	                                                    Catarrhini
+55.56	5	1	52	1	0.0003724	314295	superfamily	                                                      Hominoidea
+44.44	4	0	45	1	0.0006334	9604	family	                                                        Hominidae
+44.44	4	0	43	1	0.0008549	207598	subfamily	                                                          Homininae
+33.33	3	2	23	1	0.001417	9605	genus	                                                            Homo
+11.11	1	0	2	1	0.0002307	9606	species	                                                              Homo sapiens
+11.11	1	1	2	1	0.001093	63221	subspecies	                                                                Homo sapiens neanderthalensis
+11.11	1	0	2	1	0.0001364	9596	genus	                                                            Pan
+11.11	1	1	2	1	0.0003342	9597	species	                                                              Pan paniscus
+11.11	1	0	4	1	1.221e-06	314147	clade	                                              Glires
+11.11	1	0	4	1	1.305e-06	9989	order	                                                Rodentia
+11.11	1	0	4	1	6.678e-06	33553	suborder	                                                  Sciuromorpha
+11.11	1	0	4	1	7.081e-06	55153	family	                                                    Sciuridae
+11.11	1	0	4	1	2.596e-05	337724	subfamily	                                                      Callosciurinae
+11.11	1	0	4	1	2.596e-05	337736	tribe	                                                        Callosciurini
+11.11	1	0	4	1	9.018e-05	226574	genus	                                                          Sundasciurus
+11.11	1	1	4	1	0.0004777	1620830	species	                                                            Sundasciurus hippurus

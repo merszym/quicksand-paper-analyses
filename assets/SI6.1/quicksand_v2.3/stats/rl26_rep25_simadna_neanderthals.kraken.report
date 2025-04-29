@@ -1,0 +1,52 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:07Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/f2/99fb968e7f35f00aad1563cd4e617b
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl26_rep25_simadna_neanderthals.kraken.report --output output.kraken rl26_rep25_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+11.54	3	3	374	1	NA	0	no rank	unclassified
+88.46	23	0	473	1	3.85e-05	1	no rank	root
+88.46	23	0	473	1	3.85e-05	131567	no rank	  cellular organisms
+88.46	23	0	473	1	3.85e-05	2759	superkingdom	    Eukaryota
+88.46	23	0	473	1	3.85e-05	33154	clade	      Opisthokonta
+88.46	23	0	473	1	3.85e-05	33208	kingdom	        Metazoa
+88.46	23	0	473	1	3.85e-05	6072	clade	          Eumetazoa
+88.46	23	0	473	1	3.85e-05	33213	clade	            Bilateria
+88.46	23	0	473	1	3.85e-05	33511	clade	              Deuterostomia
+88.46	23	0	473	1	3.85e-05	7711	phylum	                Chordata
+88.46	23	0	473	1	3.85e-05	89593	subphylum	                  Craniata
+88.46	23	0	473	1	3.85e-05	7742	clade	                    Vertebrata
+88.46	23	0	473	1	3.85e-05	7776	clade	                      Gnathostomata
+88.46	23	0	473	1	3.85e-05	117570	clade	                        Teleostomi
+88.46	23	0	473	1	3.85e-05	117571	clade	                          Euteleostomi
+88.46	23	0	473	1	3.85e-05	8287	superclass	                            Sarcopterygii
+88.46	23	0	473	1	3.85e-05	1338369	clade	                              Dipnotetrapodomorpha
+88.46	23	0	473	1	3.85e-05	32523	clade	                                Tetrapoda
+88.46	23	0	473	1	3.85e-05	32524	clade	                                  Amniota
+88.46	23	1	473	1	3.85e-05	40674	class	                                    Mammalia
+84.62	22	0	459	1	3.75e-05	32525	clade	                                      Theria
+84.62	22	0	442	1	3.806e-05	9347	clade	                                        Eutheria
+84.62	22	0	398	1	3.666e-05	1437010	clade	                                          Boreoeutheria
+76.92	20	0	356	1	6.772e-05	314146	superorder	                                            Euarchontoglires
+76.92	20	0	349	1	0.0001913	9443	order	                                              Primates
+76.92	20	0	343	1	0.0002815	376913	suborder	                                                Haplorrhini
+73.08	19	0	338	1	0.0002877	314293	infraorder	                                                  Simiiformes
+73.08	19	0	337	1	0.000501	9526	parvorder	                                                    Catarrhini
+73.08	19	0	267	1	0.001912	314295	superfamily	                                                      Hominoidea
+73.08	19	0	241	1	0.003392	9604	family	                                                        Hominidae
+73.08	19	2	237	1	0.004712	207598	subfamily	                                                          Homininae
+65.38	17	9	188	1	0.01158	9605	genus	                                                            Homo
+30.77	8	5	82	1	0.00946	9606	species	                                                              Homo sapiens
+11.54	3	3	25	1	0.01367	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.846	1	0	5	1	0.0001163	376912	infraorder	                                                  Tarsiiformes
+3.846	1	0	5	1	0.0001163	9475	family	                                                    Tarsiidae
+3.846	1	0	5	1	0.0002316	9476	genus	                                                      Tarsius
+3.846	1	1	2	1	0.0004188	449501	species	                                                        Tarsius dentatus
+7.692	2	0	11	1	2.131e-06	314145	superorder	                                            Laurasiatheria
+3.846	1	0	9	1	1.518e-05	9362	order	                                              Eulipotyphla
+3.846	1	0	8	1	2.207e-05	9376	family	                                                Soricidae
+3.846	1	0	6	1	4.811e-05	183662	subfamily	                                                  Crocidurinae
+3.846	1	0	6	1	5.29e-05	36801	genus	                                                    Crocidura
+3.846	1	1	6	1	0.0006551	109474	species	                                                      Crocidura leucodon
+3.846	1	0	1	1	6.828e-07	9397	order	                                              Chiroptera
+3.846	1	0	1	1	8.816e-07	30560	suborder	                                                Microchiroptera
+3.846	1	0	1	1	8.42e-05	9409	family	                                                  Megadermatidae
+3.846	1	0	1	1	8.42e-05	9410	genus	                                                    Macroderma
+3.846	1	1	1	1	8.42e-05	9411	species	                                                      Macroderma gigas

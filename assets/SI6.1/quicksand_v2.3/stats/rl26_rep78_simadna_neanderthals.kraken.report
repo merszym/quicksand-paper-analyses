@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:20Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/f5/f505cb35f427c1af146cc3545ea9fd
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl26_rep78_simadna_neanderthals.kraken.report --output output.kraken rl26_rep78_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+7.692	2	2	354	1	NA	0	no rank	unclassified
+92.31	24	0	292	1.02	2.377e-05	1	no rank	root
+92.31	24	0	292	1.02	2.377e-05	131567	no rank	  cellular organisms
+92.31	24	0	292	1.02	2.377e-05	2759	superkingdom	    Eukaryota
+92.31	24	0	292	1.02	2.377e-05	33154	clade	      Opisthokonta
+92.31	24	0	292	1.02	2.377e-05	33208	kingdom	        Metazoa
+92.31	24	0	292	1.02	2.377e-05	6072	clade	          Eumetazoa
+92.31	24	0	292	1.02	2.377e-05	33213	clade	            Bilateria
+92.31	24	0	292	1.02	2.377e-05	33511	clade	              Deuterostomia
+92.31	24	0	292	1.02	2.377e-05	7711	phylum	                Chordata
+92.31	24	0	292	1.02	2.377e-05	89593	subphylum	                  Craniata
+92.31	24	0	292	1.02	2.377e-05	7742	clade	                    Vertebrata
+92.31	24	0	292	1.02	2.377e-05	7776	clade	                      Gnathostomata
+92.31	24	0	292	1.02	2.377e-05	117570	clade	                        Teleostomi
+92.31	24	0	292	1.02	2.377e-05	117571	clade	                          Euteleostomi
+92.31	24	0	292	1.02	2.377e-05	8287	superclass	                            Sarcopterygii
+92.31	24	0	292	1.02	2.377e-05	1338369	clade	                              Dipnotetrapodomorpha
+92.31	24	0	292	1.02	2.377e-05	32523	clade	                                Tetrapoda
+92.31	24	0	292	1.02	2.377e-05	32524	clade	                                  Amniota
+92.31	24	0	292	1.02	2.377e-05	40674	class	                                    Mammalia
+92.31	24	0	283	1.02	2.312e-05	32525	clade	                                      Theria
+92.31	24	1	256	1.02	2.205e-05	9347	clade	                                        Eutheria
+88.46	23	1	239	1.02	2.202e-05	1437010	clade	                                          Boreoeutheria
+84.62	22	0	211	1.02	4.014e-05	314146	superorder	                                            Euarchontoglires
+80.77	21	0	203	1.02	0.0001113	9443	order	                                              Primates
+80.77	21	0	200	1.02	0.0001642	376913	suborder	                                                Haplorrhini
+80.77	21	0	200	1.02	0.0001702	314293	infraorder	                                                  Simiiformes
+80.77	21	0	197	1.03	0.0002929	9526	parvorder	                                                    Catarrhini
+80.77	21	0	186	1.02	0.001332	314295	superfamily	                                                      Hominoidea
+80.77	21	0	186	1.02	0.002618	9604	family	                                                        Hominidae
+80.77	21	4	183	1.02	0.003638	207598	subfamily	                                                          Homininae
+61.54	16	6	142	1.02	0.00875	9605	genus	                                                            Homo
+38.46	10	7	85	1	0.009806	9606	species	                                                              Homo sapiens
+11.54	3	3	16	1	0.008748	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.846	1	0	1	1	6.818e-05	9596	genus	                                                            Pan
+3.846	1	1	1	1	0.0001636	9598	species	                                                              Pan troglodytes
+3.846	1	0	2	1	6.106e-07	314147	clade	                                              Glires
+3.846	1	0	2	1	6.527e-07	9989	order	                                                Rodentia
+3.846	1	0	1	1	1.67e-06	33553	suborder	                                                  Sciuromorpha
+3.846	1	0	1	1	1.77e-06	55153	family	                                                    Sciuridae
+3.846	1	0	1	1	4.037e-06	9991	subfamily	                                                      Sciurinae
+3.846	1	0	1	1	1.627e-05	337748	tribe	                                                        Pteromyini
+3.846	1	0	1	1	0.0001077	45481	genus	                                                          Glaucomys
+3.846	1	1	1	1	0.0001077	64683	species	                                                            Glaucomys volans

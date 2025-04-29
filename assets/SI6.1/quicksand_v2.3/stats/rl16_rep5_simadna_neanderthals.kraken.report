@@ -1,0 +1,52 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:12Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/b8/e730553291c1435157fb5ae1fa5040
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl16_rep5_simadna_neanderthals.kraken.report --output output.kraken rl16_rep5_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+31.25	5	5	335	1	NA	0	no rank	unclassified
+68.75	11	0	171	1	1.392e-05	1	no rank	root
+68.75	11	0	171	1	1.392e-05	131567	no rank	  cellular organisms
+68.75	11	0	171	1	1.392e-05	2759	superkingdom	    Eukaryota
+68.75	11	0	171	1	1.392e-05	33154	clade	      Opisthokonta
+68.75	11	0	171	1	1.392e-05	33208	kingdom	        Metazoa
+68.75	11	0	171	1	1.392e-05	6072	clade	          Eumetazoa
+68.75	11	0	171	1	1.392e-05	33213	clade	            Bilateria
+68.75	11	0	171	1	1.392e-05	33511	clade	              Deuterostomia
+68.75	11	0	171	1	1.392e-05	7711	phylum	                Chordata
+68.75	11	0	171	1	1.392e-05	89593	subphylum	                  Craniata
+68.75	11	0	171	1	1.392e-05	7742	clade	                    Vertebrata
+68.75	11	0	171	1	1.392e-05	7776	clade	                      Gnathostomata
+68.75	11	0	171	1	1.392e-05	117570	clade	                        Teleostomi
+68.75	11	0	171	1	1.392e-05	117571	clade	                          Euteleostomi
+68.75	11	0	171	1	1.392e-05	8287	superclass	                            Sarcopterygii
+68.75	11	0	171	1	1.392e-05	1338369	clade	                              Dipnotetrapodomorpha
+68.75	11	0	171	1	1.392e-05	32523	clade	                                Tetrapoda
+68.75	11	0	171	1	1.392e-05	32524	clade	                                  Amniota
+68.75	11	0	171	1	1.392e-05	40674	class	                                    Mammalia
+68.75	11	0	171	1	1.397e-05	32525	clade	                                      Theria
+68.75	11	0	171	1	1.473e-05	9347	clade	                                        Eutheria
+68.75	11	0	171	1	1.575e-05	1437010	clade	                                          Boreoeutheria
+62.5	10	0	162	1	3.082e-05	314146	superorder	                                            Euarchontoglires
+62.5	10	0	162	1	8.88e-05	9443	order	                                              Primates
+62.5	10	0	162	1	0.000133	376913	suborder	                                                Haplorrhini
+62.5	10	0	162	1	0.0001379	314293	infraorder	                                                  Simiiformes
+62.5	10	0	162	1	0.0002408	9526	parvorder	                                                    Catarrhini
+56.25	9	1	157	1	0.001124	314295	superfamily	                                                      Hominoidea
+50	8	0	149	1	0.002097	9604	family	                                                        Hominidae
+50	8	0	146	1	0.002903	207598	subfamily	                                                          Homininae
+43.75	7	5	136	1	0.008381	9605	genus	                                                            Homo
+12.5	2	1	16	1	0.001846	9606	species	                                                              Homo sapiens
+6.25	1	1	6	1	0.00328	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.25	1	0	2	1	0.0001266	9592	genus	                                                            Gorilla
+6.25	1	1	2	1	0.0003677	499232	species	                                                              Gorilla beringei
+6.25	1	0	1	1	1.898e-06	314294	superfamily	                                                      Cercopithecoidea
+6.25	1	0	1	1	1.898e-06	9527	family	                                                        Cercopithecidae
+6.25	1	0	1	1	4.81e-06	9569	subfamily	                                                          Colobinae
+6.25	1	0	1	1	0.0001513	43779	genus	                                                            Nasalis
+6.25	1	1	1	1	0.0001513	43780	species	                                                              Nasalis larvatus
+6.25	1	0	2	1	3.875e-07	314145	superorder	                                            Laurasiatheria
+6.25	1	0	2	1	1.398e-06	91561	order	                                              Artiodactyla
+6.25	1	0	2	1	4.959e-06	2653789	suborder	                                                Whippomorpha
+6.25	1	0	2	1	5.178e-06	9721	infraorder	                                                  Cetacea
+6.25	1	0	2	1	6.688e-06	9722	parvorder	                                                    Odontoceti
+6.25	1	0	2	1	5.292e-05	9740	family	                                                      Phocoenidae
+6.25	1	0	2	1	9.486e-05	9741	genus	                                                        Phocoena
+6.25	1	1	2	1	0.0005349	34890	species	                                                          Phocoena dioptrica

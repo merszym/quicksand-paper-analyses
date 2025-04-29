@@ -1,0 +1,64 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:09Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/e0/afb010031b7e6f6808bc6b4a419a25
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl26_rep28_simadna_neanderthals.kraken.report --output output.kraken rl26_rep28_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+19.23	5	5	240	1	NA	0	no rank	unclassified
+80.77	21	0	425	1	3.46e-05	1	no rank	root
+80.77	21	0	425	1	3.46e-05	131567	no rank	  cellular organisms
+80.77	21	0	425	1	3.46e-05	2759	superkingdom	    Eukaryota
+80.77	21	0	425	1	3.46e-05	33154	clade	      Opisthokonta
+80.77	21	0	425	1	3.46e-05	33208	kingdom	        Metazoa
+80.77	21	0	425	1	3.46e-05	6072	clade	          Eumetazoa
+80.77	21	0	425	1	3.46e-05	33213	clade	            Bilateria
+80.77	21	0	425	1	3.46e-05	33511	clade	              Deuterostomia
+80.77	21	0	425	1	3.46e-05	7711	phylum	                Chordata
+80.77	21	0	425	1	3.46e-05	89593	subphylum	                  Craniata
+80.77	21	0	425	1	3.46e-05	7742	clade	                    Vertebrata
+80.77	21	0	425	1	3.46e-05	7776	clade	                      Gnathostomata
+80.77	21	0	425	1	3.46e-05	117570	clade	                        Teleostomi
+80.77	21	0	425	1	3.46e-05	117571	clade	                          Euteleostomi
+80.77	21	0	425	1	3.46e-05	8287	superclass	                            Sarcopterygii
+80.77	21	0	425	1	3.46e-05	1338369	clade	                              Dipnotetrapodomorpha
+80.77	21	0	425	1	3.46e-05	32523	clade	                                Tetrapoda
+80.77	21	0	425	1	3.46e-05	32524	clade	                                  Amniota
+80.77	21	0	425	1	3.46e-05	40674	class	                                    Mammalia
+80.77	21	0	411	1	3.357e-05	32525	clade	                                      Theria
+80.77	21	0	383	1	3.298e-05	9347	clade	                                        Eutheria
+80.77	21	0	345	1	3.178e-05	1437010	clade	                                          Boreoeutheria
+76.92	20	1	295	1	5.612e-05	314146	superorder	                                            Euarchontoglires
+69.23	18	0	269	1	0.0001474	9443	order	                                              Primates
+69.23	18	0	266	1	0.0002183	376913	suborder	                                                Haplorrhini
+69.23	18	0	266	1	0.0002264	314293	infraorder	                                                  Simiiformes
+65.38	17	0	258	1	0.0003835	9526	parvorder	                                                    Catarrhini
+61.54	16	0	204	1	0.001461	314295	superfamily	                                                      Hominoidea
+61.54	16	0	201	1	0.002829	9604	family	                                                        Hominidae
+61.54	16	1	200	1	0.003976	207598	subfamily	                                                          Homininae
+50	13	6	163	1.01	0.01004	9605	genus	                                                            Homo
+26.92	7	2	69	1	0.00796	9606	species	                                                              Homo sapiens
+15.38	4	4	42	1	0.02296	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.846	1	1	6	1	0.002302	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+7.692	2	0	19	1	0.001295	9596	genus	                                                            Pan
+7.692	2	2	8	1	0.001337	9597	species	                                                              Pan paniscus
+3.846	1	0	2	1	3.797e-06	314294	superfamily	                                                      Cercopithecoidea
+3.846	1	0	2	1	3.797e-06	9527	family	                                                        Cercopithecidae
+3.846	1	1	2	1	9.62e-06	9569	subfamily	                                                          Colobinae
+3.846	1	0	1	1	2.02e-06	9479	parvorder	                                                    Platyrrhini
+3.846	1	0	1	1	4.543e-06	9498	family	                                                      Cebidae
+3.846	1	0	1	1	6.302e-06	9480	subfamily	                                                        Callitrichinae
+3.846	1	0	1	1	7.554e-05	1965109	genus	                                                          Cebuella
+3.846	1	1	1	1	0.0001656	9493	species	                                                            Cebuella pygmaea
+3.846	1	0	9	1	2.748e-06	314147	clade	                                              Glires
+3.846	1	0	6	1	1.958e-06	9989	order	                                                Rodentia
+3.846	1	0	6	1	3.216e-06	1963758	suborder	                                                  Myomorpha
+3.846	1	0	5	1	2.835e-06	337687	clade	                                                    Muroidea
+3.846	1	0	5	1	5.214e-06	10066	family	                                                      Muridae
+3.846	1	0	5	1	5.743e-06	39107	subfamily	                                                        Murinae
+3.846	1	0	5	1	0.0003355	41266	genus	                                                          Leopoldamys
+3.846	1	1	5	1	0.0006585	83756	species	                                                            Leopoldamys edwardsi
+3.846	1	0	12	1	2.325e-06	314145	superorder	                                            Laurasiatheria
+3.846	1	0	8	1	5.593e-06	91561	order	                                              Artiodactyla
+3.846	1	0	7	1	1.736e-05	2653789	suborder	                                                Whippomorpha
+3.846	1	0	7	1	1.812e-05	9721	infraorder	                                                  Cetacea
+3.846	1	0	7	1	2.341e-05	9722	parvorder	                                                    Odontoceti
+3.846	1	0	7	1	0.0001852	9740	family	                                                      Phocoenidae
+3.846	1	0	3	1	0.0001423	9741	genus	                                                        Phocoena
+3.846	1	1	3	1	0.0006787	27614	species	                                                          Phocoena spinipinnis

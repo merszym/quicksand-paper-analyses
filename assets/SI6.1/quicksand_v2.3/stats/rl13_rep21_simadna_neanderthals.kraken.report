@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:36Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/20/53d6d249f005d41312e638ba5ab99b
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl13_rep21_simadna_neanderthals.kraken.report --output output.kraken rl13_rep21_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+7.692	1	1	192	1	NA	0	no rank	unclassified
+92.31	12	0	155	1	1.262e-05	1	no rank	root
+92.31	12	0	155	1	1.262e-05	131567	no rank	  cellular organisms
+92.31	12	0	155	1	1.262e-05	2759	superkingdom	    Eukaryota
+92.31	12	0	155	1	1.262e-05	33154	clade	      Opisthokonta
+92.31	12	0	155	1	1.262e-05	33208	kingdom	        Metazoa
+92.31	12	0	155	1	1.262e-05	6072	clade	          Eumetazoa
+92.31	12	0	155	1	1.262e-05	33213	clade	            Bilateria
+92.31	12	0	155	1	1.262e-05	33511	clade	              Deuterostomia
+92.31	12	0	155	1	1.262e-05	7711	phylum	                Chordata
+92.31	12	0	155	1	1.262e-05	89593	subphylum	                  Craniata
+92.31	12	0	155	1	1.262e-05	7742	clade	                    Vertebrata
+92.31	12	0	155	1	1.262e-05	7776	clade	                      Gnathostomata
+92.31	12	0	155	1	1.262e-05	117570	clade	                        Teleostomi
+92.31	12	0	155	1	1.262e-05	117571	clade	                          Euteleostomi
+92.31	12	0	155	1	1.262e-05	8287	superclass	                            Sarcopterygii
+92.31	12	0	155	1	1.262e-05	1338369	clade	                              Dipnotetrapodomorpha
+92.31	12	0	155	1	1.262e-05	32523	clade	                                Tetrapoda
+92.31	12	0	155	1	1.262e-05	32524	clade	                                  Amniota
+92.31	12	1	155	1	1.262e-05	40674	class	                                    Mammalia
+84.62	11	0	141	1	1.152e-05	32525	clade	                                      Theria
+84.62	11	0	139	1	1.197e-05	9347	clade	                                        Eutheria
+84.62	11	0	137	1	1.262e-05	1437010	clade	                                          Boreoeutheria
+84.62	11	0	116	1	2.207e-05	314146	superorder	                                            Euarchontoglires
+84.62	11	0	109	1	5.975e-05	9443	order	                                              Primates
+84.62	11	0	108	1	8.865e-05	376913	suborder	                                                Haplorrhini
+84.62	11	0	108	1	9.192e-05	314293	infraorder	                                                  Simiiformes
+76.92	10	1	106	1	0.0001576	9526	parvorder	                                                    Catarrhini
+69.23	9	0	97	1	0.0006947	314295	superfamily	                                                      Hominoidea
+69.23	9	0	93	1	0.001309	9604	family	                                                        Hominidae
+69.23	9	3	93	1	0.001849	207598	subfamily	                                                          Homininae
+38.46	5	2	55	1	0.003389	9605	genus	                                                            Homo
+23.08	3	1	30	1	0.003461	9606	species	                                                              Homo sapiens
+15.38	2	2	21	1	0.01148	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.692	1	0	15	1	0.0009492	9592	genus	                                                            Gorilla
+7.692	1	1	6	1	0.0008493	9593	species	                                                              Gorilla gorilla
+7.692	1	0	1	1	2.02e-06	9479	parvorder	                                                    Platyrrhini
+7.692	1	0	1	1	4.543e-06	9498	family	                                                      Cebidae
+7.692	1	0	1	1	6.302e-06	9480	subfamily	                                                        Callitrichinae
+7.692	1	0	1	1	5.117e-05	9481	genus	                                                          Callithrix
+7.692	1	0	1	1	5.117e-05	1965096	subgenus	                                                            Callithrix
+7.692	1	1	1	1	0.0001648	57375	species	                                                              Callithrix aurita

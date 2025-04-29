@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:18:12Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/e4/a024b02ed3af466b96a404577d89c4
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl7_rep12_simadna_neanderthals.kraken.report --output output.kraken rl7_rep12_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+14.29	1	1	63	1	NA	0	no rank	unclassified
+85.71	6	0	96	1	7.814e-06	1	no rank	root
+85.71	6	0	96	1	7.814e-06	131567	no rank	  cellular organisms
+85.71	6	0	96	1	7.814e-06	2759	superkingdom	    Eukaryota
+85.71	6	0	96	1	7.814e-06	33154	clade	      Opisthokonta
+85.71	6	0	96	1	7.814e-06	33208	kingdom	        Metazoa
+85.71	6	0	96	1	7.814e-06	6072	clade	          Eumetazoa
+85.71	6	0	96	1	7.814e-06	33213	clade	            Bilateria
+85.71	6	0	96	1	7.814e-06	33511	clade	              Deuterostomia
+85.71	6	0	96	1	7.814e-06	7711	phylum	                Chordata
+85.71	6	0	96	1	7.814e-06	89593	subphylum	                  Craniata
+85.71	6	0	96	1	7.814e-06	7742	clade	                    Vertebrata
+85.71	6	0	96	1	7.814e-06	7776	clade	                      Gnathostomata
+85.71	6	0	96	1	7.814e-06	117570	clade	                        Teleostomi
+85.71	6	0	96	1	7.814e-06	117571	clade	                          Euteleostomi
+85.71	6	0	96	1	7.814e-06	8287	superclass	                            Sarcopterygii
+85.71	6	0	96	1	7.814e-06	1338369	clade	                              Dipnotetrapodomorpha
+85.71	6	0	96	1	7.814e-06	32523	clade	                                Tetrapoda
+85.71	6	0	96	1	7.814e-06	32524	clade	                                  Amniota
+85.71	6	0	96	1	7.814e-06	40674	class	                                    Mammalia
+85.71	6	0	96	1	7.842e-06	32525	clade	                                      Theria
+85.71	6	0	76	1	6.545e-06	9347	clade	                                        Eutheria
+85.71	6	0	73	1	6.725e-06	1437010	clade	                                          Boreoeutheria
+85.71	6	1	59	1	1.122e-05	314146	superorder	                                            Euarchontoglires
+57.14	4	0	54	1	2.96e-05	9443	order	                                              Primates
+57.14	4	0	52	1	4.268e-05	376913	suborder	                                                Haplorrhini
+57.14	4	0	52	1	4.426e-05	314293	infraorder	                                                  Simiiformes
+57.14	4	0	49	1	7.284e-05	9526	parvorder	                                                    Catarrhini
+42.86	3	0	46	1	0.0003294	314295	superfamily	                                                      Hominoidea
+42.86	3	0	46	1	0.0006474	9604	family	                                                        Hominidae
+42.86	3	0	43	1	0.0008549	207598	subfamily	                                                          Homininae
+42.86	3	3	43	1	0.00265	9605	genus	                                                            Homo
+14.29	1	0	3	1	5.695e-06	314294	superfamily	                                                      Cercopithecoidea
+14.29	1	0	3	1	5.695e-06	9527	family	                                                        Cercopithecidae
+14.29	1	1	1	1	3.243e-06	9528	subfamily	                                                          Cercopithecinae
+14.29	1	0	3	1	9.159e-07	314147	clade	                                              Glires
+14.29	1	0	3	1	9.791e-07	9989	order	                                                Rodentia
+14.29	1	0	3	1	1.608e-06	1963758	suborder	                                                  Myomorpha
+14.29	1	0	3	1	1.701e-06	337687	clade	                                                    Muroidea
+14.29	1	0	3	1	4.846e-06	337677	family	                                                      Cricetidae
+14.29	1	0	3	1	1.048e-05	39087	subfamily	                                                        Arvicolinae
+14.29	1	0	3	1	0.0003492	10059	genus	                                                          Ondatra
+14.29	1	1	3	1	0.0003492	10060	species	                                                            Ondatra zibethicus

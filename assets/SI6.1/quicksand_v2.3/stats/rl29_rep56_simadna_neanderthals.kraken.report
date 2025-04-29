@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:02Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/71/b0e398c3d5556dac6c53063bb18604
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep56_simadna_neanderthals.kraken.report --output output.kraken rl29_rep56_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+17.24	5	5	462	1	NA	0	no rank	unclassified
+82.76	24	0	465	1	3.785e-05	1	no rank	root
+82.76	24	0	465	1	3.785e-05	131567	no rank	  cellular organisms
+82.76	24	0	465	1	3.785e-05	2759	superkingdom	    Eukaryota
+82.76	24	0	465	1	3.785e-05	33154	clade	      Opisthokonta
+82.76	24	0	465	1	3.785e-05	33208	kingdom	        Metazoa
+82.76	24	0	465	1	3.785e-05	6072	clade	          Eumetazoa
+82.76	24	0	465	1	3.785e-05	33213	clade	            Bilateria
+82.76	24	0	465	1	3.785e-05	33511	clade	              Deuterostomia
+82.76	24	0	465	1	3.785e-05	7711	phylum	                Chordata
+82.76	24	0	465	1	3.785e-05	89593	subphylum	                  Craniata
+82.76	24	0	465	1	3.785e-05	7742	clade	                    Vertebrata
+82.76	24	0	465	1	3.785e-05	7776	clade	                      Gnathostomata
+82.76	24	0	465	1	3.785e-05	117570	clade	                        Teleostomi
+82.76	24	0	465	1	3.785e-05	117571	clade	                          Euteleostomi
+82.76	24	0	465	1	3.785e-05	8287	superclass	                            Sarcopterygii
+82.76	24	0	465	1	3.785e-05	1338369	clade	                              Dipnotetrapodomorpha
+82.76	24	0	465	1	3.785e-05	32523	clade	                                Tetrapoda
+82.76	24	0	465	1	3.785e-05	32524	clade	                                  Amniota
+82.76	24	0	465	1	3.785e-05	40674	class	                                    Mammalia
+82.76	24	0	465	1	3.799e-05	32525	clade	                                      Theria
+82.76	24	0	435	1	3.746e-05	9347	clade	                                        Eutheria
+79.31	23	0	407	1	3.749e-05	1437010	clade	                                          Boreoeutheria
+75.86	22	0	330	1	6.278e-05	314146	superorder	                                            Euarchontoglires
+75.86	22	0	327	1	0.0001792	9443	order	                                              Primates
+75.86	22	0	315	1	0.0002586	376913	suborder	                                                Haplorrhini
+75.86	22	0	315	1	0.0002681	314293	infraorder	                                                  Simiiformes
+75.86	22	0	308	1	0.0004579	9526	parvorder	                                                    Catarrhini
+75.86	22	0	292	1	0.002091	314295	superfamily	                                                      Hominoidea
+75.86	22	0	281	1	0.003955	9604	family	                                                        Hominidae
+75.86	22	1	276	1	0.005487	207598	subfamily	                                                          Homininae
+72.41	21	12	204	1	0.01257	9605	genus	                                                            Homo
+31.03	9	7	81	1	0.009345	9606	species	                                                              Homo sapiens
+6.897	2	2	29	1	0.01586	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.448	1	0	7	1	1.356e-06	314145	superorder	                                            Laurasiatheria
+3.448	1	0	3	1	2.097e-06	91561	order	                                              Artiodactyla
+3.448	1	0	3	1	3.304e-06	9845	suborder	                                                Ruminantia
+3.448	1	0	3	1	3.449e-06	35500	infraorder	                                                  Pecora
+3.448	1	0	3	1	5.156e-06	9895	family	                                                    Bovidae
+3.448	1	0	3	1	2.581e-05	27592	subfamily	                                                      Bovinae
+3.448	1	0	3	1	0.0001953	9903	genus	                                                        Bos
+3.448	1	1	3	1	0.005505	331036	species	                                                          Bos grunniens x Bos taurus
+3.448	1	0	2	1	6.983e-06	311790	superorder	                                          Afrotheria
+3.448	1	0	2	1	4.248e-05	9779	order	                                            Proboscidea
+3.448	1	0	2	1	4.248e-05	9780	family	                                              Elephantidae
+3.448	1	0	2	1	0.0002552	9782	genus	                                                Elephas
+3.448	1	1	2	1	0.001176	251093	species	                                                  Elephas antiquus

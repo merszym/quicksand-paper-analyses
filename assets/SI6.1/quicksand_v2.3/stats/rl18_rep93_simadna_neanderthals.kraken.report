@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:20:28Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ce/78b529b7b938eea2e5ec94a3ad1743
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl18_rep93_simadna_neanderthals.kraken.report --output output.kraken rl18_rep93_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+11.11	2	2	271	1	NA	0	no rank	unclassified
+88.89	16	0	184	1	1.498e-05	1	no rank	root
+88.89	16	0	184	1	1.498e-05	131567	no rank	  cellular organisms
+88.89	16	0	184	1	1.498e-05	2759	superkingdom	    Eukaryota
+88.89	16	0	184	1	1.498e-05	33154	clade	      Opisthokonta
+88.89	16	0	184	1	1.498e-05	33208	kingdom	        Metazoa
+88.89	16	0	184	1	1.498e-05	6072	clade	          Eumetazoa
+88.89	16	0	184	1	1.498e-05	33213	clade	            Bilateria
+88.89	16	0	184	1	1.498e-05	33511	clade	              Deuterostomia
+88.89	16	0	184	1	1.498e-05	7711	phylum	                Chordata
+88.89	16	0	184	1	1.498e-05	89593	subphylum	                  Craniata
+88.89	16	0	184	1	1.498e-05	7742	clade	                    Vertebrata
+88.89	16	0	184	1	1.498e-05	7776	clade	                      Gnathostomata
+88.89	16	0	184	1	1.498e-05	117570	clade	                        Teleostomi
+88.89	16	0	184	1	1.498e-05	117571	clade	                          Euteleostomi
+88.89	16	0	184	1	1.498e-05	8287	superclass	                            Sarcopterygii
+88.89	16	0	184	1	1.498e-05	1338369	clade	                              Dipnotetrapodomorpha
+88.89	16	0	184	1	1.498e-05	32523	clade	                                Tetrapoda
+88.89	16	0	184	1	1.498e-05	32524	clade	                                  Amniota
+88.89	16	0	184	1	1.498e-05	40674	class	                                    Mammalia
+88.89	16	2	184	1	1.503e-05	32525	clade	                                      Theria
+77.78	14	1	147	1	1.266e-05	9347	clade	                                        Eutheria
+72.22	13	1	143	1	1.317e-05	1437010	clade	                                          Boreoeutheria
+66.67	12	1	103	1	1.959e-05	314146	superorder	                                            Euarchontoglires
+55.56	10	0	95	1	5.207e-05	9443	order	                                              Primates
+55.56	10	0	94	1	7.716e-05	376913	suborder	                                                Haplorrhini
+55.56	10	0	93	1	7.916e-05	314293	infraorder	                                                  Simiiformes
+55.56	10	1	93	1	0.0001383	9526	parvorder	                                                    Catarrhini
+50	9	0	85	1	0.0006087	314295	superfamily	                                                      Hominoidea
+50	9	0	81	1	0.00114	9604	family	                                                        Hominidae
+50	9	1	80	1	0.00159	207598	subfamily	                                                          Homininae
+44.44	8	4	57	1	0.003512	9605	genus	                                                            Homo
+22.22	4	1	25	1	0.002884	9606	species	                                                              Homo sapiens
+16.67	3	3	24	1	0.01312	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.556	1	0	2	1	6.106e-07	314147	clade	                                              Glires
+5.556	1	0	2	1	6.527e-07	9989	order	                                                Rodentia
+5.556	1	0	2	1	1.072e-06	1963758	suborder	                                                  Myomorpha
+5.556	1	0	2	1	1.134e-06	337687	clade	                                                    Muroidea
+5.556	1	0	2	1	2.086e-06	10066	family	                                                      Muridae
+5.556	1	0	2	1	2.297e-06	39107	subfamily	                                                        Murinae
+5.556	1	0	2	1	5.513e-05	34857	genus	                                                          Hylomyscus
+5.556	1	1	2	1	0.0003013	209855	species	                                                            Hylomyscus parvus

@@ -1,0 +1,71 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:49Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/4c/54857fee092bc582697e1895619acd
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl28_rep85_simadna_neanderthals.kraken.report --output output.kraken rl28_rep85_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+7.143	2	2	438	1	NA	0	no rank	unclassified
+92.86	26	0	420	1	3.419e-05	1	no rank	root
+92.86	26	0	420	1	3.419e-05	131567	no rank	  cellular organisms
+92.86	26	0	420	1	3.419e-05	2759	superkingdom	    Eukaryota
+92.86	26	0	420	1	3.419e-05	33154	clade	      Opisthokonta
+92.86	26	0	420	1	3.419e-05	33208	kingdom	        Metazoa
+92.86	26	0	420	1	3.419e-05	6072	clade	          Eumetazoa
+92.86	26	0	420	1	3.419e-05	33213	clade	            Bilateria
+92.86	26	0	420	1	3.419e-05	33511	clade	              Deuterostomia
+92.86	26	0	420	1	3.419e-05	7711	phylum	                Chordata
+92.86	26	0	420	1	3.419e-05	89593	subphylum	                  Craniata
+92.86	26	0	420	1	3.419e-05	7742	clade	                    Vertebrata
+92.86	26	0	420	1	3.419e-05	7776	clade	                      Gnathostomata
+92.86	26	0	420	1	3.419e-05	117570	clade	                        Teleostomi
+92.86	26	0	420	1	3.419e-05	117571	clade	                          Euteleostomi
+92.86	26	0	420	1	3.419e-05	8287	superclass	                            Sarcopterygii
+92.86	26	0	420	1	3.419e-05	1338369	clade	                              Dipnotetrapodomorpha
+92.86	26	0	420	1	3.419e-05	32523	clade	                                Tetrapoda
+92.86	26	0	420	1	3.419e-05	32524	clade	                                  Amniota
+92.86	26	0	420	1	3.419e-05	40674	class	                                    Mammalia
+92.86	26	0	420	1	3.431e-05	32525	clade	                                      Theria
+92.86	26	0	381	1	3.281e-05	9347	clade	                                        Eutheria
+92.86	26	1	361	1	3.326e-05	1437010	clade	                                          Boreoeutheria
+82.14	23	1	305	1	5.802e-05	314146	superorder	                                            Euarchontoglires
+75	21	0	270	1	0.000148	9443	order	                                              Primates
+71.43	20	0	247	1	0.0002027	376913	suborder	                                                Haplorrhini
+71.43	20	0	247	1	0.0002102	314293	infraorder	                                                  Simiiformes
+71.43	20	0	220	1	0.000327	9526	parvorder	                                                    Catarrhini
+64.29	18	0	183	1	0.001311	314295	superfamily	                                                      Hominoidea
+64.29	18	0	175	1	0.002463	9604	family	                                                        Hominidae
+64.29	18	2	158	1	0.003141	207598	subfamily	                                                          Homininae
+53.57	15	7	140	1	0.008627	9605	genus	                                                            Homo
+28.57	8	4	80	1	0.009229	9606	species	                                                              Homo sapiens
+10.71	3	3	30	1	0.0164	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.571	1	1	18	1	0.006907	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+3.571	1	0	3	1	0.0001898	9592	genus	                                                            Gorilla
+3.571	1	1	3	1	0.0005516	499232	species	                                                              Gorilla beringei
+7.143	2	0	16	1	3.037e-05	314294	superfamily	                                                      Cercopithecoidea
+7.143	2	0	16	1	3.037e-05	9527	family	                                                        Cercopithecidae
+3.571	1	0	11	1	5.291e-05	9569	subfamily	                                                          Colobinae
+3.571	1	1	9	1	0.0001188	54136	genus	                                                            Trachypithecus
+3.571	1	0	3	1	9.729e-06	9528	subfamily	                                                          Cercopithecinae
+3.571	1	0	3	1	2.841e-05	9539	genus	                                                            Macaca
+3.571	1	1	3	1	0.0005117	9548	species	                                                              Macaca radiata
+3.571	1	0	8	1	1.336e-05	376911	suborder	                                                Strepsirrhini
+3.571	1	0	8	1	1.566e-05	376915	infraorder	                                                  Lemuriformes
+3.571	1	0	5	1	2.533e-05	30615	family	                                                    Cheirogaleidae
+3.571	1	0	3	1	0.0002943	122247	genus	                                                      Allocebus
+3.571	1	1	3	1	0.0002943	3043103	species	                                                        Allocebus trichotus
+3.571	1	0	8	1	2.442e-06	314147	clade	                                              Glires
+3.571	1	0	8	1	2.611e-06	9989	order	                                                Rodentia
+3.571	1	0	5	1	2.68e-06	1963758	suborder	                                                  Myomorpha
+3.571	1	0	5	1	2.835e-06	337687	clade	                                                    Muroidea
+3.571	1	0	5	1	8.076e-06	337677	family	                                                      Cricetidae
+3.571	1	0	5	1	1.747e-05	39087	subfamily	                                                        Arvicolinae
+3.571	1	0	5	1	0.0005821	10059	genus	                                                          Ondatra
+3.571	1	1	5	1	0.0005821	10060	species	                                                            Ondatra zibethicus
+7.143	2	0	10	1	1.937e-06	314145	superorder	                                            Laurasiatheria
+3.571	1	0	4	1	3.131e-06	33554	order	                                              Carnivora
+3.571	1	0	4	1	5.125e-06	379584	suborder	                                                Caniformia
+3.571	1	0	4	1	1.435e-05	9655	family	                                                  Mustelidae
+3.571	1	0	3	1	0.0001175	1008252	subfamily	                                                    Melinae
+3.571	1	0	3	1	0.0004599	139308	genus	                                                      Arctonyx
+3.571	1	1	3	1	0.0004599	139309	species	                                                        Arctonyx collaris
+3.571	1	0	1	1	1.275e-05	9971	order	                                              Pholidota
+3.571	1	0	1	1	1.275e-05	9972	family	                                                Manidae
+3.571	1	0	1	1	4.809e-05	2736677	genus	                                                  Smutsia
+3.571	1	1	1	1	0.000103	1559511	species	                                                    Smutsia gigantea

@@ -1,0 +1,51 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:03Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/59/a43cc557532afe736a93d919b40976
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl23_rep12_simadna_neanderthals.kraken.report --output output.kraken rl23_rep12_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+8.696	2	2	295	1	NA	0	no rank	unclassified
+91.3	21	0	368	1	2.996e-05	1	no rank	root
+91.3	21	0	368	1	2.996e-05	131567	no rank	  cellular organisms
+91.3	21	0	368	1	2.996e-05	2759	superkingdom	    Eukaryota
+91.3	21	0	368	1	2.996e-05	33154	clade	      Opisthokonta
+91.3	21	0	368	1	2.996e-05	33208	kingdom	        Metazoa
+91.3	21	0	368	1	2.996e-05	6072	clade	          Eumetazoa
+91.3	21	0	368	1	2.996e-05	33213	clade	            Bilateria
+91.3	21	0	368	1	2.996e-05	33511	clade	              Deuterostomia
+91.3	21	0	368	1	2.996e-05	7711	phylum	                Chordata
+91.3	21	0	368	1	2.996e-05	89593	subphylum	                  Craniata
+91.3	21	0	368	1	2.996e-05	7742	clade	                    Vertebrata
+91.3	21	0	368	1	2.996e-05	7776	clade	                      Gnathostomata
+91.3	21	0	368	1	2.996e-05	117570	clade	                        Teleostomi
+91.3	21	0	368	1	2.996e-05	117571	clade	                          Euteleostomi
+91.3	21	0	368	1	2.996e-05	8287	superclass	                            Sarcopterygii
+91.3	21	0	368	1	2.996e-05	1338369	clade	                              Dipnotetrapodomorpha
+91.3	21	0	368	1	2.996e-05	32523	clade	                                Tetrapoda
+91.3	21	0	368	1	2.996e-05	32524	clade	                                  Amniota
+91.3	21	0	368	1	2.996e-05	40674	class	                                    Mammalia
+91.3	21	0	368	1	3.006e-05	32525	clade	                                      Theria
+91.3	21	0	353	1	3.04e-05	9347	clade	                                        Eutheria
+91.3	21	0	322	1	2.966e-05	1437010	clade	                                          Boreoeutheria
+82.61	19	0	281	1	5.345e-05	314146	superorder	                                            Euarchontoglires
+78.26	18	0	257	1	0.0001409	9443	order	                                              Primates
+78.26	18	0	255	1	0.0002093	376913	suborder	                                                Haplorrhini
+78.26	18	0	255	1	0.000217	314293	infraorder	                                                  Simiiformes
+78.26	18	2	241	1	0.0003583	9526	parvorder	                                                    Catarrhini
+69.57	16	1	179	1	0.001282	314295	superfamily	                                                      Hominoidea
+65.22	15	0	169	1	0.002379	9604	family	                                                        Hominidae
+65.22	15	2	162	1	0.003221	207598	subfamily	                                                          Homininae
+56.52	13	4	132	1	0.008134	9605	genus	                                                            Homo
+39.13	9	6	50	1	0.005768	9606	species	                                                              Homo sapiens
+13.04	3	3	11	1	0.006014	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.348	1	0	1	1	8.273e-05	30656	order	                                              Dermoptera
+4.348	1	0	1	1	8.273e-05	30657	family	                                                Cynocephalidae
+4.348	1	0	1	1	8.273e-05	482536	genus	                                                  Galeopterus
+4.348	1	1	1	1	8.273e-05	482537	species	                                                    Galeopterus variegatus
+8.696	2	0	3	1	5.812e-07	314145	superorder	                                            Laurasiatheria
+4.348	1	0	1	1	6.828e-07	9397	order	                                              Chiroptera
+4.348	1	0	1	1	3.129e-06	30559	suborder	                                                Megachiroptera
+4.348	1	0	1	1	3.129e-06	9398	family	                                                  Pteropodidae
+4.348	1	0	1	1	4.568e-06	77225	subfamily	                                                    Pteropodinae
+4.348	1	0	1	1	2.281e-05	9406	genus	                                                      Rousettus
+4.348	1	1	1	1	0.0001258	58083	species	                                                        Rousettus amplexicaudatus
+4.348	1	0	1	1	6.991e-07	91561	order	                                              Artiodactyla
+4.348	1	0	1	1	1.101e-06	9845	suborder	                                                Ruminantia
+4.348	1	1	1	1	1.15e-06	35500	infraorder	                                                  Pecora

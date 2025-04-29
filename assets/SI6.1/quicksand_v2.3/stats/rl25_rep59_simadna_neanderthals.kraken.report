@@ -1,0 +1,51 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:37Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/77/7bf7e04fa2f2497eed9afaec30559f
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl25_rep59_simadna_neanderthals.kraken.report --output output.kraken rl25_rep59_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+12	3	3	358	1	NA	0	no rank	unclassified
+88	22	0	354	1	2.882e-05	1	no rank	root
+88	22	0	354	1	2.882e-05	131567	no rank	  cellular organisms
+88	22	0	354	1	2.882e-05	2759	superkingdom	    Eukaryota
+88	22	0	354	1	2.882e-05	33154	clade	      Opisthokonta
+88	22	0	354	1	2.882e-05	33208	kingdom	        Metazoa
+88	22	0	354	1	2.882e-05	6072	clade	          Eumetazoa
+88	22	0	354	1	2.882e-05	33213	clade	            Bilateria
+88	22	0	354	1	2.882e-05	33511	clade	              Deuterostomia
+88	22	0	354	1	2.882e-05	7711	phylum	                Chordata
+88	22	0	354	1	2.882e-05	89593	subphylum	                  Craniata
+88	22	0	354	1	2.882e-05	7742	clade	                    Vertebrata
+88	22	0	354	1	2.882e-05	7776	clade	                      Gnathostomata
+88	22	0	354	1	2.882e-05	117570	clade	                        Teleostomi
+88	22	0	354	1	2.882e-05	117571	clade	                          Euteleostomi
+88	22	0	354	1	2.882e-05	8287	superclass	                            Sarcopterygii
+88	22	0	354	1	2.882e-05	1338369	clade	                              Dipnotetrapodomorpha
+88	22	0	354	1	2.882e-05	32523	clade	                                Tetrapoda
+88	22	0	354	1	2.882e-05	32524	clade	                                  Amniota
+88	22	0	354	1	2.882e-05	40674	class	                                    Mammalia
+88	22	0	350	1	2.859e-05	32525	clade	                                      Theria
+88	22	0	344	1	2.962e-05	9347	clade	                                        Eutheria
+88	22	1	315	1	2.902e-05	1437010	clade	                                          Boreoeutheria
+80	20	1	262	1	4.984e-05	314146	superorder	                                            Euarchontoglires
+76	19	0	257	1	0.0001409	9443	order	                                              Primates
+76	19	0	252	1	0.0002068	376913	suborder	                                                Haplorrhini
+76	19	0	252	1	0.0002145	314293	infraorder	                                                  Simiiformes
+76	19	0	245	1	0.0003642	9526	parvorder	                                                    Catarrhini
+72	18	2	229	1	0.00164	314295	superfamily	                                                      Hominoidea
+60	15	0	217	1	0.003054	9604	family	                                                        Hominidae
+60	15	1	217	1	0.004314	207598	subfamily	                                                          Homininae
+56	14	6	183	1	0.01128	9605	genus	                                                            Homo
+32	8	6	62	1	0.007153	9606	species	                                                              Homo sapiens
+8	2	2	6	1	0.00328	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4	1	0	7	1	0.0001051	9577	family	                                                        Hylobatidae
+4	1	0	7	1	0.0004815	325167	genus	                                                          Hoolock
+4	1	1	7	1	0.001812	61851	species	                                                            Hoolock hoolock
+4	1	0	3	1	5.695e-06	314294	superfamily	                                                      Cercopithecoidea
+4	1	0	3	1	5.695e-06	9527	family	                                                        Cercopithecidae
+4	1	1	1	1	3.243e-06	9528	subfamily	                                                          Cercopithecinae
+4	1	0	1	1	1.937e-07	314145	superorder	                                            Laurasiatheria
+4	1	0	1	1	6.991e-07	91561	order	                                              Artiodactyla
+4	1	0	1	1	1.101e-06	9845	suborder	                                                Ruminantia
+4	1	0	1	1	1.15e-06	35500	infraorder	                                                  Pecora
+4	1	0	1	1	1.719e-06	9895	family	                                                    Bovidae
+4	1	0	1	1	8.602e-06	27592	subfamily	                                                      Bovinae
+4	1	0	1	1	0.0001046	9900	genus	                                                        Bison
+4	1	1	1	1	0.0004498	9902	species	                                                          Bison bonasus

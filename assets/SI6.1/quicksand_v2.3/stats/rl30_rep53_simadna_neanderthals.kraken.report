@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:57Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/94/c01e5079eed0ce981dc1310263c302
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl30_rep53_simadna_neanderthals.kraken.report --output output.kraken rl30_rep53_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+20	6	6	376	1	NA	0	no rank	unclassified
+80	24	0	521	1.03	4.241e-05	1	no rank	root
+80	24	0	521	1.03	4.241e-05	131567	no rank	  cellular organisms
+80	24	0	521	1.03	4.241e-05	2759	superkingdom	    Eukaryota
+80	24	0	521	1.03	4.241e-05	33154	clade	      Opisthokonta
+80	24	0	521	1.03	4.241e-05	33208	kingdom	        Metazoa
+80	24	0	521	1.03	4.241e-05	6072	clade	          Eumetazoa
+80	24	0	521	1.03	4.241e-05	33213	clade	            Bilateria
+80	24	0	521	1.03	4.241e-05	33511	clade	              Deuterostomia
+80	24	0	521	1.03	4.241e-05	7711	phylum	                Chordata
+80	24	0	521	1.03	4.241e-05	89593	subphylum	                  Craniata
+80	24	0	521	1.03	4.241e-05	7742	clade	                    Vertebrata
+80	24	0	521	1.03	4.241e-05	7776	clade	                      Gnathostomata
+80	24	0	521	1.03	4.241e-05	117570	clade	                        Teleostomi
+80	24	0	521	1.03	4.241e-05	117571	clade	                          Euteleostomi
+80	24	0	521	1.03	4.241e-05	8287	superclass	                            Sarcopterygii
+80	24	0	521	1.03	4.241e-05	1338369	clade	                              Dipnotetrapodomorpha
+80	24	0	521	1.03	4.241e-05	32523	clade	                                Tetrapoda
+80	24	0	521	1.03	4.241e-05	32524	clade	                                  Amniota
+80	24	0	521	1.03	4.241e-05	40674	class	                                    Mammalia
+80	24	0	521	1.03	4.256e-05	32525	clade	                                      Theria
+80	24	0	493	1.04	4.245e-05	9347	clade	                                        Eutheria
+80	24	1	463	1.04	4.265e-05	1437010	clade	                                          Boreoeutheria
+76.67	23	0	416	1.03	7.913e-05	314146	superorder	                                            Euarchontoglires
+76.67	23	0	378	1.03	0.0002072	9443	order	                                              Primates
+76.67	23	0	378	1.03	0.0003103	376913	suborder	                                                Haplorrhini
+76.67	23	0	378	1.03	0.0003217	314293	infraorder	                                                  Simiiformes
+76.67	23	0	359	1.03	0.0005337	9526	parvorder	                                                    Catarrhini
+70	21	0	332	1.04	0.002378	314295	superfamily	                                                      Hominoidea
+70	21	0	321	1.02	0.004518	9604	family	                                                        Hominidae
+70	21	1	306	1.02	0.006083	207598	subfamily	                                                          Homininae
+63.33	19	8	259	1.02	0.01596	9605	genus	                                                            Homo
+36.67	11	4	156	1.04	0.018	9606	species	                                                              Homo sapiens
+23.33	7	7	62	1.05	0.0339	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.333	1	1	5	1	0.0003164	9592	genus	                                                            Gorilla
+6.667	2	0	9	1	1.709e-05	314294	superfamily	                                                      Cercopithecoidea
+6.667	2	0	9	1	1.709e-05	9527	family	                                                        Cercopithecidae
+3.333	1	0	6	1	1.946e-05	9528	subfamily	                                                          Cercopithecinae
+3.333	1	0	2	1	1.894e-05	9539	genus	                                                            Macaca
+3.333	1	1	2	1	0.0003014	40843	species	                                                              Macaca tonkeana
+3.333	1	0	3	1	1.443e-05	9569	subfamily	                                                          Colobinae
+3.333	1	0	3	1	3.96e-05	54136	genus	                                                            Trachypithecus
+3.333	1	1	3	1	0.0008931	465719	species	                                                              Trachypithecus poliocephalus

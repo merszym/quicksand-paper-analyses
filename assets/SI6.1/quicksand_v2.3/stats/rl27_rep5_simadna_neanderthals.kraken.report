@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:20:04Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ae/41e98438bf01ce0e942f9b9cfefa70
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl27_rep5_simadna_neanderthals.kraken.report --output output.kraken rl27_rep5_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+18.52	5	5	433	1	NA	0	no rank	unclassified
+81.48	22	0	351	1	2.857e-05	1	no rank	root
+81.48	22	0	351	1	2.857e-05	131567	no rank	  cellular organisms
+81.48	22	0	351	1	2.857e-05	2759	superkingdom	    Eukaryota
+81.48	22	0	351	1	2.857e-05	33154	clade	      Opisthokonta
+81.48	22	0	351	1	2.857e-05	33208	kingdom	        Metazoa
+81.48	22	0	351	1	2.857e-05	6072	clade	          Eumetazoa
+81.48	22	0	351	1	2.857e-05	33213	clade	            Bilateria
+81.48	22	0	351	1	2.857e-05	33511	clade	              Deuterostomia
+81.48	22	0	351	1	2.857e-05	7711	phylum	                Chordata
+81.48	22	0	351	1	2.857e-05	89593	subphylum	                  Craniata
+81.48	22	0	351	1	2.857e-05	7742	clade	                    Vertebrata
+81.48	22	0	351	1	2.857e-05	7776	clade	                      Gnathostomata
+81.48	22	0	351	1	2.857e-05	117570	clade	                        Teleostomi
+81.48	22	0	351	1	2.857e-05	117571	clade	                          Euteleostomi
+81.48	22	0	351	1	2.857e-05	8287	superclass	                            Sarcopterygii
+81.48	22	0	351	1	2.857e-05	1338369	clade	                              Dipnotetrapodomorpha
+81.48	22	0	351	1	2.857e-05	32523	clade	                                Tetrapoda
+81.48	22	0	351	1	2.857e-05	32524	clade	                                  Amniota
+81.48	22	0	351	1	2.857e-05	40674	class	                                    Mammalia
+81.48	22	0	345	1	2.818e-05	32525	clade	                                      Theria
+81.48	22	0	306	1	2.635e-05	9347	clade	                                        Eutheria
+81.48	22	4	302	1	2.782e-05	1437010	clade	                                          Boreoeutheria
+62.96	17	0	233	1	4.432e-05	314146	superorder	                                            Euarchontoglires
+62.96	17	0	225	1	0.0001233	9443	order	                                              Primates
+62.96	17	0	223	1	0.000183	376913	suborder	                                                Haplorrhini
+62.96	17	0	223	1	0.0001898	314293	infraorder	                                                  Simiiformes
+62.96	17	0	222	1	0.00033	9526	parvorder	                                                    Catarrhini
+62.96	17	0	215	1	0.00154	314295	superfamily	                                                      Hominoidea
+55.56	15	0	203	1	0.002857	9604	family	                                                        Hominidae
+55.56	15	0	200	1	0.003976	207598	subfamily	                                                          Homininae
+55.56	15	9	175	1	0.01078	9605	genus	                                                            Homo
+22.22	6	3	57	1	0.006576	9606	species	                                                              Homo sapiens
+11.11	3	3	12	1	0.006561	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.407	2	0	9	1	0.0001351	9577	family	                                                        Hylobatidae
+7.407	2	0	9	1	0.0003842	9578	genus	                                                          Hylobates
+3.704	1	1	5	1	0.0007204	9580	species	                                                            Hylobates lar
+3.704	1	1	4	1	0.0005881	9589	species	                                                            Hylobates pileatus
+3.704	1	0	15	1	2.906e-06	314145	superorder	                                            Laurasiatheria
+3.704	1	0	13	1	2.193e-05	9362	order	                                              Eulipotyphla
+3.704	1	0	12	1	0.000169	9363	family	                                                Erinaceidae
+3.704	1	0	12	1	0.0002637	9366	subfamily	                                                  Galericinae
+3.704	1	0	12	1	0.001052	483535	genus	                                                    Neohylomys
+3.704	1	1	12	1	0.001052	483536	species	                                                      Neohylomys hainanensis

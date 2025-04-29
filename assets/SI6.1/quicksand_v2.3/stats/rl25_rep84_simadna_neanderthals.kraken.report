@@ -1,0 +1,52 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:51Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/3f/43a0eb3d6e407e348548da3f9f9c41
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl25_rep84_simadna_neanderthals.kraken.report --output output.kraken rl25_rep84_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+8	2	2	330	1	NA	0	no rank	unclassified
+92	23	0	410	1.01	3.337e-05	1	no rank	root
+92	23	0	410	1.01	3.337e-05	131567	no rank	  cellular organisms
+92	23	0	410	1.01	3.337e-05	2759	superkingdom	    Eukaryota
+92	23	0	410	1.01	3.337e-05	33154	clade	      Opisthokonta
+92	23	0	410	1.01	3.337e-05	33208	kingdom	        Metazoa
+92	23	0	410	1.01	3.337e-05	6072	clade	          Eumetazoa
+92	23	0	410	1.01	3.337e-05	33213	clade	            Bilateria
+92	23	0	410	1.01	3.337e-05	33511	clade	              Deuterostomia
+92	23	0	410	1.01	3.337e-05	7711	phylum	                Chordata
+92	23	0	410	1.01	3.337e-05	89593	subphylum	                  Craniata
+92	23	0	410	1.01	3.337e-05	7742	clade	                    Vertebrata
+92	23	0	410	1.01	3.337e-05	7776	clade	                      Gnathostomata
+92	23	0	410	1.01	3.337e-05	117570	clade	                        Teleostomi
+92	23	0	410	1.01	3.337e-05	117571	clade	                          Euteleostomi
+92	23	0	410	1.01	3.337e-05	8287	superclass	                            Sarcopterygii
+92	23	0	410	1.01	3.337e-05	1338369	clade	                              Dipnotetrapodomorpha
+92	23	0	410	1.01	3.337e-05	32523	clade	                                Tetrapoda
+92	23	0	410	1.01	3.337e-05	32524	clade	                                  Amniota
+92	23	0	410	1.01	3.337e-05	40674	class	                                    Mammalia
+92	23	0	410	1.01	3.349e-05	32525	clade	                                      Theria
+92	23	0	393	1.02	3.384e-05	9347	clade	                                        Eutheria
+92	23	1	359	1.01	3.307e-05	1437010	clade	                                          Boreoeutheria
+84	21	0	293	1.02	5.574e-05	314146	superorder	                                            Euarchontoglires
+80	20	0	283	1.02	0.0001551	9443	order	                                              Primates
+80	20	0	277	1.02	0.0002274	376913	suborder	                                                Haplorrhini
+80	20	0	277	1.02	0.0002358	314293	infraorder	                                                  Simiiformes
+80	20	0	262	1.02	0.0003895	9526	parvorder	                                                    Catarrhini
+80	20	0	234	1.02	0.001676	314295	superfamily	                                                      Hominoidea
+80	20	0	216	1	0.00304	9604	family	                                                        Hominidae
+80	20	2	216	1	0.004294	207598	subfamily	                                                          Homininae
+72	18	13	139	1.01	0.008565	9605	genus	                                                            Homo
+20	5	3	43	1	0.004961	9606	species	                                                              Homo sapiens
+8	2	2	19	1	0.01039	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4	1	0	4	1	1.221e-06	314147	clade	                                              Glires
+4	1	0	4	1	1.305e-06	9989	order	                                                Rodentia
+4	1	0	4	1	6.678e-06	33553	suborder	                                                  Sciuromorpha
+4	1	0	4	1	7.081e-06	55153	family	                                                    Sciuridae
+4	1	0	2	1	0.0001829	337720	subfamily	                                                      Ratufinae
+4	1	0	2	1	0.0001829	226820	genus	                                                        Ratufa
+4	1	1	2	1	0.0001829	226822	species	                                                          Ratufa bicolor
+4	1	0	2	1	3.875e-07	314145	superorder	                                            Laurasiatheria
+4	1	0	2	1	1.398e-06	91561	order	                                              Artiodactyla
+4	1	0	1	1	1.101e-06	9845	suborder	                                                Ruminantia
+4	1	0	1	1	1.15e-06	35500	infraorder	                                                  Pecora
+4	1	0	1	1	1.719e-06	9895	family	                                                    Bovidae
+4	1	0	1	1	8.602e-06	27592	subfamily	                                                      Bovinae
+4	1	0	1	1	2.436e-05	9944	genus	                                                        Tragelaphus
+4	1	1	1	1	0.0002262	69296	species	                                                          Tragelaphus buxtoni

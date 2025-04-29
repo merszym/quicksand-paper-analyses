@@ -1,0 +1,54 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:16Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/88/321b0b3c746f09d9eb77471440dc0f
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl24_rep59_simadna_neanderthals.kraken.report --output output.kraken rl24_rep59_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+12.5	3	3	243	1	NA	0	no rank	unclassified
+87.5	21	0	355	1.01	2.89e-05	1	no rank	root
+87.5	21	0	355	1.01	2.89e-05	131567	no rank	  cellular organisms
+87.5	21	0	355	1.01	2.89e-05	2759	superkingdom	    Eukaryota
+87.5	21	0	355	1.01	2.89e-05	33154	clade	      Opisthokonta
+87.5	21	0	355	1.01	2.89e-05	33208	kingdom	        Metazoa
+87.5	21	0	355	1.01	2.89e-05	6072	clade	          Eumetazoa
+87.5	21	0	355	1.01	2.89e-05	33213	clade	            Bilateria
+87.5	21	0	355	1.01	2.89e-05	33511	clade	              Deuterostomia
+87.5	21	0	355	1.01	2.89e-05	7711	phylum	                Chordata
+87.5	21	0	355	1.01	2.89e-05	89593	subphylum	                  Craniata
+87.5	21	0	355	1.01	2.89e-05	7742	clade	                    Vertebrata
+87.5	21	0	355	1.01	2.89e-05	7776	clade	                      Gnathostomata
+87.5	21	0	355	1.01	2.89e-05	117570	clade	                        Teleostomi
+87.5	21	0	355	1.01	2.89e-05	117571	clade	                          Euteleostomi
+87.5	21	0	355	1.01	2.89e-05	8287	superclass	                            Sarcopterygii
+87.5	21	0	355	1.01	2.89e-05	1338369	clade	                              Dipnotetrapodomorpha
+87.5	21	0	355	1.01	2.89e-05	32523	clade	                                Tetrapoda
+87.5	21	0	355	1.01	2.89e-05	32524	clade	                                  Amniota
+87.5	21	0	355	1.01	2.89e-05	40674	class	                                    Mammalia
+87.5	21	0	355	1.01	2.9e-05	32525	clade	                                      Theria
+87.5	21	0	320	1.01	2.756e-05	9347	clade	                                        Eutheria
+87.5	21	1	318	1.01	2.929e-05	1437010	clade	                                          Boreoeutheria
+75	18	0	282	1.01	5.364e-05	314146	superorder	                                            Euarchontoglires
+75	18	0	277	1.01	0.0001518	9443	order	                                              Primates
+75	18	0	277	1.01	0.0002274	376913	suborder	                                                Haplorrhini
+75	18	0	277	1.01	0.0002358	314293	infraorder	                                                  Simiiformes
+75	18	0	273	1.01	0.0004058	9526	parvorder	                                                    Catarrhini
+70.83	17	0	247	1.01	0.001769	314295	superfamily	                                                      Hominoidea
+66.67	16	0	243	1.01	0.00342	9604	family	                                                        Hominidae
+66.67	16	2	239	1.01	0.004751	207598	subfamily	                                                          Homininae
+58.33	14	6	191	1.01	0.01177	9605	genus	                                                            Homo
+33.33	8	5	52	1.04	0.005999	9606	species	                                                              Homo sapiens
+12.5	3	3	15	1	0.008201	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.167	1	0	2	1	3.003e-05	9577	family	                                                        Hylobatidae
+4.167	1	0	2	1	0.0001376	325167	genus	                                                          Hoolock
+4.167	1	1	2	1	0.0005177	61851	species	                                                            Hoolock hoolock
+4.167	1	0	4	1	7.594e-06	314294	superfamily	                                                      Cercopithecoidea
+4.167	1	0	4	1	7.594e-06	9527	family	                                                        Cercopithecidae
+4.167	1	0	1	1	3.243e-06	9528	subfamily	                                                          Cercopithecinae
+4.167	1	1	1	1	3.542e-05	9554	genus	                                                            Papio
+8.333	2	0	7	1	1.356e-06	314145	superorder	                                            Laurasiatheria
+8.333	2	0	7	1	5.48e-06	33554	order	                                              Carnivora
+4.167	1	0	4	1	5.125e-06	379584	suborder	                                                Caniformia
+4.167	1	0	4	1	4.34e-05	9632	family	                                                  Ursidae
+4.167	1	0	4	1	0.0001068	9639	genus	                                                    Ursus
+4.167	1	1	4	1	0.0007056	39097	species	                                                      Ursus spelaeus
+4.167	1	0	3	1	6.289e-06	379583	suborder	                                                Feliformia
+4.167	1	0	3	1	3.533e-05	9697	family	                                                  Herpestidae
+4.167	1	0	3	1	0.0004299	210645	genus	                                                    Helogale
+4.167	1	1	3	1	0.0004299	210647	species	                                                      Helogale parvula

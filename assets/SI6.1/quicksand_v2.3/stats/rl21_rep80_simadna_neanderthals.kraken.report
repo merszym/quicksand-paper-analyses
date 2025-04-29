@@ -1,0 +1,49 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:54Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/c2/31f0933310b813bd8466c282764c5e
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl21_rep80_simadna_neanderthals.kraken.report --output output.kraken rl21_rep80_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+14.29	3	3	245	1	NA	0	no rank	unclassified
+85.71	18	0	318	1	2.589e-05	1	no rank	root
+85.71	18	0	318	1	2.589e-05	131567	no rank	  cellular organisms
+85.71	18	0	318	1	2.589e-05	2759	superkingdom	    Eukaryota
+85.71	18	0	318	1	2.589e-05	33154	clade	      Opisthokonta
+85.71	18	0	318	1	2.589e-05	33208	kingdom	        Metazoa
+85.71	18	0	318	1	2.589e-05	6072	clade	          Eumetazoa
+85.71	18	0	318	1	2.589e-05	33213	clade	            Bilateria
+85.71	18	0	318	1	2.589e-05	33511	clade	              Deuterostomia
+85.71	18	0	318	1	2.589e-05	7711	phylum	                Chordata
+85.71	18	0	318	1	2.589e-05	89593	subphylum	                  Craniata
+85.71	18	0	318	1	2.589e-05	7742	clade	                    Vertebrata
+85.71	18	0	318	1	2.589e-05	7776	clade	                      Gnathostomata
+85.71	18	0	318	1	2.589e-05	117570	clade	                        Teleostomi
+85.71	18	0	318	1	2.589e-05	117571	clade	                          Euteleostomi
+85.71	18	0	318	1	2.589e-05	8287	superclass	                            Sarcopterygii
+85.71	18	0	318	1	2.589e-05	1338369	clade	                              Dipnotetrapodomorpha
+85.71	18	0	318	1	2.589e-05	32523	clade	                                Tetrapoda
+85.71	18	0	318	1	2.589e-05	32524	clade	                                  Amniota
+85.71	18	1	318	1	2.589e-05	40674	class	                                    Mammalia
+80.95	17	0	289	1	2.361e-05	32525	clade	                                      Theria
+80.95	17	0	271	1	2.334e-05	9347	clade	                                        Eutheria
+80.95	17	2	236	1	2.174e-05	1437010	clade	                                          Boreoeutheria
+66.67	14	1	193	1	3.671e-05	314146	superorder	                                            Euarchontoglires
+61.9	13	0	185	1	0.0001014	9443	order	                                              Primates
+61.9	13	0	185	1	0.0001518	376913	suborder	                                                Haplorrhini
+61.9	13	0	185	1	0.0001575	314293	infraorder	                                                  Simiiformes
+61.9	13	0	178	1	0.0002646	9526	parvorder	                                                    Catarrhini
+57.14	12	0	169	1	0.00121	314295	superfamily	                                                      Hominoidea
+57.14	12	0	164	1	0.002308	9604	family	                                                        Hominidae
+57.14	12	0	164	1	0.00326	207598	subfamily	                                                          Homininae
+57.14	12	5	129	1	0.007949	9605	genus	                                                            Homo
+33.33	7	4	70	1	0.008076	9606	species	                                                              Homo sapiens
+14.29	3	3	32	1	0.0175	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.762	1	0	8	1	1.519e-05	314294	superfamily	                                                      Cercopithecoidea
+4.762	1	0	8	1	1.519e-05	9527	family	                                                        Cercopithecidae
+4.762	1	0	8	1	2.594e-05	9528	subfamily	                                                          Cercopithecinae
+4.762	1	0	8	1	0.0008087	9537	genus	                                                            Erythrocebus
+4.762	1	1	8	1	0.0008087	9538	species	                                                              Erythrocebus patas
+4.762	1	0	5	1	9.687e-07	314145	superorder	                                            Laurasiatheria
+4.762	1	0	5	1	3.914e-06	33554	order	                                              Carnivora
+4.762	1	0	5	1	6.406e-06	379584	suborder	                                                Caniformia
+4.762	1	0	5	1	0.0005115	9705	family	                                                  Odobenidae
+4.762	1	0	5	1	0.0005115	9706	genus	                                                    Odobenus
+4.762	1	0	5	1	0.0005115	9707	species	                                                      Odobenus rosmarus
+4.762	1	1	5	1	0.0005115	62698	subspecies	                                                        Odobenus rosmarus rosmarus

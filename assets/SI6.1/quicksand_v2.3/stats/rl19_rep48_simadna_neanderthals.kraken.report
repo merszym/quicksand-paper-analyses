@@ -1,0 +1,54 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:19:41Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/07/6a0b6c86972386cf8aff3b979a2299
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl19_rep48_simadna_neanderthals.kraken.report --output output.kraken rl19_rep48_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+21.05	4	4	295	1	NA	0	no rank	unclassified
+78.95	15	0	168	1	1.368e-05	1	no rank	root
+78.95	15	0	168	1	1.368e-05	131567	no rank	  cellular organisms
+78.95	15	0	168	1	1.368e-05	2759	superkingdom	    Eukaryota
+78.95	15	0	168	1	1.368e-05	33154	clade	      Opisthokonta
+78.95	15	0	168	1	1.368e-05	33208	kingdom	        Metazoa
+78.95	15	0	168	1	1.368e-05	6072	clade	          Eumetazoa
+78.95	15	0	168	1	1.368e-05	33213	clade	            Bilateria
+78.95	15	0	168	1	1.368e-05	33511	clade	              Deuterostomia
+78.95	15	0	168	1	1.368e-05	7711	phylum	                Chordata
+78.95	15	0	168	1	1.368e-05	89593	subphylum	                  Craniata
+78.95	15	0	168	1	1.368e-05	7742	clade	                    Vertebrata
+78.95	15	0	168	1	1.368e-05	7776	clade	                      Gnathostomata
+78.95	15	0	168	1	1.368e-05	117570	clade	                        Teleostomi
+78.95	15	0	168	1	1.368e-05	117571	clade	                          Euteleostomi
+78.95	15	0	168	1	1.368e-05	8287	superclass	                            Sarcopterygii
+78.95	15	0	168	1	1.368e-05	1338369	clade	                              Dipnotetrapodomorpha
+78.95	15	0	168	1	1.368e-05	32523	clade	                                Tetrapoda
+78.95	15	0	168	1	1.368e-05	32524	clade	                                  Amniota
+78.95	15	0	168	1	1.368e-05	40674	class	                                    Mammalia
+78.95	15	0	165	1	1.348e-05	32525	clade	                                      Theria
+78.95	15	0	151	1	1.3e-05	9347	clade	                                        Eutheria
+78.95	15	1	144	1	1.327e-05	1437010	clade	                                          Boreoeutheria
+63.16	12	0	132	1	2.511e-05	314146	superorder	                                            Euarchontoglires
+63.16	12	0	131	1	7.181e-05	9443	order	                                              Primates
+57.89	11	0	130	1	0.0001067	376913	suborder	                                                Haplorrhini
+57.89	11	0	130	1	0.0001107	314293	infraorder	                                                  Simiiformes
+57.89	11	1	130	1	0.0001933	9526	parvorder	                                                    Catarrhini
+52.63	10	0	110	1	0.0007878	314295	superfamily	                                                      Hominoidea
+52.63	10	0	110	1	0.001548	9604	family	                                                        Hominidae
+52.63	10	2	109	1	0.002167	207598	subfamily	                                                          Homininae
+42.11	8	3	87	1	0.005361	9605	genus	                                                            Homo
+26.32	5	3	47	1	0.005422	9606	species	                                                              Homo sapiens
+10.53	2	2	19	1	0.01039	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.263	1	0	1	1	1.67e-06	376911	suborder	                                                Strepsirrhini
+5.263	1	0	1	1	1.957e-06	376915	infraorder	                                                  Lemuriformes
+5.263	1	0	1	1	5.948e-06	30614	family	                                                    Lepilemuridae
+5.263	1	0	1	1	9.344e-05	126593	genus	                                                      Megaladapis
+5.263	1	1	1	1	9.344e-05	185953	species	                                                        Megaladapis edwardsi
+10.53	2	0	5	1	9.687e-07	314145	superorder	                                            Laurasiatheria
+5.263	1	0	3	1	2.349e-06	33554	order	                                              Carnivora
+5.263	1	0	3	1	6.289e-06	379583	suborder	                                                Feliformia
+5.263	1	0	3	1	1.447e-05	9681	family	                                                  Felidae
+5.263	1	0	3	1	2.213e-05	338152	subfamily	                                                    Felinae
+5.263	1	0	3	1	0.000154	37028	genus	                                                      Prionailurus
+5.263	1	1	3	1	0.0007724	61387	species	                                                        Prionailurus rubiginosus
+5.263	1	0	2	1	3.373e-06	9362	order	                                              Eulipotyphla
+5.263	1	0	2	1	2.816e-05	9363	family	                                                Erinaceidae
+5.263	1	0	2	1	4.395e-05	9366	subfamily	                                                  Galericinae
+5.263	1	0	2	1	0.0001754	483535	genus	                                                    Neohylomys
+5.263	1	1	2	1	0.0001754	483536	species	                                                      Neohylomys hainanensis

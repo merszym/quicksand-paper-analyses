@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:17:26Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/dc/2e0eca10fb3041911ed97c95fcdc15
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl19_rep55_simadna_neanderthals.kraken.report --output output.kraken rl19_rep55_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+5.263	1	1	170	1	NA	0	no rank	unclassified
+94.74	18	0	400	1	3.256e-05	1	no rank	root
+94.74	18	0	400	1	3.256e-05	131567	no rank	  cellular organisms
+94.74	18	0	400	1	3.256e-05	2759	superkingdom	    Eukaryota
+94.74	18	0	400	1	3.256e-05	33154	clade	      Opisthokonta
+94.74	18	0	400	1	3.256e-05	33208	kingdom	        Metazoa
+94.74	18	0	400	1	3.256e-05	6072	clade	          Eumetazoa
+94.74	18	0	400	1	3.256e-05	33213	clade	            Bilateria
+94.74	18	0	400	1	3.256e-05	33511	clade	              Deuterostomia
+94.74	18	0	400	1	3.256e-05	7711	phylum	                Chordata
+94.74	18	0	400	1	3.256e-05	89593	subphylum	                  Craniata
+94.74	18	0	400	1	3.256e-05	7742	clade	                    Vertebrata
+94.74	18	0	400	1	3.256e-05	7776	clade	                      Gnathostomata
+94.74	18	0	400	1	3.256e-05	117570	clade	                        Teleostomi
+94.74	18	0	400	1	3.256e-05	117571	clade	                          Euteleostomi
+94.74	18	0	400	1	3.256e-05	8287	superclass	                            Sarcopterygii
+94.74	18	0	400	1	3.256e-05	1338369	clade	                              Dipnotetrapodomorpha
+94.74	18	0	400	1	3.256e-05	32523	clade	                                Tetrapoda
+94.74	18	0	400	1	3.256e-05	32524	clade	                                  Amniota
+94.74	18	0	400	1	3.256e-05	40674	class	                                    Mammalia
+94.74	18	0	400	1	3.268e-05	32525	clade	                                      Theria
+94.74	18	0	385	1	3.315e-05	9347	clade	                                        Eutheria
+94.74	18	0	365	1	3.362e-05	1437010	clade	                                          Boreoeutheria
+94.74	18	0	325	1	6.182e-05	314146	superorder	                                            Euarchontoglires
+89.47	17	0	308	1	0.0001688	9443	order	                                              Primates
+89.47	17	0	303	1	0.0002487	376913	suborder	                                                Haplorrhini
+89.47	17	0	300	1	0.0002553	314293	infraorder	                                                  Simiiformes
+89.47	17	1	298	1	0.000443	9526	parvorder	                                                    Catarrhini
+84.21	16	0	277	1	0.001984	314295	superfamily	                                                      Hominoidea
+84.21	16	0	235	1	0.003308	9604	family	                                                        Hominidae
+84.21	16	0	229	1	0.004553	207598	subfamily	                                                          Homininae
+84.21	16	6	174	1	0.01072	9605	genus	                                                            Homo
+47.37	9	7	72	1	0.008306	9606	species	                                                              Homo sapiens
+5.263	1	1	6	1	0.00328	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.263	1	1	1	1	0.0003837	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+5.263	1	1	1	1	0.0009099	1425170	species	                                                              Homo heidelbergensis
+5.263	1	0	4	1	1.221e-06	314147	clade	                                              Glires
+5.263	1	0	4	1	1.305e-06	9989	order	                                                Rodentia
+5.263	1	0	2	1	4.738e-06	33550	suborder	                                                  Hystricomorpha
+5.263	1	0	2	1	8.772e-06	10161	family	                                                    Echimyidae
+5.263	1	0	2	1	1.288e-05	10162	genus	                                                      Proechimys
+5.263	1	1	2	1	0.0002596	510213	species	                                                        Proechimys roberti

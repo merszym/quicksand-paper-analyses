@@ -1,0 +1,51 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:19Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/f0/1dd60060854ffd62d1f136cd1d777b
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep7_simadna_neanderthals.kraken.report --output output.kraken rl29_rep7_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+6.897	2	2	416	1	NA	0	no rank	unclassified
+93.1	27	0	567	1.03	4.615e-05	1	no rank	root
+93.1	27	0	567	1.03	4.615e-05	131567	no rank	  cellular organisms
+93.1	27	0	567	1.03	4.615e-05	2759	superkingdom	    Eukaryota
+93.1	27	0	567	1.03	4.615e-05	33154	clade	      Opisthokonta
+93.1	27	0	567	1.03	4.615e-05	33208	kingdom	        Metazoa
+93.1	27	0	567	1.03	4.615e-05	6072	clade	          Eumetazoa
+93.1	27	0	567	1.03	4.615e-05	33213	clade	            Bilateria
+93.1	27	0	567	1.03	4.615e-05	33511	clade	              Deuterostomia
+93.1	27	0	567	1.03	4.615e-05	7711	phylum	                Chordata
+93.1	27	0	567	1.03	4.615e-05	89593	subphylum	                  Craniata
+93.1	27	0	567	1.03	4.615e-05	7742	clade	                    Vertebrata
+93.1	27	0	567	1.03	4.615e-05	7776	clade	                      Gnathostomata
+93.1	27	0	567	1.03	4.615e-05	117570	clade	                        Teleostomi
+93.1	27	0	567	1.03	4.615e-05	117571	clade	                          Euteleostomi
+93.1	27	0	567	1.03	4.615e-05	8287	superclass	                            Sarcopterygii
+93.1	27	0	567	1.03	4.615e-05	1338369	clade	                              Dipnotetrapodomorpha
+93.1	27	0	567	1.03	4.615e-05	32523	clade	                                Tetrapoda
+93.1	27	0	567	1.03	4.615e-05	32524	clade	                                  Amniota
+93.1	27	0	567	1.03	4.615e-05	40674	class	                                    Mammalia
+93.1	27	0	537	1.03	4.387e-05	32525	clade	                                      Theria
+93.1	27	0	518	1.03	4.461e-05	9347	clade	                                        Eutheria
+93.1	27	0	485	1.03	4.468e-05	1437010	clade	                                          Boreoeutheria
+89.66	26	0	409	1.02	7.78e-05	314146	superorder	                                            Euarchontoglires
+89.66	26	0	347	1.03	0.0001902	9443	order	                                              Primates
+89.66	26	0	347	1.03	0.0002848	376913	suborder	                                                Haplorrhini
+89.66	26	2	347	1.03	0.0002954	314293	infraorder	                                                  Simiiformes
+82.76	24	1	340	1.03	0.0005054	9526	parvorder	                                                    Catarrhini
+75.86	22	0	298	1.03	0.002134	314295	superfamily	                                                      Hominoidea
+75.86	22	0	277	1.03	0.003899	9604	family	                                                        Hominidae
+75.86	22	2	273	1.02	0.005427	207598	subfamily	                                                          Homininae
+65.52	19	5	207	1.03	0.01276	9605	genus	                                                            Homo
+48.28	14	8	103	1	0.01188	9606	species	                                                              Homo sapiens
+17.24	5	5	32	1	0.0175	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.448	1	1	2	1	0.0007675	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+3.448	1	1	3	1	0.0002045	9596	genus	                                                            Pan
+3.448	1	0	8	1	1.519e-05	314294	superfamily	                                                      Cercopithecoidea
+3.448	1	0	8	1	1.519e-05	9527	family	                                                        Cercopithecidae
+3.448	1	0	7	1	2.27e-05	9528	subfamily	                                                          Cercopithecinae
+3.448	1	0	7	1	0.0007076	9537	genus	                                                            Erythrocebus
+3.448	1	1	7	1	0.0007076	9538	species	                                                              Erythrocebus patas
+3.448	1	0	13	1	2.519e-06	314145	superorder	                                            Laurasiatheria
+3.448	1	0	11	1	7.511e-06	9397	order	                                              Chiroptera
+3.448	1	0	11	1	9.698e-06	30560	suborder	                                                Microchiroptera
+3.448	1	0	4	1	0.0001145	186994	family	                                                  Hipposideridae
+3.448	1	0	4	1	0.0001145	58068	genus	                                                    Hipposideros
+3.448	1	0	4	1	0.0005221	354741	species group	                                                      Hipposideros larvatus sensu lato
+3.448	1	1	4	1	0.0005221	175524	species	                                                        Hipposideros larvatus

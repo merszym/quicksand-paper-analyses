@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:30:05Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/70/06a6eee89dac60013cf2b200c74e67
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl30_rep77_simadna_neanderthals.kraken.report --output output.kraken rl30_rep77_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+13.33	4	4	430	1	NA	0	no rank	unclassified
+86.67	26	0	400	1.03	3.256e-05	1	no rank	root
+86.67	26	0	400	1.03	3.256e-05	131567	no rank	  cellular organisms
+86.67	26	0	400	1.03	3.256e-05	2759	superkingdom	    Eukaryota
+86.67	26	0	400	1.03	3.256e-05	33154	clade	      Opisthokonta
+86.67	26	0	400	1.03	3.256e-05	33208	kingdom	        Metazoa
+86.67	26	0	400	1.03	3.256e-05	6072	clade	          Eumetazoa
+86.67	26	0	400	1.03	3.256e-05	33213	clade	            Bilateria
+86.67	26	0	400	1.03	3.256e-05	33511	clade	              Deuterostomia
+86.67	26	0	400	1.03	3.256e-05	7711	phylum	                Chordata
+86.67	26	0	400	1.03	3.256e-05	89593	subphylum	                  Craniata
+86.67	26	0	400	1.03	3.256e-05	7742	clade	                    Vertebrata
+86.67	26	0	400	1.03	3.256e-05	7776	clade	                      Gnathostomata
+86.67	26	0	400	1.03	3.256e-05	117570	clade	                        Teleostomi
+86.67	26	0	400	1.03	3.256e-05	117571	clade	                          Euteleostomi
+86.67	26	0	400	1.03	3.256e-05	8287	superclass	                            Sarcopterygii
+86.67	26	0	400	1.03	3.256e-05	1338369	clade	                              Dipnotetrapodomorpha
+86.67	26	0	400	1.03	3.256e-05	32523	clade	                                Tetrapoda
+86.67	26	0	400	1.03	3.256e-05	32524	clade	                                  Amniota
+86.67	26	0	400	1.03	3.256e-05	40674	class	                                    Mammalia
+86.67	26	0	395	1.03	3.227e-05	32525	clade	                                      Theria
+86.67	26	0	388	1.03	3.341e-05	9347	clade	                                        Eutheria
+86.67	26	0	369	1.04	3.399e-05	1437010	clade	                                          Boreoeutheria
+86.67	26	1	320	1.04	6.087e-05	314146	superorder	                                            Euarchontoglires
+83.33	25	0	303	1.04	0.0001661	9443	order	                                              Primates
+83.33	25	0	299	1.04	0.0002454	376913	suborder	                                                Haplorrhini
+83.33	25	0	299	1.04	0.0002545	314293	infraorder	                                                  Simiiformes
+83.33	25	0	285	1.05	0.0004237	9526	parvorder	                                                    Catarrhini
+80	24	0	240	1.05	0.001719	314295	superfamily	                                                      Hominoidea
+80	24	0	229	1.06	0.003223	9604	family	                                                        Hominidae
+80	24	4	204	1.03	0.004056	207598	subfamily	                                                          Homininae
+63.33	19	13	174	1	0.01072	9605	genus	                                                            Homo
+20	6	1	61	1	0.007037	9606	species	                                                              Homo sapiens
+16.67	5	5	52	1	0.02843	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.333	1	0	7	1	0.0004773	9596	genus	                                                            Pan
+3.333	1	1	7	1	0.001145	9598	species	                                                              Pan troglodytes
+3.333	1	0	5	1	9.492e-06	314294	superfamily	                                                      Cercopithecoidea
+3.333	1	0	5	1	9.492e-06	9527	family	                                                        Cercopithecidae
+3.333	1	0	5	1	1.621e-05	9528	subfamily	                                                          Cercopithecinae
+3.333	1	0	2	1	1.894e-05	9539	genus	                                                            Macaca
+3.333	1	1	2	1	0.0002547	9546	species	                                                              Macaca sylvanus

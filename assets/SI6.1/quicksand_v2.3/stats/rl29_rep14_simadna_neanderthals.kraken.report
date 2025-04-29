@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:49Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/88/9e88cd9831c36bffb1e42a55c7e7ed
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep14_simadna_neanderthals.kraken.report --output output.kraken rl29_rep14_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	29	0	626	1	5.096e-05	1	no rank	root
+100	29	0	626	1	5.096e-05	131567	no rank	  cellular organisms
+100	29	0	626	1	5.096e-05	2759	superkingdom	    Eukaryota
+100	29	0	626	1	5.096e-05	33154	clade	      Opisthokonta
+100	29	0	626	1	5.096e-05	33208	kingdom	        Metazoa
+100	29	0	626	1	5.096e-05	6072	clade	          Eumetazoa
+100	29	0	626	1	5.096e-05	33213	clade	            Bilateria
+100	29	0	626	1	5.096e-05	33511	clade	              Deuterostomia
+100	29	0	626	1	5.096e-05	7711	phylum	                Chordata
+100	29	0	626	1	5.096e-05	89593	subphylum	                  Craniata
+100	29	0	626	1	5.096e-05	7742	clade	                    Vertebrata
+100	29	0	626	1	5.096e-05	7776	clade	                      Gnathostomata
+100	29	0	626	1	5.096e-05	117570	clade	                        Teleostomi
+100	29	0	626	1	5.096e-05	117571	clade	                          Euteleostomi
+100	29	0	626	1	5.096e-05	8287	superclass	                            Sarcopterygii
+100	29	0	626	1	5.096e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	29	0	626	1	5.096e-05	32523	clade	                                Tetrapoda
+100	29	0	626	1	5.096e-05	32524	clade	                                  Amniota
+100	29	0	626	1	5.096e-05	40674	class	                                    Mammalia
+100	29	1	607	1	4.959e-05	32525	clade	                                      Theria
+96.55	28	0	592	1.01	5.098e-05	9347	clade	                                        Eutheria
+96.55	28	0	575	1.01	5.297e-05	1437010	clade	                                          Boreoeutheria
+96.55	28	0	524	1.01	9.968e-05	314146	superorder	                                            Euarchontoglires
+96.55	28	0	521	1.01	0.0002856	9443	order	                                              Primates
+96.55	28	0	514	1.01	0.0004219	376913	suborder	                                                Haplorrhini
+96.55	28	0	514	1.01	0.0004375	314293	infraorder	                                                  Simiiformes
+96.55	28	0	503	1.01	0.0007477	9526	parvorder	                                                    Catarrhini
+89.66	26	1	467	1.01	0.003344	314295	superfamily	                                                      Hominoidea
+86.21	25	0	445	1.01	0.006263	9604	family	                                                        Hominidae
+86.21	25	1	435	1.01	0.008648	207598	subfamily	                                                          Homininae
+82.76	24	8	386	1.01	0.02379	9605	genus	                                                            Homo
+55.17	16	5	200	1	0.02307	9606	species	                                                              Homo sapiens
+31.03	9	9	93	1	0.05085	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.897	2	2	8	1	0.00307	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+6.897	2	0	4	1	7.594e-06	314294	superfamily	                                                      Cercopithecoidea
+6.897	2	0	4	1	7.594e-06	9527	family	                                                        Cercopithecidae
+3.448	1	0	3	1	9.729e-06	9528	subfamily	                                                          Cercopithecinae
+3.448	1	0	3	1	0.0001063	9554	genus	                                                            Papio
+3.448	1	1	3	1	0.0007052	36229	species	                                                              Papio ursinus
+3.448	1	0	1	1	4.81e-06	9569	subfamily	                                                          Colobinae
+3.448	1	1	1	1	9.069e-05	88028	genus	                                                            Semnopithecus

@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:58Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/c8/e7e6db15cca22edc34ea81e7dc760e
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl20_rep84_simadna_neanderthals.kraken.report --output output.kraken rl20_rep84_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+15	3	3	301	1	NA	0	no rank	unclassified
+85	17	0	240	1	1.954e-05	1	no rank	root
+85	17	0	240	1	1.954e-05	131567	no rank	  cellular organisms
+85	17	0	240	1	1.954e-05	2759	superkingdom	    Eukaryota
+85	17	0	240	1	1.954e-05	33154	clade	      Opisthokonta
+85	17	0	240	1	1.954e-05	33208	kingdom	        Metazoa
+85	17	0	240	1	1.954e-05	6072	clade	          Eumetazoa
+85	17	0	240	1	1.954e-05	33213	clade	            Bilateria
+85	17	0	240	1	1.954e-05	33511	clade	              Deuterostomia
+85	17	0	240	1	1.954e-05	7711	phylum	                Chordata
+85	17	0	240	1	1.954e-05	89593	subphylum	                  Craniata
+85	17	0	240	1	1.954e-05	7742	clade	                    Vertebrata
+85	17	0	240	1	1.954e-05	7776	clade	                      Gnathostomata
+85	17	0	240	1	1.954e-05	117570	clade	                        Teleostomi
+85	17	0	240	1	1.954e-05	117571	clade	                          Euteleostomi
+85	17	0	240	1	1.954e-05	8287	superclass	                            Sarcopterygii
+85	17	0	240	1	1.954e-05	1338369	clade	                              Dipnotetrapodomorpha
+85	17	0	240	1	1.954e-05	32523	clade	                                Tetrapoda
+85	17	0	240	1	1.954e-05	32524	clade	                                  Amniota
+85	17	0	240	1	1.954e-05	40674	class	                                    Mammalia
+85	17	0	240	1	1.961e-05	32525	clade	                                      Theria
+85	17	0	234	1	2.015e-05	9347	clade	                                        Eutheria
+85	17	0	219	1	2.017e-05	1437010	clade	                                          Boreoeutheria
+85	17	0	193	1	3.671e-05	314146	superorder	                                            Euarchontoglires
+85	17	1	184	1	0.0001009	9443	order	                                              Primates
+80	16	0	183	1	0.0001502	376913	suborder	                                                Haplorrhini
+80	16	0	183	1	0.0001558	314293	infraorder	                                                  Simiiformes
+80	16	0	173	1	0.0002572	9526	parvorder	                                                    Catarrhini
+70	14	0	156	1	0.001117	314295	superfamily	                                                      Hominoidea
+70	14	1	154	1	0.002168	9604	family	                                                        Hominidae
+65	13	1	147	1	0.002922	207598	subfamily	                                                          Homininae
+55	11	8	115	1	0.007087	9605	genus	                                                            Homo
+15	3	2	16	1	0.001846	9606	species	                                                              Homo sapiens
+5	1	1	4	1	0.002187	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5	1	0	1	1	6.818e-05	9596	genus	                                                            Pan
+5	1	1	1	1	0.0001671	9597	species	                                                              Pan paniscus
+10	2	0	9	1	1.709e-05	314294	superfamily	                                                      Cercopithecoidea
+10	2	0	9	1	1.709e-05	9527	family	                                                        Cercopithecidae
+10	2	0	9	1	2.919e-05	9528	subfamily	                                                          Cercopithecinae
+5	1	0	8	1	0.0002293	392815	genus	                                                            Chlorocebus
+5	1	1	1	1	0.0001733	60711	species	                                                              Chlorocebus sabaeus
+5	1	0	1	1	4.81e-05	9529	genus	                                                            Cercocebus
+5	1	1	1	1	0.0001466	9530	species	                                                              Cercocebus torquatus

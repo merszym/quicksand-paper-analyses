@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:44Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/69/b3c6b0778d0e302415cf15a41a4d6d
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl13_rep41_simadna_neanderthals.kraken.report --output output.kraken rl13_rep41_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	13	0	212	1	1.726e-05	1	no rank	root
+100	13	0	212	1	1.726e-05	131567	no rank	  cellular organisms
+100	13	0	212	1	1.726e-05	2759	superkingdom	    Eukaryota
+100	13	0	212	1	1.726e-05	33154	clade	      Opisthokonta
+100	13	0	212	1	1.726e-05	33208	kingdom	        Metazoa
+100	13	0	212	1	1.726e-05	6072	clade	          Eumetazoa
+100	13	0	212	1	1.726e-05	33213	clade	            Bilateria
+100	13	0	212	1	1.726e-05	33511	clade	              Deuterostomia
+100	13	0	212	1	1.726e-05	7711	phylum	                Chordata
+100	13	0	212	1	1.726e-05	89593	subphylum	                  Craniata
+100	13	0	212	1	1.726e-05	7742	clade	                    Vertebrata
+100	13	0	212	1	1.726e-05	7776	clade	                      Gnathostomata
+100	13	0	212	1	1.726e-05	117570	clade	                        Teleostomi
+100	13	0	212	1	1.726e-05	117571	clade	                          Euteleostomi
+100	13	0	212	1	1.726e-05	8287	superclass	                            Sarcopterygii
+100	13	0	212	1	1.726e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	13	0	212	1	1.726e-05	32523	clade	                                Tetrapoda
+100	13	0	212	1	1.726e-05	32524	clade	                                  Amniota
+100	13	1	212	1	1.726e-05	40674	class	                                    Mammalia
+92.31	12	0	198	1	1.617e-05	32525	clade	                                      Theria
+92.31	12	0	197	1	1.696e-05	9347	clade	                                        Eutheria
+92.31	12	0	177	1	1.631e-05	1437010	clade	                                          Boreoeutheria
+84.62	11	0	163	1	3.101e-05	314146	superorder	                                            Euarchontoglires
+84.62	11	0	158	1	8.661e-05	9443	order	                                              Primates
+84.62	11	0	157	1	0.0001289	376913	suborder	                                                Haplorrhini
+84.62	11	0	157	1	0.0001336	314293	infraorder	                                                  Simiiformes
+84.62	11	0	156	1	0.0002319	9526	parvorder	                                                    Catarrhini
+84.62	11	0	149	1	0.001067	314295	superfamily	                                                      Hominoidea
+76.92	10	0	142	1	0.001999	9604	family	                                                        Hominidae
+69.23	9	1	133	1	0.002644	207598	subfamily	                                                          Homininae
+61.54	8	1	103	1	0.006347	9605	genus	                                                            Homo
+53.85	7	6	78	1	0.008999	9606	species	                                                              Homo sapiens
+7.692	1	1	5	1	0.001919	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+7.692	1	0	9	1	0.0004522	607660	subfamily	                                                          Ponginae
+7.692	1	0	9	1	0.0004522	9599	genus	                                                            Pongo
+7.692	1	1	9	1	0.0009975	9601	species	                                                              Pongo abelii
+7.692	1	0	6	1	9.009e-05	9577	family	                                                        Hylobatidae
+7.692	1	0	6	1	0.0002561	9578	genus	                                                          Hylobates
+7.692	1	1	6	1	0.0008821	9589	species	                                                            Hylobates pileatus
+7.692	1	0	5	1	9.687e-07	314145	superorder	                                            Laurasiatheria
+7.692	1	0	5	1	3.914e-06	33554	order	                                              Carnivora
+7.692	1	0	5	1	6.406e-06	379584	suborder	                                                Caniformia
+7.692	1	0	5	1	5.426e-05	9632	family	                                                  Ursidae
+7.692	1	0	2	1	5.341e-05	9639	genus	                                                    Ursus
+7.692	1	1	1	1	0.0001764	39097	species	                                                      Ursus spelaeus

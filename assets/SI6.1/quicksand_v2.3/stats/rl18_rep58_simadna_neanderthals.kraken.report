@@ -1,0 +1,58 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:22:01Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/2c/169c2e5abc76c3ee66829d66bc3098
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl18_rep58_simadna_neanderthals.kraken.report --output output.kraken rl18_rep58_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+5.556	1	1	261	1	NA	0	no rank	unclassified
+94.44	17	0	249	1	2.027e-05	1	no rank	root
+94.44	17	0	249	1	2.027e-05	131567	no rank	  cellular organisms
+94.44	17	0	249	1	2.027e-05	2759	superkingdom	    Eukaryota
+94.44	17	0	249	1	2.027e-05	33154	clade	      Opisthokonta
+94.44	17	0	249	1	2.027e-05	33208	kingdom	        Metazoa
+94.44	17	0	249	1	2.027e-05	6072	clade	          Eumetazoa
+94.44	17	0	249	1	2.027e-05	33213	clade	            Bilateria
+94.44	17	0	249	1	2.027e-05	33511	clade	              Deuterostomia
+94.44	17	0	249	1	2.027e-05	7711	phylum	                Chordata
+94.44	17	0	249	1	2.027e-05	89593	subphylum	                  Craniata
+94.44	17	0	249	1	2.027e-05	7742	clade	                    Vertebrata
+94.44	17	0	249	1	2.027e-05	7776	clade	                      Gnathostomata
+94.44	17	0	249	1	2.027e-05	117570	clade	                        Teleostomi
+94.44	17	0	249	1	2.027e-05	117571	clade	                          Euteleostomi
+94.44	17	0	249	1	2.027e-05	8287	superclass	                            Sarcopterygii
+94.44	17	0	249	1	2.027e-05	1338369	clade	                              Dipnotetrapodomorpha
+94.44	17	0	249	1	2.027e-05	32523	clade	                                Tetrapoda
+94.44	17	0	249	1	2.027e-05	32524	clade	                                  Amniota
+94.44	17	0	249	1	2.027e-05	40674	class	                                    Mammalia
+94.44	17	0	247	1	2.018e-05	32525	clade	                                      Theria
+94.44	17	0	232	1	1.998e-05	9347	clade	                                        Eutheria
+94.44	17	0	230	1	2.119e-05	1437010	clade	                                          Boreoeutheria
+94.44	17	0	218	1	4.147e-05	314146	superorder	                                            Euarchontoglires
+88.89	16	0	208	1	0.000114	9443	order	                                              Primates
+88.89	16	0	208	1	0.0001707	376913	suborder	                                                Haplorrhini
+88.89	16	0	208	1	0.000177	314293	infraorder	                                                  Simiiformes
+88.89	16	0	197	1	0.0002929	9526	parvorder	                                                    Catarrhini
+77.78	14	0	169	1	0.00121	314295	superfamily	                                                      Hominoidea
+72.22	13	0	164	1	0.002308	9604	family	                                                        Hominidae
+72.22	13	2	157	1	0.003121	207598	subfamily	                                                          Homininae
+50	9	2	107	1	0.006594	9605	genus	                                                            Homo
+38.89	7	3	81	1	0.009345	9606	species	                                                              Homo sapiens
+16.67	3	3	46	1	0.02515	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.556	1	1	10	1	0.003837	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+5.556	1	1	5	1	0.0003164	9592	genus	                                                            Gorilla
+5.556	1	0	2	1	0.0001364	9596	genus	                                                            Pan
+5.556	1	1	2	1	0.0003342	9597	species	                                                              Pan paniscus
+5.556	1	0	2	1	3.003e-05	9577	family	                                                        Hylobatidae
+5.556	1	0	1	1	6.879e-05	325167	genus	                                                          Hoolock
+5.556	1	1	1	1	0.0002589	61851	species	                                                            Hoolock hoolock
+11.11	2	0	8	1	1.519e-05	314294	superfamily	                                                      Cercopithecoidea
+11.11	2	0	8	1	1.519e-05	9527	family	                                                        Cercopithecidae
+5.556	1	1	5	1	2.405e-05	9569	subfamily	                                                          Colobinae
+5.556	1	0	3	1	9.729e-06	9528	subfamily	                                                          Cercopithecinae
+5.556	1	0	1	1	3.542e-05	9554	genus	                                                            Papio
+5.556	1	1	1	1	0.0002351	36229	species	                                                              Papio ursinus
+5.556	1	0	8	1	2.442e-06	314147	clade	                                              Glires
+5.556	1	0	8	1	2.611e-06	9989	order	                                                Rodentia
+5.556	1	0	8	1	4.288e-06	1963758	suborder	                                                  Myomorpha
+5.556	1	0	8	1	4.536e-06	337687	clade	                                                    Muroidea
+5.556	1	0	4	1	6.461e-06	337677	family	                                                      Cricetidae
+5.556	1	0	4	1	2.38e-05	337963	subfamily	                                                        Neotominae
+5.556	1	0	4	1	0.0001231	42407	genus	                                                          Neotoma
+5.556	1	1	4	1	0.0005321	85047	species	                                                            Neotoma magister

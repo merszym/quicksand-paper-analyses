@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:16:11Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ed/2f867e025abec7ad5008da52cef1ad
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl9_rep2_simadna_neanderthals.kraken.report --output output.kraken rl9_rep2_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	9	0	200	1	1.628e-05	1	no rank	root
+100	9	0	200	1	1.628e-05	131567	no rank	  cellular organisms
+100	9	0	200	1	1.628e-05	2759	superkingdom	    Eukaryota
+100	9	0	200	1	1.628e-05	33154	clade	      Opisthokonta
+100	9	0	200	1	1.628e-05	33208	kingdom	        Metazoa
+100	9	0	200	1	1.628e-05	6072	clade	          Eumetazoa
+100	9	0	200	1	1.628e-05	33213	clade	            Bilateria
+100	9	0	200	1	1.628e-05	33511	clade	              Deuterostomia
+100	9	0	200	1	1.628e-05	7711	phylum	                Chordata
+100	9	0	200	1	1.628e-05	89593	subphylum	                  Craniata
+100	9	0	200	1	1.628e-05	7742	clade	                    Vertebrata
+100	9	0	200	1	1.628e-05	7776	clade	                      Gnathostomata
+100	9	0	200	1	1.628e-05	117570	clade	                        Teleostomi
+100	9	0	200	1	1.628e-05	117571	clade	                          Euteleostomi
+100	9	0	200	1	1.628e-05	8287	superclass	                            Sarcopterygii
+100	9	0	200	1	1.628e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	9	0	200	1	1.628e-05	32523	clade	                                Tetrapoda
+100	9	0	200	1	1.628e-05	32524	clade	                                  Amniota
+100	9	0	200	1	1.628e-05	40674	class	                                    Mammalia
+100	9	0	198	1	1.617e-05	32525	clade	                                      Theria
+100	9	0	188	1	1.619e-05	9347	clade	                                        Eutheria
+100	9	1	179	1	1.649e-05	1437010	clade	                                          Boreoeutheria
+66.67	6	0	150	1	2.853e-05	314146	superorder	                                            Euarchontoglires
+66.67	6	0	148	1	8.112e-05	9443	order	                                              Primates
+66.67	6	0	148	1	0.0001215	376913	suborder	                                                Haplorrhini
+66.67	6	0	148	1	0.000126	314293	infraorder	                                                  Simiiformes
+66.67	6	0	147	1	0.0002185	9526	parvorder	                                                    Catarrhini
+66.67	6	0	147	1	0.001053	314295	superfamily	                                                      Hominoidea
+66.67	6	0	147	1	0.002069	9604	family	                                                        Hominidae
+66.67	6	0	147	1	0.002922	207598	subfamily	                                                          Homininae
+66.67	6	2	140	1	0.008627	9605	genus	                                                            Homo
+44.44	4	3	67	1	0.00773	9606	species	                                                              Homo sapiens
+11.11	1	1	3	1	0.00164	63221	subspecies	                                                                Homo sapiens neanderthalensis
+22.22	2	0	10	1	1.937e-06	314145	superorder	                                            Laurasiatheria
+11.11	1	0	5	1	3.496e-06	91561	order	                                              Artiodactyla
+11.11	1	0	5	1	1.24e-05	2653789	suborder	                                                Whippomorpha
+11.11	1	0	5	1	1.295e-05	9721	infraorder	                                                  Cetacea
+11.11	1	0	5	1	1.672e-05	9722	parvorder	                                                    Odontoceti
+11.11	1	0	3	1	3.24e-05	9726	family	                                                      Delphinidae
+11.11	1	0	3	1	0.0003901	48746	genus	                                                        Orcaella
+11.11	1	1	3	1	0.0007827	682059	species	                                                          Orcaella heinsohni
+11.11	1	0	4	1	3.595e-05	9787	order	                                              Perissodactyla
+11.11	1	0	4	1	8.705e-05	9803	family	                                                Rhinocerotidae
+11.11	1	0	4	1	0.000575	222862	genus	                                                  Coelodonta
+11.11	1	1	4	1	0.000575	222863	species	                                                    Coelodonta antiquitatis

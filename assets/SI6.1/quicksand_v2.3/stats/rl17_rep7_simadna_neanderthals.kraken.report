@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:44Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/76/a78bf22d586a12479925898e8f74e2
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep7_simadna_neanderthals.kraken.report --output output.kraken rl17_rep7_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	17	0	321	1	2.613e-05	1	no rank	root
+100	17	0	321	1	2.613e-05	131567	no rank	  cellular organisms
+100	17	0	321	1	2.613e-05	2759	superkingdom	    Eukaryota
+100	17	0	321	1	2.613e-05	33154	clade	      Opisthokonta
+100	17	0	321	1	2.613e-05	33208	kingdom	        Metazoa
+100	17	0	321	1	2.613e-05	6072	clade	          Eumetazoa
+100	17	0	321	1	2.613e-05	33213	clade	            Bilateria
+100	17	0	321	1	2.613e-05	33511	clade	              Deuterostomia
+100	17	0	321	1	2.613e-05	7711	phylum	                Chordata
+100	17	0	321	1	2.613e-05	89593	subphylum	                  Craniata
+100	17	0	321	1	2.613e-05	7742	clade	                    Vertebrata
+100	17	0	321	1	2.613e-05	7776	clade	                      Gnathostomata
+100	17	0	321	1	2.613e-05	117570	clade	                        Teleostomi
+100	17	0	321	1	2.613e-05	117571	clade	                          Euteleostomi
+100	17	0	321	1	2.613e-05	8287	superclass	                            Sarcopterygii
+100	17	0	321	1	2.613e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	17	0	321	1	2.613e-05	32523	clade	                                Tetrapoda
+100	17	0	321	1	2.613e-05	32524	clade	                                  Amniota
+100	17	0	321	1	2.613e-05	40674	class	                                    Mammalia
+100	17	0	321	1	2.622e-05	32525	clade	                                      Theria
+100	17	0	314	1	2.704e-05	9347	clade	                                        Eutheria
+100	17	0	284	1	2.616e-05	1437010	clade	                                          Boreoeutheria
+100	17	0	251	1	4.775e-05	314146	superorder	                                            Euarchontoglires
+94.12	16	0	231	1	0.0001266	9443	order	                                              Primates
+94.12	16	0	229	1	0.000188	376913	suborder	                                                Haplorrhini
+94.12	16	0	229	1	0.0001949	314293	infraorder	                                                  Simiiformes
+94.12	16	0	227	1	0.0003375	9526	parvorder	                                                    Catarrhini
+94.12	16	0	214	1	0.001533	314295	superfamily	                                                      Hominoidea
+94.12	16	0	214	1	0.003012	9604	family	                                                        Hominidae
+94.12	16	3	213	1	0.004235	207598	subfamily	                                                          Homininae
+70.59	12	3	176	1	0.01085	9605	genus	                                                            Homo
+52.94	9	7	92	1	0.01061	9606	species	                                                              Homo sapiens
+5.882	1	1	15	1	0.005756	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+5.882	1	1	2	1	0.001093	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.882	1	0	1	1	6.818e-05	9596	genus	                                                            Pan
+5.882	1	1	1	1	0.0001636	9598	species	                                                              Pan troglodytes
+5.882	1	0	5	1	1.527e-06	314147	clade	                                              Glires
+5.882	1	0	5	1	1.632e-06	9989	order	                                                Rodentia
+5.882	1	0	5	1	2.68e-06	1963758	suborder	                                                  Myomorpha
+5.882	1	0	5	1	2.835e-06	337687	clade	                                                    Muroidea
+5.882	1	0	5	1	5.214e-06	10066	family	                                                      Muridae
+5.882	1	0	5	1	5.743e-06	39107	subfamily	                                                        Murinae
+5.882	1	0	4	1	0.0002684	41266	genus	                                                          Leopoldamys
+5.882	1	1	4	1	0.0005268	83756	species	                                                            Leopoldamys edwardsi

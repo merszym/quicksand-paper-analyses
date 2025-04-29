@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:15Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/67/2d51931ea717a8788f5965c4e710e1
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl22_rep31_simadna_neanderthals.kraken.report --output output.kraken rl22_rep31_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+27.27	6	6	301	1	NA	0	no rank	unclassified
+72.73	16	0	289	1	2.352e-05	1	no rank	root
+72.73	16	0	289	1	2.352e-05	131567	no rank	  cellular organisms
+72.73	16	0	289	1	2.352e-05	2759	superkingdom	    Eukaryota
+72.73	16	0	289	1	2.352e-05	33154	clade	      Opisthokonta
+72.73	16	0	289	1	2.352e-05	33208	kingdom	        Metazoa
+72.73	16	0	289	1	2.352e-05	6072	clade	          Eumetazoa
+72.73	16	0	289	1	2.352e-05	33213	clade	            Bilateria
+72.73	16	0	289	1	2.352e-05	33511	clade	              Deuterostomia
+72.73	16	0	289	1	2.352e-05	7711	phylum	                Chordata
+72.73	16	0	289	1	2.352e-05	89593	subphylum	                  Craniata
+72.73	16	0	289	1	2.352e-05	7742	clade	                    Vertebrata
+72.73	16	0	289	1	2.352e-05	7776	clade	                      Gnathostomata
+72.73	16	0	289	1	2.352e-05	117570	clade	                        Teleostomi
+72.73	16	0	289	1	2.352e-05	117571	clade	                          Euteleostomi
+72.73	16	0	289	1	2.352e-05	8287	superclass	                            Sarcopterygii
+72.73	16	0	289	1	2.352e-05	1338369	clade	                              Dipnotetrapodomorpha
+72.73	16	0	289	1	2.352e-05	32523	clade	                                Tetrapoda
+72.73	16	0	289	1	2.352e-05	32524	clade	                                  Amniota
+72.73	16	0	289	1	2.352e-05	40674	class	                                    Mammalia
+72.73	16	0	289	1	2.361e-05	32525	clade	                                      Theria
+72.73	16	0	279	1	2.403e-05	9347	clade	                                        Eutheria
+72.73	16	0	265	1	2.441e-05	1437010	clade	                                          Boreoeutheria
+72.73	16	0	253	1	4.813e-05	314146	superorder	                                            Euarchontoglires
+72.73	16	0	224	1	0.0001228	9443	order	                                              Primates
+72.73	16	0	224	1	0.0001839	376913	suborder	                                                Haplorrhini
+72.73	16	0	224	1	0.0001907	314293	infraorder	                                                  Simiiformes
+68.18	15	0	206	1	0.0003062	9526	parvorder	                                                    Catarrhini
+63.64	14	0	197	1	0.001411	314295	superfamily	                                                      Hominoidea
+63.64	14	0	182	1	0.002562	9604	family	                                                        Hominidae
+63.64	14	3	182	1	0.003618	207598	subfamily	                                                          Homininae
+50	11	5	153	1	0.009428	9605	genus	                                                            Homo
+27.27	6	2	92	1	0.01061	9606	species	                                                              Homo sapiens
+18.18	4	4	32	1	0.0175	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.545	1	0	6	1	1.139e-05	314294	superfamily	                                                      Cercopithecoidea
+4.545	1	0	6	1	1.139e-05	9527	family	                                                        Cercopithecidae
+4.545	1	0	6	1	1.946e-05	9528	subfamily	                                                          Cercopithecinae
+4.545	1	1	1	1	2.858e-05	9533	genus	                                                            Cercopithecus
+4.545	1	0	1	1	2.02e-06	9479	parvorder	                                                    Platyrrhini
+4.545	1	0	1	1	4.543e-06	9498	family	                                                      Cebidae
+4.545	1	0	1	1	6.302e-06	9480	subfamily	                                                        Callitrichinae
+4.545	1	0	1	1	5.138e-05	2681187	genus	                                                          Leontocebus
+4.545	1	1	1	1	9.708e-05	9487	species	                                                            Leontocebus fuscicollis

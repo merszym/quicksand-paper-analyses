@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:47Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/b1/511a8388bbb1dcc79c6311a52175df
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl28_rep95_simadna_neanderthals.kraken.report --output output.kraken rl28_rep95_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+14.29	4	4	270	1	NA	0	no rank	unclassified
+85.71	24	0	436	1.02	3.549e-05	1	no rank	root
+85.71	24	0	436	1.02	3.549e-05	131567	no rank	  cellular organisms
+85.71	24	0	436	1.02	3.549e-05	2759	superkingdom	    Eukaryota
+85.71	24	0	436	1.02	3.549e-05	33154	clade	      Opisthokonta
+85.71	24	0	436	1.02	3.549e-05	33208	kingdom	        Metazoa
+85.71	24	0	436	1.02	3.549e-05	6072	clade	          Eumetazoa
+85.71	24	0	436	1.02	3.549e-05	33213	clade	            Bilateria
+85.71	24	0	436	1.02	3.549e-05	33511	clade	              Deuterostomia
+85.71	24	0	436	1.02	3.549e-05	7711	phylum	                Chordata
+85.71	24	0	436	1.02	3.549e-05	89593	subphylum	                  Craniata
+85.71	24	0	436	1.02	3.549e-05	7742	clade	                    Vertebrata
+85.71	24	0	436	1.02	3.549e-05	7776	clade	                      Gnathostomata
+85.71	24	0	436	1.02	3.549e-05	117570	clade	                        Teleostomi
+85.71	24	0	436	1.02	3.549e-05	117571	clade	                          Euteleostomi
+85.71	24	0	436	1.02	3.549e-05	8287	superclass	                            Sarcopterygii
+85.71	24	0	436	1.02	3.549e-05	1338369	clade	                              Dipnotetrapodomorpha
+85.71	24	0	436	1.02	3.549e-05	32523	clade	                                Tetrapoda
+85.71	24	0	436	1.02	3.549e-05	32524	clade	                                  Amniota
+85.71	24	0	436	1.02	3.549e-05	40674	class	                                    Mammalia
+85.71	24	1	433	1.02	3.537e-05	32525	clade	                                      Theria
+82.14	23	0	405	1.02	3.488e-05	9347	clade	                                        Eutheria
+82.14	23	0	358	1.01	3.298e-05	1437010	clade	                                          Boreoeutheria
+82.14	23	0	337	1.01	6.411e-05	314146	superorder	                                            Euarchontoglires
+78.57	22	0	308	1.01	0.0001688	9443	order	                                              Primates
+78.57	22	0	304	1.01	0.0002495	376913	suborder	                                                Haplorrhini
+78.57	22	0	304	1.01	0.0002588	314293	infraorder	                                                  Simiiformes
+78.57	22	1	297	1.01	0.0004415	9526	parvorder	                                                    Catarrhini
+75	21	1	264	1.01	0.001891	314295	superfamily	                                                      Hominoidea
+71.43	20	0	257	1.01	0.003617	9604	family	                                                        Hominidae
+71.43	20	1	257	1.01	0.005109	207598	subfamily	                                                          Homininae
+64.29	18	7	196	1.01	0.01208	9605	genus	                                                            Homo
+39.29	11	5	96	1	0.01108	9606	species	                                                              Homo sapiens
+17.86	5	5	34	1	0.01859	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.571	1	1	18	1	0.006907	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+3.571	1	0	2	1	0.0001364	9596	genus	                                                            Pan
+3.571	1	1	1	1	0.0001671	9597	species	                                                              Pan paniscus
+3.571	1	0	6	1	1.832e-06	314147	clade	                                              Glires
+3.571	1	0	6	1	1.958e-06	9989	order	                                                Rodentia
+3.571	1	0	6	1	8.243e-05	1963759	suborder	                                                  Anomaluromorpha
+3.571	1	0	6	1	8.243e-05	101663	family	                                                    Anomaluridae
+3.571	1	0	6	1	0.0005236	101666	genus	                                                      Idiurus
+3.571	1	1	6	1	0.0005236	101667	species	                                                        Idiurus macrotis

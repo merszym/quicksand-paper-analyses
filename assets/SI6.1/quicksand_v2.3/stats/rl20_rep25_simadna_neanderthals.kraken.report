@@ -1,0 +1,58 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:19Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ca/e3fa94ec3f4295863a1713603c3401
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl20_rep25_simadna_neanderthals.kraken.report --output output.kraken rl20_rep25_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+5	1	1	242	1	NA	0	no rank	unclassified
+95	19	0	428	1	3.484e-05	1	no rank	root
+95	19	0	428	1	3.484e-05	131567	no rank	  cellular organisms
+95	19	0	428	1	3.484e-05	2759	superkingdom	    Eukaryota
+95	19	0	428	1	3.484e-05	33154	clade	      Opisthokonta
+95	19	0	428	1	3.484e-05	33208	kingdom	        Metazoa
+95	19	0	428	1	3.484e-05	6072	clade	          Eumetazoa
+95	19	0	428	1	3.484e-05	33213	clade	            Bilateria
+95	19	0	428	1	3.484e-05	33511	clade	              Deuterostomia
+95	19	0	428	1	3.484e-05	7711	phylum	                Chordata
+95	19	0	428	1	3.484e-05	89593	subphylum	                  Craniata
+95	19	0	428	1	3.484e-05	7742	clade	                    Vertebrata
+95	19	0	428	1	3.484e-05	7776	clade	                      Gnathostomata
+95	19	0	428	1	3.484e-05	117570	clade	                        Teleostomi
+95	19	0	428	1	3.484e-05	117571	clade	                          Euteleostomi
+95	19	0	428	1	3.484e-05	8287	superclass	                            Sarcopterygii
+95	19	0	428	1	3.484e-05	1338369	clade	                              Dipnotetrapodomorpha
+95	19	0	428	1	3.484e-05	32523	clade	                                Tetrapoda
+95	19	0	428	1	3.484e-05	32524	clade	                                  Amniota
+95	19	0	428	1	3.484e-05	40674	class	                                    Mammalia
+95	19	0	394	1.01	3.219e-05	32525	clade	                                      Theria
+95	19	0	382	1.01	3.29e-05	9347	clade	                                        Eutheria
+95	19	0	356	1.01	3.28e-05	1437010	clade	                                          Boreoeutheria
+90	18	2	314	1.01	5.973e-05	314146	superorder	                                            Euarchontoglires
+75	15	0	295	1.01	0.0001617	9443	order	                                              Primates
+75	15	0	294	1.01	0.0002413	376913	suborder	                                                Haplorrhini
+75	15	0	294	1.01	0.0002502	314293	infraorder	                                                  Simiiformes
+75	15	0	294	1.01	0.0004371	9526	parvorder	                                                    Catarrhini
+65	13	0	254	1.01	0.001819	314295	superfamily	                                                      Hominoidea
+65	13	0	242	1.01	0.003406	9604	family	                                                        Hominidae
+65	13	0	242	1.01	0.004811	207598	subfamily	                                                          Homininae
+65	13	7	200	1.01	0.01232	9605	genus	                                                            Homo
+30	6	4	75	1.03	0.008653	9606	species	                                                              Homo sapiens
+10	2	2	37	1	0.02023	63221	subspecies	                                                                Homo sapiens neanderthalensis
+10	2	0	16	1	3.037e-05	314294	superfamily	                                                      Cercopithecoidea
+10	2	0	16	1	3.037e-05	9527	family	                                                        Cercopithecidae
+10	2	0	11	1	5.291e-05	9569	subfamily	                                                          Colobinae
+5	1	0	10	1	0.000327	542827	genus	                                                            Rhinopithecus
+5	1	1	10	1	0.001812	66062	species	                                                              Rhinopithecus avunculus
+5	1	1	1	1	1.32e-05	54136	genus	                                                            Trachypithecus
+5	1	0	3	1	9.159e-07	314147	clade	                                              Glires
+5	1	0	3	1	9.791e-07	9989	order	                                                Rodentia
+5	1	0	3	1	1.608e-06	1963758	suborder	                                                  Myomorpha
+5	1	0	3	1	1.701e-06	337687	clade	                                                    Muroidea
+5	1	0	3	1	3.129e-06	10066	family	                                                      Muridae
+5	1	0	3	1	3.446e-06	39107	subfamily	                                                        Murinae
+5	1	0	3	1	3.47e-05	10088	genus	                                                          Mus
+5	1	0	3	1	4.896e-05	862507	subgenus	                                                            Mus
+5	1	1	3	1	0.000242	10090	species	                                                              Mus musculus
+5	1	0	5	1	9.687e-07	314145	superorder	                                            Laurasiatheria
+5	1	0	3	1	2.048e-06	9397	order	                                              Chiroptera
+5	1	0	3	1	2.645e-06	30560	suborder	                                                Microchiroptera
+5	1	0	1	1	2.041e-06	9431	family	                                                  Vespertilionidae
+5	1	0	1	1	9.777e-05	27666	genus	                                                    Lasionycteris
+5	1	1	1	1	9.777e-05	27667	species	                                                      Lasionycteris noctivagans

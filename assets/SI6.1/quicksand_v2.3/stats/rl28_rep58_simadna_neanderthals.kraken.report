@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:06Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ae/4dee307cb0190657dbc9eb3e2cf7a8
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl28_rep58_simadna_neanderthals.kraken.report --output output.kraken rl28_rep58_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	28	0	551	1	4.485e-05	1	no rank	root
+100	28	0	551	1	4.485e-05	131567	no rank	  cellular organisms
+100	28	0	551	1	4.485e-05	2759	superkingdom	    Eukaryota
+100	28	0	551	1	4.485e-05	33154	clade	      Opisthokonta
+100	28	0	551	1	4.485e-05	33208	kingdom	        Metazoa
+100	28	0	551	1	4.485e-05	6072	clade	          Eumetazoa
+100	28	0	551	1	4.485e-05	33213	clade	            Bilateria
+100	28	0	551	1	4.485e-05	33511	clade	              Deuterostomia
+100	28	0	551	1	4.485e-05	7711	phylum	                Chordata
+100	28	0	551	1	4.485e-05	89593	subphylum	                  Craniata
+100	28	0	551	1	4.485e-05	7742	clade	                    Vertebrata
+100	28	0	551	1	4.485e-05	7776	clade	                      Gnathostomata
+100	28	0	551	1	4.485e-05	117570	clade	                        Teleostomi
+100	28	0	551	1	4.485e-05	117571	clade	                          Euteleostomi
+100	28	0	551	1	4.485e-05	8287	superclass	                            Sarcopterygii
+100	28	0	551	1	4.485e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	28	0	551	1	4.485e-05	32523	clade	                                Tetrapoda
+100	28	0	551	1	4.485e-05	32524	clade	                                  Amniota
+100	28	1	551	1	4.485e-05	40674	class	                                    Mammalia
+96.43	27	0	520	1	4.248e-05	32525	clade	                                      Theria
+96.43	27	0	511	1	4.4e-05	9347	clade	                                        Eutheria
+96.43	27	1	463	1	4.265e-05	1437010	clade	                                          Boreoeutheria
+92.86	26	0	389	1	7.4e-05	314146	superorder	                                            Euarchontoglires
+92.86	26	1	367	1	0.0002012	9443	order	                                              Primates
+85.71	24	0	356	1	0.0002922	376913	suborder	                                                Haplorrhini
+85.71	24	0	356	1	0.000303	314293	infraorder	                                                  Simiiformes
+85.71	24	0	345	1	0.0005129	9526	parvorder	                                                    Catarrhini
+82.14	23	0	325	1	0.002328	314295	superfamily	                                                      Hominoidea
+82.14	23	0	308	1	0.004335	9604	family	                                                        Hominidae
+82.14	23	1	307	1	0.006103	207598	subfamily	                                                          Homininae
+78.57	22	9	268	1	0.01651	9605	genus	                                                            Homo
+46.43	13	4	141	1	0.01627	9606	species	                                                              Homo sapiens
+28.57	8	8	95	1	0.05194	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.571	1	1	1	1	0.0003837	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+3.571	1	0	2	1	3.797e-06	314294	superfamily	                                                      Cercopithecoidea
+3.571	1	0	2	1	3.797e-06	9527	family	                                                        Cercopithecidae
+3.571	1	0	2	1	9.62e-06	9569	subfamily	                                                          Colobinae
+3.571	1	1	2	1	9.293e-05	54132	genus	                                                            Pygathrix
+3.571	1	0	9	1	1.503e-05	376911	suborder	                                                Strepsirrhini
+3.571	1	0	8	1	0.0001061	376917	infraorder	                                                  Lorisiformes
+3.571	1	0	8	1	0.0003319	40297	family	                                                    Galagidae
+3.571	1	0	8	1	0.0005975	9462	genus	                                                      Galago
+3.571	1	1	8	1	0.002762	30609	species	                                                        Galago moholi

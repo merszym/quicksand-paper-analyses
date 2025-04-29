@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:52Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/9b/87efb4305d8deaa718a35b251f3699
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl23_rep98_simadna_neanderthals.kraken.report --output output.kraken rl23_rep98_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+8.696	2	2	313	1	NA	0	no rank	unclassified
+91.3	21	0	319	1	2.597e-05	1	no rank	root
+91.3	21	0	319	1	2.597e-05	131567	no rank	  cellular organisms
+91.3	21	0	319	1	2.597e-05	2759	superkingdom	    Eukaryota
+91.3	21	0	319	1	2.597e-05	33154	clade	      Opisthokonta
+91.3	21	0	319	1	2.597e-05	33208	kingdom	        Metazoa
+91.3	21	0	319	1	2.597e-05	6072	clade	          Eumetazoa
+91.3	21	0	319	1	2.597e-05	33213	clade	            Bilateria
+91.3	21	0	319	1	2.597e-05	33511	clade	              Deuterostomia
+91.3	21	0	319	1	2.597e-05	7711	phylum	                Chordata
+91.3	21	0	319	1	2.597e-05	89593	subphylum	                  Craniata
+91.3	21	0	319	1	2.597e-05	7742	clade	                    Vertebrata
+91.3	21	0	319	1	2.597e-05	7776	clade	                      Gnathostomata
+91.3	21	0	319	1	2.597e-05	117570	clade	                        Teleostomi
+91.3	21	0	319	1	2.597e-05	117571	clade	                          Euteleostomi
+91.3	21	0	319	1	2.597e-05	8287	superclass	                            Sarcopterygii
+91.3	21	0	319	1	2.597e-05	1338369	clade	                              Dipnotetrapodomorpha
+91.3	21	0	319	1	2.597e-05	32523	clade	                                Tetrapoda
+91.3	21	0	319	1	2.597e-05	32524	clade	                                  Amniota
+91.3	21	0	319	1	2.597e-05	40674	class	                                    Mammalia
+91.3	21	0	313	1	2.557e-05	32525	clade	                                      Theria
+91.3	21	0	301	1	2.592e-05	9347	clade	                                        Eutheria
+91.3	21	2	299	1	2.754e-05	1437010	clade	                                          Boreoeutheria
+82.61	19	0	273	1	5.193e-05	314146	superorder	                                            Euarchontoglires
+78.26	18	0	271	1	0.0001485	9443	order	                                              Primates
+78.26	18	0	268	1	0.00022	376913	suborder	                                                Haplorrhini
+78.26	18	0	268	1	0.0002281	314293	infraorder	                                                  Simiiformes
+78.26	18	0	264	1	0.0003925	9526	parvorder	                                                    Catarrhini
+78.26	18	0	256	1	0.001833	314295	superfamily	                                                      Hominoidea
+78.26	18	0	248	1	0.003491	9604	family	                                                        Hominidae
+78.26	18	3	243	1	0.004831	207598	subfamily	                                                          Homininae
+60.87	14	10	179	1	0.01103	9605	genus	                                                            Homo
+17.39	4	1	58	1	0.006691	9606	species	                                                              Homo sapiens
+13.04	3	3	48	1	0.02624	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.348	1	1	5	1	0.0003164	9592	genus	                                                            Gorilla
+4.348	1	0	1	1	3.053e-07	314147	clade	                                              Glires
+4.348	1	0	1	1	3.264e-07	9989	order	                                                Rodentia
+4.348	1	0	1	1	5.36e-07	1963758	suborder	                                                  Myomorpha
+4.348	1	0	1	1	5.67e-07	337687	clade	                                                    Muroidea
+4.348	1	0	1	1	1.615e-06	337677	family	                                                      Cricetidae
+4.348	1	0	1	1	9.935e-06	10026	subfamily	                                                        Cricetinae
+4.348	1	0	1	1	2e-05	10028	genus	                                                          Cricetulus
+4.348	1	1	1	1	0.0001075	1515608	species	                                                            Cricetulus kamensis

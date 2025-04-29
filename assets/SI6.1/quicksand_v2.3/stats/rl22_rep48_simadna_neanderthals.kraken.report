@@ -1,0 +1,51 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:23Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/05/e66b656899e5b50c70f39eea3cd606
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl22_rep48_simadna_neanderthals.kraken.report --output output.kraken rl22_rep48_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+13.64	3	3	212	1	NA	0	no rank	unclassified
+86.36	19	0	366	1.02	2.979e-05	1	no rank	root
+86.36	19	0	366	1.02	2.979e-05	131567	no rank	  cellular organisms
+86.36	19	0	366	1.02	2.979e-05	2759	superkingdom	    Eukaryota
+86.36	19	0	366	1.02	2.979e-05	33154	clade	      Opisthokonta
+86.36	19	0	366	1.02	2.979e-05	33208	kingdom	        Metazoa
+86.36	19	0	366	1.02	2.979e-05	6072	clade	          Eumetazoa
+86.36	19	0	366	1.02	2.979e-05	33213	clade	            Bilateria
+86.36	19	0	366	1.02	2.979e-05	33511	clade	              Deuterostomia
+86.36	19	0	366	1.02	2.979e-05	7711	phylum	                Chordata
+86.36	19	0	366	1.02	2.979e-05	89593	subphylum	                  Craniata
+86.36	19	0	366	1.02	2.979e-05	7742	clade	                    Vertebrata
+86.36	19	0	366	1.02	2.979e-05	7776	clade	                      Gnathostomata
+86.36	19	0	366	1.02	2.979e-05	117570	clade	                        Teleostomi
+86.36	19	0	366	1.02	2.979e-05	117571	clade	                          Euteleostomi
+86.36	19	0	366	1.02	2.979e-05	8287	superclass	                            Sarcopterygii
+86.36	19	0	366	1.02	2.979e-05	1338369	clade	                              Dipnotetrapodomorpha
+86.36	19	0	366	1.02	2.979e-05	32523	clade	                                Tetrapoda
+86.36	19	0	366	1.02	2.979e-05	32524	clade	                                  Amniota
+86.36	19	0	366	1.02	2.979e-05	40674	class	                                    Mammalia
+86.36	19	0	357	1.03	2.916e-05	32525	clade	                                      Theria
+86.36	19	0	341	1.03	2.937e-05	9347	clade	                                        Eutheria
+86.36	19	1	314	1.02	2.893e-05	1437010	clade	                                          Boreoeutheria
+81.82	18	1	270	1	5.136e-05	314146	superorder	                                            Euarchontoglires
+72.73	16	0	265	1	0.0001453	9443	order	                                              Primates
+72.73	16	0	261	1	0.0002142	376913	suborder	                                                Haplorrhini
+72.73	16	0	261	1	0.0002222	314293	infraorder	                                                  Simiiformes
+72.73	16	0	260	1	0.0003865	9526	parvorder	                                                    Catarrhini
+68.18	15	1	244	1	0.001747	314295	superfamily	                                                      Hominoidea
+63.64	14	0	216	1	0.00304	9604	family	                                                        Hominidae
+59.09	13	2	209	1	0.004155	207598	subfamily	                                                          Homininae
+50	11	5	158	1	0.009736	9605	genus	                                                            Homo
+27.27	6	3	55	1	0.006345	9606	species	                                                              Homo sapiens
+13.64	3	3	17	1	0.009295	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.545	1	0	5	1	0.0002512	607660	subfamily	                                                          Ponginae
+4.545	1	0	5	1	0.0002512	9599	genus	                                                            Pongo
+4.545	1	1	5	1	0.0005693	9600	species	                                                              Pongo pygmaeus
+4.545	1	0	1	1	1.898e-06	314294	superfamily	                                                      Cercopithecoidea
+4.545	1	0	1	1	1.898e-06	9527	family	                                                        Cercopithecidae
+4.545	1	0	1	1	4.81e-06	9569	subfamily	                                                          Colobinae
+4.545	1	0	1	1	1.32e-05	54136	genus	                                                            Trachypithecus
+4.545	1	1	1	1	0.0002627	1966384	species	                                                              Trachypithecus mauritius
+4.545	1	0	2	1	6.106e-07	314147	clade	                                              Glires
+4.545	1	0	2	1	6.527e-07	9989	order	                                                Rodentia
+4.545	1	0	2	1	1.072e-06	1963758	suborder	                                                  Myomorpha
+4.545	1	0	2	1	1.134e-06	337687	clade	                                                    Muroidea
+4.545	1	0	2	1	2.086e-06	10066	family	                                                      Muridae
+4.545	1	1	2	1	2.297e-06	39107	subfamily	                                                        Murinae

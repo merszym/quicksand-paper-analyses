@@ -1,0 +1,54 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:13Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/1f/7b9f1f0a5b3d24f3f293913d3d6b78
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl16_rep11_simadna_neanderthals.kraken.report --output output.kraken rl16_rep11_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+6.25	1	1	198	1	NA	0	no rank	unclassified
+93.75	15	0	245	1	1.994e-05	1	no rank	root
+93.75	15	0	245	1	1.994e-05	131567	no rank	  cellular organisms
+93.75	15	0	245	1	1.994e-05	2759	superkingdom	    Eukaryota
+93.75	15	0	245	1	1.994e-05	33154	clade	      Opisthokonta
+93.75	15	0	245	1	1.994e-05	33208	kingdom	        Metazoa
+93.75	15	0	245	1	1.994e-05	6072	clade	          Eumetazoa
+93.75	15	0	245	1	1.994e-05	33213	clade	            Bilateria
+93.75	15	0	245	1	1.994e-05	33511	clade	              Deuterostomia
+93.75	15	0	245	1	1.994e-05	7711	phylum	                Chordata
+93.75	15	0	245	1	1.994e-05	89593	subphylum	                  Craniata
+93.75	15	0	245	1	1.994e-05	7742	clade	                    Vertebrata
+93.75	15	0	245	1	1.994e-05	7776	clade	                      Gnathostomata
+93.75	15	0	245	1	1.994e-05	117570	clade	                        Teleostomi
+93.75	15	0	245	1	1.994e-05	117571	clade	                          Euteleostomi
+93.75	15	0	245	1	1.994e-05	8287	superclass	                            Sarcopterygii
+93.75	15	0	245	1	1.994e-05	1338369	clade	                              Dipnotetrapodomorpha
+93.75	15	0	245	1	1.994e-05	32523	clade	                                Tetrapoda
+93.75	15	0	245	1	1.994e-05	32524	clade	                                  Amniota
+93.75	15	0	245	1	1.994e-05	40674	class	                                    Mammalia
+93.75	15	0	240	1	1.961e-05	32525	clade	                                      Theria
+93.75	15	0	238	1	2.05e-05	9347	clade	                                        Eutheria
+93.75	15	1	226	1	2.082e-05	1437010	clade	                                          Boreoeutheria
+87.5	14	0	210	1	3.995e-05	314146	superorder	                                            Euarchontoglires
+81.25	13	0	198	1	0.0001085	9443	order	                                              Primates
+81.25	13	0	198	1	0.0001625	376913	suborder	                                                Haplorrhini
+81.25	13	0	198	1	0.0001685	314293	infraorder	                                                  Simiiformes
+81.25	13	0	194	1	0.0002884	9526	parvorder	                                                    Catarrhini
+75	12	0	181	1	0.001296	314295	superfamily	                                                      Hominoidea
+68.75	11	0	172	1	0.002421	9604	family	                                                        Hominidae
+68.75	11	1	172	1	0.003419	207598	subfamily	                                                          Homininae
+56.25	9	3	140	1	0.008627	9605	genus	                                                            Homo
+37.5	6	2	89	1	0.01027	9606	species	                                                              Homo sapiens
+25	4	4	54	1	0.02952	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.25	1	1	1	1	6.818e-05	9596	genus	                                                            Pan
+6.25	1	0	6	1	9.009e-05	9577	family	                                                        Hylobatidae
+6.25	1	0	6	1	0.0004127	325167	genus	                                                          Hoolock
+6.25	1	1	6	1	0.001553	61851	species	                                                            Hoolock hoolock
+6.25	1	0	5	1	9.492e-06	314294	superfamily	                                                      Cercopithecoidea
+6.25	1	0	5	1	9.492e-06	9527	family	                                                        Cercopithecidae
+6.25	1	0	3	1	1.443e-05	9569	subfamily	                                                          Colobinae
+6.25	1	0	3	1	0.0003222	164647	genus	                                                            Procolobus
+6.25	1	1	3	1	0.0003222	373033	species	                                                              Procolobus verus
+6.25	1	0	7	1	2.137e-06	314147	clade	                                              Glires
+6.25	1	0	7	1	2.285e-06	9989	order	                                                Rodentia
+6.25	1	0	7	1	1.169e-05	33553	suborder	                                                  Sciuromorpha
+6.25	1	0	7	1	1.239e-05	55153	family	                                                    Sciuridae
+6.25	1	0	7	1	4.543e-05	337724	subfamily	                                                      Callosciurinae
+6.25	1	0	7	1	4.543e-05	337736	tribe	                                                        Callosciurini
+6.25	1	0	7	1	0.0001585	64663	genus	                                                          Callosciurus
+6.25	1	1	4	1	0.0004913	64677	species	                                                            Callosciurus erythraeus

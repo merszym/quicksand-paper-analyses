@@ -1,0 +1,43 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:33Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/09/54902453c41fea856f93a4ca8a28a6
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep74_simadna_neanderthals.kraken.report --output output.kraken rl29_rep74_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10.34	3	3	324	1	NA	0	no rank	unclassified
+89.66	26	0	439	1.03	3.573e-05	1	no rank	root
+89.66	26	0	439	1.03	3.573e-05	131567	no rank	  cellular organisms
+89.66	26	0	439	1.03	3.573e-05	2759	superkingdom	    Eukaryota
+89.66	26	0	439	1.03	3.573e-05	33154	clade	      Opisthokonta
+89.66	26	0	439	1.03	3.573e-05	33208	kingdom	        Metazoa
+89.66	26	0	439	1.03	3.573e-05	6072	clade	          Eumetazoa
+89.66	26	0	439	1.03	3.573e-05	33213	clade	            Bilateria
+89.66	26	0	439	1.03	3.573e-05	33511	clade	              Deuterostomia
+89.66	26	0	439	1.03	3.573e-05	7711	phylum	                Chordata
+89.66	26	0	439	1.03	3.573e-05	89593	subphylum	                  Craniata
+89.66	26	0	439	1.03	3.573e-05	7742	clade	                    Vertebrata
+89.66	26	0	439	1.03	3.573e-05	7776	clade	                      Gnathostomata
+89.66	26	0	439	1.03	3.573e-05	117570	clade	                        Teleostomi
+89.66	26	0	439	1.03	3.573e-05	117571	clade	                          Euteleostomi
+89.66	26	0	439	1.03	3.573e-05	8287	superclass	                            Sarcopterygii
+89.66	26	0	439	1.03	3.573e-05	1338369	clade	                              Dipnotetrapodomorpha
+89.66	26	0	439	1.03	3.573e-05	32523	clade	                                Tetrapoda
+89.66	26	0	439	1.03	3.573e-05	32524	clade	                                  Amniota
+89.66	26	1	439	1.03	3.573e-05	40674	class	                                    Mammalia
+86.21	25	0	426	1.03	3.48e-05	32525	clade	                                      Theria
+86.21	25	0	407	1.03	3.505e-05	9347	clade	                                        Eutheria
+86.21	25	0	383	1.04	3.528e-05	1437010	clade	                                          Boreoeutheria
+86.21	25	1	349	1.04	6.639e-05	314146	superorder	                                            Euarchontoglires
+82.76	24	0	333	1.04	0.0001825	9443	order	                                              Primates
+82.76	24	0	332	1.04	0.0002725	376913	suborder	                                                Haplorrhini
+82.76	24	0	332	1.04	0.0002826	314293	infraorder	                                                  Simiiformes
+82.76	24	0	311	1.05	0.0004623	9526	parvorder	                                                    Catarrhini
+82.76	24	2	275	1.05	0.001969	314295	superfamily	                                                      Hominoidea
+72.41	21	0	240	1.06	0.003378	9604	family	                                                        Hominidae
+68.97	20	2	224	1.06	0.004453	207598	subfamily	                                                          Homininae
+62.07	18	6	178	1.08	0.01097	9605	genus	                                                            Homo
+41.38	12	7	74	1.19	0.008537	9606	species	                                                              Homo sapiens
+17.24	5	5	30	1.47	0.0164	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.448	1	0	7	1	0.0003517	607660	subfamily	                                                          Ponginae
+3.448	1	0	7	1	0.0003517	9599	genus	                                                            Pongo
+3.448	1	1	6	1	0.000665	9601	species	                                                              Pongo abelii
+3.448	1	0	3	1	4.505e-05	9577	family	                                                        Hylobatidae
+3.448	1	0	3	1	0.0002045	325165	genus	                                                          Nomascus
+3.448	1	1	1	1	0.0002412	61852	species	                                                            Nomascus gabriellae

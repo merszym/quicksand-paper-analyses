@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:30:03Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/fc/f5cd971ae52c0bfab9cf83031dc87a
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl30_rep71_simadna_neanderthals.kraken.report --output output.kraken rl30_rep71_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10	3	3	468	1	NA	0	no rank	unclassified
+90	27	0	509	1	4.143e-05	1	no rank	root
+90	27	0	509	1	4.143e-05	131567	no rank	  cellular organisms
+90	27	0	509	1	4.143e-05	2759	superkingdom	    Eukaryota
+90	27	0	509	1	4.143e-05	33154	clade	      Opisthokonta
+90	27	0	509	1	4.143e-05	33208	kingdom	        Metazoa
+90	27	0	509	1	4.143e-05	6072	clade	          Eumetazoa
+90	27	0	509	1	4.143e-05	33213	clade	            Bilateria
+90	27	0	509	1	4.143e-05	33511	clade	              Deuterostomia
+90	27	0	509	1	4.143e-05	7711	phylum	                Chordata
+90	27	0	509	1	4.143e-05	89593	subphylum	                  Craniata
+90	27	0	509	1	4.143e-05	7742	clade	                    Vertebrata
+90	27	0	509	1	4.143e-05	7776	clade	                      Gnathostomata
+90	27	0	509	1	4.143e-05	117570	clade	                        Teleostomi
+90	27	0	509	1	4.143e-05	117571	clade	                          Euteleostomi
+90	27	0	509	1	4.143e-05	8287	superclass	                            Sarcopterygii
+90	27	0	509	1	4.143e-05	1338369	clade	                              Dipnotetrapodomorpha
+90	27	0	509	1	4.143e-05	32523	clade	                                Tetrapoda
+90	27	0	509	1	4.143e-05	32524	clade	                                  Amniota
+90	27	1	509	1	4.143e-05	40674	class	                                    Mammalia
+86.67	26	0	501	1	4.093e-05	32525	clade	                                      Theria
+86.67	26	0	501	1	4.314e-05	9347	clade	                                        Eutheria
+86.67	26	0	480	1	4.422e-05	1437010	clade	                                          Boreoeutheria
+86.67	26	0	438	1	8.332e-05	314146	superorder	                                            Euarchontoglires
+83.33	25	0	427	1	0.0002341	9443	order	                                              Primates
+83.33	25	0	427	1	0.0003505	376913	suborder	                                                Haplorrhini
+83.33	25	0	427	1	0.0003634	314293	infraorder	                                                  Simiiformes
+83.33	25	0	423	1	0.0006288	9526	parvorder	                                                    Catarrhini
+83.33	25	0	403	1	0.002886	314295	superfamily	                                                      Hominoidea
+83.33	25	0	390	1	0.005489	9604	family	                                                        Hominidae
+83.33	25	2	383	1	0.007614	207598	subfamily	                                                          Homininae
+76.67	23	7	328	1	0.02021	9605	genus	                                                            Homo
+53.33	16	6	161	1.01	0.01857	9606	species	                                                              Homo sapiens
+33.33	10	10	80	1.01	0.04374	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.333	1	0	5	1	1.527e-06	314147	clade	                                              Glires
+3.333	1	0	5	1	1.632e-06	9989	order	                                                Rodentia
+3.333	1	0	4	1	6.678e-06	33553	suborder	                                                  Sciuromorpha
+3.333	1	0	4	1	7.081e-06	55153	family	                                                    Sciuridae
+3.333	1	0	4	1	2.596e-05	337724	subfamily	                                                      Callosciurinae
+3.333	1	0	4	1	2.596e-05	337736	tribe	                                                        Callosciurini
+3.333	1	0	4	1	9.057e-05	64663	genus	                                                          Callosciurus
+3.333	1	1	4	1	0.0004913	64677	species	                                                            Callosciurus erythraeus

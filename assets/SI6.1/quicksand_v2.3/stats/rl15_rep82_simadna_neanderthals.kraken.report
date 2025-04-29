@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:22:54Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/b1/02450ee7313c7cf7e54da0304e6f43
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl15_rep82_simadna_neanderthals.kraken.report --output output.kraken rl15_rep82_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+6.667	1	1	191	1	NA	0	no rank	unclassified
+93.33	14	0	210	1.1	1.709e-05	1	no rank	root
+93.33	14	0	210	1.1	1.709e-05	131567	no rank	  cellular organisms
+93.33	14	0	210	1.1	1.709e-05	2759	superkingdom	    Eukaryota
+93.33	14	0	210	1.1	1.709e-05	33154	clade	      Opisthokonta
+93.33	14	0	210	1.1	1.709e-05	33208	kingdom	        Metazoa
+93.33	14	0	210	1.1	1.709e-05	6072	clade	          Eumetazoa
+93.33	14	0	210	1.1	1.709e-05	33213	clade	            Bilateria
+93.33	14	0	210	1.1	1.709e-05	33511	clade	              Deuterostomia
+93.33	14	0	210	1.1	1.709e-05	7711	phylum	                Chordata
+93.33	14	0	210	1.1	1.709e-05	89593	subphylum	                  Craniata
+93.33	14	0	210	1.1	1.709e-05	7742	clade	                    Vertebrata
+93.33	14	0	210	1.1	1.709e-05	7776	clade	                      Gnathostomata
+93.33	14	0	210	1.1	1.709e-05	117570	clade	                        Teleostomi
+93.33	14	0	210	1.1	1.709e-05	117571	clade	                          Euteleostomi
+93.33	14	0	210	1.1	1.709e-05	8287	superclass	                            Sarcopterygii
+93.33	14	0	210	1.1	1.709e-05	1338369	clade	                              Dipnotetrapodomorpha
+93.33	14	0	210	1.1	1.709e-05	32523	clade	                                Tetrapoda
+93.33	14	0	210	1.1	1.709e-05	32524	clade	                                  Amniota
+93.33	14	0	210	1.1	1.709e-05	40674	class	                                    Mammalia
+93.33	14	0	210	1.1	1.715e-05	32525	clade	                                      Theria
+93.33	14	0	208	1.1	1.791e-05	9347	clade	                                        Eutheria
+93.33	14	1	202	1.1	1.861e-05	1437010	clade	                                          Boreoeutheria
+86.67	13	0	188	1.11	3.576e-05	314146	superorder	                                            Euarchontoglires
+80	12	0	172	1.12	9.428e-05	9443	order	                                              Primates
+80	12	0	172	1.12	0.0001412	376913	suborder	                                                Haplorrhini
+80	12	0	172	1.12	0.0001464	314293	infraorder	                                                  Simiiformes
+80	12	1	172	1.12	0.0002557	9526	parvorder	                                                    Catarrhini
+73.33	11	1	156	1.13	0.001117	314295	superfamily	                                                      Hominoidea
+66.67	10	0	154	1.13	0.002168	9604	family	                                                        Hominidae
+66.67	10	1	154	1.13	0.003062	207598	subfamily	                                                          Homininae
+60	9	2	115	1.04	0.007087	9605	genus	                                                            Homo
+46.67	7	2	59	1	0.006807	9606	species	                                                              Homo sapiens
+26.67	4	4	28	1	0.01531	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.667	1	1	7	1	0.002686	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+6.667	1	0	7	1	2.137e-06	314147	clade	                                              Glires
+6.667	1	0	7	1	2.285e-06	9989	order	                                                Rodentia
+6.667	1	0	6	1	3.216e-06	1963758	suborder	                                                  Myomorpha
+6.667	1	0	6	1	3.402e-06	337687	clade	                                                    Muroidea
+6.667	1	0	1	1	1.615e-06	337677	family	                                                      Cricetidae
+6.667	1	0	1	1	3.493e-06	39087	subfamily	                                                        Arvicolinae
+6.667	1	0	1	1	1.05e-05	10053	genus	                                                          Microtus
+6.667	1	1	1	1	0.000145	10055	species	                                                            Microtus chrotorrhinus

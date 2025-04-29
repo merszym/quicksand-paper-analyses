@@ -1,0 +1,67 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:21Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/3d/cf901c63670dbedeeab57b0d8684c1
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl21_rep25_simadna_neanderthals.kraken.report --output output.kraken rl21_rep25_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+19.05	4	4	343	1	NA	0	no rank	unclassified
+80.95	17	0	267	1	2.173e-05	1	no rank	root
+80.95	17	0	267	1	2.173e-05	131567	no rank	  cellular organisms
+80.95	17	0	267	1	2.173e-05	2759	superkingdom	    Eukaryota
+80.95	17	0	267	1	2.173e-05	33154	clade	      Opisthokonta
+80.95	17	0	267	1	2.173e-05	33208	kingdom	        Metazoa
+80.95	17	0	267	1	2.173e-05	6072	clade	          Eumetazoa
+80.95	17	0	267	1	2.173e-05	33213	clade	            Bilateria
+80.95	17	0	267	1	2.173e-05	33511	clade	              Deuterostomia
+80.95	17	0	267	1	2.173e-05	7711	phylum	                Chordata
+80.95	17	0	267	1	2.173e-05	89593	subphylum	                  Craniata
+80.95	17	0	267	1	2.173e-05	7742	clade	                    Vertebrata
+80.95	17	0	267	1	2.173e-05	7776	clade	                      Gnathostomata
+80.95	17	0	267	1	2.173e-05	117570	clade	                        Teleostomi
+80.95	17	0	267	1	2.173e-05	117571	clade	                          Euteleostomi
+80.95	17	0	267	1	2.173e-05	8287	superclass	                            Sarcopterygii
+80.95	17	0	267	1	2.173e-05	1338369	clade	                              Dipnotetrapodomorpha
+80.95	17	0	267	1	2.173e-05	32523	clade	                                Tetrapoda
+80.95	17	0	267	1	2.173e-05	32524	clade	                                  Amniota
+80.95	17	0	267	1	2.173e-05	40674	class	                                    Mammalia
+80.95	17	0	266	1	2.173e-05	32525	clade	                                      Theria
+80.95	17	0	238	1	2.05e-05	9347	clade	                                        Eutheria
+76.19	16	2	211	1	1.944e-05	1437010	clade	                                          Boreoeutheria
+57.14	12	0	166	1	3.158e-05	314146	superorder	                                            Euarchontoglires
+52.38	11	0	160	1	8.77e-05	9443	order	                                              Primates
+47.62	10	0	155	1	0.0001272	376913	suborder	                                                Haplorrhini
+47.62	10	1	155	1	0.0001319	314293	infraorder	                                                  Simiiformes
+42.86	9	0	153	1	0.0002274	9526	parvorder	                                                    Catarrhini
+42.86	9	0	143	1	0.001024	314295	superfamily	                                                      Hominoidea
+42.86	9	0	135	1	0.0019	9604	family	                                                        Hominidae
+42.86	9	2	135	1	0.002684	207598	subfamily	                                                          Homininae
+23.81	5	2	78	1	0.004807	9605	genus	                                                            Homo
+14.29	3	1	43	1	0.004961	9606	species	                                                              Homo sapiens
+9.524	2	2	25	1	0.01367	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.762	1	0	3	1	0.0002045	9596	genus	                                                            Pan
+4.762	1	1	3	1	0.0004908	9598	species	                                                              Pan troglodytes
+4.762	1	0	2	1	0.0001266	9592	genus	                                                            Gorilla
+4.762	1	1	2	1	0.0002831	9593	species	                                                              Gorilla gorilla
+4.762	1	0	4	1	6.679e-06	376911	suborder	                                                Strepsirrhini
+4.762	1	0	4	1	5.305e-05	376917	infraorder	                                                  Lorisiformes
+4.762	1	0	2	1	8.297e-05	40297	family	                                                    Galagidae
+4.762	1	1	2	1	0.0001494	9462	genus	                                                      Galago
+4.762	1	0	3	1	9.159e-07	314147	clade	                                              Glires
+4.762	1	0	3	1	9.791e-07	9989	order	                                                Rodentia
+4.762	1	0	3	1	1.608e-06	1963758	suborder	                                                  Myomorpha
+4.762	1	0	3	1	1.701e-06	337687	clade	                                                    Muroidea
+4.762	1	0	3	1	3.129e-06	10066	family	                                                      Muridae
+4.762	1	0	3	1	3.446e-06	39107	subfamily	                                                        Murinae
+4.762	1	0	3	1	2.995e-05	10114	genus	                                                          Rattus
+4.762	1	1	3	1	0.0003954	10116	species	                                                            Rattus norvegicus
+9.524	2	0	11	1	2.131e-06	314145	superorder	                                            Laurasiatheria
+4.762	1	0	8	1	6.263e-06	33554	order	                                              Carnivora
+4.762	1	0	4	1	8.385e-06	379583	suborder	                                                Feliformia
+4.762	1	0	4	1	5.383e-05	9673	family	                                                  Viverridae
+4.762	1	0	4	1	0.0001789	219112	subfamily	                                                    Paradoxurinae
+4.762	1	0	4	1	0.0005875	9674	genus	                                                      Paguma
+4.762	1	1	4	1	0.0005875	9675	species	                                                        Paguma larvata
+4.762	1	0	1	1	6.991e-07	91561	order	                                              Artiodactyla
+4.762	1	0	1	1	1.101e-06	9845	suborder	                                                Ruminantia
+4.762	1	0	1	1	1.15e-06	35500	infraorder	                                                  Pecora
+4.762	1	1	1	1	1.719e-06	9895	family	                                                    Bovidae
+4.762	1	0	7	1	2.444e-05	311790	superorder	                                          Afrotheria
+4.762	1	0	7	1	0.0003236	9810	order	                                            Hyracoidea
+4.762	1	1	7	1	0.0003236	9811	family	                                              Procaviidae

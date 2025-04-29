@@ -1,0 +1,43 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:30Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/31/e37178ab4ac0384a2aa17fc166bba0
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl27_rep45_simadna_neanderthals.kraken.report --output output.kraken rl27_rep45_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+25.93	7	7	415	1	NA	0	no rank	unclassified
+74.07	20	0	490	1.02	3.989e-05	1	no rank	root
+74.07	20	0	490	1.02	3.989e-05	131567	no rank	  cellular organisms
+74.07	20	0	490	1.02	3.989e-05	2759	superkingdom	    Eukaryota
+74.07	20	0	490	1.02	3.989e-05	33154	clade	      Opisthokonta
+74.07	20	0	490	1.02	3.989e-05	33208	kingdom	        Metazoa
+74.07	20	0	490	1.02	3.989e-05	6072	clade	          Eumetazoa
+74.07	20	0	490	1.02	3.989e-05	33213	clade	            Bilateria
+74.07	20	0	490	1.02	3.989e-05	33511	clade	              Deuterostomia
+74.07	20	0	490	1.02	3.989e-05	7711	phylum	                Chordata
+74.07	20	0	490	1.02	3.989e-05	89593	subphylum	                  Craniata
+74.07	20	0	490	1.02	3.989e-05	7742	clade	                    Vertebrata
+74.07	20	0	490	1.02	3.989e-05	7776	clade	                      Gnathostomata
+74.07	20	0	490	1.02	3.989e-05	117570	clade	                        Teleostomi
+74.07	20	0	490	1.02	3.989e-05	117571	clade	                          Euteleostomi
+74.07	20	0	490	1.02	3.989e-05	8287	superclass	                            Sarcopterygii
+74.07	20	0	490	1.02	3.989e-05	1338369	clade	                              Dipnotetrapodomorpha
+74.07	20	0	490	1.02	3.989e-05	32523	clade	                                Tetrapoda
+74.07	20	0	490	1.02	3.989e-05	32524	clade	                                  Amniota
+74.07	20	0	490	1.02	3.989e-05	40674	class	                                    Mammalia
+74.07	20	0	490	1.02	4.003e-05	32525	clade	                                      Theria
+74.07	20	0	480	1.02	4.134e-05	9347	clade	                                        Eutheria
+74.07	20	0	452	1.02	4.164e-05	1437010	clade	                                          Boreoeutheria
+74.07	20	0	402	1.02	7.647e-05	314146	superorder	                                            Euarchontoglires
+74.07	20	0	372	1.02	0.0002039	9443	order	                                              Primates
+74.07	20	0	372	1.02	0.0003053	376913	suborder	                                                Haplorrhini
+74.07	20	0	372	1.02	0.0003166	314293	infraorder	                                                  Simiiformes
+74.07	20	0	359	1.03	0.0005337	9526	parvorder	                                                    Catarrhini
+70.37	19	0	347	1.03	0.002485	314295	superfamily	                                                      Hominoidea
+70.37	19	0	343	1.03	0.004828	9604	family	                                                        Hominidae
+70.37	19	1	337	1.02	0.0067	207598	subfamily	                                                          Homininae
+66.67	18	6	252	1.02	0.01553	9605	genus	                                                            Homo
+44.44	12	9	89	1.07	0.01027	9606	species	                                                              Homo sapiens
+7.407	2	2	9	1	0.004921	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.704	1	1	3	1	0.001151	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+3.704	1	0	1	1	1.898e-06	314294	superfamily	                                                      Cercopithecoidea
+3.704	1	0	1	1	1.898e-06	9527	family	                                                        Cercopithecidae
+3.704	1	0	1	1	4.81e-06	9569	subfamily	                                                          Colobinae
+3.704	1	0	1	1	9.069e-05	88028	genus	                                                            Semnopithecus
+3.704	1	1	1	1	0.0003057	88029	species	                                                              Semnopithecus entellus

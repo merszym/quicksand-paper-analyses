@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:58Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/2d/6e3093753a269eefd33cb4462d66a7
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl19_rep84_simadna_neanderthals.kraken.report --output output.kraken rl19_rep84_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+5.263	1	1	238	1	NA	0	no rank	unclassified
+94.74	18	0	319	1.05	2.597e-05	1	no rank	root
+94.74	18	0	319	1.05	2.597e-05	131567	no rank	  cellular organisms
+94.74	18	0	319	1.05	2.597e-05	2759	superkingdom	    Eukaryota
+94.74	18	0	319	1.05	2.597e-05	33154	clade	      Opisthokonta
+94.74	18	0	319	1.05	2.597e-05	33208	kingdom	        Metazoa
+94.74	18	0	319	1.05	2.597e-05	6072	clade	          Eumetazoa
+94.74	18	0	319	1.05	2.597e-05	33213	clade	            Bilateria
+94.74	18	0	319	1.05	2.597e-05	33511	clade	              Deuterostomia
+94.74	18	0	319	1.05	2.597e-05	7711	phylum	                Chordata
+94.74	18	0	319	1.05	2.597e-05	89593	subphylum	                  Craniata
+94.74	18	0	319	1.05	2.597e-05	7742	clade	                    Vertebrata
+94.74	18	0	319	1.05	2.597e-05	7776	clade	                      Gnathostomata
+94.74	18	0	319	1.05	2.597e-05	117570	clade	                        Teleostomi
+94.74	18	0	319	1.05	2.597e-05	117571	clade	                          Euteleostomi
+94.74	18	0	319	1.05	2.597e-05	8287	superclass	                            Sarcopterygii
+94.74	18	0	319	1.05	2.597e-05	1338369	clade	                              Dipnotetrapodomorpha
+94.74	18	0	319	1.05	2.597e-05	32523	clade	                                Tetrapoda
+94.74	18	0	319	1.05	2.597e-05	32524	clade	                                  Amniota
+94.74	18	0	319	1.05	2.597e-05	40674	class	                                    Mammalia
+94.74	18	0	319	1.05	2.606e-05	32525	clade	                                      Theria
+94.74	18	0	314	1.04	2.704e-05	9347	clade	                                        Eutheria
+94.74	18	0	306	1.03	2.819e-05	1437010	clade	                                          Boreoeutheria
+89.47	17	0	231	1.01	4.394e-05	314146	superorder	                                            Euarchontoglires
+89.47	17	0	222	1.01	0.0001217	9443	order	                                              Primates
+89.47	17	0	222	1.01	0.0001822	376913	suborder	                                                Haplorrhini
+89.47	17	0	222	1.01	0.000189	314293	infraorder	                                                  Simiiformes
+89.47	17	0	208	1.01	0.0003092	9526	parvorder	                                                    Catarrhini
+89.47	17	0	192	1.01	0.001375	314295	superfamily	                                                      Hominoidea
+89.47	17	0	192	1.01	0.002702	9604	family	                                                        Hominidae
+89.47	17	0	192	1.01	0.003817	207598	subfamily	                                                          Homininae
+84.21	16	7	151	1.01	0.009305	9605	genus	                                                            Homo
+47.37	9	6	60	1	0.006922	9606	species	                                                              Homo sapiens
+15.79	3	3	27	1	0.01476	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.263	1	1	6	1	0.0004091	9596	genus	                                                            Pan
+5.263	1	0	4	1	7.749e-07	314145	superorder	                                            Laurasiatheria
+5.263	1	0	2	1	1.366e-06	9397	order	                                              Chiroptera
+5.263	1	0	2	1	1.763e-06	30560	suborder	                                                Microchiroptera
+5.263	1	0	2	1	5.126e-06	9415	family	                                                  Phyllostomidae
+5.263	1	0	2	1	6.327e-05	40231	subfamily	                                                    Carolliinae
+5.263	1	0	2	1	9.297e-05	40232	genus	                                                      Carollia
+5.263	1	1	2	1	0.0005651	138695	species	                                                        Carollia brevicauda

@@ -1,0 +1,60 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:14Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/93/582ebf12e8d659a43f6c8ba8489f22
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl24_rep46_simadna_neanderthals.kraken.report --output output.kraken rl24_rep46_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	24	0	340	1	2.768e-05	1	no rank	root
+100	24	0	340	1	2.768e-05	131567	no rank	  cellular organisms
+100	24	0	340	1	2.768e-05	2759	superkingdom	    Eukaryota
+100	24	0	340	1	2.768e-05	33154	clade	      Opisthokonta
+100	24	0	340	1	2.768e-05	33208	kingdom	        Metazoa
+100	24	0	340	1	2.768e-05	6072	clade	          Eumetazoa
+100	24	0	340	1	2.768e-05	33213	clade	            Bilateria
+100	24	0	340	1	2.768e-05	33511	clade	              Deuterostomia
+100	24	0	340	1	2.768e-05	7711	phylum	                Chordata
+100	24	0	340	1	2.768e-05	89593	subphylum	                  Craniata
+100	24	0	340	1	2.768e-05	7742	clade	                    Vertebrata
+100	24	0	340	1	2.768e-05	7776	clade	                      Gnathostomata
+100	24	0	340	1	2.768e-05	117570	clade	                        Teleostomi
+100	24	0	340	1	2.768e-05	117571	clade	                          Euteleostomi
+100	24	0	340	1	2.768e-05	8287	superclass	                            Sarcopterygii
+100	24	0	340	1	2.768e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	24	0	340	1	2.768e-05	32523	clade	                                Tetrapoda
+100	24	0	340	1	2.768e-05	32524	clade	                                  Amniota
+100	24	0	340	1	2.768e-05	40674	class	                                    Mammalia
+100	24	0	340	1	2.777e-05	32525	clade	                                      Theria
+100	24	0	336	1	2.893e-05	9347	clade	                                        Eutheria
+91.67	22	2	309	1	2.847e-05	1437010	clade	                                          Boreoeutheria
+79.17	19	0	224	1	4.261e-05	314146	superorder	                                            Euarchontoglires
+79.17	19	0	212	1	0.0001162	9443	order	                                              Primates
+79.17	19	0	200	1	0.0001642	376913	suborder	                                                Haplorrhini
+79.17	19	0	200	1	0.0001702	314293	infraorder	                                                  Simiiformes
+79.17	19	1	190	1	0.0002824	9526	parvorder	                                                    Catarrhini
+70.83	17	1	163	1	0.001167	314295	superfamily	                                                      Hominoidea
+66.67	16	0	155	1	0.002182	9604	family	                                                        Hominidae
+66.67	16	2	155	1	0.003082	207598	subfamily	                                                          Homininae
+58.33	14	6	131	1	0.008072	9605	genus	                                                            Homo
+33.33	8	4	65	1	0.007499	9606	species	                                                              Homo sapiens
+16.67	4	4	32	1	0.0175	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.167	1	0	1	1	1.898e-06	314294	superfamily	                                                      Cercopithecoidea
+4.167	1	0	1	1	1.898e-06	9527	family	                                                        Cercopithecidae
+4.167	1	0	1	1	3.243e-06	9528	subfamily	                                                          Cercopithecinae
+4.167	1	0	1	1	4.81e-05	9529	genus	                                                            Cercocebus
+4.167	1	1	1	1	0.0001657	75569	species	                                                              Cercocebus chrysogaster
+4.167	1	0	3	1	5.812e-07	314145	superorder	                                            Laurasiatheria
+4.167	1	0	3	1	2.097e-06	91561	order	                                              Artiodactyla
+4.167	1	0	3	1	3.304e-06	9845	suborder	                                                Ruminantia
+4.167	1	0	3	1	3.449e-06	35500	infraorder	                                                  Pecora
+4.167	1	0	3	1	5.156e-06	9895	family	                                                    Bovidae
+4.167	1	0	3	1	2.382e-05	9948	subfamily	                                                      Antilopinae
+4.167	1	0	3	1	0.0001385	9933	genus	                                                        Gazella
+4.167	1	1	3	1	0.001231	37751	species	                                                          Gazella dorcas
+4.167	1	0	6	1	2.095e-05	311790	superorder	                                          Afrotheria
+4.167	1	0	6	1	0.0002896	9389	family	                                            Chrysochloridae
+4.167	1	0	6	1	0.0002896	745257	subfamily	                                              Chrysochlorinae
+4.167	1	0	6	1	0.0005965	185452	genus	                                                Chrysochloris
+4.167	1	1	6	1	0.0005965	185453	species	                                                  Chrysochloris asiatica
+4.167	1	0	2	1	6.362e-06	9348	superorder	                                          Xenarthra
+4.167	1	0	2	1	1.26e-05	948950	order	                                            Pilosa
+4.167	1	0	2	1	1.648e-05	948953	suborder	                                              Folivora
+4.167	1	0	2	1	0.000113	136417	family	                                                Megatheriidae
+4.167	1	0	2	1	0.0002244	136415	genus	                                                  Nothrotheriops
+4.167	1	1	2	1	0.0002244	136416	species	                                                    Nothrotheriops shastensis

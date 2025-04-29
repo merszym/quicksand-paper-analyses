@@ -1,0 +1,51 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:22:28Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/d0/2f628b4c79e4c1aa6b9a4e830387ba
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl14_rep63_simadna_neanderthals.kraken.report --output output.kraken rl14_rep63_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+14.29	2	2	205	1	NA	0	no rank	unclassified
+85.71	12	0	280	1	2.279e-05	1	no rank	root
+85.71	12	0	280	1	2.279e-05	131567	no rank	  cellular organisms
+85.71	12	0	280	1	2.279e-05	2759	superkingdom	    Eukaryota
+85.71	12	0	280	1	2.279e-05	33154	clade	      Opisthokonta
+85.71	12	0	280	1	2.279e-05	33208	kingdom	        Metazoa
+85.71	12	0	280	1	2.279e-05	6072	clade	          Eumetazoa
+85.71	12	0	280	1	2.279e-05	33213	clade	            Bilateria
+85.71	12	0	280	1	2.279e-05	33511	clade	              Deuterostomia
+85.71	12	0	280	1	2.279e-05	7711	phylum	                Chordata
+85.71	12	0	280	1	2.279e-05	89593	subphylum	                  Craniata
+85.71	12	0	280	1	2.279e-05	7742	clade	                    Vertebrata
+85.71	12	0	280	1	2.279e-05	7776	clade	                      Gnathostomata
+85.71	12	0	280	1	2.279e-05	117570	clade	                        Teleostomi
+85.71	12	0	280	1	2.279e-05	117571	clade	                          Euteleostomi
+85.71	12	0	280	1	2.279e-05	8287	superclass	                            Sarcopterygii
+85.71	12	0	280	1	2.279e-05	1338369	clade	                              Dipnotetrapodomorpha
+85.71	12	0	280	1	2.279e-05	32523	clade	                                Tetrapoda
+85.71	12	0	280	1	2.279e-05	32524	clade	                                  Amniota
+85.71	12	0	280	1	2.279e-05	40674	class	                                    Mammalia
+85.71	12	0	280	1	2.287e-05	32525	clade	                                      Theria
+85.71	12	0	272	1	2.342e-05	9347	clade	                                        Eutheria
+85.71	12	0	256	1	2.358e-05	1437010	clade	                                          Boreoeutheria
+85.71	12	0	227	1	4.318e-05	314146	superorder	                                            Euarchontoglires
+78.57	11	0	207	1	0.0001135	9443	order	                                              Primates
+78.57	11	0	207	1	0.0001699	376913	suborder	                                                Haplorrhini
+78.57	11	0	207	1	0.0001762	314293	infraorder	                                                  Simiiformes
+71.43	10	0	203	1	0.0003018	9526	parvorder	                                                    Catarrhini
+71.43	10	0	187	1	0.001339	314295	superfamily	                                                      Hominoidea
+71.43	10	1	186	1	0.002618	9604	family	                                                        Hominidae
+64.29	9	2	185	1	0.003678	207598	subfamily	                                                          Homininae
+42.86	6	1	114	1	0.007025	9605	genus	                                                            Homo
+35.71	5	4	65	1	0.007499	9606	species	                                                              Homo sapiens
+7.143	1	1	7	1	0.003827	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.143	1	1	9	1	0.0006136	9596	genus	                                                            Pan
+7.143	1	0	3	1	6.059e-06	9479	parvorder	                                                    Platyrrhini
+7.143	1	0	3	1	3.556e-05	378855	family	                                                      Atelidae
+7.143	1	0	3	1	6.107e-05	38066	subfamily	                                                        Alouattinae
+7.143	1	0	3	1	6.107e-05	9499	genus	                                                          Alouatta
+7.143	1	1	2	1	0.0006517	30590	species	                                                            Alouatta belzebul
+7.143	1	0	5	1	1.527e-06	314147	clade	                                              Glires
+7.143	1	0	5	1	1.632e-06	9989	order	                                                Rodentia
+7.143	1	0	2	1	3.339e-06	33553	suborder	                                                  Sciuromorpha
+7.143	1	0	2	1	3.541e-06	55153	family	                                                    Sciuridae
+7.143	1	0	2	1	1.486e-05	337726	subfamily	                                                      Xerinae
+7.143	1	0	2	1	1.486e-05	337730	tribe	                                                        Marmotini
+7.143	1	0	2	1	4.442e-05	13712	genus	                                                          Tamias
+7.143	1	1	2	1	0.0002168	45474	species	                                                            Tamias striatus

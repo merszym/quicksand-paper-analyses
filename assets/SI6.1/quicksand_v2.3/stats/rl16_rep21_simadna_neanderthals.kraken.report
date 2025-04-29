@@ -1,0 +1,53 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:21Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/63/f6e93bcd3c4d74952d25572902581a
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl16_rep21_simadna_neanderthals.kraken.report --output output.kraken rl16_rep21_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+12.5	2	2	206	1	NA	0	no rank	unclassified
+87.5	14	0	248	1	2.019e-05	1	no rank	root
+87.5	14	0	248	1	2.019e-05	131567	no rank	  cellular organisms
+87.5	14	0	248	1	2.019e-05	2759	superkingdom	    Eukaryota
+87.5	14	0	248	1	2.019e-05	33154	clade	      Opisthokonta
+87.5	14	0	248	1	2.019e-05	33208	kingdom	        Metazoa
+87.5	14	0	248	1	2.019e-05	6072	clade	          Eumetazoa
+87.5	14	0	248	1	2.019e-05	33213	clade	            Bilateria
+87.5	14	0	248	1	2.019e-05	33511	clade	              Deuterostomia
+87.5	14	0	248	1	2.019e-05	7711	phylum	                Chordata
+87.5	14	0	248	1	2.019e-05	89593	subphylum	                  Craniata
+87.5	14	0	248	1	2.019e-05	7742	clade	                    Vertebrata
+87.5	14	0	248	1	2.019e-05	7776	clade	                      Gnathostomata
+87.5	14	0	248	1	2.019e-05	117570	clade	                        Teleostomi
+87.5	14	0	248	1	2.019e-05	117571	clade	                          Euteleostomi
+87.5	14	0	248	1	2.019e-05	8287	superclass	                            Sarcopterygii
+87.5	14	0	248	1	2.019e-05	1338369	clade	                              Dipnotetrapodomorpha
+87.5	14	0	248	1	2.019e-05	32523	clade	                                Tetrapoda
+87.5	14	0	248	1	2.019e-05	32524	clade	                                  Amniota
+87.5	14	0	248	1	2.019e-05	40674	class	                                    Mammalia
+87.5	14	0	246	1	2.01e-05	32525	clade	                                      Theria
+87.5	14	0	229	1	1.972e-05	9347	clade	                                        Eutheria
+87.5	14	0	203	1	1.87e-05	1437010	clade	                                          Boreoeutheria
+81.25	13	0	183	1	3.481e-05	314146	superorder	                                            Euarchontoglires
+75	12	0	158	1	8.661e-05	9443	order	                                              Primates
+75	12	0	156	1	0.000128	376913	suborder	                                                Haplorrhini
+75	12	2	156	1	0.0001328	314293	infraorder	                                                  Simiiformes
+62.5	10	0	131	1	0.0001947	9526	parvorder	                                                    Catarrhini
+62.5	10	0	119	1	0.0008522	314295	superfamily	                                                      Hominoidea
+62.5	10	0	111	1	0.001562	9604	family	                                                        Hominidae
+62.5	10	2	106	1	0.002107	207598	subfamily	                                                          Homininae
+50	8	1	89	1	0.005484	9605	genus	                                                            Homo
+43.75	7	5	53	1	0.006114	9606	species	                                                              Homo sapiens
+12.5	2	2	13	1	0.007108	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.25	1	0	3	1	9.159e-07	314147	clade	                                              Glires
+6.25	1	0	3	1	9.791e-07	9989	order	                                                Rodentia
+6.25	1	0	3	1	1.608e-06	1963758	suborder	                                                  Myomorpha
+6.25	1	0	3	1	1.701e-06	337687	clade	                                                    Muroidea
+6.25	1	0	3	1	3.129e-06	10066	family	                                                      Muridae
+6.25	1	0	3	1	3.446e-06	39107	subfamily	                                                        Murinae
+6.25	1	0	3	1	8.117e-05	30639	genus	                                                          Mastomys
+6.25	1	1	3	1	0.0004769	10112	species	                                                            Mastomys natalensis
+6.25	1	0	6	1	1.162e-06	314145	superorder	                                            Laurasiatheria
+6.25	1	0	6	1	4.195e-06	91561	order	                                              Artiodactyla
+6.25	1	0	6	1	1.488e-05	2653789	suborder	                                                Whippomorpha
+6.25	1	0	6	1	1.554e-05	9721	infraorder	                                                  Cetacea
+6.25	1	0	6	1	2.006e-05	9722	parvorder	                                                    Odontoceti
+6.25	1	0	4	1	5.366e-05	9756	family	                                                      Ziphiidae
+6.25	1	0	3	1	0.0004128	48741	genus	                                                        Berardius
+6.25	1	1	3	1	0.0004128	48742	species	                                                          Berardius bairdii

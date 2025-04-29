@@ -1,0 +1,51 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:34Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/6a/8b6e028ecfc71f8b64384253e1f98b
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl18_rep73_simadna_neanderthals.kraken.report --output output.kraken rl18_rep73_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	18	0	335	1.01	2.727e-05	1	no rank	root
+100	18	0	335	1.01	2.727e-05	131567	no rank	  cellular organisms
+100	18	0	335	1.01	2.727e-05	2759	superkingdom	    Eukaryota
+100	18	0	335	1.01	2.727e-05	33154	clade	      Opisthokonta
+100	18	0	335	1.01	2.727e-05	33208	kingdom	        Metazoa
+100	18	0	335	1.01	2.727e-05	6072	clade	          Eumetazoa
+100	18	0	335	1.01	2.727e-05	33213	clade	            Bilateria
+100	18	0	335	1.01	2.727e-05	33511	clade	              Deuterostomia
+100	18	0	335	1.01	2.727e-05	7711	phylum	                Chordata
+100	18	0	335	1.01	2.727e-05	89593	subphylum	                  Craniata
+100	18	0	335	1.01	2.727e-05	7742	clade	                    Vertebrata
+100	18	0	335	1.01	2.727e-05	7776	clade	                      Gnathostomata
+100	18	0	335	1.01	2.727e-05	117570	clade	                        Teleostomi
+100	18	0	335	1.01	2.727e-05	117571	clade	                          Euteleostomi
+100	18	0	335	1.01	2.727e-05	8287	superclass	                            Sarcopterygii
+100	18	0	335	1.01	2.727e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	18	0	335	1.01	2.727e-05	32523	clade	                                Tetrapoda
+100	18	0	335	1.01	2.727e-05	32524	clade	                                  Amniota
+100	18	0	335	1.01	2.727e-05	40674	class	                                    Mammalia
+100	18	0	335	1.01	2.737e-05	32525	clade	                                      Theria
+100	18	0	334	1.01	2.876e-05	9347	clade	                                        Eutheria
+100	18	0	334	1.01	3.077e-05	1437010	clade	                                          Boreoeutheria
+88.89	16	0	310	1.01	5.897e-05	314146	superorder	                                            Euarchontoglires
+88.89	16	0	307	1.01	0.0001683	9443	order	                                              Primates
+88.89	16	0	305	1.01	0.0002503	376913	suborder	                                                Haplorrhini
+88.89	16	0	305	1.01	0.0002596	314293	infraorder	                                                  Simiiformes
+88.89	16	0	300	1.01	0.000446	9526	parvorder	                                                    Catarrhini
+88.89	16	1	293	1.01	0.002098	314295	superfamily	                                                      Hominoidea
+83.33	15	0	279	1	0.003927	9604	family	                                                        Hominidae
+83.33	15	1	272	1	0.005408	207598	subfamily	                                                          Homininae
+72.22	13	4	218	1	0.01343	9605	genus	                                                            Homo
+50	9	3	84	1	0.009691	9606	species	                                                              Homo sapiens
+27.78	5	5	51	1	0.02788	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.556	1	1	6	1	0.002302	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+5.556	1	0	5	1	0.0003164	9592	genus	                                                            Gorilla
+5.556	1	1	4	1	0.0005662	9593	species	                                                              Gorilla gorilla
+11.11	2	0	6	1	1.162e-06	314145	superorder	                                            Laurasiatheria
+5.556	1	0	3	1	2.097e-06	91561	order	                                              Artiodactyla
+5.556	1	0	3	1	3.304e-06	9845	suborder	                                                Ruminantia
+5.556	1	0	3	1	3.449e-06	35500	infraorder	                                                  Pecora
+5.556	1	0	3	1	5.156e-06	9895	family	                                                    Bovidae
+5.556	1	0	3	1	9.93e-05	37170	subfamily	                                                      Alcelaphinae
+5.556	1	0	3	1	0.0006501	59526	genus	                                                        Beatragus
+5.556	1	1	3	1	0.0006501	59527	species	                                                          Beatragus hunteri
+5.556	1	0	2	1	1.366e-06	9397	order	                                              Chiroptera
+5.556	1	0	2	1	1.763e-06	30560	suborder	                                                Microchiroptera
+5.556	1	0	2	1	4.082e-06	9431	family	                                                  Vespertilionidae
+5.556	1	1	2	1	8.584e-06	9434	genus	                                                    Myotis

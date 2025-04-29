@@ -1,0 +1,51 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:32Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/2f/ffabe451a85261675fddb82d5cf923
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl25_rep22_simadna_neanderthals.kraken.report --output output.kraken rl25_rep22_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+8	2	2	373	1	NA	0	no rank	unclassified
+92	23	0	454	1	3.696e-05	1	no rank	root
+92	23	0	454	1	3.696e-05	131567	no rank	  cellular organisms
+92	23	0	454	1	3.696e-05	2759	superkingdom	    Eukaryota
+92	23	0	454	1	3.696e-05	33154	clade	      Opisthokonta
+92	23	0	454	1	3.696e-05	33208	kingdom	        Metazoa
+92	23	0	454	1	3.696e-05	6072	clade	          Eumetazoa
+92	23	0	454	1	3.696e-05	33213	clade	            Bilateria
+92	23	0	454	1	3.696e-05	33511	clade	              Deuterostomia
+92	23	0	454	1	3.696e-05	7711	phylum	                Chordata
+92	23	0	454	1	3.696e-05	89593	subphylum	                  Craniata
+92	23	0	454	1	3.696e-05	7742	clade	                    Vertebrata
+92	23	0	454	1	3.696e-05	7776	clade	                      Gnathostomata
+92	23	0	454	1	3.696e-05	117570	clade	                        Teleostomi
+92	23	0	454	1	3.696e-05	117571	clade	                          Euteleostomi
+92	23	0	454	1	3.696e-05	8287	superclass	                            Sarcopterygii
+92	23	0	454	1	3.696e-05	1338369	clade	                              Dipnotetrapodomorpha
+92	23	0	454	1	3.696e-05	32523	clade	                                Tetrapoda
+92	23	0	454	1	3.696e-05	32524	clade	                                  Amniota
+92	23	0	454	1	3.696e-05	40674	class	                                    Mammalia
+92	23	0	448	1	3.66e-05	32525	clade	                                      Theria
+92	23	0	435	1	3.746e-05	9347	clade	                                        Eutheria
+92	23	1	388	1	3.574e-05	1437010	clade	                                          Boreoeutheria
+84	21	2	298	1	5.669e-05	314146	superorder	                                            Euarchontoglires
+76	19	0	271	1	0.0001485	9443	order	                                              Primates
+76	19	0	270	1	0.0002216	376913	suborder	                                                Haplorrhini
+76	19	1	270	1	0.0002298	314293	infraorder	                                                  Simiiformes
+72	18	0	248	1	0.0003687	9526	parvorder	                                                    Catarrhini
+64	16	0	215	1	0.00154	314295	superfamily	                                                      Hominoidea
+64	16	0	213	1	0.002998	9604	family	                                                        Hominidae
+64	16	1	213	1	0.004235	207598	subfamily	                                                          Homininae
+56	14	5	183	1	0.01128	9605	genus	                                                            Homo
+36	9	6	90	1	0.01038	9606	species	                                                              Homo sapiens
+12	3	3	21	1	0.01148	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4	1	1	2	1	0.0001364	9596	genus	                                                            Pan
+8	2	0	14	1	2.658e-05	314294	superfamily	                                                      Cercopithecoidea
+8	2	0	14	1	2.658e-05	9527	family	                                                        Cercopithecidae
+4	1	1	8	1	2.594e-05	9528	subfamily	                                                          Cercopithecinae
+4	1	0	6	1	2.886e-05	9569	subfamily	                                                          Colobinae
+4	1	1	6	1	7.921e-05	54136	genus	                                                            Trachypithecus
+4	1	0	5	1	9.687e-07	314145	superorder	                                            Laurasiatheria
+4	1	0	1	1	6.991e-07	91561	order	                                              Artiodactyla
+4	1	0	1	1	1.101e-06	9845	suborder	                                                Ruminantia
+4	1	0	1	1	1.15e-06	35500	infraorder	                                                  Pecora
+4	1	0	1	1	1.719e-06	9895	family	                                                    Bovidae
+4	1	0	1	1	7.45e-06	9963	subfamily	                                                      Caprinae
+4	1	0	1	1	0.0001169	34868	genus	                                                        Rupicapra
+4	1	1	1	1	0.0002715	72545	species	                                                          Rupicapra pyrenaica

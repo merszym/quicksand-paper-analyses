@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:18Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/0e/87ae9092b6811c053b994c8d194f45
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep5_simadna_neanderthals.kraken.report --output output.kraken rl29_rep5_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+34.48	10	10	472	1	NA	0	no rank	unclassified
+65.52	19	0	368	1	2.996e-05	1	no rank	root
+65.52	19	0	368	1	2.996e-05	131567	no rank	  cellular organisms
+65.52	19	0	368	1	2.996e-05	2759	superkingdom	    Eukaryota
+65.52	19	0	368	1	2.996e-05	33154	clade	      Opisthokonta
+65.52	19	0	368	1	2.996e-05	33208	kingdom	        Metazoa
+65.52	19	0	368	1	2.996e-05	6072	clade	          Eumetazoa
+65.52	19	0	368	1	2.996e-05	33213	clade	            Bilateria
+65.52	19	0	368	1	2.996e-05	33511	clade	              Deuterostomia
+65.52	19	0	368	1	2.996e-05	7711	phylum	                Chordata
+65.52	19	0	368	1	2.996e-05	89593	subphylum	                  Craniata
+65.52	19	0	368	1	2.996e-05	7742	clade	                    Vertebrata
+65.52	19	0	368	1	2.996e-05	7776	clade	                      Gnathostomata
+65.52	19	0	368	1	2.996e-05	117570	clade	                        Teleostomi
+65.52	19	0	368	1	2.996e-05	117571	clade	                          Euteleostomi
+65.52	19	0	368	1	2.996e-05	8287	superclass	                            Sarcopterygii
+65.52	19	0	368	1	2.996e-05	1338369	clade	                              Dipnotetrapodomorpha
+65.52	19	0	368	1	2.996e-05	32523	clade	                                Tetrapoda
+65.52	19	0	368	1	2.996e-05	32524	clade	                                  Amniota
+65.52	19	0	368	1	2.996e-05	40674	class	                                    Mammalia
+65.52	19	0	349	1	2.851e-05	32525	clade	                                      Theria
+65.52	19	0	337	1	2.902e-05	9347	clade	                                        Eutheria
+65.52	19	2	310	1	2.856e-05	1437010	clade	                                          Boreoeutheria
+55.17	16	0	266	1	5.06e-05	314146	superorder	                                            Euarchontoglires
+55.17	16	0	264	1	0.0001447	9443	order	                                              Primates
+55.17	16	0	264	1	0.0002167	376913	suborder	                                                Haplorrhini
+55.17	16	0	264	1	0.0002247	314293	infraorder	                                                  Simiiformes
+51.72	15	0	253	1	0.0003761	9526	parvorder	                                                    Catarrhini
+51.72	15	0	238	1	0.001704	314295	superfamily	                                                      Hominoidea
+51.72	15	0	228	1	0.003209	9604	family	                                                        Hominidae
+48.28	14	0	214	1	0.004254	207598	subfamily	                                                          Homininae
+48.28	14	5	168	1	0.01035	9605	genus	                                                            Homo
+31.03	9	4	63	1	0.007268	9606	species	                                                              Homo sapiens
+17.24	5	5	30	1	0.0164	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.448	1	0	9	1	0.0004522	607660	subfamily	                                                          Ponginae
+3.448	1	0	9	1	0.0004522	9599	genus	                                                            Pongo
+3.448	1	1	9	1	0.0009975	9601	species	                                                              Pongo abelii
+3.448	1	0	3	1	6.059e-06	9479	parvorder	                                                    Platyrrhini
+3.448	1	0	3	1	1.363e-05	9498	family	                                                      Cebidae
+3.448	1	0	3	1	9.107e-05	38070	subfamily	                                                        Cebinae
+3.448	1	1	3	1	0.0001997	9513	genus	                                                          Cebus
+3.448	1	0	3	1	5.812e-07	314145	superorder	                                            Laurasiatheria
+3.448	1	0	2	1	1.366e-06	9397	order	                                              Chiroptera
+3.448	1	0	2	1	6.257e-06	30559	suborder	                                                Megachiroptera
+3.448	1	0	2	1	6.257e-06	9398	family	                                                  Pteropodidae
+3.448	1	0	2	1	9.136e-06	77225	subfamily	                                                    Pteropodinae
+3.448	1	1	2	1	5.434e-05	9401	genus	                                                      Pteropus

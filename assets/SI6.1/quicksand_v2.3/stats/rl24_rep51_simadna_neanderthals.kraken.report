@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:15Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/a6/9f5faf88b78669ac527d14d0123bbd
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl24_rep51_simadna_neanderthals.kraken.report --output output.kraken rl24_rep51_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	24	0	553	1	4.501e-05	1	no rank	root
+100	24	0	553	1	4.501e-05	131567	no rank	  cellular organisms
+100	24	0	553	1	4.501e-05	2759	superkingdom	    Eukaryota
+100	24	0	553	1	4.501e-05	33154	clade	      Opisthokonta
+100	24	0	553	1	4.501e-05	33208	kingdom	        Metazoa
+100	24	0	553	1	4.501e-05	6072	clade	          Eumetazoa
+100	24	0	553	1	4.501e-05	33213	clade	            Bilateria
+100	24	0	553	1	4.501e-05	33511	clade	              Deuterostomia
+100	24	0	553	1	4.501e-05	7711	phylum	                Chordata
+100	24	0	553	1	4.501e-05	89593	subphylum	                  Craniata
+100	24	0	553	1	4.501e-05	7742	clade	                    Vertebrata
+100	24	0	553	1	4.501e-05	7776	clade	                      Gnathostomata
+100	24	0	553	1	4.501e-05	117570	clade	                        Teleostomi
+100	24	0	553	1	4.501e-05	117571	clade	                          Euteleostomi
+100	24	0	553	1	4.501e-05	8287	superclass	                            Sarcopterygii
+100	24	0	553	1	4.501e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	24	0	553	1	4.501e-05	32523	clade	                                Tetrapoda
+100	24	0	553	1	4.501e-05	32524	clade	                                  Amniota
+100	24	0	553	1	4.501e-05	40674	class	                                    Mammalia
+100	24	0	544	1	4.444e-05	32525	clade	                                      Theria
+100	24	0	523	1	4.504e-05	9347	clade	                                        Eutheria
+100	24	2	501	1	4.615e-05	1437010	clade	                                          Boreoeutheria
+91.67	22	0	437	1	8.313e-05	314146	superorder	                                            Euarchontoglires
+87.5	21	0	428	1	0.0002346	9443	order	                                              Primates
+87.5	21	0	427	1	0.0003505	376913	suborder	                                                Haplorrhini
+87.5	21	0	427	1	0.0003634	314293	infraorder	                                                  Simiiformes
+87.5	21	0	422	1	0.0006273	9526	parvorder	                                                    Catarrhini
+83.33	20	0	384	1	0.00275	314295	superfamily	                                                      Hominoidea
+83.33	20	0	373	1	0.00525	9604	family	                                                        Hominidae
+83.33	20	1	366	1	0.007276	207598	subfamily	                                                          Homininae
+79.17	19	4	335	1	0.02064	9605	genus	                                                            Homo
+62.5	15	9	220	1	0.02538	9606	species	                                                              Homo sapiens
+25	6	6	54	1	0.02952	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.167	1	0	12	1	2.278e-05	314294	superfamily	                                                      Cercopithecoidea
+4.167	1	0	12	1	2.278e-05	9527	family	                                                        Cercopithecidae
+4.167	1	0	11	1	5.291e-05	9569	subfamily	                                                          Colobinae
+4.167	1	0	9	1	0.0002943	542827	genus	                                                            Rhinopithecus
+4.167	1	1	9	1	0.002051	224329	species	                                                              Rhinopithecus brelichi
+4.167	1	0	4	1	0.0003309	30656	order	                                              Dermoptera
+4.167	1	0	4	1	0.0003309	30657	family	                                                Cynocephalidae
+4.167	1	0	4	1	0.0003309	482536	genus	                                                  Galeopterus
+4.167	1	1	4	1	0.0003309	482537	species	                                                    Galeopterus variegatus

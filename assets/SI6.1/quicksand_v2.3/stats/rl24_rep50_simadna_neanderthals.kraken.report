@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:14Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/47/f7c98b8fef1505c7ea953cb7b6e835
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl24_rep50_simadna_neanderthals.kraken.report --output output.kraken rl24_rep50_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+4.167	1	1	207	1	NA	0	no rank	unclassified
+95.83	23	0	397	1	3.232e-05	1	no rank	root
+95.83	23	0	397	1	3.232e-05	131567	no rank	  cellular organisms
+95.83	23	0	397	1	3.232e-05	2759	superkingdom	    Eukaryota
+95.83	23	0	397	1	3.232e-05	33154	clade	      Opisthokonta
+95.83	23	0	397	1	3.232e-05	33208	kingdom	        Metazoa
+95.83	23	0	397	1	3.232e-05	6072	clade	          Eumetazoa
+95.83	23	0	397	1	3.232e-05	33213	clade	            Bilateria
+95.83	23	0	397	1	3.232e-05	33511	clade	              Deuterostomia
+95.83	23	0	397	1	3.232e-05	7711	phylum	                Chordata
+95.83	23	0	397	1	3.232e-05	89593	subphylum	                  Craniata
+95.83	23	0	397	1	3.232e-05	7742	clade	                    Vertebrata
+95.83	23	0	397	1	3.232e-05	7776	clade	                      Gnathostomata
+95.83	23	0	397	1	3.232e-05	117570	clade	                        Teleostomi
+95.83	23	0	397	1	3.232e-05	117571	clade	                          Euteleostomi
+95.83	23	0	397	1	3.232e-05	8287	superclass	                            Sarcopterygii
+95.83	23	0	397	1	3.232e-05	1338369	clade	                              Dipnotetrapodomorpha
+95.83	23	0	397	1	3.232e-05	32523	clade	                                Tetrapoda
+95.83	23	0	397	1	3.232e-05	32524	clade	                                  Amniota
+95.83	23	0	397	1	3.232e-05	40674	class	                                    Mammalia
+95.83	23	0	397	1	3.243e-05	32525	clade	                                      Theria
+95.83	23	0	375	1	3.229e-05	9347	clade	                                        Eutheria
+95.83	23	0	367	1	3.381e-05	1437010	clade	                                          Boreoeutheria
+95.83	23	2	334	1	6.354e-05	314146	superorder	                                            Euarchontoglires
+83.33	20	0	325	1	0.0001781	9443	order	                                              Primates
+83.33	20	0	324	1	0.0002659	376913	suborder	                                                Haplorrhini
+83.33	20	0	324	1	0.0002758	314293	infraorder	                                                  Simiiformes
+83.33	20	0	320	1	0.0004757	9526	parvorder	                                                    Catarrhini
+79.17	19	1	299	1	0.002141	314295	superfamily	                                                      Hominoidea
+75	18	0	293	1	0.004124	9604	family	                                                        Hominidae
+75	18	2	283	1	0.005626	207598	subfamily	                                                          Homininae
+66.67	16	8	251	1	0.01547	9605	genus	                                                            Homo
+33.33	8	3	135	1	0.01557	9606	species	                                                              Homo sapiens
+20.83	5	5	54	1	0.02952	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.167	1	0	11	1	2.088e-05	314294	superfamily	                                                      Cercopithecoidea
+4.167	1	0	11	1	2.088e-05	9527	family	                                                        Cercopithecidae
+4.167	1	1	8	1	2.594e-05	9528	subfamily	                                                          Cercopithecinae
+4.167	1	0	3	1	9.159e-07	314147	clade	                                              Glires
+4.167	1	0	2	1	9.951e-06	9975	order	                                                Lagomorpha
+4.167	1	0	2	1	2.179e-05	9976	family	                                                  Ochotonidae
+4.167	1	0	2	1	2.179e-05	9977	genus	                                                    Ochotona
+4.167	1	1	2	1	0.000254	130827	species	                                                      Ochotona dauurica

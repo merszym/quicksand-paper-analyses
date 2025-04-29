@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:56Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/33/7887a7839b6c30f7a9be4be34e6d51
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl19_rep67_simadna_neanderthals.kraken.report --output output.kraken rl19_rep67_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+31.58	6	6	323	1	NA	0	no rank	unclassified
+68.42	13	0	243	1	1.978e-05	1	no rank	root
+68.42	13	0	243	1	1.978e-05	131567	no rank	  cellular organisms
+68.42	13	0	243	1	1.978e-05	2759	superkingdom	    Eukaryota
+68.42	13	0	243	1	1.978e-05	33154	clade	      Opisthokonta
+68.42	13	0	243	1	1.978e-05	33208	kingdom	        Metazoa
+68.42	13	0	243	1	1.978e-05	6072	clade	          Eumetazoa
+68.42	13	0	243	1	1.978e-05	33213	clade	            Bilateria
+68.42	13	0	243	1	1.978e-05	33511	clade	              Deuterostomia
+68.42	13	0	243	1	1.978e-05	7711	phylum	                Chordata
+68.42	13	0	243	1	1.978e-05	89593	subphylum	                  Craniata
+68.42	13	0	243	1	1.978e-05	7742	clade	                    Vertebrata
+68.42	13	0	243	1	1.978e-05	7776	clade	                      Gnathostomata
+68.42	13	0	243	1	1.978e-05	117570	clade	                        Teleostomi
+68.42	13	0	243	1	1.978e-05	117571	clade	                          Euteleostomi
+68.42	13	0	243	1	1.978e-05	8287	superclass	                            Sarcopterygii
+68.42	13	0	243	1	1.978e-05	1338369	clade	                              Dipnotetrapodomorpha
+68.42	13	0	243	1	1.978e-05	32523	clade	                                Tetrapoda
+68.42	13	0	243	1	1.978e-05	32524	clade	                                  Amniota
+68.42	13	0	243	1	1.978e-05	40674	class	                                    Mammalia
+68.42	13	0	243	1	1.985e-05	32525	clade	                                      Theria
+68.42	13	0	236	1	2.032e-05	9347	clade	                                        Eutheria
+68.42	13	0	224	1	2.064e-05	1437010	clade	                                          Boreoeutheria
+68.42	13	0	195	1	3.709e-05	314146	superorder	                                            Euarchontoglires
+68.42	13	0	192	1	0.0001052	9443	order	                                              Primates
+68.42	13	0	191	1	0.0001568	376913	suborder	                                                Haplorrhini
+68.42	13	0	191	1	0.0001626	314293	infraorder	                                                  Simiiformes
+68.42	13	1	170	1	0.0002527	9526	parvorder	                                                    Catarrhini
+57.89	11	0	154	1	0.001103	314295	superfamily	                                                      Hominoidea
+52.63	10	0	128	1	0.001802	9604	family	                                                        Hominidae
+52.63	10	0	126	1	0.002505	207598	subfamily	                                                          Homininae
+52.63	10	5	105	1	0.00647	9605	genus	                                                            Homo
+26.32	5	3	61	1	0.007037	9606	species	                                                              Homo sapiens
+10.53	2	2	20	1	0.01093	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.263	1	0	1	1	1.502e-05	9577	family	                                                        Hylobatidae
+5.263	1	1	1	1	6.818e-05	325165	genus	                                                          Nomascus
+5.263	1	0	2	1	3.797e-06	314294	superfamily	                                                      Cercopithecoidea
+5.263	1	0	2	1	3.797e-06	9527	family	                                                        Cercopithecidae
+5.263	1	0	2	1	6.486e-06	9528	subfamily	                                                          Cercopithecinae
+5.263	1	0	1	1	0.0001097	75565	genus	                                                            Lophocebus
+5.263	1	1	1	1	0.0001097	75566	species	                                                              Lophocebus aterrimus

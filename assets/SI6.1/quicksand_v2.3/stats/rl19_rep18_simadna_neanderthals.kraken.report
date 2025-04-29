@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:11Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/3c/80e549a30754b4c40be71eeef8ac65
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl19_rep18_simadna_neanderthals.kraken.report --output output.kraken rl19_rep18_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+21.05	4	4	194	1	NA	0	no rank	unclassified
+78.95	15	0	305	1	2.483e-05	1	no rank	root
+78.95	15	0	305	1	2.483e-05	131567	no rank	  cellular organisms
+78.95	15	0	305	1	2.483e-05	2759	superkingdom	    Eukaryota
+78.95	15	0	305	1	2.483e-05	33154	clade	      Opisthokonta
+78.95	15	0	305	1	2.483e-05	33208	kingdom	        Metazoa
+78.95	15	0	305	1	2.483e-05	6072	clade	          Eumetazoa
+78.95	15	0	305	1	2.483e-05	33213	clade	            Bilateria
+78.95	15	0	305	1	2.483e-05	33511	clade	              Deuterostomia
+78.95	15	0	305	1	2.483e-05	7711	phylum	                Chordata
+78.95	15	0	305	1	2.483e-05	89593	subphylum	                  Craniata
+78.95	15	0	305	1	2.483e-05	7742	clade	                    Vertebrata
+78.95	15	0	305	1	2.483e-05	7776	clade	                      Gnathostomata
+78.95	15	0	305	1	2.483e-05	117570	clade	                        Teleostomi
+78.95	15	0	305	1	2.483e-05	117571	clade	                          Euteleostomi
+78.95	15	0	305	1	2.483e-05	8287	superclass	                            Sarcopterygii
+78.95	15	0	305	1	2.483e-05	1338369	clade	                              Dipnotetrapodomorpha
+78.95	15	0	305	1	2.483e-05	32523	clade	                                Tetrapoda
+78.95	15	0	305	1	2.483e-05	32524	clade	                                  Amniota
+78.95	15	0	305	1	2.483e-05	40674	class	                                    Mammalia
+78.95	15	0	288	1	2.353e-05	32525	clade	                                      Theria
+78.95	15	0	272	1	2.342e-05	9347	clade	                                        Eutheria
+78.95	15	0	268	1	2.469e-05	1437010	clade	                                          Boreoeutheria
+73.68	14	0	240	1	4.565e-05	314146	superorder	                                            Euarchontoglires
+73.68	14	0	234	1	0.0001283	9443	order	                                              Primates
+73.68	14	0	229	1	0.000188	376913	suborder	                                                Haplorrhini
+73.68	14	0	229	1	0.0001949	314293	infraorder	                                                  Simiiformes
+68.42	13	0	212	1	0.0003152	9526	parvorder	                                                    Catarrhini
+68.42	13	0	198	1	0.001418	314295	superfamily	                                                      Hominoidea
+68.42	13	0	198	1	0.002787	9604	family	                                                        Hominidae
+68.42	13	1	191	1	0.003797	207598	subfamily	                                                          Homininae
+63.16	12	5	143	1	0.008812	9605	genus	                                                            Homo
+36.84	7	3	80	1	0.009229	9606	species	                                                              Homo sapiens
+10.53	2	2	31	1	0.01695	63221	subspecies	                                                                Homo sapiens neanderthalensis
+10.53	2	2	14	1	0.005372	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+5.263	1	0	14	1	2.827e-05	9479	parvorder	                                                    Platyrrhini
+5.263	1	0	10	1	0.0001185	378855	family	                                                      Atelidae
+5.263	1	0	10	1	0.0002036	38066	subfamily	                                                        Alouattinae
+5.263	1	0	10	1	0.0002036	9499	genus	                                                          Alouatta
+5.263	1	0	9	1	0.001904	182256	species	                                                            Alouatta guariba
+5.263	1	1	9	1	0.001904	183328	subspecies	                                                              Alouatta guariba clamitans
+5.263	1	0	6	1	1.162e-06	314145	superorder	                                            Laurasiatheria
+5.263	1	0	6	1	4.097e-06	9397	order	                                              Chiroptera
+5.263	1	0	6	1	5.29e-06	30560	suborder	                                                Microchiroptera
+5.263	1	0	6	1	1.224e-05	9431	family	                                                  Vespertilionidae
+5.263	1	0	1	1	4.292e-06	9434	genus	                                                    Myotis
+5.263	1	1	1	1	0.0001442	155915	species	                                                      Myotis ikonnikovi

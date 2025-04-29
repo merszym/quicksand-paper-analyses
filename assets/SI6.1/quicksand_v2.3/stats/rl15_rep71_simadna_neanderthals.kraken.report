@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:16:52Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/82/4de9215d315d7e33c4460dbc9c286b
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl15_rep71_simadna_neanderthals.kraken.report --output output.kraken rl15_rep71_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+40	6	6	227	1	NA	0	no rank	unclassified
+60	9	0	153	1	1.245e-05	1	no rank	root
+60	9	0	153	1	1.245e-05	131567	no rank	  cellular organisms
+60	9	0	153	1	1.245e-05	2759	superkingdom	    Eukaryota
+60	9	0	153	1	1.245e-05	33154	clade	      Opisthokonta
+60	9	0	153	1	1.245e-05	33208	kingdom	        Metazoa
+60	9	0	153	1	1.245e-05	6072	clade	          Eumetazoa
+60	9	0	153	1	1.245e-05	33213	clade	            Bilateria
+60	9	0	153	1	1.245e-05	33511	clade	              Deuterostomia
+60	9	0	153	1	1.245e-05	7711	phylum	                Chordata
+60	9	0	153	1	1.245e-05	89593	subphylum	                  Craniata
+60	9	0	153	1	1.245e-05	7742	clade	                    Vertebrata
+60	9	0	153	1	1.245e-05	7776	clade	                      Gnathostomata
+60	9	0	153	1	1.245e-05	117570	clade	                        Teleostomi
+60	9	0	153	1	1.245e-05	117571	clade	                          Euteleostomi
+60	9	0	153	1	1.245e-05	8287	superclass	                            Sarcopterygii
+60	9	0	153	1	1.245e-05	1338369	clade	                              Dipnotetrapodomorpha
+60	9	0	153	1	1.245e-05	32523	clade	                                Tetrapoda
+60	9	0	153	1	1.245e-05	32524	clade	                                  Amniota
+60	9	0	153	1	1.245e-05	40674	class	                                    Mammalia
+60	9	0	153	1	1.25e-05	32525	clade	                                      Theria
+53.33	8	0	122	1	1.051e-05	9347	clade	                                        Eutheria
+53.33	8	0	112	1	1.032e-05	1437010	clade	                                          Boreoeutheria
+53.33	8	0	68	1	1.294e-05	314146	superorder	                                            Euarchontoglires
+53.33	8	0	62	1	3.398e-05	9443	order	                                              Primates
+53.33	8	0	62	1	5.089e-05	376913	suborder	                                                Haplorrhini
+53.33	8	0	62	1	5.277e-05	314293	infraorder	                                                  Simiiformes
+53.33	8	1	62	1	9.217e-05	9526	parvorder	                                                    Catarrhini
+40	6	0	51	1	0.0003652	314295	superfamily	                                                      Hominoidea
+40	6	0	35	1	0.0004926	9604	family	                                                        Hominidae
+40	6	1	35	1	0.0006958	207598	subfamily	                                                          Homininae
+26.67	4	0	31	1	0.00191	9605	genus	                                                            Homo
+26.67	4	2	21	1	0.002423	9606	species	                                                              Homo sapiens
+13.33	2	2	2	1	0.001093	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.667	1	1	1	1	6.328e-05	9592	genus	                                                            Gorilla
+6.667	1	0	1	1	1.898e-06	314294	superfamily	                                                      Cercopithecoidea
+6.667	1	0	1	1	1.898e-06	9527	family	                                                        Cercopithecidae
+6.667	1	0	1	1	3.243e-06	9528	subfamily	                                                          Cercopithecinae
+6.667	1	0	1	1	4.81e-05	9529	genus	                                                            Cercocebus
+6.667	1	1	1	1	0.0001657	75569	species	                                                              Cercocebus chrysogaster
+6.667	1	0	3	1	5.789e-06	9263	clade	                                        Metatheria
+6.667	1	0	3	1	2.091e-05	38608	order	                                          Dasyuromorphia
+6.667	1	0	3	1	0.0002441	9273	family	                                            Thylacinidae
+6.667	1	0	3	1	0.0002441	9274	genus	                                              Thylacinus
+6.667	1	1	3	1	0.0002441	9275	species	                                                Thylacinus cynocephalus

@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:45Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/06/25e3ac3b821be861278d520aea986c
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl30_rep4_simadna_neanderthals.kraken.report --output output.kraken rl30_rep4_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10	3	3	336	1	NA	0	no rank	unclassified
+90	27	0	478	1.01	3.891e-05	1	no rank	root
+90	27	0	478	1.01	3.891e-05	131567	no rank	  cellular organisms
+90	27	0	478	1.01	3.891e-05	2759	superkingdom	    Eukaryota
+90	27	0	478	1.01	3.891e-05	33154	clade	      Opisthokonta
+90	27	0	478	1.01	3.891e-05	33208	kingdom	        Metazoa
+90	27	0	478	1.01	3.891e-05	6072	clade	          Eumetazoa
+90	27	0	478	1.01	3.891e-05	33213	clade	            Bilateria
+90	27	0	478	1.01	3.891e-05	33511	clade	              Deuterostomia
+90	27	0	478	1.01	3.891e-05	7711	phylum	                Chordata
+90	27	0	478	1.01	3.891e-05	89593	subphylum	                  Craniata
+90	27	0	478	1.01	3.891e-05	7742	clade	                    Vertebrata
+90	27	0	478	1.01	3.891e-05	7776	clade	                      Gnathostomata
+90	27	0	478	1.01	3.891e-05	117570	clade	                        Teleostomi
+90	27	0	478	1.01	3.891e-05	117571	clade	                          Euteleostomi
+90	27	0	478	1.01	3.891e-05	8287	superclass	                            Sarcopterygii
+90	27	0	478	1.01	3.891e-05	1338369	clade	                              Dipnotetrapodomorpha
+90	27	0	478	1.01	3.891e-05	32523	clade	                                Tetrapoda
+90	27	0	478	1.01	3.891e-05	32524	clade	                                  Amniota
+90	27	0	478	1.01	3.891e-05	40674	class	                                    Mammalia
+90	27	0	478	1.01	3.905e-05	32525	clade	                                      Theria
+90	27	0	453	1.01	3.901e-05	9347	clade	                                        Eutheria
+90	27	2	418	1.01	3.851e-05	1437010	clade	                                          Boreoeutheria
+80	24	1	349	1.01	6.639e-05	314146	superorder	                                            Euarchontoglires
+76.67	23	0	321	1.01	0.000176	9443	order	                                              Primates
+76.67	23	0	321	1.01	0.0002635	376913	suborder	                                                Haplorrhini
+76.67	23	0	321	1.01	0.0002732	314293	infraorder	                                                  Simiiformes
+76.67	23	0	313	1.01	0.0004653	9526	parvorder	                                                    Catarrhini
+76.67	23	1	286	1.01	0.002048	314295	superfamily	                                                      Hominoidea
+73.33	22	0	279	1.01	0.003927	9604	family	                                                        Hominidae
+73.33	22	2	247	1.01	0.004911	207598	subfamily	                                                          Homininae
+63.33	19	11	194	1.02	0.01195	9605	genus	                                                            Homo
+26.67	8	7	55	1	0.006345	9606	species	                                                              Homo sapiens
+3.333	1	1	4	1	0.002187	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.333	1	0	9	1	0.0005695	9592	genus	                                                            Gorilla
+3.333	1	1	9	1	0.001274	9593	species	                                                              Gorilla gorilla
+3.333	1	0	7	1	1.356e-06	314145	superorder	                                            Laurasiatheria
+3.333	1	0	2	1	1.366e-06	9397	order	                                              Chiroptera
+3.333	1	0	2	1	1.763e-06	30560	suborder	                                                Microchiroptera
+3.333	1	0	1	1	2.563e-06	9415	family	                                                  Phyllostomidae
+3.333	1	0	1	1	1.378e-05	40236	subfamily	                                                    Glossophaginae
+3.333	1	1	1	1	3.65e-05	27641	genus	                                                      Anoura

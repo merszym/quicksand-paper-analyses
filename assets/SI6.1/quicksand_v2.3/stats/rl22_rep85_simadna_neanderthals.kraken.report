@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:01Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/fc/59cc9fe9e0e0f3c83fdf580f824013
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl22_rep85_simadna_neanderthals.kraken.report --output output.kraken rl22_rep85_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+4.545	1	1	243	1	NA	0	no rank	unclassified
+95.45	21	0	261	1.02	2.125e-05	1	no rank	root
+95.45	21	0	261	1.02	2.125e-05	131567	no rank	  cellular organisms
+95.45	21	0	261	1.02	2.125e-05	2759	superkingdom	    Eukaryota
+95.45	21	0	261	1.02	2.125e-05	33154	clade	      Opisthokonta
+95.45	21	0	261	1.02	2.125e-05	33208	kingdom	        Metazoa
+95.45	21	0	261	1.02	2.125e-05	6072	clade	          Eumetazoa
+95.45	21	0	261	1.02	2.125e-05	33213	clade	            Bilateria
+95.45	21	0	261	1.02	2.125e-05	33511	clade	              Deuterostomia
+95.45	21	0	261	1.02	2.125e-05	7711	phylum	                Chordata
+95.45	21	0	261	1.02	2.125e-05	89593	subphylum	                  Craniata
+95.45	21	0	261	1.02	2.125e-05	7742	clade	                    Vertebrata
+95.45	21	0	261	1.02	2.125e-05	7776	clade	                      Gnathostomata
+95.45	21	0	261	1.02	2.125e-05	117570	clade	                        Teleostomi
+95.45	21	0	261	1.02	2.125e-05	117571	clade	                          Euteleostomi
+95.45	21	0	261	1.02	2.125e-05	8287	superclass	                            Sarcopterygii
+95.45	21	0	261	1.02	2.125e-05	1338369	clade	                              Dipnotetrapodomorpha
+95.45	21	0	261	1.02	2.125e-05	32523	clade	                                Tetrapoda
+95.45	21	0	261	1.02	2.125e-05	32524	clade	                                  Amniota
+95.45	21	0	261	1.02	2.125e-05	40674	class	                                    Mammalia
+95.45	21	0	261	1.02	2.132e-05	32525	clade	                                      Theria
+95.45	21	0	239	1.03	2.058e-05	9347	clade	                                        Eutheria
+95.45	21	0	214	1.03	1.971e-05	1437010	clade	                                          Boreoeutheria
+90.91	20	0	176	1.03	3.348e-05	314146	superorder	                                            Euarchontoglires
+90.91	20	0	169	1.04	9.264e-05	9443	order	                                              Primates
+90.91	20	0	165	1.04	0.0001354	376913	suborder	                                                Haplorrhini
+90.91	20	0	165	1.04	0.0001404	314293	infraorder	                                                  Simiiformes
+90.91	20	0	154	1.04	0.0002289	9526	parvorder	                                                    Catarrhini
+86.36	19	0	128	1.05	0.0009167	314295	superfamily	                                                      Hominoidea
+86.36	19	0	125	1.05	0.001759	9604	family	                                                        Hominidae
+86.36	19	2	121	1.05	0.002406	207598	subfamily	                                                          Homininae
+77.27	17	6	102	1.06	0.006285	9605	genus	                                                            Homo
+50	11	7	51	1.12	0.005884	9606	species	                                                              Homo sapiens
+13.64	3	3	12	1	0.006561	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.545	1	1	2	1	0.0007675	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4.545	1	0	4	1	7.594e-06	314294	superfamily	                                                      Cercopithecoidea
+4.545	1	0	4	1	7.594e-06	9527	family	                                                        Cercopithecidae
+4.545	1	0	2	1	6.486e-06	9528	subfamily	                                                          Cercopithecinae
+4.545	1	0	2	1	0.0002194	75565	genus	                                                            Lophocebus
+4.545	1	1	2	1	0.0002194	75566	species	                                                              Lophocebus aterrimus
+4.545	1	1	1	1	1.937e-07	314145	superorder	                                            Laurasiatheria

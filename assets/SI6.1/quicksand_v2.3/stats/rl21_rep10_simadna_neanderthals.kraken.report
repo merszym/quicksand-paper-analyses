@@ -1,0 +1,57 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:55Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/e3/ccf20e115e492a901a0a9c333ace77
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl21_rep10_simadna_neanderthals.kraken.report --output output.kraken rl21_rep10_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+14.29	3	3	261	1	NA	0	no rank	unclassified
+85.71	18	0	289	1	2.352e-05	1	no rank	root
+85.71	18	0	289	1	2.352e-05	131567	no rank	  cellular organisms
+85.71	18	0	289	1	2.352e-05	2759	superkingdom	    Eukaryota
+85.71	18	0	289	1	2.352e-05	33154	clade	      Opisthokonta
+85.71	18	0	289	1	2.352e-05	33208	kingdom	        Metazoa
+85.71	18	0	289	1	2.352e-05	6072	clade	          Eumetazoa
+85.71	18	0	289	1	2.352e-05	33213	clade	            Bilateria
+85.71	18	0	289	1	2.352e-05	33511	clade	              Deuterostomia
+85.71	18	0	289	1	2.352e-05	7711	phylum	                Chordata
+85.71	18	0	289	1	2.352e-05	89593	subphylum	                  Craniata
+85.71	18	0	289	1	2.352e-05	7742	clade	                    Vertebrata
+85.71	18	0	289	1	2.352e-05	7776	clade	                      Gnathostomata
+85.71	18	0	289	1	2.352e-05	117570	clade	                        Teleostomi
+85.71	18	0	289	1	2.352e-05	117571	clade	                          Euteleostomi
+85.71	18	0	289	1	2.352e-05	8287	superclass	                            Sarcopterygii
+85.71	18	0	289	1	2.352e-05	1338369	clade	                              Dipnotetrapodomorpha
+85.71	18	0	289	1	2.352e-05	32523	clade	                                Tetrapoda
+85.71	18	0	289	1	2.352e-05	32524	clade	                                  Amniota
+85.71	18	0	289	1	2.352e-05	40674	class	                                    Mammalia
+85.71	18	0	289	1	2.361e-05	32525	clade	                                      Theria
+85.71	18	0	274	1	2.36e-05	9347	clade	                                        Eutheria
+85.71	18	0	245	1	2.257e-05	1437010	clade	                                          Boreoeutheria
+76.19	16	0	191	1	3.633e-05	314146	superorder	                                            Euarchontoglires
+76.19	16	1	180	1	9.866e-05	9443	order	                                              Primates
+71.43	15	0	178	1	0.0001461	376913	suborder	                                                Haplorrhini
+71.43	15	0	178	1	0.0001515	314293	infraorder	                                                  Simiiformes
+71.43	15	1	168	1	0.0002497	9526	parvorder	                                                    Catarrhini
+61.9	13	0	157	1	0.001124	314295	superfamily	                                                      Hominoidea
+57.14	12	0	148	1	0.002083	9604	family	                                                        Hominidae
+57.14	12	2	148	1	0.002942	207598	subfamily	                                                          Homininae
+47.62	10	5	115	1	0.007087	9605	genus	                                                            Homo
+23.81	5	1	26	1	0.003	9606	species	                                                              Homo sapiens
+19.05	4	4	24	1	0.01312	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.762	1	0	2	1	3.003e-05	9577	family	                                                        Hylobatidae
+4.762	1	0	1	1	0.000137	325166	genus	                                                          Symphalangus
+4.762	1	1	1	1	0.000137	9590	species	                                                            Symphalangus syndactylus
+4.762	1	0	5	1	9.492e-06	314294	superfamily	                                                      Cercopithecoidea
+4.762	1	0	5	1	9.492e-06	9527	family	                                                        Cercopithecidae
+4.762	1	0	5	1	1.621e-05	9528	subfamily	                                                          Cercopithecinae
+4.762	1	0	3	1	0.00024	9567	genus	                                                            Mandrillus
+4.762	1	1	3	1	0.0004955	9561	species	                                                              Mandrillus sphinx
+9.524	2	0	15	1	2.906e-06	314145	superorder	                                            Laurasiatheria
+9.524	2	0	10	1	6.991e-06	91561	order	                                              Artiodactyla
+9.524	2	0	3	1	3.304e-06	9845	suborder	                                                Ruminantia
+9.524	2	0	3	1	3.449e-06	35500	infraorder	                                                  Pecora
+4.762	1	0	2	1	1.014e-05	9850	family	                                                    Cervidae
+4.762	1	0	2	1	2.466e-05	9881	subfamily	                                                      Odocoileinae
+4.762	1	0	2	1	0.0003968	9851	genus	                                                        Alces
+4.762	1	1	2	1	0.0003968	9852	species	                                                          Alces alces
+4.762	1	0	1	1	1.719e-06	9895	family	                                                    Bovidae
+4.762	1	0	1	1	8.602e-06	27592	subfamily	                                                      Bovinae
+4.762	1	0	1	1	2.436e-05	9944	genus	                                                        Tragelaphus
+4.762	1	1	1	1	0.0002262	69296	species	                                                          Tragelaphus buxtoni

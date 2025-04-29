@@ -1,0 +1,51 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:33Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/3f/93f3b1ce4ba28f6c0b3821b3ace48b
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl12_rep82_simadna_neanderthals.kraken.report --output output.kraken rl12_rep82_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+16.67	2	2	138	1	NA	0	no rank	unclassified
+83.33	10	0	180	1	1.465e-05	1	no rank	root
+83.33	10	0	180	1	1.465e-05	131567	no rank	  cellular organisms
+83.33	10	0	180	1	1.465e-05	2759	superkingdom	    Eukaryota
+83.33	10	0	180	1	1.465e-05	33154	clade	      Opisthokonta
+83.33	10	0	180	1	1.465e-05	33208	kingdom	        Metazoa
+83.33	10	0	180	1	1.465e-05	6072	clade	          Eumetazoa
+83.33	10	0	180	1	1.465e-05	33213	clade	            Bilateria
+83.33	10	0	180	1	1.465e-05	33511	clade	              Deuterostomia
+83.33	10	0	180	1	1.465e-05	7711	phylum	                Chordata
+83.33	10	0	180	1	1.465e-05	89593	subphylum	                  Craniata
+83.33	10	0	180	1	1.465e-05	7742	clade	                    Vertebrata
+83.33	10	0	180	1	1.465e-05	7776	clade	                      Gnathostomata
+83.33	10	0	180	1	1.465e-05	117570	clade	                        Teleostomi
+83.33	10	0	180	1	1.465e-05	117571	clade	                          Euteleostomi
+83.33	10	0	180	1	1.465e-05	8287	superclass	                            Sarcopterygii
+83.33	10	0	180	1	1.465e-05	1338369	clade	                              Dipnotetrapodomorpha
+83.33	10	0	180	1	1.465e-05	32523	clade	                                Tetrapoda
+83.33	10	0	180	1	1.465e-05	32524	clade	                                  Amniota
+83.33	10	0	180	1	1.465e-05	40674	class	                                    Mammalia
+83.33	10	0	180	1	1.47e-05	32525	clade	                                      Theria
+83.33	10	0	175	1	1.507e-05	9347	clade	                                        Eutheria
+83.33	10	0	168	1	1.548e-05	1437010	clade	                                          Boreoeutheria
+75	9	0	123	1	2.34e-05	314146	superorder	                                            Euarchontoglires
+66.67	8	0	117	1	6.413e-05	9443	order	                                              Primates
+66.67	8	0	117	1	9.603e-05	376913	suborder	                                                Haplorrhini
+66.67	8	0	117	1	9.959e-05	314293	infraorder	                                                  Simiiformes
+66.67	8	0	105	1	0.0001561	9526	parvorder	                                                    Catarrhini
+66.67	8	1	99	1	0.000709	314295	superfamily	                                                      Hominoidea
+50	6	0	62	1	0.0008726	9604	family	                                                        Hominidae
+50	6	3	62	1	0.001233	207598	subfamily	                                                          Homininae
+25	3	2	25	1	0.001541	9605	genus	                                                            Homo
+8.333	1	1	15	1	0.001731	9606	species	                                                              Homo sapiens
+8.333	1	0	4	1	6.006e-05	9577	family	                                                        Hylobatidae
+8.333	1	0	2	1	0.000274	325166	genus	                                                          Symphalangus
+8.333	1	1	2	1	0.000274	9590	species	                                                            Symphalangus syndactylus
+8.333	1	0	3	1	9.159e-07	314147	clade	                                              Glires
+8.333	1	0	3	1	9.791e-07	9989	order	                                                Rodentia
+8.333	1	0	3	1	4.448e-05	1963757	suborder	                                                  Castorimorpha
+8.333	1	0	3	1	8.62e-05	10015	family	                                                    Heteromyidae
+8.333	1	0	3	1	0.000136	38662	subfamily	                                                      Dipodomyinae
+8.333	1	0	3	1	0.000136	10016	genus	                                                        Dipodomys
+8.333	1	1	3	1	0.0002775	94247	species	                                                          Dipodomys merriami
+8.333	1	0	1	1	1.937e-07	314145	superorder	                                            Laurasiatheria
+8.333	1	0	1	1	1.687e-06	9362	order	                                              Eulipotyphla
+8.333	1	0	1	1	6.394e-06	9373	family	                                                Talpidae
+8.333	1	0	1	1	0.0001094	1300116	genus	                                                  Scapanulus
+8.333	1	1	1	1	0.0001094	1300117	species	                                                    Scapanulus oweni

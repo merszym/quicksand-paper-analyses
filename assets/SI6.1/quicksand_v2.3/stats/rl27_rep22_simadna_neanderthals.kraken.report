@@ -1,0 +1,58 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:25Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/38/d49ab61bbc4c0c1aaee71422a7f273
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl27_rep22_simadna_neanderthals.kraken.report --output output.kraken rl27_rep22_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+7.407	2	2	406	1	NA	0	no rank	unclassified
+92.59	25	0	478	1	3.891e-05	1	no rank	root
+92.59	25	0	478	1	3.891e-05	131567	no rank	  cellular organisms
+92.59	25	0	478	1	3.891e-05	2759	superkingdom	    Eukaryota
+92.59	25	0	478	1	3.891e-05	33154	clade	      Opisthokonta
+92.59	25	0	478	1	3.891e-05	33208	kingdom	        Metazoa
+92.59	25	0	478	1	3.891e-05	6072	clade	          Eumetazoa
+92.59	25	0	478	1	3.891e-05	33213	clade	            Bilateria
+92.59	25	0	478	1	3.891e-05	33511	clade	              Deuterostomia
+92.59	25	0	478	1	3.891e-05	7711	phylum	                Chordata
+92.59	25	0	478	1	3.891e-05	89593	subphylum	                  Craniata
+92.59	25	0	478	1	3.891e-05	7742	clade	                    Vertebrata
+92.59	25	0	478	1	3.891e-05	7776	clade	                      Gnathostomata
+92.59	25	0	478	1	3.891e-05	117570	clade	                        Teleostomi
+92.59	25	0	478	1	3.891e-05	117571	clade	                          Euteleostomi
+92.59	25	0	478	1	3.891e-05	8287	superclass	                            Sarcopterygii
+92.59	25	0	478	1	3.891e-05	1338369	clade	                              Dipnotetrapodomorpha
+92.59	25	0	478	1	3.891e-05	32523	clade	                                Tetrapoda
+92.59	25	0	478	1	3.891e-05	32524	clade	                                  Amniota
+92.59	25	0	478	1	3.891e-05	40674	class	                                    Mammalia
+92.59	25	0	465	1	3.799e-05	32525	clade	                                      Theria
+92.59	25	0	461	1	3.97e-05	9347	clade	                                        Eutheria
+92.59	25	0	459	1	4.228e-05	1437010	clade	                                          Boreoeutheria
+88.89	24	0	416	1	7.913e-05	314146	superorder	                                            Euarchontoglires
+81.48	22	0	397	1	0.0002176	9443	order	                                              Primates
+81.48	22	0	397	1	0.0003259	376913	suborder	                                                Haplorrhini
+81.48	22	0	397	1	0.0003379	314293	infraorder	                                                  Simiiformes
+81.48	22	1	389	1	0.0005783	9526	parvorder	                                                    Catarrhini
+77.78	21	0	370	1	0.00265	314295	superfamily	                                                      Hominoidea
+74.07	20	0	343	1	0.004828	9604	family	                                                        Hominidae
+74.07	20	0	332	1	0.0066	207598	subfamily	                                                          Homininae
+70.37	19	7	268	1	0.01651	9605	genus	                                                            Homo
+44.44	12	5	156	1	0.018	9606	species	                                                              Homo sapiens
+25.93	7	7	61	1	0.03335	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.704	1	1	5	1	0.0003164	9592	genus	                                                            Gorilla
+3.704	1	0	14	1	0.0002102	9577	family	                                                        Hylobatidae
+3.704	1	0	9	1	0.0006136	325165	genus	                                                          Nomascus
+3.704	1	1	2	1	0.0004824	61852	species	                                                            Nomascus gabriellae
+7.407	2	0	9	1	2.748e-06	314147	clade	                                              Glires
+7.407	2	0	9	1	2.937e-06	9989	order	                                                Rodentia
+7.407	2	0	9	1	4.824e-06	1963758	suborder	                                                  Myomorpha
+7.407	2	0	9	1	5.103e-06	337687	clade	                                                    Muroidea
+7.407	2	0	7	1	5.133e-05	337664	family	                                                      Spalacidae
+7.407	2	0	7	1	0.0001069	106348	subfamily	                                                        Myospalacinae
+7.407	2	0	7	1	0.0001533	146131	genus	                                                          Eospalax
+7.407	2	1	7	1	0.0003799	146134	species	                                                            Eospalax fontanierii
+3.704	1	1	2	1	0.0007072	146133	subspecies	                                                              Eospalax fontanierii cansus
+3.704	1	0	17	1	3.294e-06	314145	superorder	                                            Laurasiatheria
+3.704	1	0	9	1	6.292e-06	91561	order	                                              Artiodactyla
+3.704	1	0	9	1	9.911e-06	9845	suborder	                                                Ruminantia
+3.704	1	0	9	1	1.035e-05	35500	infraorder	                                                  Pecora
+3.704	1	0	9	1	1.547e-05	9895	family	                                                    Bovidae
+3.704	1	0	9	1	0.0002979	37170	subfamily	                                                      Alcelaphinae
+3.704	1	0	9	1	0.001794	59516	genus	                                                        Alcelaphus
+3.704	1	1	9	1	0.001794	59517	species	                                                          Alcelaphus buselaphus

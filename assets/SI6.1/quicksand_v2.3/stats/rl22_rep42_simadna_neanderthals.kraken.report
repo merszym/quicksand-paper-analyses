@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:24Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/24/529e55aa1e8196e48096db339a4027
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl22_rep42_simadna_neanderthals.kraken.report --output output.kraken rl22_rep42_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+9.091	2	2	209	1	NA	0	no rank	unclassified
+90.91	20	0	386	1	3.142e-05	1	no rank	root
+90.91	20	0	386	1	3.142e-05	131567	no rank	  cellular organisms
+90.91	20	0	386	1	3.142e-05	2759	superkingdom	    Eukaryota
+90.91	20	0	386	1	3.142e-05	33154	clade	      Opisthokonta
+90.91	20	0	386	1	3.142e-05	33208	kingdom	        Metazoa
+90.91	20	0	386	1	3.142e-05	6072	clade	          Eumetazoa
+90.91	20	0	386	1	3.142e-05	33213	clade	            Bilateria
+90.91	20	0	386	1	3.142e-05	33511	clade	              Deuterostomia
+90.91	20	0	386	1	3.142e-05	7711	phylum	                Chordata
+90.91	20	0	386	1	3.142e-05	89593	subphylum	                  Craniata
+90.91	20	0	386	1	3.142e-05	7742	clade	                    Vertebrata
+90.91	20	0	386	1	3.142e-05	7776	clade	                      Gnathostomata
+90.91	20	0	386	1	3.142e-05	117570	clade	                        Teleostomi
+90.91	20	0	386	1	3.142e-05	117571	clade	                          Euteleostomi
+90.91	20	0	386	1	3.142e-05	8287	superclass	                            Sarcopterygii
+90.91	20	0	386	1	3.142e-05	1338369	clade	                              Dipnotetrapodomorpha
+90.91	20	0	386	1	3.142e-05	32523	clade	                                Tetrapoda
+90.91	20	0	386	1	3.142e-05	32524	clade	                                  Amniota
+90.91	20	0	386	1	3.142e-05	40674	class	                                    Mammalia
+90.91	20	0	386	1	3.153e-05	32525	clade	                                      Theria
+90.91	20	0	374	1	3.221e-05	9347	clade	                                        Eutheria
+90.91	20	0	366	1	3.372e-05	1437010	clade	                                          Boreoeutheria
+86.36	19	0	324	1	6.163e-05	314146	superorder	                                            Euarchontoglires
+86.36	19	1	314	1	0.0001721	9443	order	                                              Primates
+81.82	18	0	312	1	0.0002561	376913	suborder	                                                Haplorrhini
+81.82	18	0	312	1	0.0002656	314293	infraorder	                                                  Simiiformes
+81.82	18	1	295	1	0.0004385	9526	parvorder	                                                    Catarrhini
+77.27	17	0	272	1	0.001948	314295	superfamily	                                                      Hominoidea
+77.27	17	0	262	1	0.003688	9604	family	                                                        Hominidae
+77.27	17	3	227	1	0.004513	207598	subfamily	                                                          Homininae
+63.64	14	9	143	1	0.008812	9605	genus	                                                            Homo
+22.73	5	2	41	1	0.00473	9606	species	                                                              Homo sapiens
+13.64	3	3	19	1	0.01039	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.545	1	0	8	1	1.55e-06	314145	superorder	                                            Laurasiatheria
+4.545	1	0	7	1	4.894e-06	91561	order	                                              Artiodactyla
+4.545	1	0	7	1	7.709e-06	9845	suborder	                                                Ruminantia
+4.545	1	0	7	1	8.049e-06	35500	infraorder	                                                  Pecora
+4.545	1	0	7	1	1.203e-05	9895	family	                                                    Bovidae
+4.545	1	0	7	1	6.022e-05	27592	subfamily	                                                      Bovinae
+4.545	1	0	7	1	0.0007323	9900	genus	                                                        Bison
+4.545	1	1	7	1	0.007535	9901	species	                                                          Bison bison

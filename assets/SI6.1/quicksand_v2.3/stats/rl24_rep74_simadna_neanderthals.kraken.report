@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:26Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/b9/fa162b47ac34cfbb4822943920427a
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl24_rep74_simadna_neanderthals.kraken.report --output output.kraken rl24_rep74_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+16.67	4	4	407	1	NA	0	no rank	unclassified
+83.33	20	0	436	1.01	3.549e-05	1	no rank	root
+83.33	20	0	436	1.01	3.549e-05	131567	no rank	  cellular organisms
+83.33	20	0	436	1.01	3.549e-05	2759	superkingdom	    Eukaryota
+83.33	20	0	436	1.01	3.549e-05	33154	clade	      Opisthokonta
+83.33	20	0	436	1.01	3.549e-05	33208	kingdom	        Metazoa
+83.33	20	0	436	1.01	3.549e-05	6072	clade	          Eumetazoa
+83.33	20	0	436	1.01	3.549e-05	33213	clade	            Bilateria
+83.33	20	0	436	1.01	3.549e-05	33511	clade	              Deuterostomia
+83.33	20	0	436	1.01	3.549e-05	7711	phylum	                Chordata
+83.33	20	0	436	1.01	3.549e-05	89593	subphylum	                  Craniata
+83.33	20	0	436	1.01	3.549e-05	7742	clade	                    Vertebrata
+83.33	20	0	436	1.01	3.549e-05	7776	clade	                      Gnathostomata
+83.33	20	0	436	1.01	3.549e-05	117570	clade	                        Teleostomi
+83.33	20	0	436	1.01	3.549e-05	117571	clade	                          Euteleostomi
+83.33	20	0	436	1.01	3.549e-05	8287	superclass	                            Sarcopterygii
+83.33	20	0	436	1.01	3.549e-05	1338369	clade	                              Dipnotetrapodomorpha
+83.33	20	0	436	1.01	3.549e-05	32523	clade	                                Tetrapoda
+83.33	20	0	436	1.01	3.549e-05	32524	clade	                                  Amniota
+83.33	20	0	436	1.01	3.549e-05	40674	class	                                    Mammalia
+83.33	20	0	433	1.01	3.537e-05	32525	clade	                                      Theria
+83.33	20	0	411	1.01	3.539e-05	9347	clade	                                        Eutheria
+83.33	20	0	367	1.01	3.381e-05	1437010	clade	                                          Boreoeutheria
+75	18	0	296	1	5.631e-05	314146	superorder	                                            Euarchontoglires
+75	18	0	294	1	0.0001612	9443	order	                                              Primates
+75	18	0	289	1	0.0002372	376913	suborder	                                                Haplorrhini
+75	18	0	289	1	0.000246	314293	infraorder	                                                  Simiiformes
+75	18	2	253	1	0.0003761	9526	parvorder	                                                    Catarrhini
+66.67	16	0	235	1	0.001683	314295	superfamily	                                                      Hominoidea
+66.67	16	1	198	1	0.002787	9604	family	                                                        Hominidae
+62.5	15	2	184	1	0.003658	207598	subfamily	                                                          Homininae
+54.17	13	4	152	1	0.009367	9605	genus	                                                            Homo
+33.33	8	4	74	1	0.008537	9606	species	                                                              Homo sapiens
+12.5	3	3	28	1	0.01531	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.167	1	1	11	1	0.004221	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4.167	1	1	1	1	0.0009099	1425170	species	                                                              Homo heidelbergensis
+8.333	2	1	16	1	3.1e-06	314145	superorder	                                            Laurasiatheria
+4.167	1	0	7	1	5.48e-06	33554	order	                                              Carnivora
+4.167	1	0	7	1	8.969e-06	379584	suborder	                                                Caniformia
+4.167	1	0	6	1	6.511e-05	9632	family	                                                  Ursidae
+4.167	1	0	3	1	8.012e-05	9639	genus	                                                    Ursus
+4.167	1	1	1	1	0.0001764	39097	species	                                                      Ursus spelaeus

@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:51Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/7a/d81e37759da3656e83699c89483ccd
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep76_simadna_neanderthals.kraken.report --output output.kraken rl17_rep76_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+5.882	1	1	131	1	NA	0	no rank	unclassified
+94.12	16	0	287	1	2.336e-05	1	no rank	root
+94.12	16	0	287	1	2.336e-05	131567	no rank	  cellular organisms
+94.12	16	0	287	1	2.336e-05	2759	superkingdom	    Eukaryota
+94.12	16	0	287	1	2.336e-05	33154	clade	      Opisthokonta
+94.12	16	0	287	1	2.336e-05	33208	kingdom	        Metazoa
+94.12	16	0	287	1	2.336e-05	6072	clade	          Eumetazoa
+94.12	16	0	287	1	2.336e-05	33213	clade	            Bilateria
+94.12	16	0	287	1	2.336e-05	33511	clade	              Deuterostomia
+94.12	16	0	287	1	2.336e-05	7711	phylum	                Chordata
+94.12	16	0	287	1	2.336e-05	89593	subphylum	                  Craniata
+94.12	16	0	287	1	2.336e-05	7742	clade	                    Vertebrata
+94.12	16	0	287	1	2.336e-05	7776	clade	                      Gnathostomata
+94.12	16	0	287	1	2.336e-05	117570	clade	                        Teleostomi
+94.12	16	0	287	1	2.336e-05	117571	clade	                          Euteleostomi
+94.12	16	0	287	1	2.336e-05	8287	superclass	                            Sarcopterygii
+94.12	16	0	287	1	2.336e-05	1338369	clade	                              Dipnotetrapodomorpha
+94.12	16	0	287	1	2.336e-05	32523	clade	                                Tetrapoda
+94.12	16	0	287	1	2.336e-05	32524	clade	                                  Amniota
+94.12	16	0	287	1	2.336e-05	40674	class	                                    Mammalia
+94.12	16	0	287	1	2.344e-05	32525	clade	                                      Theria
+94.12	16	1	287	1	2.471e-05	9347	clade	                                        Eutheria
+88.24	15	0	269	1	2.478e-05	1437010	clade	                                          Boreoeutheria
+82.35	14	0	218	1	4.147e-05	314146	superorder	                                            Euarchontoglires
+82.35	14	0	218	1	0.0001195	9443	order	                                              Primates
+82.35	14	0	215	1	0.0001765	376913	suborder	                                                Haplorrhini
+82.35	14	0	215	1	0.000183	314293	infraorder	                                                  Simiiformes
+82.35	14	1	215	1	0.0003196	9526	parvorder	                                                    Catarrhini
+76.47	13	0	182	1	0.001303	314295	superfamily	                                                      Hominoidea
+76.47	13	0	180	1	0.002533	9604	family	                                                        Hominidae
+76.47	13	2	180	1	0.003579	207598	subfamily	                                                          Homininae
+64.71	11	5	157	1	0.009675	9605	genus	                                                            Homo
+35.29	6	5	44	1	0.005076	9606	species	                                                              Homo sapiens
+5.882	1	1	7	1	0.003827	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.882	1	0	2	1	3.875e-07	314145	superorder	                                            Laurasiatheria
+5.882	1	0	1	1	6.991e-07	91561	order	                                              Artiodactyla
+5.882	1	0	1	1	1.101e-06	9845	suborder	                                                Ruminantia
+5.882	1	0	1	1	1.15e-06	35500	infraorder	                                                  Pecora
+5.882	1	0	1	1	1.719e-06	9895	family	                                                    Bovidae
+5.882	1	0	1	1	8.602e-06	27592	subfamily	                                                      Bovinae
+5.882	1	0	1	1	0.0001046	9900	genus	                                                        Bison
+5.882	1	1	1	1	0.0004498	9902	species	                                                          Bison bonasus

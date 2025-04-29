@@ -1,0 +1,49 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:20:14Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/cc/f06a6a278bdc1cf6e741176d68877c
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl26_rep58_simadna_neanderthals.kraken.report --output output.kraken rl26_rep58_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+15.38	4	4	406	1	NA	0	no rank	unclassified
+84.62	22	0	374	1	3.044e-05	1	no rank	root
+84.62	22	0	374	1	3.044e-05	131567	no rank	  cellular organisms
+84.62	22	0	374	1	3.044e-05	2759	superkingdom	    Eukaryota
+84.62	22	0	374	1	3.044e-05	33154	clade	      Opisthokonta
+84.62	22	0	374	1	3.044e-05	33208	kingdom	        Metazoa
+84.62	22	0	374	1	3.044e-05	6072	clade	          Eumetazoa
+84.62	22	0	374	1	3.044e-05	33213	clade	            Bilateria
+84.62	22	0	374	1	3.044e-05	33511	clade	              Deuterostomia
+84.62	22	0	374	1	3.044e-05	7711	phylum	                Chordata
+84.62	22	0	374	1	3.044e-05	89593	subphylum	                  Craniata
+84.62	22	0	374	1	3.044e-05	7742	clade	                    Vertebrata
+84.62	22	0	374	1	3.044e-05	7776	clade	                      Gnathostomata
+84.62	22	0	374	1	3.044e-05	117570	clade	                        Teleostomi
+84.62	22	0	374	1	3.044e-05	117571	clade	                          Euteleostomi
+84.62	22	0	374	1	3.044e-05	8287	superclass	                            Sarcopterygii
+84.62	22	0	374	1	3.044e-05	1338369	clade	                              Dipnotetrapodomorpha
+84.62	22	0	374	1	3.044e-05	32523	clade	                                Tetrapoda
+84.62	22	0	374	1	3.044e-05	32524	clade	                                  Amniota
+84.62	22	0	374	1	3.044e-05	40674	class	                                    Mammalia
+84.62	22	1	374	1	3.055e-05	32525	clade	                                      Theria
+80.77	21	0	348	1	2.997e-05	9347	clade	                                        Eutheria
+80.77	21	1	339	1	3.123e-05	1437010	clade	                                          Boreoeutheria
+76.92	20	0	309	1	5.878e-05	314146	superorder	                                            Euarchontoglires
+73.08	19	0	301	1	0.000165	9443	order	                                              Primates
+73.08	19	0	298	1	0.0002446	376913	suborder	                                                Haplorrhini
+73.08	19	0	298	1	0.0002536	314293	infraorder	                                                  Simiiformes
+69.23	18	1	292	1	0.0004341	9526	parvorder	                                                    Catarrhini
+65.38	17	0	261	1	0.001869	314295	superfamily	                                                      Hominoidea
+65.38	17	0	261	1	0.003674	9604	family	                                                        Hominidae
+65.38	17	4	248	1	0.00493	207598	subfamily	                                                          Homininae
+42.31	11	5	173	1	0.01066	9605	genus	                                                            Homo
+23.08	6	3	67	1	0.00773	9606	species	                                                              Homo sapiens
+11.54	3	3	54	1	0.02952	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.692	2	1	16	1	0.001091	9596	genus	                                                            Pan
+3.846	1	1	9	1	0.001504	9597	species	                                                              Pan paniscus
+3.846	1	0	1	1	2.02e-06	9479	parvorder	                                                    Platyrrhini
+3.846	1	0	1	1	4.543e-06	9498	family	                                                      Cebidae
+3.846	1	0	1	1	6.302e-06	9480	subfamily	                                                        Callitrichinae
+3.846	1	1	1	1	6.048e-05	30587	genus	                                                          Leontopithecus
+3.846	1	0	1	1	3.053e-07	314147	clade	                                              Glires
+3.846	1	0	1	1	3.264e-07	9989	order	                                                Rodentia
+3.846	1	0	1	1	2.369e-06	33550	suborder	                                                  Hystricomorpha
+3.846	1	0	1	1	3.258e-05	10158	family	                                                    Octodontidae
+3.846	1	0	1	1	0.000102	61879	genus	                                                      Spalacopus
+3.846	1	1	1	1	0.000102	61880	species	                                                        Spalacopus cyanus

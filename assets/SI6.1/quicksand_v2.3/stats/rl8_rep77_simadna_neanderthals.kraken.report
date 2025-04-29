@@ -1,0 +1,49 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:19:17Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/86/38a8e120ea354fc4e13b9bb92d3772
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl8_rep77_simadna_neanderthals.kraken.report --output output.kraken rl8_rep77_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+12.5	1	1	112	1	NA	0	no rank	unclassified
+87.5	7	0	141	1	1.148e-05	1	no rank	root
+87.5	7	0	141	1	1.148e-05	131567	no rank	  cellular organisms
+87.5	7	0	141	1	1.148e-05	2759	superkingdom	    Eukaryota
+87.5	7	0	141	1	1.148e-05	33154	clade	      Opisthokonta
+87.5	7	0	141	1	1.148e-05	33208	kingdom	        Metazoa
+87.5	7	0	141	1	1.148e-05	6072	clade	          Eumetazoa
+87.5	7	0	141	1	1.148e-05	33213	clade	            Bilateria
+87.5	7	0	141	1	1.148e-05	33511	clade	              Deuterostomia
+87.5	7	0	141	1	1.148e-05	7711	phylum	                Chordata
+87.5	7	0	141	1	1.148e-05	89593	subphylum	                  Craniata
+87.5	7	0	141	1	1.148e-05	7742	clade	                    Vertebrata
+87.5	7	0	141	1	1.148e-05	7776	clade	                      Gnathostomata
+87.5	7	0	141	1	1.148e-05	117570	clade	                        Teleostomi
+87.5	7	0	141	1	1.148e-05	117571	clade	                          Euteleostomi
+87.5	7	0	141	1	1.148e-05	8287	superclass	                            Sarcopterygii
+87.5	7	0	141	1	1.148e-05	1338369	clade	                              Dipnotetrapodomorpha
+87.5	7	0	141	1	1.148e-05	32523	clade	                                Tetrapoda
+87.5	7	0	141	1	1.148e-05	32524	clade	                                  Amniota
+87.5	7	0	141	1	1.148e-05	40674	class	                                    Mammalia
+87.5	7	0	111	1	9.068e-06	32525	clade	                                      Theria
+87.5	7	0	103	1	8.87e-06	9347	clade	                                        Eutheria
+87.5	7	0	91	1	8.383e-06	1437010	clade	                                          Boreoeutheria
+87.5	7	0	60	1	1.141e-05	314146	superorder	                                            Euarchontoglires
+87.5	7	0	55	1	3.015e-05	9443	order	                                              Primates
+75	6	0	51	1	4.186e-05	376913	suborder	                                                Haplorrhini
+75	6	0	51	1	4.341e-05	314293	infraorder	                                                  Simiiformes
+75	6	0	39	1	5.798e-05	9526	parvorder	                                                    Catarrhini
+62.5	5	1	29	1	0.0002077	314295	superfamily	                                                      Hominoidea
+37.5	3	0	16	1	0.0002252	9604	family	                                                        Hominidae
+37.5	3	0	16	1	0.0003181	207598	subfamily	                                                          Homininae
+37.5	3	1	13	1	0.0008011	9605	genus	                                                            Homo
+25	2	2	6	1	0.0006922	9606	species	                                                              Homo sapiens
+12.5	1	0	5	1	7.508e-05	9577	family	                                                        Hylobatidae
+12.5	1	1	3	1	0.0002045	325165	genus	                                                          Nomascus
+12.5	1	0	7	1	1.329e-05	314294	superfamily	                                                      Cercopithecoidea
+12.5	1	0	7	1	1.329e-05	9527	family	                                                        Cercopithecidae
+12.5	1	0	7	1	2.27e-05	9528	subfamily	                                                          Cercopithecinae
+12.5	1	0	7	1	0.0007076	9537	genus	                                                            Erythrocebus
+12.5	1	1	7	1	0.0007076	9538	species	                                                              Erythrocebus patas
+12.5	1	0	4	1	6.679e-06	376911	suborder	                                                Strepsirrhini
+12.5	1	0	4	1	5.305e-05	376917	infraorder	                                                  Lorisiformes
+12.5	1	0	4	1	7.889e-05	9461	family	                                                    Lorisidae
+12.5	1	0	4	1	0.0002975	9469	genus	                                                      Nycticebus
+12.5	1	0	4	1	0.001279	9470	species	                                                        Nycticebus coucang
+12.5	1	1	4	1	0.001743	2020906	subspecies	                                                          Nycticebus coucang insularis

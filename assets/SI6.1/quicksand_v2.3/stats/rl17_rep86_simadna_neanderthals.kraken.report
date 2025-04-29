@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:56Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/b1/45d997cd8e22866b11ec58fb1ffeea
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl17_rep86_simadna_neanderthals.kraken.report --output output.kraken rl17_rep86_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+5.882	1	1	256	1	NA	0	no rank	unclassified
+94.12	16	0	267	1	2.173e-05	1	no rank	root
+94.12	16	0	267	1	2.173e-05	131567	no rank	  cellular organisms
+94.12	16	0	267	1	2.173e-05	2759	superkingdom	    Eukaryota
+94.12	16	0	267	1	2.173e-05	33154	clade	      Opisthokonta
+94.12	16	0	267	1	2.173e-05	33208	kingdom	        Metazoa
+94.12	16	0	267	1	2.173e-05	6072	clade	          Eumetazoa
+94.12	16	0	267	1	2.173e-05	33213	clade	            Bilateria
+94.12	16	0	267	1	2.173e-05	33511	clade	              Deuterostomia
+94.12	16	0	267	1	2.173e-05	7711	phylum	                Chordata
+94.12	16	0	267	1	2.173e-05	89593	subphylum	                  Craniata
+94.12	16	0	267	1	2.173e-05	7742	clade	                    Vertebrata
+94.12	16	0	267	1	2.173e-05	7776	clade	                      Gnathostomata
+94.12	16	0	267	1	2.173e-05	117570	clade	                        Teleostomi
+94.12	16	0	267	1	2.173e-05	117571	clade	                          Euteleostomi
+94.12	16	0	267	1	2.173e-05	8287	superclass	                            Sarcopterygii
+94.12	16	0	267	1	2.173e-05	1338369	clade	                              Dipnotetrapodomorpha
+94.12	16	0	267	1	2.173e-05	32523	clade	                                Tetrapoda
+94.12	16	0	267	1	2.173e-05	32524	clade	                                  Amniota
+94.12	16	0	267	1	2.173e-05	40674	class	                                    Mammalia
+94.12	16	0	267	1	2.181e-05	32525	clade	                                      Theria
+94.12	16	0	257	1	2.213e-05	9347	clade	                                        Eutheria
+94.12	16	0	257	1	2.368e-05	1437010	clade	                                          Boreoeutheria
+94.12	16	0	232	1	4.413e-05	314146	superorder	                                            Euarchontoglires
+88.24	15	0	224	1	0.0001228	9443	order	                                              Primates
+88.24	15	0	223	1	0.000183	376913	suborder	                                                Haplorrhini
+88.24	15	0	223	1	0.0001898	314293	infraorder	                                                  Simiiformes
+88.24	15	1	220	1	0.000327	9526	parvorder	                                                    Catarrhini
+76.47	13	0	201	1	0.001439	314295	superfamily	                                                      Hominoidea
+76.47	13	0	200	1	0.002815	9604	family	                                                        Hominidae
+76.47	13	2	200	1	0.003976	207598	subfamily	                                                          Homininae
+64.71	11	6	147	1	0.009058	9605	genus	                                                            Homo
+29.41	5	2	23	1	0.002653	9606	species	                                                              Homo sapiens
+17.65	3	3	11	1	0.006014	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.882	1	0	3	1	5.695e-06	314294	superfamily	                                                      Cercopithecoidea
+5.882	1	0	3	1	5.695e-06	9527	family	                                                        Cercopithecidae
+5.882	1	0	1	1	4.81e-06	9569	subfamily	                                                          Colobinae
+5.882	1	1	1	1	1.32e-05	54136	genus	                                                            Trachypithecus
+5.882	1	0	3	1	9.159e-07	314147	clade	                                              Glires
+5.882	1	0	3	1	9.791e-07	9989	order	                                                Rodentia
+5.882	1	0	2	1	1.072e-06	1963758	suborder	                                                  Myomorpha
+5.882	1	1	2	1	1.134e-06	337687	clade	                                                    Muroidea

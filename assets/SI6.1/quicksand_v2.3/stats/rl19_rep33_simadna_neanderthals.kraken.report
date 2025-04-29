@@ -1,0 +1,49 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:36Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/9a/91d9df2415246b9b4a7b77d4c64bb9
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl19_rep33_simadna_neanderthals.kraken.report --output output.kraken rl19_rep33_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+15.79	3	3	214	1	NA	0	no rank	unclassified
+84.21	16	0	214	1	1.742e-05	1	no rank	root
+84.21	16	0	214	1	1.742e-05	131567	no rank	  cellular organisms
+84.21	16	0	214	1	1.742e-05	2759	superkingdom	    Eukaryota
+84.21	16	0	214	1	1.742e-05	33154	clade	      Opisthokonta
+84.21	16	0	214	1	1.742e-05	33208	kingdom	        Metazoa
+84.21	16	0	214	1	1.742e-05	6072	clade	          Eumetazoa
+84.21	16	0	214	1	1.742e-05	33213	clade	            Bilateria
+84.21	16	0	214	1	1.742e-05	33511	clade	              Deuterostomia
+84.21	16	0	214	1	1.742e-05	7711	phylum	                Chordata
+84.21	16	0	214	1	1.742e-05	89593	subphylum	                  Craniata
+84.21	16	0	214	1	1.742e-05	7742	clade	                    Vertebrata
+84.21	16	0	214	1	1.742e-05	7776	clade	                      Gnathostomata
+84.21	16	0	214	1	1.742e-05	117570	clade	                        Teleostomi
+84.21	16	0	214	1	1.742e-05	117571	clade	                          Euteleostomi
+84.21	16	0	214	1	1.742e-05	8287	superclass	                            Sarcopterygii
+84.21	16	0	214	1	1.742e-05	1338369	clade	                              Dipnotetrapodomorpha
+84.21	16	0	214	1	1.742e-05	32523	clade	                                Tetrapoda
+84.21	16	0	214	1	1.742e-05	32524	clade	                                  Amniota
+84.21	16	0	214	1	1.742e-05	40674	class	                                    Mammalia
+84.21	16	0	214	1	1.748e-05	32525	clade	                                      Theria
+84.21	16	0	208	1	1.791e-05	9347	clade	                                        Eutheria
+78.95	15	0	198	1	1.824e-05	1437010	clade	                                          Boreoeutheria
+78.95	15	0	194	1	3.69e-05	314146	superorder	                                            Euarchontoglires
+78.95	15	1	177	1	9.702e-05	9443	order	                                              Primates
+73.68	14	0	164	1	0.0001346	376913	suborder	                                                Haplorrhini
+73.68	14	1	164	1	0.0001396	314293	infraorder	                                                  Simiiformes
+63.16	12	0	147	1	0.0002185	9526	parvorder	                                                    Catarrhini
+63.16	12	0	147	1	0.001053	314295	superfamily	                                                      Hominoidea
+57.89	11	0	136	1	0.001914	9604	family	                                                        Hominidae
+57.89	11	1	136	1	0.002704	207598	subfamily	                                                          Homininae
+47.37	9	5	62	1	0.003821	9605	genus	                                                            Homo
+21.05	4	3	28	1	0.00323	9606	species	                                                              Homo sapiens
+5.263	1	1	2	1	0.001093	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5.263	1	0	16	1	0.001091	9596	genus	                                                            Pan
+5.263	1	1	16	1	0.002618	9598	species	                                                              Pan troglodytes
+5.263	1	0	5	1	7.508e-05	9577	family	                                                        Hylobatidae
+5.263	1	1	3	1	0.0002045	325165	genus	                                                          Nomascus
+5.263	1	0	3	1	6.059e-06	9479	parvorder	                                                    Platyrrhini
+5.263	1	0	3	1	1.363e-05	9498	family	                                                      Cebidae
+5.263	1	0	3	1	9.107e-05	38070	subfamily	                                                        Cebinae
+5.263	1	0	3	1	0.0001876	1532884	genus	                                                          Sapajus
+5.263	1	1	3	1	0.00172	9515	species	                                                            Sapajus apella
+5.263	1	0	3	1	1.047e-05	311790	superorder	                                          Afrotheria
+5.263	1	0	3	1	6.371e-05	9779	order	                                            Proboscidea
+5.263	1	1	3	1	6.371e-05	9780	family	                                              Elephantidae

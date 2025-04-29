@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:56Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/e8/edd5f29cdb8b6c2840848ca9d67789
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl13_rep95_simadna_neanderthals.kraken.report --output output.kraken rl13_rep95_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+15.38	2	2	191	1	NA	0	no rank	unclassified
+84.62	11	0	126	1	1.026e-05	1	no rank	root
+84.62	11	0	126	1	1.026e-05	131567	no rank	  cellular organisms
+84.62	11	0	126	1	1.026e-05	2759	superkingdom	    Eukaryota
+84.62	11	0	126	1	1.026e-05	33154	clade	      Opisthokonta
+84.62	11	0	126	1	1.026e-05	33208	kingdom	        Metazoa
+84.62	11	0	126	1	1.026e-05	6072	clade	          Eumetazoa
+84.62	11	0	126	1	1.026e-05	33213	clade	            Bilateria
+84.62	11	0	126	1	1.026e-05	33511	clade	              Deuterostomia
+84.62	11	0	126	1	1.026e-05	7711	phylum	                Chordata
+84.62	11	0	126	1	1.026e-05	89593	subphylum	                  Craniata
+84.62	11	0	126	1	1.026e-05	7742	clade	                    Vertebrata
+84.62	11	0	126	1	1.026e-05	7776	clade	                      Gnathostomata
+84.62	11	0	126	1	1.026e-05	117570	clade	                        Teleostomi
+84.62	11	0	126	1	1.026e-05	117571	clade	                          Euteleostomi
+84.62	11	0	126	1	1.026e-05	8287	superclass	                            Sarcopterygii
+84.62	11	0	126	1	1.026e-05	1338369	clade	                              Dipnotetrapodomorpha
+84.62	11	0	126	1	1.026e-05	32523	clade	                                Tetrapoda
+84.62	11	0	126	1	1.026e-05	32524	clade	                                  Amniota
+84.62	11	0	126	1	1.026e-05	40674	class	                                    Mammalia
+84.62	11	0	126	1	1.029e-05	32525	clade	                                      Theria
+84.62	11	0	120	1	1.033e-05	9347	clade	                                        Eutheria
+84.62	11	2	115	1	1.059e-05	1437010	clade	                                          Boreoeutheria
+61.54	8	0	79	1	1.503e-05	314146	superorder	                                            Euarchontoglires
+61.54	8	0	79	1	4.33e-05	9443	order	                                              Primates
+61.54	8	0	79	1	6.484e-05	376913	suborder	                                                Haplorrhini
+61.54	8	0	79	1	6.724e-05	314293	infraorder	                                                  Simiiformes
+61.54	8	0	79	1	0.0001174	9526	parvorder	                                                    Catarrhini
+61.54	8	0	73	1	0.0005228	314295	superfamily	                                                      Hominoidea
+61.54	8	0	61	1	0.0008586	9604	family	                                                        Hominidae
+61.54	8	0	60	1	0.001193	207598	subfamily	                                                          Homininae
+61.54	8	3	51	1	0.003143	9605	genus	                                                            Homo
+38.46	5	3	31	1	0.003576	9606	species	                                                              Homo sapiens
+15.38	2	2	18	1	0.009841	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.692	1	0	6	1	1.162e-06	314145	superorder	                                            Laurasiatheria
+7.692	1	0	6	1	4.097e-06	9397	order	                                              Chiroptera
+7.692	1	0	6	1	1.877e-05	30559	suborder	                                                Megachiroptera
+7.692	1	0	6	1	1.877e-05	9398	family	                                                  Pteropodidae
+7.692	1	0	4	1	1.827e-05	77225	subfamily	                                                    Pteropodinae
+7.692	1	0	4	1	5.138e-05	1246965	clade	                                                      Epomophorini-Myonycterini lineage
+7.692	1	0	4	1	0.0001096	1246964	tribe	                                                        Epomophorini
+7.692	1	0	4	1	0.0003046	77230	genus	                                                          Epomops
+7.692	1	1	4	1	0.001344	1812330	species	                                                            Epomops dobsonii

@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:06Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/84/4d8a787558342116eaa5301269d7f8
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl12_rep36_simadna_neanderthals.kraken.report --output output.kraken rl12_rep36_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+8.333	1	1	156	1	NA	0	no rank	unclassified
+91.67	11	0	176	1	1.433e-05	1	no rank	root
+91.67	11	0	176	1	1.433e-05	131567	no rank	  cellular organisms
+91.67	11	0	176	1	1.433e-05	2759	superkingdom	    Eukaryota
+91.67	11	0	176	1	1.433e-05	33154	clade	      Opisthokonta
+91.67	11	0	176	1	1.433e-05	33208	kingdom	        Metazoa
+91.67	11	0	176	1	1.433e-05	6072	clade	          Eumetazoa
+91.67	11	0	176	1	1.433e-05	33213	clade	            Bilateria
+91.67	11	0	176	1	1.433e-05	33511	clade	              Deuterostomia
+91.67	11	0	176	1	1.433e-05	7711	phylum	                Chordata
+91.67	11	0	176	1	1.433e-05	89593	subphylum	                  Craniata
+91.67	11	0	176	1	1.433e-05	7742	clade	                    Vertebrata
+91.67	11	0	176	1	1.433e-05	7776	clade	                      Gnathostomata
+91.67	11	0	176	1	1.433e-05	117570	clade	                        Teleostomi
+91.67	11	0	176	1	1.433e-05	117571	clade	                          Euteleostomi
+91.67	11	0	176	1	1.433e-05	8287	superclass	                            Sarcopterygii
+91.67	11	0	176	1	1.433e-05	1338369	clade	                              Dipnotetrapodomorpha
+91.67	11	0	176	1	1.433e-05	32523	clade	                                Tetrapoda
+91.67	11	0	176	1	1.433e-05	32524	clade	                                  Amniota
+91.67	11	0	176	1	1.433e-05	40674	class	                                    Mammalia
+91.67	11	0	176	1	1.438e-05	32525	clade	                                      Theria
+91.67	11	0	159	1	1.369e-05	9347	clade	                                        Eutheria
+91.67	11	2	148	1	1.363e-05	1437010	clade	                                          Boreoeutheria
+75	9	0	100	1	1.902e-05	314146	superorder	                                            Euarchontoglires
+66.67	8	0	89	1	4.878e-05	9443	order	                                              Primates
+66.67	8	0	89	1	7.305e-05	376913	suborder	                                                Haplorrhini
+66.67	8	0	89	1	7.575e-05	314293	infraorder	                                                  Simiiformes
+66.67	8	0	89	1	0.0001323	9526	parvorder	                                                    Catarrhini
+66.67	8	0	89	1	0.0006374	314295	superfamily	                                                      Hominoidea
+66.67	8	0	89	1	0.001253	9604	family	                                                        Hominidae
+66.67	8	1	89	1	0.001769	207598	subfamily	                                                          Homininae
+58.33	7	3	80	1	0.00493	9605	genus	                                                            Homo
+33.33	4	3	22	1	0.002538	9606	species	                                                              Homo sapiens
+8.333	1	1	14	1	0.007654	63221	subspecies	                                                                Homo sapiens neanderthalensis
+8.333	1	0	4	1	1.221e-06	314147	clade	                                              Glires
+8.333	1	0	4	1	1.305e-06	9989	order	                                                Rodentia
+8.333	1	0	4	1	2.144e-06	1963758	suborder	                                                  Myomorpha
+8.333	1	0	4	1	2.268e-06	337687	clade	                                                    Muroidea
+8.333	1	0	4	1	6.461e-06	337677	family	                                                      Cricetidae
+8.333	1	0	4	1	1.397e-05	39087	subfamily	                                                        Arvicolinae
+8.333	1	0	2	1	2.1e-05	10053	genus	                                                          Microtus
+8.333	1	1	2	1	0.0002766	100899	species	                                                            Microtus kikuchii

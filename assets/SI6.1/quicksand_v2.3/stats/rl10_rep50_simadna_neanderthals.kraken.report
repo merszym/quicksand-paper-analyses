@@ -1,0 +1,54 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:20:14Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/27/8ee7d4f29a7cded2ae25bf0b646c1c
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl10_rep50_simadna_neanderthals.kraken.report --output output.kraken rl10_rep50_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+20	2	2	114	1	NA	0	no rank	unclassified
+80	8	0	150	1	1.221e-05	1	no rank	root
+80	8	0	150	1	1.221e-05	131567	no rank	  cellular organisms
+80	8	0	150	1	1.221e-05	2759	superkingdom	    Eukaryota
+80	8	0	150	1	1.221e-05	33154	clade	      Opisthokonta
+80	8	0	150	1	1.221e-05	33208	kingdom	        Metazoa
+80	8	0	150	1	1.221e-05	6072	clade	          Eumetazoa
+80	8	0	150	1	1.221e-05	33213	clade	            Bilateria
+80	8	0	150	1	1.221e-05	33511	clade	              Deuterostomia
+80	8	0	150	1	1.221e-05	7711	phylum	                Chordata
+80	8	0	150	1	1.221e-05	89593	subphylum	                  Craniata
+80	8	0	150	1	1.221e-05	7742	clade	                    Vertebrata
+80	8	0	150	1	1.221e-05	7776	clade	                      Gnathostomata
+80	8	0	150	1	1.221e-05	117570	clade	                        Teleostomi
+80	8	0	150	1	1.221e-05	117571	clade	                          Euteleostomi
+80	8	0	150	1	1.221e-05	8287	superclass	                            Sarcopterygii
+80	8	0	150	1	1.221e-05	1338369	clade	                              Dipnotetrapodomorpha
+80	8	0	150	1	1.221e-05	32523	clade	                                Tetrapoda
+80	8	0	150	1	1.221e-05	32524	clade	                                  Amniota
+80	8	0	150	1	1.221e-05	40674	class	                                    Mammalia
+80	8	0	150	1	1.225e-05	32525	clade	                                      Theria
+80	8	0	150	1	1.292e-05	9347	clade	                                        Eutheria
+70	7	0	133	1	1.225e-05	1437010	clade	                                          Boreoeutheria
+70	7	0	130	1	2.473e-05	314146	superorder	                                            Euarchontoglires
+60	6	0	127	1	6.961e-05	9443	order	                                              Primates
+60	6	0	127	1	0.0001042	376913	suborder	                                                Haplorrhini
+60	6	0	127	1	0.0001081	314293	infraorder	                                                  Simiiformes
+60	6	1	118	1	0.0001754	9526	parvorder	                                                    Catarrhini
+40	4	0	101	1	0.0007233	314295	superfamily	                                                      Hominoidea
+40	4	0	96	1	0.001351	9604	family	                                                        Hominidae
+40	4	0	95	1	0.001889	207598	subfamily	                                                          Homininae
+40	4	2	73	1	0.004498	9605	genus	                                                            Homo
+20	2	1	34	1	0.003922	9606	species	                                                              Homo sapiens
+10	1	1	1	1	0.0005467	63221	subspecies	                                                                Homo sapiens neanderthalensis
+10	1	0	14	1	2.658e-05	314294	superfamily	                                                      Cercopithecoidea
+10	1	0	14	1	2.658e-05	9527	family	                                                        Cercopithecidae
+10	1	0	14	1	4.54e-05	9528	subfamily	                                                          Cercopithecinae
+10	1	1	7	1	0.0002006	392815	genus	                                                            Chlorocebus
+10	1	0	3	1	9.159e-07	314147	clade	                                              Glires
+10	1	0	3	1	9.791e-07	9989	order	                                                Rodentia
+10	1	0	3	1	1.608e-06	1963758	suborder	                                                  Myomorpha
+10	1	0	3	1	1.701e-06	337687	clade	                                                    Muroidea
+10	1	0	3	1	3.129e-06	10066	family	                                                      Muridae
+10	1	0	3	1	3.446e-06	39107	subfamily	                                                        Murinae
+10	1	0	3	1	0.0003606	81934	genus	                                                          Leggadina
+10	1	1	3	1	0.0003606	81936	species	                                                            Leggadina lakedownensis
+10	1	0	7	1	2.227e-05	9348	superorder	                                          Xenarthra
+10	1	0	7	1	4.53e-05	948951	order	                                            Cingulata
+10	1	0	7	1	6.204e-05	1811493	family	                                              Chlamyphoridae
+10	1	0	7	1	0.0002296	48851	genus	                                                Cabassous
+10	1	1	7	1	0.0009783	1756213	species	                                                  Cabassous chacoensis

@@ -1,0 +1,54 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:33Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/32/2dc2636e268f69c71391dd96d23819
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl27_rep43_simadna_neanderthals.kraken.report --output output.kraken rl27_rep43_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+14.81	4	4	341	1	NA	0	no rank	unclassified
+85.19	23	0	456	1	3.712e-05	1	no rank	root
+85.19	23	0	456	1	3.712e-05	131567	no rank	  cellular organisms
+85.19	23	0	456	1	3.712e-05	2759	superkingdom	    Eukaryota
+85.19	23	0	456	1	3.712e-05	33154	clade	      Opisthokonta
+85.19	23	0	456	1	3.712e-05	33208	kingdom	        Metazoa
+85.19	23	0	456	1	3.712e-05	6072	clade	          Eumetazoa
+85.19	23	0	456	1	3.712e-05	33213	clade	            Bilateria
+85.19	23	0	456	1	3.712e-05	33511	clade	              Deuterostomia
+85.19	23	0	456	1	3.712e-05	7711	phylum	                Chordata
+85.19	23	0	456	1	3.712e-05	89593	subphylum	                  Craniata
+85.19	23	0	456	1	3.712e-05	7742	clade	                    Vertebrata
+85.19	23	0	456	1	3.712e-05	7776	clade	                      Gnathostomata
+85.19	23	0	456	1	3.712e-05	117570	clade	                        Teleostomi
+85.19	23	0	456	1	3.712e-05	117571	clade	                          Euteleostomi
+85.19	23	0	456	1	3.712e-05	8287	superclass	                            Sarcopterygii
+85.19	23	0	456	1	3.712e-05	1338369	clade	                              Dipnotetrapodomorpha
+85.19	23	0	456	1	3.712e-05	32523	clade	                                Tetrapoda
+85.19	23	0	456	1	3.712e-05	32524	clade	                                  Amniota
+85.19	23	0	456	1	3.712e-05	40674	class	                                    Mammalia
+85.19	23	0	450	1	3.676e-05	32525	clade	                                      Theria
+81.48	22	1	384	1	3.307e-05	9347	clade	                                        Eutheria
+77.78	21	0	333	1	3.068e-05	1437010	clade	                                          Boreoeutheria
+74.07	20	1	273	1	5.193e-05	314146	superorder	                                            Euarchontoglires
+70.37	19	0	257	1	0.0001409	9443	order	                                              Primates
+70.37	19	0	256	1	0.0002101	376913	suborder	                                                Haplorrhini
+70.37	19	0	256	1	0.0002179	314293	infraorder	                                                  Simiiformes
+70.37	19	1	252	1	0.0003746	9526	parvorder	                                                    Catarrhini
+59.26	16	0	211	1	0.001511	314295	superfamily	                                                      Hominoidea
+59.26	16	0	209	1	0.002942	9604	family	                                                        Hominidae
+59.26	16	2	209	1	0.004155	207598	subfamily	                                                          Homininae
+48.15	13	4	177	1	0.01091	9605	genus	                                                            Homo
+33.33	9	7	106	1	0.01223	9606	species	                                                              Homo sapiens
+7.407	2	2	4	1	0.002187	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.704	1	1	5	1	0.0003164	9592	genus	                                                            Gorilla
+7.407	2	0	10	1	1.898e-05	314294	superfamily	                                                      Cercopithecoidea
+7.407	2	0	10	1	1.898e-05	9527	family	                                                        Cercopithecidae
+7.407	2	1	10	1	3.243e-05	9528	subfamily	                                                          Cercopithecinae
+3.704	1	0	4	1	0.0004043	9537	genus	                                                            Erythrocebus
+3.704	1	1	4	1	0.0004043	9538	species	                                                              Erythrocebus patas
+3.704	1	0	12	1	2.325e-06	314145	superorder	                                            Laurasiatheria
+3.704	1	0	8	1	6.263e-06	33554	order	                                              Carnivora
+3.704	1	0	8	1	1.025e-05	379584	suborder	                                                Caniformia
+3.704	1	0	8	1	8.893e-05	9709	family	                                                  Phocidae
+3.704	1	0	8	1	0.0004688	9717	genus	                                                    Phoca
+3.704	1	1	8	1	0.001431	39089	species	                                                      Phoca groenlandica
+3.704	1	0	8	1	1.544e-05	9263	clade	                                        Metatheria
+3.704	1	0	8	1	5.575e-05	38608	order	                                          Dasyuromorphia
+3.704	1	0	8	1	6.77e-05	9277	family	                                            Dasyuridae
+3.704	1	0	8	1	0.000348	9300	genus	                                              Sminthopsis
+3.704	1	1	8	1	0.0006866	9301	species	                                                Sminthopsis crassicaudata

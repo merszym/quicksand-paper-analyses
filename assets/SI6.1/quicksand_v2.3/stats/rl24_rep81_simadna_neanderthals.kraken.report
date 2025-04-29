@@ -1,0 +1,55 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:29Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/27/f9151236dcc021863286f3b8fb15ae
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl24_rep81_simadna_neanderthals.kraken.report --output output.kraken rl24_rep81_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	24	0	414	1	3.37e-05	1	no rank	root
+100	24	0	414	1	3.37e-05	131567	no rank	  cellular organisms
+100	24	0	414	1	3.37e-05	2759	superkingdom	    Eukaryota
+100	24	0	414	1	3.37e-05	33154	clade	      Opisthokonta
+100	24	0	414	1	3.37e-05	33208	kingdom	        Metazoa
+100	24	0	414	1	3.37e-05	6072	clade	          Eumetazoa
+100	24	0	414	1	3.37e-05	33213	clade	            Bilateria
+100	24	0	414	1	3.37e-05	33511	clade	              Deuterostomia
+100	24	0	414	1	3.37e-05	7711	phylum	                Chordata
+100	24	0	414	1	3.37e-05	89593	subphylum	                  Craniata
+100	24	0	414	1	3.37e-05	7742	clade	                    Vertebrata
+100	24	0	414	1	3.37e-05	7776	clade	                      Gnathostomata
+100	24	0	414	1	3.37e-05	117570	clade	                        Teleostomi
+100	24	0	414	1	3.37e-05	117571	clade	                          Euteleostomi
+100	24	0	414	1	3.37e-05	8287	superclass	                            Sarcopterygii
+100	24	0	414	1	3.37e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	24	0	414	1	3.37e-05	32523	clade	                                Tetrapoda
+100	24	0	414	1	3.37e-05	32524	clade	                                  Amniota
+100	24	0	414	1	3.37e-05	40674	class	                                    Mammalia
+100	24	0	408	1	3.333e-05	32525	clade	                                      Theria
+100	24	1	401	1	3.453e-05	9347	clade	                                        Eutheria
+95.83	23	0	381	1	3.51e-05	1437010	clade	                                          Boreoeutheria
+87.5	21	0	328	1	6.239e-05	314146	superorder	                                            Euarchontoglires
+87.5	21	0	318	1	0.0001743	9443	order	                                              Primates
+87.5	21	0	318	1	0.000261	376913	suborder	                                                Haplorrhini
+87.5	21	0	318	1	0.0002707	314293	infraorder	                                                  Simiiformes
+83.33	20	0	295	1	0.0004385	9526	parvorder	                                                    Catarrhini
+83.33	20	0	291	1	0.002084	314295	superfamily	                                                      Hominoidea
+79.17	19	0	262	1	0.003688	9604	family	                                                        Hominidae
+79.17	19	3	261	1	0.005189	207598	subfamily	                                                          Homininae
+66.67	16	6	213	1	0.01313	9605	genus	                                                            Homo
+41.67	10	8	96	1	0.01108	9606	species	                                                              Homo sapiens
+4.167	1	1	6	1	0.002302	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4.167	1	1	5	1	0.002734	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.167	1	1	5	1	7.508e-05	9577	family	                                                        Hylobatidae
+4.167	1	0	9	1	1.818e-05	9479	parvorder	                                                    Platyrrhini
+4.167	1	0	6	1	2.726e-05	9498	family	                                                      Cebidae
+4.167	1	0	4	1	2.521e-05	9480	subfamily	                                                        Callitrichinae
+4.167	1	0	4	1	7.571e-05	9486	genus	                                                          Saguinus
+4.167	1	1	4	1	0.0006729	1079039	species	                                                            Saguinus inustus
+8.333	2	0	10	1	1.937e-06	314145	superorder	                                            Laurasiatheria
+4.167	1	0	7	1	5.48e-06	33554	order	                                              Carnivora
+4.167	1	0	7	1	8.969e-06	379584	suborder	                                                Caniformia
+4.167	1	0	7	1	7.782e-05	9709	family	                                                  Phocidae
+4.167	1	0	7	1	0.001117	9714	genus	                                                    Mirounga
+4.167	1	1	7	1	0.001117	9715	species	                                                      Mirounga leonina
+4.167	1	0	2	1	1.366e-06	9397	order	                                              Chiroptera
+4.167	1	0	1	1	3.129e-06	30559	suborder	                                                Megachiroptera
+4.167	1	0	1	1	3.129e-06	9398	family	                                                  Pteropodidae
+4.167	1	0	1	1	4.568e-06	77225	subfamily	                                                    Pteropodinae
+4.167	1	0	1	1	0.000101	77228	genus	                                                      Balionycteris
+4.167	1	1	1	1	0.000101	77229	species	                                                        Balionycteris maculata

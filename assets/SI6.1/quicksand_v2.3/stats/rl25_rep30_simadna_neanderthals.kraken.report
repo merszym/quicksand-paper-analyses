@@ -1,0 +1,55 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:13Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ed/a27c1766f90cd009fbf622031de41f
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl25_rep30_simadna_neanderthals.kraken.report --output output.kraken rl25_rep30_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+12	3	3	365	1	NA	0	no rank	unclassified
+88	22	0	392	1.01	3.191e-05	1	no rank	root
+88	22	0	392	1.01	3.191e-05	131567	no rank	  cellular organisms
+88	22	0	392	1.01	3.191e-05	2759	superkingdom	    Eukaryota
+88	22	0	392	1.01	3.191e-05	33154	clade	      Opisthokonta
+88	22	0	392	1.01	3.191e-05	33208	kingdom	        Metazoa
+88	22	0	392	1.01	3.191e-05	6072	clade	          Eumetazoa
+88	22	0	392	1.01	3.191e-05	33213	clade	            Bilateria
+88	22	0	392	1.01	3.191e-05	33511	clade	              Deuterostomia
+88	22	0	392	1.01	3.191e-05	7711	phylum	                Chordata
+88	22	0	392	1.01	3.191e-05	89593	subphylum	                  Craniata
+88	22	0	392	1.01	3.191e-05	7742	clade	                    Vertebrata
+88	22	0	392	1.01	3.191e-05	7776	clade	                      Gnathostomata
+88	22	0	392	1.01	3.191e-05	117570	clade	                        Teleostomi
+88	22	0	392	1.01	3.191e-05	117571	clade	                          Euteleostomi
+88	22	0	392	1.01	3.191e-05	8287	superclass	                            Sarcopterygii
+88	22	0	392	1.01	3.191e-05	1338369	clade	                              Dipnotetrapodomorpha
+88	22	0	392	1.01	3.191e-05	32523	clade	                                Tetrapoda
+88	22	0	392	1.01	3.191e-05	32524	clade	                                  Amniota
+88	22	0	392	1.01	3.191e-05	40674	class	                                    Mammalia
+88	22	0	391	1.01	3.194e-05	32525	clade	                                      Theria
+88	22	0	371	1.01	3.195e-05	9347	clade	                                        Eutheria
+88	22	2	341	1.01	3.141e-05	1437010	clade	                                          Boreoeutheria
+76	19	0	290	1.01	5.517e-05	314146	superorder	                                            Euarchontoglires
+76	19	0	282	1.01	0.0001546	9443	order	                                              Primates
+76	19	0	282	1.01	0.0002315	376913	suborder	                                                Haplorrhini
+76	19	0	282	1.01	0.00024	314293	infraorder	                                                  Simiiformes
+72	18	1	272	1.01	0.0004043	9526	parvorder	                                                    Catarrhini
+64	16	0	253	1.01	0.001812	314295	superfamily	                                                      Hominoidea
+64	16	0	241	1.01	0.003392	9604	family	                                                        Hominidae
+64	16	3	238	1.01	0.004732	207598	subfamily	                                                          Homininae
+52	13	6	193	1.01	0.01189	9605	genus	                                                            Homo
+28	7	0	66	1.03	0.007614	9606	species	                                                              Homo sapiens
+28	7	7	47	1.04	0.0257	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4	1	0	1	1	1.898e-06	314294	superfamily	                                                      Cercopithecoidea
+4	1	0	1	1	1.898e-06	9527	family	                                                        Cercopithecidae
+4	1	0	1	1	4.81e-06	9569	subfamily	                                                          Colobinae
+4	1	0	1	1	1.32e-05	54136	genus	                                                            Trachypithecus
+4	1	1	1	1	0.0001452	66063	species	                                                              Trachypithecus johnii
+4	1	0	1	1	2.02e-06	9479	parvorder	                                                    Platyrrhini
+4	1	0	1	1	4.543e-06	9498	family	                                                      Cebidae
+4	1	0	1	1	6.302e-06	9480	subfamily	                                                        Callitrichinae
+4	1	0	1	1	5.117e-05	9481	genus	                                                          Callithrix
+4	1	0	1	1	5.117e-05	1965096	subgenus	                                                            Callithrix
+4	1	1	1	1	0.0001648	57375	species	                                                              Callithrix aurita
+4	1	0	10	1	1.937e-06	314145	superorder	                                            Laurasiatheria
+4	1	0	2	1	1.566e-06	33554	order	                                              Carnivora
+4	1	0	2	1	2.563e-06	379584	suborder	                                                Caniformia
+4	1	0	1	1	0.0001023	9705	family	                                                  Odobenidae
+4	1	0	1	1	0.0001023	9706	genus	                                                    Odobenus
+4	1	0	1	1	0.0001023	9707	species	                                                      Odobenus rosmarus
+4	1	1	1	1	0.0001023	62698	subspecies	                                                        Odobenus rosmarus rosmarus

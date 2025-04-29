@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:03Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/a0/662c42bee772f26d180388d609447e
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl22_rep98_simadna_neanderthals.kraken.report --output output.kraken rl22_rep98_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+13.64	3	3	326	1	NA	0	no rank	unclassified
+86.36	19	0	369	1	3.004e-05	1	no rank	root
+86.36	19	0	369	1	3.004e-05	131567	no rank	  cellular organisms
+86.36	19	0	369	1	3.004e-05	2759	superkingdom	    Eukaryota
+86.36	19	0	369	1	3.004e-05	33154	clade	      Opisthokonta
+86.36	19	0	369	1	3.004e-05	33208	kingdom	        Metazoa
+86.36	19	0	369	1	3.004e-05	6072	clade	          Eumetazoa
+86.36	19	0	369	1	3.004e-05	33213	clade	            Bilateria
+86.36	19	0	369	1	3.004e-05	33511	clade	              Deuterostomia
+86.36	19	0	369	1	3.004e-05	7711	phylum	                Chordata
+86.36	19	0	369	1	3.004e-05	89593	subphylum	                  Craniata
+86.36	19	0	369	1	3.004e-05	7742	clade	                    Vertebrata
+86.36	19	0	369	1	3.004e-05	7776	clade	                      Gnathostomata
+86.36	19	0	369	1	3.004e-05	117570	clade	                        Teleostomi
+86.36	19	0	369	1	3.004e-05	117571	clade	                          Euteleostomi
+86.36	19	0	369	1	3.004e-05	8287	superclass	                            Sarcopterygii
+86.36	19	0	369	1	3.004e-05	1338369	clade	                              Dipnotetrapodomorpha
+86.36	19	0	369	1	3.004e-05	32523	clade	                                Tetrapoda
+86.36	19	0	369	1	3.004e-05	32524	clade	                                  Amniota
+86.36	19	0	369	1	3.004e-05	40674	class	                                    Mammalia
+86.36	19	1	363	1	2.965e-05	32525	clade	                                      Theria
+81.82	18	0	320	1	2.756e-05	9347	clade	                                        Eutheria
+81.82	18	1	289	1	2.662e-05	1437010	clade	                                          Boreoeutheria
+72.73	16	0	258	1	4.908e-05	314146	superorder	                                            Euarchontoglires
+72.73	16	0	245	1	0.0001343	9443	order	                                              Primates
+72.73	16	0	245	1	0.0002011	376913	suborder	                                                Haplorrhini
+72.73	16	0	245	1	0.0002085	314293	infraorder	                                                  Simiiformes
+68.18	15	0	227	1	0.0003375	9526	parvorder	                                                    Catarrhini
+68.18	15	1	206	1	0.001475	314295	superfamily	                                                      Hominoidea
+63.64	14	0	197	1	0.002773	9604	family	                                                        Hominidae
+63.64	14	2	195	1	0.003877	207598	subfamily	                                                          Homininae
+54.55	12	3	149	1	0.009182	9605	genus	                                                            Homo
+40.91	9	5	63	1	0.007268	9606	species	                                                              Homo sapiens
+18.18	4	4	34	1	0.01859	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.545	1	0	3	1	6.059e-06	9479	parvorder	                                                    Platyrrhini
+4.545	1	0	3	1	2.111e-05	376919	family	                                                      Pitheciidae
+4.545	1	0	3	1	3.966e-05	38069	subfamily	                                                        Callicebinae
+4.545	1	1	3	1	0.0001276	1812102	genus	                                                          Cheracebus
+4.545	1	0	2	1	3.875e-07	314145	superorder	                                            Laurasiatheria
+4.545	1	0	2	1	3.373e-06	9362	order	                                              Eulipotyphla
+4.545	1	0	2	1	5.519e-06	9376	family	                                                Soricidae
+4.545	1	0	2	1	8.484e-06	183663	subfamily	                                                  Soricinae
+4.545	1	1	2	1	2.613e-05	9379	genus	                                                    Sorex

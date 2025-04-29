@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:01Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/15/d8b94de1ceff8c1844da04256c9d22
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl25_rep10_simadna_neanderthals.kraken.report --output output.kraken rl25_rep10_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+12	3	3	328	1	NA	0	no rank	unclassified
+88	22	0	381	1	3.101e-05	1	no rank	root
+88	22	0	381	1	3.101e-05	131567	no rank	  cellular organisms
+88	22	0	381	1	3.101e-05	2759	superkingdom	    Eukaryota
+88	22	0	381	1	3.101e-05	33154	clade	      Opisthokonta
+88	22	0	381	1	3.101e-05	33208	kingdom	        Metazoa
+88	22	0	381	1	3.101e-05	6072	clade	          Eumetazoa
+88	22	0	381	1	3.101e-05	33213	clade	            Bilateria
+88	22	0	381	1	3.101e-05	33511	clade	              Deuterostomia
+88	22	0	381	1	3.101e-05	7711	phylum	                Chordata
+88	22	0	381	1	3.101e-05	89593	subphylum	                  Craniata
+88	22	0	381	1	3.101e-05	7742	clade	                    Vertebrata
+88	22	0	381	1	3.101e-05	7776	clade	                      Gnathostomata
+88	22	0	381	1	3.101e-05	117570	clade	                        Teleostomi
+88	22	0	381	1	3.101e-05	117571	clade	                          Euteleostomi
+88	22	0	381	1	3.101e-05	8287	superclass	                            Sarcopterygii
+88	22	0	381	1	3.101e-05	1338369	clade	                              Dipnotetrapodomorpha
+88	22	0	381	1	3.101e-05	32523	clade	                                Tetrapoda
+88	22	0	381	1	3.101e-05	32524	clade	                                  Amniota
+88	22	1	381	1	3.101e-05	40674	class	                                    Mammalia
+84	21	1	347	1	2.835e-05	32525	clade	                                      Theria
+80	20	0	307	1	2.644e-05	9347	clade	                                        Eutheria
+80	20	0	296	1	2.727e-05	1437010	clade	                                          Boreoeutheria
+76	19	0	273	1	5.193e-05	314146	superorder	                                            Euarchontoglires
+72	18	0	270	1	0.000148	9443	order	                                              Primates
+72	18	0	270	1	0.0002216	376913	suborder	                                                Haplorrhini
+72	18	0	270	1	0.0002298	314293	infraorder	                                                  Simiiformes
+72	18	0	270	1	0.0004014	9526	parvorder	                                                    Catarrhini
+72	18	0	258	1	0.001848	314295	superfamily	                                                      Hominoidea
+72	18	0	258	1	0.003631	9604	family	                                                        Hominidae
+72	18	3	247	1	0.004911	207598	subfamily	                                                          Homininae
+60	15	10	205	1	0.01263	9605	genus	                                                            Homo
+20	5	3	41	1	0.00473	9606	species	                                                              Homo sapiens
+4	1	1	5	1	0.001919	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4	1	1	1	1	0.0005467	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4	1	0	3	1	9.159e-07	314147	clade	                                              Glires
+4	1	0	3	1	9.791e-07	9989	order	                                                Rodentia
+4	1	0	3	1	5.009e-06	33553	suborder	                                                  Sciuromorpha
+4	1	0	3	1	5.311e-06	55153	family	                                                    Sciuridae
+4	1	0	3	1	1.947e-05	337724	subfamily	                                                      Callosciurinae
+4	1	0	3	1	1.947e-05	337736	tribe	                                                        Callosciurini
+4	1	0	3	1	0.0001785	226576	genus	                                                          Tamiops
+4	1	1	3	1	0.0003743	1048687	species	                                                            Tamiops maritimus
+4	1	1	10	1	1.937e-06	314145	superorder	                                            Laurasiatheria

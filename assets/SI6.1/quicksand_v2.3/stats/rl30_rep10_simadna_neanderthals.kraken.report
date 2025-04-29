@@ -1,0 +1,52 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:47Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/90/5e9c3b1f41b6338a2db9e6820bb4c8
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl30_rep10_simadna_neanderthals.kraken.report --output output.kraken rl30_rep10_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+26.67	8	8	442	1	NA	0	no rank	unclassified
+73.33	22	0	506	1	4.119e-05	1	no rank	root
+73.33	22	0	506	1	4.119e-05	131567	no rank	  cellular organisms
+73.33	22	0	506	1	4.119e-05	2759	superkingdom	    Eukaryota
+73.33	22	0	506	1	4.119e-05	33154	clade	      Opisthokonta
+73.33	22	0	506	1	4.119e-05	33208	kingdom	        Metazoa
+73.33	22	0	506	1	4.119e-05	6072	clade	          Eumetazoa
+73.33	22	0	506	1	4.119e-05	33213	clade	            Bilateria
+73.33	22	0	506	1	4.119e-05	33511	clade	              Deuterostomia
+73.33	22	0	506	1	4.119e-05	7711	phylum	                Chordata
+73.33	22	0	506	1	4.119e-05	89593	subphylum	                  Craniata
+73.33	22	0	506	1	4.119e-05	7742	clade	                    Vertebrata
+73.33	22	0	506	1	4.119e-05	7776	clade	                      Gnathostomata
+73.33	22	0	506	1	4.119e-05	117570	clade	                        Teleostomi
+73.33	22	0	506	1	4.119e-05	117571	clade	                          Euteleostomi
+73.33	22	0	506	1	4.119e-05	8287	superclass	                            Sarcopterygii
+73.33	22	0	506	1	4.119e-05	1338369	clade	                              Dipnotetrapodomorpha
+73.33	22	0	506	1	4.119e-05	32523	clade	                                Tetrapoda
+73.33	22	0	506	1	4.119e-05	32524	clade	                                  Amniota
+73.33	22	0	506	1	4.119e-05	40674	class	                                    Mammalia
+73.33	22	1	505	1	4.125e-05	32525	clade	                                      Theria
+70	21	1	483	1	4.159e-05	9347	clade	                                        Eutheria
+66.67	20	0	449	1	4.136e-05	1437010	clade	                                          Boreoeutheria
+63.33	19	0	428	1	8.142e-05	314146	superorder	                                            Euarchontoglires
+56.67	17	0	397	1	0.0002176	9443	order	                                              Primates
+56.67	17	0	396	1	0.000325	376913	suborder	                                                Haplorrhini
+56.67	17	0	396	1	0.0003371	314293	infraorder	                                                  Simiiformes
+56.67	17	0	388	1	0.0005768	9526	parvorder	                                                    Catarrhini
+53.33	16	0	377	1	0.0027	314295	superfamily	                                                      Hominoidea
+53.33	16	0	362	1	0.005095	9604	family	                                                        Hominidae
+53.33	16	3	356	1	0.007078	207598	subfamily	                                                          Homininae
+43.33	13	4	294	1	0.01812	9605	genus	                                                            Homo
+26.67	8	2	157	1	0.01811	9606	species	                                                              Homo sapiens
+20	6	6	78	1	0.04265	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.333	1	1	2	1	0.00182	1425170	species	                                                              Homo heidelbergensis
+3.333	1	0	4	1	7.594e-06	314294	superfamily	                                                      Cercopithecoidea
+3.333	1	0	4	1	7.594e-06	9527	family	                                                        Cercopithecidae
+3.333	1	0	2	1	9.62e-06	9569	subfamily	                                                          Colobinae
+3.333	1	0	1	1	9.069e-05	88028	genus	                                                            Semnopithecus
+3.333	1	1	1	1	0.0003057	88029	species	                                                              Semnopithecus entellus
+6.667	2	1	3	1	9.159e-07	314147	clade	                                              Glires
+3.333	1	0	2	1	6.527e-07	9989	order	                                                Rodentia
+3.333	1	1	1	1	2.369e-06	33550	suborder	                                                  Hystricomorpha
+3.333	1	0	4	1	7.749e-07	314145	superorder	                                            Laurasiatheria
+3.333	1	0	4	1	2.796e-06	91561	order	                                              Artiodactyla
+3.333	1	0	4	1	9.008e-05	9834	suborder	                                                Tylopoda
+3.333	1	0	4	1	9.008e-05	9835	family	                                                  Camelidae
+3.333	1	0	4	1	0.0001742	9836	genus	                                                    Camelus
+3.333	1	1	4	1	0.0004864	9838	species	                                                      Camelus dromedarius

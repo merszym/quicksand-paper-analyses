@@ -1,0 +1,55 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:16:10Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/e0/f6d93d10b2fbca4e095c57b6eb71fe
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl20_rep14_simadna_neanderthals.kraken.report --output output.kraken rl20_rep14_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+35	7	7	274	1	NA	0	no rank	unclassified
+65	13	0	248	1	2.019e-05	1	no rank	root
+65	13	0	248	1	2.019e-05	131567	no rank	  cellular organisms
+65	13	0	248	1	2.019e-05	2759	superkingdom	    Eukaryota
+65	13	0	248	1	2.019e-05	33154	clade	      Opisthokonta
+65	13	0	248	1	2.019e-05	33208	kingdom	        Metazoa
+65	13	0	248	1	2.019e-05	6072	clade	          Eumetazoa
+65	13	0	248	1	2.019e-05	33213	clade	            Bilateria
+65	13	0	248	1	2.019e-05	33511	clade	              Deuterostomia
+65	13	0	248	1	2.019e-05	7711	phylum	                Chordata
+65	13	0	248	1	2.019e-05	89593	subphylum	                  Craniata
+65	13	0	248	1	2.019e-05	7742	clade	                    Vertebrata
+65	13	0	248	1	2.019e-05	7776	clade	                      Gnathostomata
+65	13	0	248	1	2.019e-05	117570	clade	                        Teleostomi
+65	13	0	248	1	2.019e-05	117571	clade	                          Euteleostomi
+65	13	0	248	1	2.019e-05	8287	superclass	                            Sarcopterygii
+65	13	0	248	1	2.019e-05	1338369	clade	                              Dipnotetrapodomorpha
+65	13	0	248	1	2.019e-05	32523	clade	                                Tetrapoda
+65	13	0	248	1	2.019e-05	32524	clade	                                  Amniota
+65	13	0	248	1	2.019e-05	40674	class	                                    Mammalia
+65	13	0	248	1	2.026e-05	32525	clade	                                      Theria
+65	13	0	240	1	2.067e-05	9347	clade	                                        Eutheria
+65	13	0	232	1	2.137e-05	1437010	clade	                                          Boreoeutheria
+65	13	0	197	1	3.747e-05	314146	superorder	                                            Euarchontoglires
+55	11	0	182	1	9.976e-05	9443	order	                                              Primates
+55	11	0	179	1	0.0001469	376913	suborder	                                                Haplorrhini
+55	11	0	179	1	0.0001524	314293	infraorder	                                                  Simiiformes
+55	11	0	157	1	0.0002334	9526	parvorder	                                                    Catarrhini
+45	9	0	141	1	0.00101	314295	superfamily	                                                      Hominoidea
+45	9	0	120	1	0.001689	9604	family	                                                        Hominidae
+45	9	1	120	1	0.002386	207598	subfamily	                                                          Homininae
+35	7	3	87	1	0.005361	9605	genus	                                                            Homo
+20	4	4	47	1	0.005422	9606	species	                                                              Homo sapiens
+5	1	0	3	1	0.0001898	9592	genus	                                                            Gorilla
+5	1	1	3	1	0.0005516	499232	species	                                                              Gorilla beringei
+10	2	0	3	1	5.695e-06	314294	superfamily	                                                      Cercopithecoidea
+10	2	0	3	1	5.695e-06	9527	family	                                                        Cercopithecidae
+10	2	1	3	1	1.443e-05	9569	subfamily	                                                          Colobinae
+5	1	0	1	1	0.0001074	164647	genus	                                                            Procolobus
+5	1	1	1	1	0.0001074	373033	species	                                                              Procolobus verus
+10	2	0	11	1	3.358e-06	314147	clade	                                              Glires
+10	2	0	11	1	3.59e-06	9989	order	                                                Rodentia
+10	2	0	11	1	5.896e-06	1963758	suborder	                                                  Myomorpha
+10	2	0	11	1	6.237e-06	337687	clade	                                                    Muroidea
+5	1	0	8	1	1.292e-05	337677	family	                                                      Cricetidae
+5	1	0	8	1	4.761e-05	337963	subfamily	                                                        Neotominae
+5	1	0	8	1	0.0001104	10040	genus	                                                          Peromyscus
+5	1	1	8	1	0.001093	246392	species	                                                            Peromyscus melanophrys
+5	1	0	3	1	3.129e-06	10066	family	                                                      Muridae
+5	1	0	3	1	3.446e-06	39107	subfamily	                                                        Murinae
+5	1	0	3	1	8.117e-05	30639	genus	                                                          Mastomys
+5	1	1	3	1	0.0004769	10112	species	                                                            Mastomys natalensis

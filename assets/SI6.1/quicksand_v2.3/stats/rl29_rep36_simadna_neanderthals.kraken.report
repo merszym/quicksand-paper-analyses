@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:24Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/51/f51822e13f05ca7c39d48da7638343
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep36_simadna_neanderthals.kraken.report --output output.kraken rl29_rep36_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+13.79	4	4	476	1	NA	0	no rank	unclassified
+86.21	25	0	481	1	3.915e-05	1	no rank	root
+86.21	25	0	481	1	3.915e-05	131567	no rank	  cellular organisms
+86.21	25	0	481	1	3.915e-05	2759	superkingdom	    Eukaryota
+86.21	25	0	481	1	3.915e-05	33154	clade	      Opisthokonta
+86.21	25	0	481	1	3.915e-05	33208	kingdom	        Metazoa
+86.21	25	0	481	1	3.915e-05	6072	clade	          Eumetazoa
+86.21	25	0	481	1	3.915e-05	33213	clade	            Bilateria
+86.21	25	0	481	1	3.915e-05	33511	clade	              Deuterostomia
+86.21	25	0	481	1	3.915e-05	7711	phylum	                Chordata
+86.21	25	0	481	1	3.915e-05	89593	subphylum	                  Craniata
+86.21	25	0	481	1	3.915e-05	7742	clade	                    Vertebrata
+86.21	25	0	481	1	3.915e-05	7776	clade	                      Gnathostomata
+86.21	25	0	481	1	3.915e-05	117570	clade	                        Teleostomi
+86.21	25	0	481	1	3.915e-05	117571	clade	                          Euteleostomi
+86.21	25	0	481	1	3.915e-05	8287	superclass	                            Sarcopterygii
+86.21	25	0	481	1	3.915e-05	1338369	clade	                              Dipnotetrapodomorpha
+86.21	25	0	481	1	3.915e-05	32523	clade	                                Tetrapoda
+86.21	25	0	481	1	3.915e-05	32524	clade	                                  Amniota
+86.21	25	0	481	1	3.915e-05	40674	class	                                    Mammalia
+86.21	25	1	469	1	3.831e-05	32525	clade	                                      Theria
+82.76	24	0	432	1	3.72e-05	9347	clade	                                        Eutheria
+82.76	24	0	406	1	3.74e-05	1437010	clade	                                          Boreoeutheria
+79.31	23	0	372	1	7.076e-05	314146	superorder	                                            Euarchontoglires
+79.31	23	0	361	1	0.0001979	9443	order	                                              Primates
+79.31	23	0	361	1	0.0002963	376913	suborder	                                                Haplorrhini
+79.31	23	0	361	1	0.0003073	314293	infraorder	                                                  Simiiformes
+79.31	23	2	355	1	0.0005277	9526	parvorder	                                                    Catarrhini
+68.97	20	1	309	1	0.002213	314295	superfamily	                                                      Hominoidea
+65.52	19	0	297	1	0.00418	9604	family	                                                        Hominidae
+65.52	19	3	295	1	0.005865	207598	subfamily	                                                          Homininae
+55.17	16	4	213	1	0.01313	9605	genus	                                                            Homo
+41.38	12	8	100	1	0.01154	9606	species	                                                              Homo sapiens
+13.79	4	4	41	1	0.02242	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.448	1	0	5	1	9.492e-06	314294	superfamily	                                                      Cercopithecoidea
+3.448	1	0	5	1	9.492e-06	9527	family	                                                        Cercopithecidae
+3.448	1	0	5	1	2.405e-05	9569	subfamily	                                                          Colobinae
+3.448	1	0	2	1	6.54e-05	542827	genus	                                                            Rhinopithecus
+3.448	1	1	2	1	0.0004557	224329	species	                                                              Rhinopithecus brelichi
+3.448	1	0	3	1	5.812e-07	314145	superorder	                                            Laurasiatheria
+3.448	1	0	3	1	2.097e-06	91561	order	                                              Artiodactyla
+3.448	1	0	3	1	6.756e-05	9834	suborder	                                                Tylopoda
+3.448	1	0	3	1	6.756e-05	9835	family	                                                  Camelidae
+3.448	1	0	3	1	0.0004005	30539	genus	                                                    Vicugna
+3.448	1	1	3	1	0.000518	9843	species	                                                      Vicugna vicugna

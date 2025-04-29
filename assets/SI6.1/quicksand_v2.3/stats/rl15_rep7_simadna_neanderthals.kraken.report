@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:22:40Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/0f/6ef7c46290d0dcbf26eaa59e8ec576
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl15_rep7_simadna_neanderthals.kraken.report --output output.kraken rl15_rep7_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+6.667	1	1	132	1	NA	0	no rank	unclassified
+93.33	14	0	224	1	1.823e-05	1	no rank	root
+93.33	14	0	224	1	1.823e-05	131567	no rank	  cellular organisms
+93.33	14	0	224	1	1.823e-05	2759	superkingdom	    Eukaryota
+93.33	14	0	224	1	1.823e-05	33154	clade	      Opisthokonta
+93.33	14	0	224	1	1.823e-05	33208	kingdom	        Metazoa
+93.33	14	0	224	1	1.823e-05	6072	clade	          Eumetazoa
+93.33	14	0	224	1	1.823e-05	33213	clade	            Bilateria
+93.33	14	0	224	1	1.823e-05	33511	clade	              Deuterostomia
+93.33	14	0	224	1	1.823e-05	7711	phylum	                Chordata
+93.33	14	0	224	1	1.823e-05	89593	subphylum	                  Craniata
+93.33	14	0	224	1	1.823e-05	7742	clade	                    Vertebrata
+93.33	14	0	224	1	1.823e-05	7776	clade	                      Gnathostomata
+93.33	14	0	224	1	1.823e-05	117570	clade	                        Teleostomi
+93.33	14	0	224	1	1.823e-05	117571	clade	                          Euteleostomi
+93.33	14	0	224	1	1.823e-05	8287	superclass	                            Sarcopterygii
+93.33	14	0	224	1	1.823e-05	1338369	clade	                              Dipnotetrapodomorpha
+93.33	14	0	224	1	1.823e-05	32523	clade	                                Tetrapoda
+93.33	14	0	224	1	1.823e-05	32524	clade	                                  Amniota
+93.33	14	0	224	1	1.823e-05	40674	class	                                    Mammalia
+93.33	14	0	224	1	1.83e-05	32525	clade	                                      Theria
+93.33	14	0	219	1	1.886e-05	9347	clade	                                        Eutheria
+93.33	14	1	214	1	1.971e-05	1437010	clade	                                          Boreoeutheria
+80	12	0	188	1	3.576e-05	314146	superorder	                                            Euarchontoglires
+80	12	0	184	1	0.0001009	9443	order	                                              Primates
+80	12	0	184	1	0.000151	376913	suborder	                                                Haplorrhini
+80	12	0	184	1	0.0001566	314293	infraorder	                                                  Simiiformes
+80	12	0	180	1	0.0002676	9526	parvorder	                                                    Catarrhini
+73.33	11	0	159	1	0.001139	314295	superfamily	                                                      Hominoidea
+73.33	11	0	159	1	0.002238	9604	family	                                                        Hominidae
+73.33	11	0	156	1	0.003101	207598	subfamily	                                                          Homininae
+66.67	10	2	132	1	0.008134	9605	genus	                                                            Homo
+53.33	8	6	87	1	0.01004	9606	species	                                                              Homo sapiens
+13.33	2	2	15	1	0.008201	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.667	1	0	4	1	0.0002727	9596	genus	                                                            Pan
+6.667	1	1	4	1	0.0006683	9597	species	                                                              Pan paniscus
+6.667	1	0	10	1	1.898e-05	314294	superfamily	                                                      Cercopithecoidea
+6.667	1	0	10	1	1.898e-05	9527	family	                                                        Cercopithecidae
+6.667	1	0	10	1	4.81e-05	9569	subfamily	                                                          Colobinae
+6.667	1	0	10	1	0.000132	54136	genus	                                                            Trachypithecus
+6.667	1	1	10	1	0.002977	465719	species	                                                              Trachypithecus poliocephalus
+6.667	1	0	9	1	1.744e-06	314145	superorder	                                            Laurasiatheria
+6.667	1	0	7	1	5.48e-06	33554	order	                                              Carnivora
+6.667	1	0	2	1	2.563e-06	379584	suborder	                                                Caniformia
+6.667	1	0	2	1	2.17e-05	9632	family	                                                  Ursidae
+6.667	1	0	2	1	0.0002648	544298	genus	                                                    Arctodus
+6.667	1	1	2	1	0.0002648	551196	species	                                                      Arctodus simus

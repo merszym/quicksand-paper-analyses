@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:03Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/90/18590196e19625cbe80bc046c9489b
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl26_rep11_simadna_neanderthals.kraken.report --output output.kraken rl26_rep11_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+15.38	4	4	340	1	NA	0	no rank	unclassified
+84.62	22	0	481	1.02	3.915e-05	1	no rank	root
+84.62	22	0	481	1.02	3.915e-05	131567	no rank	  cellular organisms
+84.62	22	0	481	1.02	3.915e-05	2759	superkingdom	    Eukaryota
+84.62	22	0	481	1.02	3.915e-05	33154	clade	      Opisthokonta
+84.62	22	0	481	1.02	3.915e-05	33208	kingdom	        Metazoa
+84.62	22	0	481	1.02	3.915e-05	6072	clade	          Eumetazoa
+84.62	22	0	481	1.02	3.915e-05	33213	clade	            Bilateria
+84.62	22	0	481	1.02	3.915e-05	33511	clade	              Deuterostomia
+84.62	22	0	481	1.02	3.915e-05	7711	phylum	                Chordata
+84.62	22	0	481	1.02	3.915e-05	89593	subphylum	                  Craniata
+84.62	22	0	481	1.02	3.915e-05	7742	clade	                    Vertebrata
+84.62	22	0	481	1.02	3.915e-05	7776	clade	                      Gnathostomata
+84.62	22	0	481	1.02	3.915e-05	117570	clade	                        Teleostomi
+84.62	22	0	481	1.02	3.915e-05	117571	clade	                          Euteleostomi
+84.62	22	0	481	1.02	3.915e-05	8287	superclass	                            Sarcopterygii
+84.62	22	0	481	1.02	3.915e-05	1338369	clade	                              Dipnotetrapodomorpha
+84.62	22	0	481	1.02	3.915e-05	32523	clade	                                Tetrapoda
+84.62	22	0	481	1.02	3.915e-05	32524	clade	                                  Amniota
+84.62	22	0	481	1.02	3.915e-05	40674	class	                                    Mammalia
+84.62	22	0	481	1.02	3.929e-05	32525	clade	                                      Theria
+84.62	22	1	451	1.02	3.884e-05	9347	clade	                                        Eutheria
+80.77	21	1	392	1.03	3.611e-05	1437010	clade	                                          Boreoeutheria
+76.92	20	0	355	1.03	6.753e-05	314146	superorder	                                            Euarchontoglires
+76.92	20	0	343	1.03	0.000188	9443	order	                                              Primates
+76.92	20	0	340	1.03	0.0002791	376913	suborder	                                                Haplorrhini
+76.92	20	0	340	1.03	0.0002894	314293	infraorder	                                                  Simiiformes
+76.92	20	1	331	1.03	0.0004921	9526	parvorder	                                                    Catarrhini
+65.38	17	0	281	1.04	0.002012	314295	superfamily	                                                      Hominoidea
+65.38	17	0	253	1.04	0.003561	9604	family	                                                        Hominidae
+65.38	17	1	252	1.04	0.00501	207598	subfamily	                                                          Homininae
+53.85	14	8	202	1.05	0.01245	9605	genus	                                                            Homo
+23.08	6	3	76	1	0.008768	9606	species	                                                              Homo sapiens
+11.54	3	3	22	1	0.01203	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.846	1	0	8	1	0.0005454	9596	genus	                                                            Pan
+3.846	1	1	7	1	0.00117	9597	species	                                                              Pan paniscus
+3.846	1	1	4	1	0.0002531	9592	genus	                                                            Gorilla
+7.692	2	0	5	1	9.492e-06	314294	superfamily	                                                      Cercopithecoidea
+7.692	2	0	5	1	9.492e-06	9527	family	                                                        Cercopithecidae
+7.692	2	0	5	1	1.621e-05	9528	subfamily	                                                          Cercopithecinae
+3.846	1	0	3	1	2.841e-05	9539	genus	                                                            Macaca
+3.846	1	1	3	1	0.0009254	54600	species	                                                              Macaca nigra
+3.846	1	0	2	1	9.62e-05	9529	genus	                                                            Cercocebus
+3.846	1	1	2	1	0.0003313	75569	species	                                                              Cercocebus chrysogaster

@@ -1,0 +1,51 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:22:42Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/94/ad2fc739bed382374c9e0fe37cdc0c
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl15_rep42_simadna_neanderthals.kraken.report --output output.kraken rl15_rep42_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	15	0	318	1	2.589e-05	1	no rank	root
+100	15	0	318	1	2.589e-05	131567	no rank	  cellular organisms
+100	15	0	318	1	2.589e-05	2759	superkingdom	    Eukaryota
+100	15	0	318	1	2.589e-05	33154	clade	      Opisthokonta
+100	15	0	318	1	2.589e-05	33208	kingdom	        Metazoa
+100	15	0	318	1	2.589e-05	6072	clade	          Eumetazoa
+100	15	0	318	1	2.589e-05	33213	clade	            Bilateria
+100	15	0	318	1	2.589e-05	33511	clade	              Deuterostomia
+100	15	0	318	1	2.589e-05	7711	phylum	                Chordata
+100	15	0	318	1	2.589e-05	89593	subphylum	                  Craniata
+100	15	0	318	1	2.589e-05	7742	clade	                    Vertebrata
+100	15	0	318	1	2.589e-05	7776	clade	                      Gnathostomata
+100	15	0	318	1	2.589e-05	117570	clade	                        Teleostomi
+100	15	0	318	1	2.589e-05	117571	clade	                          Euteleostomi
+100	15	0	318	1	2.589e-05	8287	superclass	                            Sarcopterygii
+100	15	0	318	1	2.589e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	15	0	318	1	2.589e-05	32523	clade	                                Tetrapoda
+100	15	0	318	1	2.589e-05	32524	clade	                                  Amniota
+100	15	0	318	1	2.589e-05	40674	class	                                    Mammalia
+100	15	1	292	1	2.385e-05	32525	clade	                                      Theria
+93.33	14	0	260	1	2.239e-05	9347	clade	                                        Eutheria
+93.33	14	1	243	1	2.239e-05	1437010	clade	                                          Boreoeutheria
+73.33	11	0	217	1	4.128e-05	314146	superorder	                                            Euarchontoglires
+73.33	11	0	212	1	0.0001162	9443	order	                                              Primates
+73.33	11	0	209	1	0.0001715	376913	suborder	                                                Haplorrhini
+73.33	11	0	209	1	0.0001779	314293	infraorder	                                                  Simiiformes
+73.33	11	0	200	1	0.0002973	9526	parvorder	                                                    Catarrhini
+73.33	11	0	193	1	0.001382	314295	superfamily	                                                      Hominoidea
+73.33	11	0	172	1	0.002421	9604	family	                                                        Hominidae
+73.33	11	0	171	1	0.0034	207598	subfamily	                                                          Homininae
+60	9	3	134	1	0.008257	9605	genus	                                                            Homo
+40	6	5	39	1	0.004499	9606	species	                                                              Homo sapiens
+6.667	1	1	2	1	0.001093	63221	subspecies	                                                                Homo sapiens neanderthalensis
+13.33	2	0	6	1	0.0004091	9596	genus	                                                            Pan
+6.667	1	1	1	1	0.0001636	9598	species	                                                              Pan troglodytes
+6.667	1	1	1	1	0.0001671	9597	species	                                                              Pan paniscus
+13.33	2	0	10	1	1.937e-06	314145	superorder	                                            Laurasiatheria
+6.667	1	0	6	1	4.697e-06	33554	order	                                              Carnivora
+6.667	1	0	6	1	1.258e-05	379583	suborder	                                                Feliformia
+6.667	1	0	6	1	2.894e-05	9681	family	                                                  Felidae
+6.667	1	0	6	1	0.0001113	338153	subfamily	                                                    Pantherinae
+6.667	1	0	6	1	0.0004117	61451	genus	                                                      Neofelis
+6.667	1	1	6	1	0.0008227	427616	species	                                                        Neofelis diardi
+6.667	1	0	4	1	6.746e-06	9362	order	                                              Eulipotyphla
+6.667	1	0	4	1	1.104e-05	9376	family	                                                Soricidae
+6.667	1	0	4	1	1.697e-05	183663	subfamily	                                                  Soricinae
+6.667	1	0	4	1	5.225e-05	9379	genus	                                                    Sorex
+6.667	1	1	4	1	0.0005765	62274	species	                                                      Sorex minutissimus

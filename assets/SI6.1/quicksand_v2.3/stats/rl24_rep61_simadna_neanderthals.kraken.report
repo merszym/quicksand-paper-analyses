@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:19Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/47/f810f8e0c9eda273c711908607b3ef
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl24_rep61_simadna_neanderthals.kraken.report --output output.kraken rl24_rep61_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+8.333	2	2	271	1	NA	0	no rank	unclassified
+91.67	22	0	382	1.07	3.11e-05	1	no rank	root
+91.67	22	0	382	1.07	3.11e-05	131567	no rank	  cellular organisms
+91.67	22	0	382	1.07	3.11e-05	2759	superkingdom	    Eukaryota
+91.67	22	0	382	1.07	3.11e-05	33154	clade	      Opisthokonta
+91.67	22	0	382	1.07	3.11e-05	33208	kingdom	        Metazoa
+91.67	22	0	382	1.07	3.11e-05	6072	clade	          Eumetazoa
+91.67	22	0	382	1.07	3.11e-05	33213	clade	            Bilateria
+91.67	22	0	382	1.07	3.11e-05	33511	clade	              Deuterostomia
+91.67	22	0	382	1.07	3.11e-05	7711	phylum	                Chordata
+91.67	22	0	382	1.07	3.11e-05	89593	subphylum	                  Craniata
+91.67	22	0	382	1.07	3.11e-05	7742	clade	                    Vertebrata
+91.67	22	0	382	1.07	3.11e-05	7776	clade	                      Gnathostomata
+91.67	22	0	382	1.07	3.11e-05	117570	clade	                        Teleostomi
+91.67	22	0	382	1.07	3.11e-05	117571	clade	                          Euteleostomi
+91.67	22	0	382	1.07	3.11e-05	8287	superclass	                            Sarcopterygii
+91.67	22	0	382	1.07	3.11e-05	1338369	clade	                              Dipnotetrapodomorpha
+91.67	22	0	382	1.07	3.11e-05	32523	clade	                                Tetrapoda
+91.67	22	0	382	1.07	3.11e-05	32524	clade	                                  Amniota
+91.67	22	0	382	1.07	3.11e-05	40674	class	                                    Mammalia
+91.67	22	0	382	1.07	3.121e-05	32525	clade	                                      Theria
+91.67	22	0	361	1.07	3.109e-05	9347	clade	                                        Eutheria
+91.67	22	1	349	1.06	3.215e-05	1437010	clade	                                          Boreoeutheria
+87.5	21	0	275	1.05	5.231e-05	314146	superorder	                                            Euarchontoglires
+83.33	20	0	264	1.06	0.0001447	9443	order	                                              Primates
+83.33	20	0	264	1.06	0.0002167	376913	suborder	                                                Haplorrhini
+83.33	20	0	264	1.06	0.0002247	314293	infraorder	                                                  Simiiformes
+83.33	20	0	255	1.06	0.0003791	9526	parvorder	                                                    Catarrhini
+83.33	20	1	244	1.05	0.001747	314295	superfamily	                                                      Hominoidea
+79.17	19	0	239	1.05	0.003364	9604	family	                                                        Hominidae
+79.17	19	1	234	1.06	0.004652	207598	subfamily	                                                          Homininae
+70.83	17	8	204	1.06	0.01257	9605	genus	                                                            Homo
+37.5	9	6	74	1.08	0.008537	9606	species	                                                              Homo sapiens
+12.5	3	3	39	1.13	0.02132	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.167	1	0	4	1	0.0002531	9592	genus	                                                            Gorilla
+4.167	1	1	4	1	0.0005662	9593	species	                                                              Gorilla gorilla
+4.167	1	0	5	1	1.527e-06	314147	clade	                                              Glires
+4.167	1	0	5	1	1.632e-06	9989	order	                                                Rodentia
+4.167	1	0	5	1	8.348e-06	33553	suborder	                                                  Sciuromorpha
+4.167	1	0	5	1	8.852e-06	55153	family	                                                    Sciuridae
+4.167	1	0	5	1	3.715e-05	337726	subfamily	                                                      Xerinae
+4.167	1	0	5	1	3.715e-05	337730	tribe	                                                        Marmotini
+4.167	1	1	5	1	0.0002258	9992	genus	                                                          Marmota

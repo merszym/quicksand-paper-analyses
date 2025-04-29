@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:22:34Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/9c/da8cafe68c63c38c1f6fbca2e51add
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl14_rep68_simadna_neanderthals.kraken.report --output output.kraken rl14_rep68_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+14.29	2	2	198	1	NA	0	no rank	unclassified
+85.71	12	0	158	1	1.286e-05	1	no rank	root
+85.71	12	0	158	1	1.286e-05	131567	no rank	  cellular organisms
+85.71	12	0	158	1	1.286e-05	2759	superkingdom	    Eukaryota
+85.71	12	0	158	1	1.286e-05	33154	clade	      Opisthokonta
+85.71	12	0	158	1	1.286e-05	33208	kingdom	        Metazoa
+85.71	12	0	158	1	1.286e-05	6072	clade	          Eumetazoa
+85.71	12	0	158	1	1.286e-05	33213	clade	            Bilateria
+85.71	12	0	158	1	1.286e-05	33511	clade	              Deuterostomia
+85.71	12	0	158	1	1.286e-05	7711	phylum	                Chordata
+85.71	12	0	158	1	1.286e-05	89593	subphylum	                  Craniata
+85.71	12	0	158	1	1.286e-05	7742	clade	                    Vertebrata
+85.71	12	0	158	1	1.286e-05	7776	clade	                      Gnathostomata
+85.71	12	0	158	1	1.286e-05	117570	clade	                        Teleostomi
+85.71	12	0	158	1	1.286e-05	117571	clade	                          Euteleostomi
+85.71	12	0	158	1	1.286e-05	8287	superclass	                            Sarcopterygii
+85.71	12	0	158	1	1.286e-05	1338369	clade	                              Dipnotetrapodomorpha
+85.71	12	0	158	1	1.286e-05	32523	clade	                                Tetrapoda
+85.71	12	0	158	1	1.286e-05	32524	clade	                                  Amniota
+85.71	12	0	158	1	1.286e-05	40674	class	                                    Mammalia
+85.71	12	0	158	1	1.291e-05	32525	clade	                                      Theria
+85.71	12	0	154	1	1.326e-05	9347	clade	                                        Eutheria
+85.71	12	0	150	1	1.382e-05	1437010	clade	                                          Boreoeutheria
+85.71	12	0	133	1	2.53e-05	314146	superorder	                                            Euarchontoglires
+78.57	11	0	112	1	6.139e-05	9443	order	                                              Primates
+78.57	11	0	112	1	9.193e-05	376913	suborder	                                                Haplorrhini
+78.57	11	2	112	1	9.533e-05	314293	infraorder	                                                  Simiiformes
+64.29	9	0	108	1	0.0001605	9526	parvorder	                                                    Catarrhini
+64.29	9	0	92	1	0.0006589	314295	superfamily	                                                      Hominoidea
+64.29	9	0	91	1	0.001281	9604	family	                                                        Hominidae
+64.29	9	2	91	1	0.001809	207598	subfamily	                                                          Homininae
+42.86	6	5	74	1	0.00456	9605	genus	                                                            Homo
+7.143	1	1	19	1	0.002192	9606	species	                                                              Homo sapiens
+7.143	1	0	7	1	0.0004773	9596	genus	                                                            Pan
+7.143	1	1	7	1	0.001145	9598	species	                                                              Pan troglodytes
+7.143	1	0	15	1	4.58e-06	314147	clade	                                              Glires
+7.143	1	0	15	1	4.896e-06	9989	order	                                                Rodentia
+7.143	1	0	12	1	6.432e-06	1963758	suborder	                                                  Myomorpha
+7.143	1	0	12	1	6.804e-06	337687	clade	                                                    Muroidea
+7.143	1	0	12	1	1.251e-05	10066	family	                                                      Muridae
+7.143	1	0	12	1	1.378e-05	39107	subfamily	                                                        Murinae
+7.143	1	0	12	1	0.0004694	83760	genus	                                                          Sundamys
+7.143	1	1	12	1	0.002118	83761	species	                                                            Sundamys muelleri

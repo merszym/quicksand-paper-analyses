@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:03Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/1d/8d686865ee83fe1e689afbadc077af
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl16_rep88_simadna_neanderthals.kraken.report --output output.kraken rl16_rep88_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	16	0	251	1.06	2.043e-05	1	no rank	root
+100	16	0	251	1.06	2.043e-05	131567	no rank	  cellular organisms
+100	16	0	251	1.06	2.043e-05	2759	superkingdom	    Eukaryota
+100	16	0	251	1.06	2.043e-05	33154	clade	      Opisthokonta
+100	16	0	251	1.06	2.043e-05	33208	kingdom	        Metazoa
+100	16	0	251	1.06	2.043e-05	6072	clade	          Eumetazoa
+100	16	0	251	1.06	2.043e-05	33213	clade	            Bilateria
+100	16	0	251	1.06	2.043e-05	33511	clade	              Deuterostomia
+100	16	0	251	1.06	2.043e-05	7711	phylum	                Chordata
+100	16	0	251	1.06	2.043e-05	89593	subphylum	                  Craniata
+100	16	0	251	1.06	2.043e-05	7742	clade	                    Vertebrata
+100	16	0	251	1.06	2.043e-05	7776	clade	                      Gnathostomata
+100	16	0	251	1.06	2.043e-05	117570	clade	                        Teleostomi
+100	16	0	251	1.06	2.043e-05	117571	clade	                          Euteleostomi
+100	16	0	251	1.06	2.043e-05	8287	superclass	                            Sarcopterygii
+100	16	0	251	1.06	2.043e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	16	0	251	1.06	2.043e-05	32523	clade	                                Tetrapoda
+100	16	0	251	1.06	2.043e-05	32524	clade	                                  Amniota
+100	16	0	251	1.06	2.043e-05	40674	class	                                    Mammalia
+100	16	0	248	1.06	2.026e-05	32525	clade	                                      Theria
+100	16	0	247	1.06	2.127e-05	9347	clade	                                        Eutheria
+100	16	3	215	1.07	1.981e-05	1437010	clade	                                          Boreoeutheria
+75	12	0	152	1.1	2.891e-05	314146	superorder	                                            Euarchontoglires
+75	12	0	150	1.1	8.222e-05	9443	order	                                              Primates
+75	12	0	150	1.1	0.0001231	376913	suborder	                                                Haplorrhini
+75	12	0	150	1.1	0.0001277	314293	infraorder	                                                  Simiiformes
+75	12	1	139	1.11	0.0002066	9526	parvorder	                                                    Catarrhini
+56.25	9	0	114	1.13	0.0008164	314295	superfamily	                                                      Hominoidea
+56.25	9	0	109	1.14	0.001534	9604	family	                                                        Hominidae
+56.25	9	0	109	1.14	0.002167	207598	subfamily	                                                          Homininae
+56.25	9	5	77	1.03	0.004745	9605	genus	                                                            Homo
+25	4	3	30	1	0.003461	9606	species	                                                              Homo sapiens
+6.25	1	1	13	1	0.007108	63221	subspecies	                                                                Homo sapiens neanderthalensis
+12.5	2	0	14	1	2.658e-05	314294	superfamily	                                                      Cercopithecoidea
+12.5	2	0	14	1	2.658e-05	9527	family	                                                        Cercopithecidae
+12.5	2	1	14	1	4.54e-05	9528	subfamily	                                                          Cercopithecinae
+6.25	1	0	2	1	1.894e-05	9539	genus	                                                            Macaca
+6.25	1	1	2	1	0.0007107	54602	species	                                                              Macaca thibetana
+6.25	1	0	10	1	1.937e-06	314145	superorder	                                            Laurasiatheria
+6.25	1	0	2	1	1.366e-06	9397	order	                                              Chiroptera
+6.25	1	0	2	1	1.763e-06	30560	suborder	                                                Microchiroptera
+6.25	1	0	2	1	5.126e-06	9415	family	                                                  Phyllostomidae
+6.25	1	0	2	1	1.72e-05	40238	subfamily	                                                    Phyllostominae
+6.25	1	0	1	1	5.623e-05	148056	genus	                                                      Micronycteris
+6.25	1	1	1	1	0.0001172	148066	species	                                                        Micronycteris megalotis

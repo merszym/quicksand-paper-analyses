@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:01Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/7a/b9feab3f17a138d5c63fd1d04781da
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl28_rep27_simadna_neanderthals.kraken.report --output output.kraken rl28_rep27_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+14.29	4	4	474	1	NA	0	no rank	unclassified
+85.71	24	0	459	1	3.736e-05	1	no rank	root
+85.71	24	0	459	1	3.736e-05	131567	no rank	  cellular organisms
+85.71	24	0	459	1	3.736e-05	2759	superkingdom	    Eukaryota
+85.71	24	0	459	1	3.736e-05	33154	clade	      Opisthokonta
+85.71	24	0	459	1	3.736e-05	33208	kingdom	        Metazoa
+85.71	24	0	459	1	3.736e-05	6072	clade	          Eumetazoa
+85.71	24	0	459	1	3.736e-05	33213	clade	            Bilateria
+85.71	24	0	459	1	3.736e-05	33511	clade	              Deuterostomia
+85.71	24	0	459	1	3.736e-05	7711	phylum	                Chordata
+85.71	24	0	459	1	3.736e-05	89593	subphylum	                  Craniata
+85.71	24	0	459	1	3.736e-05	7742	clade	                    Vertebrata
+85.71	24	0	459	1	3.736e-05	7776	clade	                      Gnathostomata
+85.71	24	0	459	1	3.736e-05	117570	clade	                        Teleostomi
+85.71	24	0	459	1	3.736e-05	117571	clade	                          Euteleostomi
+85.71	24	0	459	1	3.736e-05	8287	superclass	                            Sarcopterygii
+85.71	24	0	459	1	3.736e-05	1338369	clade	                              Dipnotetrapodomorpha
+85.71	24	0	459	1	3.736e-05	32523	clade	                                Tetrapoda
+85.71	24	0	459	1	3.736e-05	32524	clade	                                  Amniota
+85.71	24	0	459	1	3.736e-05	40674	class	                                    Mammalia
+85.71	24	0	454	1	3.709e-05	32525	clade	                                      Theria
+85.71	24	2	417	1	3.591e-05	9347	clade	                                        Eutheria
+78.57	22	1	401	1	3.694e-05	1437010	clade	                                          Boreoeutheria
+71.43	20	0	350	1	6.658e-05	314146	superorder	                                            Euarchontoglires
+71.43	20	0	343	1	0.000188	9443	order	                                              Primates
+71.43	20	0	340	1	0.0002791	376913	suborder	                                                Haplorrhini
+71.43	20	0	340	1	0.0002894	314293	infraorder	                                                  Simiiformes
+67.86	19	1	326	1	0.0004846	9526	parvorder	                                                    Catarrhini
+64.29	18	0	269	1	0.001926	314295	superfamily	                                                      Hominoidea
+64.29	18	0	253	1	0.003561	9604	family	                                                        Hominidae
+64.29	18	1	252	1	0.00501	207598	subfamily	                                                          Homininae
+60.71	17	4	202	1	0.01245	9605	genus	                                                            Homo
+46.43	13	7	107	1	0.01234	9606	species	                                                              Homo sapiens
+21.43	6	6	37	1	0.02023	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.571	1	0	9	1	1.818e-05	9479	parvorder	                                                    Platyrrhini
+3.571	1	0	4	1	2.815e-05	376919	family	                                                      Pitheciidae
+3.571	1	0	4	1	6.108e-05	38039	subfamily	                                                        Pitheciinae
+3.571	1	1	4	1	0.0001507	30595	genus	                                                          Cacajao
+3.571	1	0	7	1	1.356e-06	314145	superorder	                                            Laurasiatheria
+3.571	1	0	3	1	2.349e-06	33554	order	                                              Carnivora
+3.571	1	0	3	1	3.844e-06	379584	suborder	                                                Caniformia
+3.571	1	0	3	1	1.077e-05	9655	family	                                                  Mustelidae
+3.571	1	0	3	1	0.0002889	1008259	subfamily	                                                    Mellivoriane
+3.571	1	0	3	1	0.0002889	9663	genus	                                                      Mellivora
+3.571	1	1	3	1	0.0002889	9664	species	                                                        Mellivora capensis

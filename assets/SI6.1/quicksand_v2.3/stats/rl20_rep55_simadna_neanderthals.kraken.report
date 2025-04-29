@@ -1,0 +1,55 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:26Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/0f/c185e106ace5f540972551e5027894
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl20_rep55_simadna_neanderthals.kraken.report --output output.kraken rl20_rep55_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+30	6	6	297	1	NA	0	no rank	unclassified
+70	14	0	177	1	1.441e-05	1	no rank	root
+70	14	0	177	1	1.441e-05	131567	no rank	  cellular organisms
+70	14	0	177	1	1.441e-05	2759	superkingdom	    Eukaryota
+70	14	0	177	1	1.441e-05	33154	clade	      Opisthokonta
+70	14	0	177	1	1.441e-05	33208	kingdom	        Metazoa
+70	14	0	177	1	1.441e-05	6072	clade	          Eumetazoa
+70	14	0	177	1	1.441e-05	33213	clade	            Bilateria
+70	14	0	177	1	1.441e-05	33511	clade	              Deuterostomia
+70	14	0	177	1	1.441e-05	7711	phylum	                Chordata
+70	14	0	177	1	1.441e-05	89593	subphylum	                  Craniata
+70	14	0	177	1	1.441e-05	7742	clade	                    Vertebrata
+70	14	0	177	1	1.441e-05	7776	clade	                      Gnathostomata
+70	14	0	177	1	1.441e-05	117570	clade	                        Teleostomi
+70	14	0	177	1	1.441e-05	117571	clade	                          Euteleostomi
+70	14	0	177	1	1.441e-05	8287	superclass	                            Sarcopterygii
+70	14	0	177	1	1.441e-05	1338369	clade	                              Dipnotetrapodomorpha
+70	14	0	177	1	1.441e-05	32523	clade	                                Tetrapoda
+70	14	0	177	1	1.441e-05	32524	clade	                                  Amniota
+70	14	0	177	1	1.441e-05	40674	class	                                    Mammalia
+70	14	0	176	1	1.438e-05	32525	clade	                                      Theria
+70	14	0	176	1	1.516e-05	9347	clade	                                        Eutheria
+65	13	0	162	1	1.492e-05	1437010	clade	                                          Boreoeutheria
+60	12	2	149	1	2.834e-05	314146	superorder	                                            Euarchontoglires
+50	10	0	133	1	7.29e-05	9443	order	                                              Primates
+50	10	0	131	1	0.0001075	376913	suborder	                                                Haplorrhini
+50	10	0	131	1	0.0001115	314293	infraorder	                                                  Simiiformes
+50	10	0	120	1	0.0001784	9526	parvorder	                                                    Catarrhini
+45	9	1	114	1	0.0008164	314295	superfamily	                                                      Hominoidea
+40	8	0	109	1	0.001534	9604	family	                                                        Hominidae
+40	8	0	104	1	0.002068	207598	subfamily	                                                          Homininae
+40	8	2	79	1	0.004868	9605	genus	                                                            Homo
+30	6	2	35	1	0.004038	9606	species	                                                              Homo sapiens
+20	4	4	21	1	0.01148	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5	1	0	3	1	5.695e-06	314294	superfamily	                                                      Cercopithecoidea
+5	1	0	3	1	5.695e-06	9527	family	                                                        Cercopithecidae
+5	1	0	3	1	1.443e-05	9569	subfamily	                                                          Colobinae
+5	1	0	3	1	0.0002721	88028	genus	                                                            Semnopithecus
+5	1	1	3	1	0.0009172	88029	species	                                                              Semnopithecus entellus
+5	1	0	2	1	3.875e-07	314145	superorder	                                            Laurasiatheria
+5	1	0	2	1	1.366e-06	9397	order	                                              Chiroptera
+5	1	0	2	1	6.257e-06	30559	suborder	                                                Megachiroptera
+5	1	0	2	1	6.257e-06	9398	family	                                                  Pteropodidae
+5	1	0	2	1	9.136e-06	77225	subfamily	                                                    Pteropodinae
+5	1	0	2	1	0.000202	77228	genus	                                                      Balionycteris
+5	1	1	2	1	0.000202	77229	species	                                                        Balionycteris maculata
+5	1	0	1	1	3.181e-06	9348	superorder	                                          Xenarthra
+5	1	0	1	1	6.3e-06	948950	order	                                            Pilosa
+5	1	0	1	1	2.694e-05	948952	suborder	                                              Vermilingua
+5	1	0	1	1	9.515e-05	948954	family	                                                Cyclopedidae
+5	1	0	1	1	9.515e-05	84073	genus	                                                  Cyclopes
+5	1	1	1	1	9.515e-05	84074	species	                                                    Cyclopes didactylus

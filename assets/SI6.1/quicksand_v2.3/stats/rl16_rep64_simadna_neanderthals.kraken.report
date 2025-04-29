@@ -1,0 +1,53 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:29Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/94/0856a39337323331fb131595109e4f
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl16_rep64_simadna_neanderthals.kraken.report --output output.kraken rl16_rep64_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+6.25	1	1	322	1	NA	0	no rank	unclassified
+93.75	15	0	222	1	1.807e-05	1	no rank	root
+93.75	15	0	222	1	1.807e-05	131567	no rank	  cellular organisms
+93.75	15	0	222	1	1.807e-05	2759	superkingdom	    Eukaryota
+93.75	15	0	222	1	1.807e-05	33154	clade	      Opisthokonta
+93.75	15	0	222	1	1.807e-05	33208	kingdom	        Metazoa
+93.75	15	0	222	1	1.807e-05	6072	clade	          Eumetazoa
+93.75	15	0	222	1	1.807e-05	33213	clade	            Bilateria
+93.75	15	0	222	1	1.807e-05	33511	clade	              Deuterostomia
+93.75	15	0	222	1	1.807e-05	7711	phylum	                Chordata
+93.75	15	0	222	1	1.807e-05	89593	subphylum	                  Craniata
+93.75	15	0	222	1	1.807e-05	7742	clade	                    Vertebrata
+93.75	15	0	222	1	1.807e-05	7776	clade	                      Gnathostomata
+93.75	15	0	222	1	1.807e-05	117570	clade	                        Teleostomi
+93.75	15	0	222	1	1.807e-05	117571	clade	                          Euteleostomi
+93.75	15	0	222	1	1.807e-05	8287	superclass	                            Sarcopterygii
+93.75	15	0	222	1	1.807e-05	1338369	clade	                              Dipnotetrapodomorpha
+93.75	15	0	222	1	1.807e-05	32523	clade	                                Tetrapoda
+93.75	15	0	222	1	1.807e-05	32524	clade	                                  Amniota
+93.75	15	0	222	1	1.807e-05	40674	class	                                    Mammalia
+93.75	15	0	222	1	1.814e-05	32525	clade	                                      Theria
+93.75	15	0	222	1	1.912e-05	9347	clade	                                        Eutheria
+93.75	15	1	217	1	1.999e-05	1437010	clade	                                          Boreoeutheria
+87.5	14	0	214	1	4.071e-05	314146	superorder	                                            Euarchontoglires
+81.25	13	0	189	1	0.0001036	9443	order	                                              Primates
+81.25	13	0	189	1	0.0001551	376913	suborder	                                                Haplorrhini
+81.25	13	0	189	1	0.0001609	314293	infraorder	                                                  Simiiformes
+75	12	0	168	1	0.0002497	9526	parvorder	                                                    Catarrhini
+75	12	0	164	1	0.001174	314295	superfamily	                                                      Hominoidea
+75	12	0	161	1	0.002266	9604	family	                                                        Hominidae
+75	12	2	160	1	0.003181	207598	subfamily	                                                          Homininae
+56.25	9	3	100	1	0.006162	9605	genus	                                                            Homo
+37.5	6	4	49	1	0.005653	9606	species	                                                              Homo sapiens
+6.25	1	1	22	1	0.01203	63221	subspecies	                                                                Homo sapiens neanderthalensis
+6.25	1	1	5	1	0.001919	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+6.25	1	0	11	1	0.0006961	9592	genus	                                                            Gorilla
+6.25	1	1	11	1	0.002022	499232	species	                                                              Gorilla beringei
+6.25	1	0	1	1	2.02e-06	9479	parvorder	                                                    Platyrrhini
+6.25	1	0	1	1	4.543e-06	9498	family	                                                      Cebidae
+6.25	1	0	1	1	6.302e-06	9480	subfamily	                                                        Callitrichinae
+6.25	1	0	1	1	6.048e-05	30587	genus	                                                          Leontopithecus
+6.25	1	1	1	1	0.0001573	30588	species	                                                            Leontopithecus rosalia
+6.25	1	0	9	1	2.748e-06	314147	clade	                                              Glires
+6.25	1	0	9	1	2.937e-06	9989	order	                                                Rodentia
+6.25	1	0	9	1	4.824e-06	1963758	suborder	                                                  Myomorpha
+6.25	1	0	9	1	5.103e-06	337687	clade	                                                    Muroidea
+6.25	1	0	9	1	9.386e-06	10066	family	                                                      Muridae
+6.25	1	0	9	1	1.034e-05	39107	subfamily	                                                        Murinae
+6.25	1	0	9	1	0.001118	337229	genus	                                                          Zyzomys
+6.25	1	1	9	1	0.001118	337230	species	                                                            Zyzomys argurus

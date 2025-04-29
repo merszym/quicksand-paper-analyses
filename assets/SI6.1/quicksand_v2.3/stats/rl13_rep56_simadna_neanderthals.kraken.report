@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:53Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/be/14fe7d7f4a840aca3e527bb45cf339
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl13_rep56_simadna_neanderthals.kraken.report --output output.kraken rl13_rep56_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	13	0	154	1	1.254e-05	1	no rank	root
+100	13	0	154	1	1.254e-05	131567	no rank	  cellular organisms
+100	13	0	154	1	1.254e-05	2759	superkingdom	    Eukaryota
+100	13	0	154	1	1.254e-05	33154	clade	      Opisthokonta
+100	13	0	154	1	1.254e-05	33208	kingdom	        Metazoa
+100	13	0	154	1	1.254e-05	6072	clade	          Eumetazoa
+100	13	0	154	1	1.254e-05	33213	clade	            Bilateria
+100	13	0	154	1	1.254e-05	33511	clade	              Deuterostomia
+100	13	0	154	1	1.254e-05	7711	phylum	                Chordata
+100	13	0	154	1	1.254e-05	89593	subphylum	                  Craniata
+100	13	0	154	1	1.254e-05	7742	clade	                    Vertebrata
+100	13	0	154	1	1.254e-05	7776	clade	                      Gnathostomata
+100	13	0	154	1	1.254e-05	117570	clade	                        Teleostomi
+100	13	0	154	1	1.254e-05	117571	clade	                          Euteleostomi
+100	13	0	154	1	1.254e-05	8287	superclass	                            Sarcopterygii
+100	13	0	154	1	1.254e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	13	0	154	1	1.254e-05	32523	clade	                                Tetrapoda
+100	13	0	154	1	1.254e-05	32524	clade	                                  Amniota
+100	13	0	154	1	1.254e-05	40674	class	                                    Mammalia
+100	13	0	154	1	1.258e-05	32525	clade	                                      Theria
+100	13	0	148	1	1.274e-05	9347	clade	                                        Eutheria
+100	13	0	133	1	1.225e-05	1437010	clade	                                          Boreoeutheria
+92.31	12	0	126	1	2.397e-05	314146	superorder	                                            Euarchontoglires
+84.62	11	0	118	1	6.468e-05	9443	order	                                              Primates
+84.62	11	0	118	1	9.685e-05	376913	suborder	                                                Haplorrhini
+84.62	11	1	118	1	0.0001004	314293	infraorder	                                                  Simiiformes
+76.92	10	0	110	1	0.0001635	9526	parvorder	                                                    Catarrhini
+76.92	10	0	106	1	0.0007591	314295	superfamily	                                                      Hominoidea
+76.92	10	0	106	1	0.001492	9604	family	                                                        Hominidae
+76.92	10	1	106	1	0.002107	207598	subfamily	                                                          Homininae
+69.23	9	6	87	1	0.005361	9605	genus	                                                            Homo
+23.08	3	3	22	1	0.002538	9606	species	                                                              Homo sapiens
+7.692	1	0	7	1	2.137e-06	314147	clade	                                              Glires
+7.692	1	0	7	1	2.285e-06	9989	order	                                                Rodentia
+7.692	1	0	7	1	1.169e-05	33553	suborder	                                                  Sciuromorpha
+7.692	1	1	7	1	1.239e-05	55153	family	                                                    Sciuridae
+7.692	1	0	1	1	1.937e-07	314145	superorder	                                            Laurasiatheria
+7.692	1	0	1	1	6.828e-07	9397	order	                                              Chiroptera
+7.692	1	0	1	1	8.816e-07	30560	suborder	                                                Microchiroptera
+7.692	1	0	1	1	2.563e-06	9415	family	                                                  Phyllostomidae
+7.692	1	0	1	1	8.601e-06	40238	subfamily	                                                    Phyllostominae
+7.692	1	0	1	1	9.727e-05	148060	genus	                                                      Vampyrum
+7.692	1	1	1	1	9.727e-05	148074	species	                                                        Vampyrum spectrum

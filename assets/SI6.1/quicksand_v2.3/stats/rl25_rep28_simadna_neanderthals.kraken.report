@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:33Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/fc/8e3eb3de23682c5de31eb68f484e8b
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl25_rep28_simadna_neanderthals.kraken.report --output output.kraken rl25_rep28_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+4	1	1	320	1	NA	0	no rank	unclassified
+96	24	0	406	1	3.305e-05	1	no rank	root
+96	24	0	406	1	3.305e-05	131567	no rank	  cellular organisms
+96	24	0	406	1	3.305e-05	2759	superkingdom	    Eukaryota
+96	24	0	406	1	3.305e-05	33154	clade	      Opisthokonta
+96	24	0	406	1	3.305e-05	33208	kingdom	        Metazoa
+96	24	0	406	1	3.305e-05	6072	clade	          Eumetazoa
+96	24	0	406	1	3.305e-05	33213	clade	            Bilateria
+96	24	0	406	1	3.305e-05	33511	clade	              Deuterostomia
+96	24	0	406	1	3.305e-05	7711	phylum	                Chordata
+96	24	0	406	1	3.305e-05	89593	subphylum	                  Craniata
+96	24	0	406	1	3.305e-05	7742	clade	                    Vertebrata
+96	24	0	406	1	3.305e-05	7776	clade	                      Gnathostomata
+96	24	0	406	1	3.305e-05	117570	clade	                        Teleostomi
+96	24	0	406	1	3.305e-05	117571	clade	                          Euteleostomi
+96	24	0	406	1	3.305e-05	8287	superclass	                            Sarcopterygii
+96	24	0	406	1	3.305e-05	1338369	clade	                              Dipnotetrapodomorpha
+96	24	0	406	1	3.305e-05	32523	clade	                                Tetrapoda
+96	24	0	406	1	3.305e-05	32524	clade	                                  Amniota
+96	24	0	406	1	3.305e-05	40674	class	                                    Mammalia
+96	24	2	406	1	3.317e-05	32525	clade	                                      Theria
+88	22	1	392	1	3.376e-05	9347	clade	                                        Eutheria
+84	21	1	370	1	3.408e-05	1437010	clade	                                          Boreoeutheria
+80	20	0	327	1	6.22e-05	314146	superorder	                                            Euarchontoglires
+80	20	0	314	1	0.0001721	9443	order	                                              Primates
+80	20	0	314	1	0.0002577	376913	suborder	                                                Haplorrhini
+80	20	1	314	1	0.0002673	314293	infraorder	                                                  Simiiformes
+76	19	0	306	1	0.0004549	9526	parvorder	                                                    Catarrhini
+68	17	0	279	1	0.001998	314295	superfamily	                                                      Hominoidea
+64	16	1	259	1	0.003645	9604	family	                                                        Hominidae
+60	15	1	250	1	0.00497	207598	subfamily	                                                          Homininae
+52	13	8	213	1	0.01313	9605	genus	                                                            Homo
+20	5	1	106	1	0.01223	9606	species	                                                              Homo sapiens
+16	4	4	81	1	0.04429	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4	1	0	13	1	0.0008226	9592	genus	                                                            Gorilla
+4	1	1	5	1	0.0007077	9593	species	                                                              Gorilla gorilla
+4	1	0	14	1	0.0002102	9577	family	                                                        Hylobatidae
+4	1	1	5	1	0.0003409	325165	genus	                                                          Nomascus
+8	2	0	12	1	2.278e-05	314294	superfamily	                                                      Cercopithecoidea
+8	2	0	12	1	2.278e-05	9527	family	                                                        Cercopithecidae
+4	1	1	7	1	2.27e-05	9528	subfamily	                                                          Cercopithecinae
+4	1	0	5	1	2.405e-05	9569	subfamily	                                                          Colobinae
+4	1	0	1	1	0.0001055	9573	genus	                                                            Presbytis
+4	1	1	1	1	0.0001055	78451	species	                                                              Presbytis melalophos

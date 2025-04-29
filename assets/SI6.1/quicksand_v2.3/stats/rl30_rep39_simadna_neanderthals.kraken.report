@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:53Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/d9/99d5a4501d85a6c5247841680f587e
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl30_rep39_simadna_neanderthals.kraken.report --output output.kraken rl30_rep39_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+13.33	4	4	261	1	NA	0	no rank	unclassified
+86.67	26	0	529	1	4.306e-05	1	no rank	root
+86.67	26	0	529	1	4.306e-05	131567	no rank	  cellular organisms
+86.67	26	0	529	1	4.306e-05	2759	superkingdom	    Eukaryota
+86.67	26	0	529	1	4.306e-05	33154	clade	      Opisthokonta
+86.67	26	0	529	1	4.306e-05	33208	kingdom	        Metazoa
+86.67	26	0	529	1	4.306e-05	6072	clade	          Eumetazoa
+86.67	26	0	529	1	4.306e-05	33213	clade	            Bilateria
+86.67	26	0	529	1	4.306e-05	33511	clade	              Deuterostomia
+86.67	26	0	529	1	4.306e-05	7711	phylum	                Chordata
+86.67	26	0	529	1	4.306e-05	89593	subphylum	                  Craniata
+86.67	26	0	529	1	4.306e-05	7742	clade	                    Vertebrata
+86.67	26	0	529	1	4.306e-05	7776	clade	                      Gnathostomata
+86.67	26	0	529	1	4.306e-05	117570	clade	                        Teleostomi
+86.67	26	0	529	1	4.306e-05	117571	clade	                          Euteleostomi
+86.67	26	0	529	1	4.306e-05	8287	superclass	                            Sarcopterygii
+86.67	26	0	529	1	4.306e-05	1338369	clade	                              Dipnotetrapodomorpha
+86.67	26	0	529	1	4.306e-05	32523	clade	                                Tetrapoda
+86.67	26	0	529	1	4.306e-05	32524	clade	                                  Amniota
+86.67	26	0	529	1	4.306e-05	40674	class	                                    Mammalia
+86.67	26	0	529	1	4.321e-05	32525	clade	                                      Theria
+86.67	26	0	518	1	4.461e-05	9347	clade	                                        Eutheria
+86.67	26	0	494	1	4.551e-05	1437010	clade	                                          Boreoeutheria
+86.67	26	0	431	1	8.199e-05	314146	superorder	                                            Euarchontoglires
+83.33	25	0	413	1	0.0002264	9443	order	                                              Primates
+83.33	25	0	405	1	0.0003324	376913	suborder	                                                Haplorrhini
+83.33	25	1	405	1	0.0003447	314293	infraorder	                                                  Simiiformes
+80	24	0	395	1	0.0005872	9526	parvorder	                                                    Catarrhini
+76.67	23	0	362	1	0.002592	314295	superfamily	                                                      Hominoidea
+76.67	23	0	356	1	0.005011	9604	family	                                                        Hominidae
+76.67	23	3	354	1	0.007038	207598	subfamily	                                                          Homininae
+63.33	19	8	254	1	0.01565	9605	genus	                                                            Homo
+36.67	11	8	93	1	0.01073	9606	species	                                                              Homo sapiens
+10	3	3	24	1	0.01312	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.333	1	1	11	1	0.0006961	9592	genus	                                                            Gorilla
+3.333	1	0	11	1	2.088e-05	314294	superfamily	                                                      Cercopithecoidea
+3.333	1	0	11	1	2.088e-05	9527	family	                                                        Cercopithecidae
+3.333	1	0	7	1	3.367e-05	9569	subfamily	                                                          Colobinae
+3.333	1	1	1	1	3.27e-05	542827	genus	                                                            Rhinopithecus
+3.333	1	0	6	1	1.832e-06	314147	clade	                                              Glires
+3.333	1	0	3	1	1.493e-05	9975	order	                                                Lagomorpha
+3.333	1	0	3	1	2.757e-05	9979	family	                                                  Leporidae
+3.333	1	0	3	1	0.0002951	48082	genus	                                                    Brachylagus
+3.333	1	1	3	1	0.0002951	48083	species	                                                      Brachylagus idahoensis

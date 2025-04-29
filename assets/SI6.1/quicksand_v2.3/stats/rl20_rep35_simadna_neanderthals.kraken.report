@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:20Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/c2/b41b5ece622d1c5465972365f221f7
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl20_rep35_simadna_neanderthals.kraken.report --output output.kraken rl20_rep35_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+25	5	5	374	1	NA	0	no rank	unclassified
+75	15	0	310	1	2.523e-05	1	no rank	root
+75	15	0	310	1	2.523e-05	131567	no rank	  cellular organisms
+75	15	0	310	1	2.523e-05	2759	superkingdom	    Eukaryota
+75	15	0	310	1	2.523e-05	33154	clade	      Opisthokonta
+75	15	0	310	1	2.523e-05	33208	kingdom	        Metazoa
+75	15	0	310	1	2.523e-05	6072	clade	          Eumetazoa
+75	15	0	310	1	2.523e-05	33213	clade	            Bilateria
+75	15	0	310	1	2.523e-05	33511	clade	              Deuterostomia
+75	15	0	310	1	2.523e-05	7711	phylum	                Chordata
+75	15	0	310	1	2.523e-05	89593	subphylum	                  Craniata
+75	15	0	310	1	2.523e-05	7742	clade	                    Vertebrata
+75	15	0	310	1	2.523e-05	7776	clade	                      Gnathostomata
+75	15	0	310	1	2.523e-05	117570	clade	                        Teleostomi
+75	15	0	310	1	2.523e-05	117571	clade	                          Euteleostomi
+75	15	0	310	1	2.523e-05	8287	superclass	                            Sarcopterygii
+75	15	0	310	1	2.523e-05	1338369	clade	                              Dipnotetrapodomorpha
+75	15	0	310	1	2.523e-05	32523	clade	                                Tetrapoda
+75	15	0	310	1	2.523e-05	32524	clade	                                  Amniota
+75	15	0	310	1	2.523e-05	40674	class	                                    Mammalia
+75	15	0	307	1	2.508e-05	32525	clade	                                      Theria
+75	15	0	282	1	2.428e-05	9347	clade	                                        Eutheria
+75	15	0	229	1	2.11e-05	1437010	clade	                                          Boreoeutheria
+75	15	0	192	1.01	3.652e-05	314146	superorder	                                            Euarchontoglires
+75	15	0	178	1.01	9.757e-05	9443	order	                                              Primates
+70	14	0	173	1.01	0.000142	376913	suborder	                                                Haplorrhini
+70	14	0	173	1.01	0.0001472	314293	infraorder	                                                  Simiiformes
+65	13	2	154	1.01	0.0002289	9526	parvorder	                                                    Catarrhini
+55	11	1	129	1.01	0.0009238	314295	superfamily	                                                      Hominoidea
+50	10	0	108	1.01	0.00152	9604	family	                                                        Hominidae
+50	10	3	104	1.01	0.002068	207598	subfamily	                                                          Homininae
+35	7	5	84	1.01	0.005176	9605	genus	                                                            Homo
+10	2	0	45	1	0.005192	9606	species	                                                              Homo sapiens
+10	2	2	29	1	0.01586	63221	subspecies	                                                                Homo sapiens neanderthalensis
+5	1	0	6	1	1.212e-05	9479	parvorder	                                                    Platyrrhini
+5	1	0	6	1	0.0002032	376918	family	                                                      Aotidae
+5	1	0	6	1	0.0002032	9504	genus	                                                        Aotus
+5	1	1	6	1	0.0009443	30591	species	                                                          Aotus azarai
+5	1	0	4	1	6.679e-06	376911	suborder	                                                Strepsirrhini
+5	1	0	4	1	7.828e-06	376915	infraorder	                                                  Lemuriformes
+5	1	0	4	1	2.027e-05	30615	family	                                                    Cheirogaleidae
+5	1	0	4	1	0.0003924	122247	genus	                                                      Allocebus
+5	1	1	4	1	0.0003924	3043103	species	                                                        Allocebus trichotus

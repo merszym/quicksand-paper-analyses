@@ -1,0 +1,45 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:06Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/92/f2428f4ec6819b3e9bd1c3fea4ae36
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl12_rep92_simadna_neanderthals.kraken.report --output output.kraken rl12_rep92_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	12	0	272	1	2.214e-05	1	no rank	root
+100	12	0	272	1	2.214e-05	131567	no rank	  cellular organisms
+100	12	0	272	1	2.214e-05	2759	superkingdom	    Eukaryota
+100	12	0	272	1	2.214e-05	33154	clade	      Opisthokonta
+100	12	0	272	1	2.214e-05	33208	kingdom	        Metazoa
+100	12	0	272	1	2.214e-05	6072	clade	          Eumetazoa
+100	12	0	272	1	2.214e-05	33213	clade	            Bilateria
+100	12	0	272	1	2.214e-05	33511	clade	              Deuterostomia
+100	12	0	272	1	2.214e-05	7711	phylum	                Chordata
+100	12	0	272	1	2.214e-05	89593	subphylum	                  Craniata
+100	12	0	272	1	2.214e-05	7742	clade	                    Vertebrata
+100	12	0	272	1	2.214e-05	7776	clade	                      Gnathostomata
+100	12	0	272	1	2.214e-05	117570	clade	                        Teleostomi
+100	12	0	272	1	2.214e-05	117571	clade	                          Euteleostomi
+100	12	0	272	1	2.214e-05	8287	superclass	                            Sarcopterygii
+100	12	0	272	1	2.214e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	12	0	272	1	2.214e-05	32523	clade	                                Tetrapoda
+100	12	0	272	1	2.214e-05	32524	clade	                                  Amniota
+100	12	0	272	1	2.214e-05	40674	class	                                    Mammalia
+100	12	0	270	1	2.206e-05	32525	clade	                                      Theria
+100	12	0	269	1	2.316e-05	9347	clade	                                        Eutheria
+100	12	0	244	1	2.248e-05	1437010	clade	                                          Boreoeutheria
+100	12	0	215	1	4.09e-05	314146	superorder	                                            Euarchontoglires
+91.67	11	0	186	1	0.000102	9443	order	                                              Primates
+91.67	11	0	186	1	0.0001527	376913	suborder	                                                Haplorrhini
+91.67	11	0	186	1	0.0001583	314293	infraorder	                                                  Simiiformes
+91.67	11	0	186	1	0.0002765	9526	parvorder	                                                    Catarrhini
+91.67	11	0	158	1	0.001132	314295	superfamily	                                                      Hominoidea
+91.67	11	0	132	1	0.001858	9604	family	                                                        Hominidae
+91.67	11	0	131	1	0.002604	207598	subfamily	                                                          Homininae
+83.33	10	4	91	1	0.005608	9605	genus	                                                            Homo
+50	6	4	35	1	0.004038	9606	species	                                                              Homo sapiens
+16.67	2	2	12	1	0.006561	63221	subspecies	                                                                Homo sapiens neanderthalensis
+8.333	1	1	5	1	0.0003164	9592	genus	                                                            Gorilla
+8.333	1	0	16	1	4.885e-06	314147	clade	                                              Glires
+8.333	1	0	16	1	5.222e-06	9989	order	                                                Rodentia
+8.333	1	0	3	1	1.608e-06	1963758	suborder	                                                  Myomorpha
+8.333	1	0	3	1	1.701e-06	337687	clade	                                                    Muroidea
+8.333	1	0	3	1	4.846e-06	337677	family	                                                      Cricetidae
+8.333	1	0	3	1	1.785e-05	337963	subfamily	                                                        Neotominae
+8.333	1	0	3	1	4.141e-05	10040	genus	                                                          Peromyscus
+8.333	1	1	3	1	0.0004259	97206	species	                                                            Peromyscus attwateri

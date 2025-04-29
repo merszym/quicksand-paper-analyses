@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:38Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/40/82a2067cb07f448e8983c447a32c32
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl27_rep72_simadna_neanderthals.kraken.report --output output.kraken rl27_rep72_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+11.11	3	3	460	1	NA	0	no rank	unclassified
+88.89	24	0	407	1.03	3.313e-05	1	no rank	root
+88.89	24	0	407	1.03	3.313e-05	131567	no rank	  cellular organisms
+88.89	24	0	407	1.03	3.313e-05	2759	superkingdom	    Eukaryota
+88.89	24	0	407	1.03	3.313e-05	33154	clade	      Opisthokonta
+88.89	24	0	407	1.03	3.313e-05	33208	kingdom	        Metazoa
+88.89	24	0	407	1.03	3.313e-05	6072	clade	          Eumetazoa
+88.89	24	0	407	1.03	3.313e-05	33213	clade	            Bilateria
+88.89	24	0	407	1.03	3.313e-05	33511	clade	              Deuterostomia
+88.89	24	0	407	1.03	3.313e-05	7711	phylum	                Chordata
+88.89	24	0	407	1.03	3.313e-05	89593	subphylum	                  Craniata
+88.89	24	0	407	1.03	3.313e-05	7742	clade	                    Vertebrata
+88.89	24	0	407	1.03	3.313e-05	7776	clade	                      Gnathostomata
+88.89	24	0	407	1.03	3.313e-05	117570	clade	                        Teleostomi
+88.89	24	0	407	1.03	3.313e-05	117571	clade	                          Euteleostomi
+88.89	24	0	407	1.03	3.313e-05	8287	superclass	                            Sarcopterygii
+88.89	24	0	407	1.03	3.313e-05	1338369	clade	                              Dipnotetrapodomorpha
+88.89	24	0	407	1.03	3.313e-05	32523	clade	                                Tetrapoda
+88.89	24	0	407	1.03	3.313e-05	32524	clade	                                  Amniota
+88.89	24	0	407	1.03	3.313e-05	40674	class	                                    Mammalia
+88.89	24	0	405	1.03	3.308e-05	32525	clade	                                      Theria
+88.89	24	0	405	1.03	3.488e-05	9347	clade	                                        Eutheria
+88.89	24	0	393	1.03	3.62e-05	1437010	clade	                                          Boreoeutheria
+88.89	24	0	339	1.03	6.449e-05	314146	superorder	                                            Euarchontoglires
+88.89	24	0	324	1.03	0.0001776	9443	order	                                              Primates
+88.89	24	0	323	1.03	0.0002651	376913	suborder	                                                Haplorrhini
+88.89	24	0	323	1.03	0.0002749	314293	infraorder	                                                  Simiiformes
+88.89	24	0	323	1.03	0.0004802	9526	parvorder	                                                    Catarrhini
+85.19	23	0	311	1.01	0.002227	314295	superfamily	                                                      Hominoidea
+85.19	23	1	305	1	0.004293	9604	family	                                                        Hominidae
+81.48	22	1	302	1	0.006004	207598	subfamily	                                                          Homininae
+74.07	20	5	257	1	0.01584	9605	genus	                                                            Homo
+51.85	14	6	157	1.01	0.01811	9606	species	                                                              Homo sapiens
+29.63	8	8	56	1	0.03062	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.704	1	1	7	1	0.006369	1425170	species	                                                              Homo heidelbergensis
+3.704	1	0	10	1	0.0006818	9596	genus	                                                            Pan
+3.704	1	1	10	1	0.001671	9597	species	                                                              Pan paniscus
+3.704	1	0	5	1	9.492e-06	314294	superfamily	                                                      Cercopithecoidea
+3.704	1	0	5	1	9.492e-06	9527	family	                                                        Cercopithecidae
+3.704	1	0	5	1	1.621e-05	9528	subfamily	                                                          Cercopithecinae
+3.704	1	1	5	1	4.736e-05	9539	genus	                                                            Macaca

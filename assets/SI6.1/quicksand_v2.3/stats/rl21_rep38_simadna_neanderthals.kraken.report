@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:41Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/d8/547a5868a37bccee5186f0328d08da
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl21_rep38_simadna_neanderthals.kraken.report --output output.kraken rl21_rep38_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	21	0	379	1	3.085e-05	1	no rank	root
+100	21	0	379	1	3.085e-05	131567	no rank	  cellular organisms
+100	21	0	379	1	3.085e-05	2759	superkingdom	    Eukaryota
+100	21	0	379	1	3.085e-05	33154	clade	      Opisthokonta
+100	21	0	379	1	3.085e-05	33208	kingdom	        Metazoa
+100	21	0	379	1	3.085e-05	6072	clade	          Eumetazoa
+100	21	0	379	1	3.085e-05	33213	clade	            Bilateria
+100	21	0	379	1	3.085e-05	33511	clade	              Deuterostomia
+100	21	0	379	1	3.085e-05	7711	phylum	                Chordata
+100	21	0	379	1	3.085e-05	89593	subphylum	                  Craniata
+100	21	0	379	1	3.085e-05	7742	clade	                    Vertebrata
+100	21	0	379	1	3.085e-05	7776	clade	                      Gnathostomata
+100	21	0	379	1	3.085e-05	117570	clade	                        Teleostomi
+100	21	0	379	1	3.085e-05	117571	clade	                          Euteleostomi
+100	21	0	379	1	3.085e-05	8287	superclass	                            Sarcopterygii
+100	21	0	379	1	3.085e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	21	0	379	1	3.085e-05	32523	clade	                                Tetrapoda
+100	21	0	379	1	3.085e-05	32524	clade	                                  Amniota
+100	21	0	379	1	3.085e-05	40674	class	                                    Mammalia
+100	21	0	379	1	3.096e-05	32525	clade	                                      Theria
+100	21	0	377	1	3.247e-05	9347	clade	                                        Eutheria
+100	21	1	335	1	3.086e-05	1437010	clade	                                          Boreoeutheria
+90.48	19	0	291	1	5.536e-05	314146	superorder	                                            Euarchontoglires
+90.48	19	0	266	1	0.0001458	9443	order	                                              Primates
+90.48	19	0	259	1	0.0002126	376913	suborder	                                                Haplorrhini
+90.48	19	0	259	1	0.0002204	314293	infraorder	                                                  Simiiformes
+85.71	18	0	252	1	0.0003746	9526	parvorder	                                                    Catarrhini
+85.71	18	0	224	1	0.001604	314295	superfamily	                                                      Hominoidea
+85.71	18	0	199	1	0.002801	9604	family	                                                        Hominidae
+85.71	18	2	184	1	0.003658	207598	subfamily	                                                          Homininae
+61.9	13	6	143	1	0.008812	9605	genus	                                                            Homo
+28.57	6	5	51	1	0.005884	9606	species	                                                              Homo sapiens
+4.762	1	1	6	1	0.00328	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.762	1	1	1	1	0.0009099	1425170	species	                                                              Homo heidelbergensis
+9.524	2	1	6	1	0.0003797	9592	genus	                                                            Gorilla
+4.762	1	1	5	1	0.0009193	499232	species	                                                              Gorilla beringei
+4.762	1	0	1	1	6.818e-05	9596	genus	                                                            Pan
+4.762	1	1	1	1	0.0001636	9598	species	                                                              Pan troglodytes
+4.762	1	1	6	1	1.212e-05	9479	parvorder	                                                    Platyrrhini
+4.762	1	0	2	1	3.875e-07	314145	superorder	                                            Laurasiatheria
+4.762	1	0	2	1	1.366e-06	9397	order	                                              Chiroptera
+4.762	1	0	2	1	1.763e-06	30560	suborder	                                                Microchiroptera
+4.762	1	0	2	1	4.082e-06	9431	family	                                                  Vespertilionidae
+4.762	1	0	2	1	0.0002025	50352	genus	                                                    Chalinolobus
+4.762	1	1	2	1	0.0002025	143942	species	                                                      Chalinolobus tuberculatus

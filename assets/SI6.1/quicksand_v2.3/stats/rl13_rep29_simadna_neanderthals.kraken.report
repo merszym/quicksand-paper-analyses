@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:15:56Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/0e/5a49b22d4ca698496bfda216580cea
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl13_rep29_simadna_neanderthals.kraken.report --output output.kraken rl13_rep29_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	13	0	188	1	1.53e-05	1	no rank	root
+100	13	0	188	1	1.53e-05	131567	no rank	  cellular organisms
+100	13	0	188	1	1.53e-05	2759	superkingdom	    Eukaryota
+100	13	0	188	1	1.53e-05	33154	clade	      Opisthokonta
+100	13	0	188	1	1.53e-05	33208	kingdom	        Metazoa
+100	13	0	188	1	1.53e-05	6072	clade	          Eumetazoa
+100	13	0	188	1	1.53e-05	33213	clade	            Bilateria
+100	13	0	188	1	1.53e-05	33511	clade	              Deuterostomia
+100	13	0	188	1	1.53e-05	7711	phylum	                Chordata
+100	13	0	188	1	1.53e-05	89593	subphylum	                  Craniata
+100	13	0	188	1	1.53e-05	7742	clade	                    Vertebrata
+100	13	0	188	1	1.53e-05	7776	clade	                      Gnathostomata
+100	13	0	188	1	1.53e-05	117570	clade	                        Teleostomi
+100	13	0	188	1	1.53e-05	117571	clade	                          Euteleostomi
+100	13	0	188	1	1.53e-05	8287	superclass	                            Sarcopterygii
+100	13	0	188	1	1.53e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	13	0	188	1	1.53e-05	32523	clade	                                Tetrapoda
+100	13	0	188	1	1.53e-05	32524	clade	                                  Amniota
+100	13	0	188	1	1.53e-05	40674	class	                                    Mammalia
+100	13	0	188	1	1.536e-05	32525	clade	                                      Theria
+100	13	0	188	1	1.619e-05	9347	clade	                                        Eutheria
+100	13	0	179	1	1.649e-05	1437010	clade	                                          Boreoeutheria
+100	13	0	163	1	3.101e-05	314146	superorder	                                            Euarchontoglires
+100	13	0	146	1	8.003e-05	9443	order	                                              Primates
+100	13	1	146	1	0.0001198	376913	suborder	                                                Haplorrhini
+92.31	12	0	142	1	0.0001209	314293	infraorder	                                                  Simiiformes
+84.62	11	0	138	1	0.0002051	9526	parvorder	                                                    Catarrhini
+76.92	10	0	136	1	0.000974	314295	superfamily	                                                      Hominoidea
+76.92	10	0	136	1	0.001914	9604	family	                                                        Hominidae
+76.92	10	1	132	1	0.002624	207598	subfamily	                                                          Homininae
+69.23	9	3	105	1	0.00647	9605	genus	                                                            Homo
+46.15	6	3	62	1	0.007153	9606	species	                                                              Homo sapiens
+23.08	3	3	21	1	0.01148	63221	subspecies	                                                                Homo sapiens neanderthalensis
+7.692	1	0	2	1	3.797e-06	314294	superfamily	                                                      Cercopithecoidea
+7.692	1	0	2	1	3.797e-06	9527	family	                                                        Cercopithecidae
+7.692	1	0	2	1	6.486e-06	9528	subfamily	                                                          Cercopithecinae
+7.692	1	0	2	1	1.894e-05	9539	genus	                                                            Macaca
+7.692	1	1	2	1	0.0006169	54600	species	                                                              Macaca nigra
+7.692	1	0	4	1	8.078e-06	9479	parvorder	                                                    Platyrrhini
+7.692	1	0	1	1	7.037e-06	376919	family	                                                      Pitheciidae
+7.692	1	0	1	1	1.322e-05	38069	subfamily	                                                        Callicebinae
+7.692	1	0	1	1	1.973e-05	1812035	genus	                                                          Plecturocebus
+7.692	1	1	1	1	0.000128	230833	species	                                                            Plecturocebus donacophilus

@@ -1,0 +1,58 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:16:48Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/a9/eb42cf6c2df0564bb14a9e72e1556c
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl23_rep83_simadna_neanderthals.kraken.report --output output.kraken rl23_rep83_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+13.04	3	3	309	1	NA	0	no rank	unclassified
+86.96	20	0	330	1	2.686e-05	1	no rank	root
+86.96	20	0	330	1	2.686e-05	131567	no rank	  cellular organisms
+86.96	20	0	330	1	2.686e-05	2759	superkingdom	    Eukaryota
+86.96	20	0	330	1	2.686e-05	33154	clade	      Opisthokonta
+86.96	20	0	330	1	2.686e-05	33208	kingdom	        Metazoa
+86.96	20	0	330	1	2.686e-05	6072	clade	          Eumetazoa
+86.96	20	0	330	1	2.686e-05	33213	clade	            Bilateria
+86.96	20	0	330	1	2.686e-05	33511	clade	              Deuterostomia
+86.96	20	0	330	1	2.686e-05	7711	phylum	                Chordata
+86.96	20	0	330	1	2.686e-05	89593	subphylum	                  Craniata
+86.96	20	0	330	1	2.686e-05	7742	clade	                    Vertebrata
+86.96	20	0	330	1	2.686e-05	7776	clade	                      Gnathostomata
+86.96	20	0	330	1	2.686e-05	117570	clade	                        Teleostomi
+86.96	20	0	330	1	2.686e-05	117571	clade	                          Euteleostomi
+86.96	20	0	330	1	2.686e-05	8287	superclass	                            Sarcopterygii
+86.96	20	0	330	1	2.686e-05	1338369	clade	                              Dipnotetrapodomorpha
+86.96	20	0	330	1	2.686e-05	32523	clade	                                Tetrapoda
+86.96	20	0	330	1	2.686e-05	32524	clade	                                  Amniota
+86.96	20	0	330	1	2.686e-05	40674	class	                                    Mammalia
+86.96	20	0	330	1	2.696e-05	32525	clade	                                      Theria
+86.96	20	0	322	1	2.773e-05	9347	clade	                                        Eutheria
+86.96	20	0	315	1	2.902e-05	1437010	clade	                                          Boreoeutheria
+82.61	19	0	291	1	5.536e-05	314146	superorder	                                            Euarchontoglires
+78.26	18	0	277	1	0.0001518	9443	order	                                              Primates
+78.26	18	0	273	1	0.0002241	376913	suborder	                                                Haplorrhini
+78.26	18	0	273	1	0.0002324	314293	infraorder	                                                  Simiiformes
+73.91	17	0	255	1	0.0003791	9526	parvorder	                                                    Catarrhini
+73.91	17	1	252	1	0.001805	314295	superfamily	                                                      Hominoidea
+69.57	16	0	236	1	0.003322	9604	family	                                                        Hominidae
+69.57	16	0	236	1	0.004692	207598	subfamily	                                                          Homininae
+69.57	16	7	197	1	0.01214	9605	genus	                                                            Homo
+39.13	9	6	81	1	0.009345	9606	species	                                                              Homo sapiens
+13.04	3	3	24	1	0.01312	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.348	1	0	9	1	1.818e-05	9479	parvorder	                                                    Platyrrhini
+4.348	1	0	7	1	8.298e-05	378855	family	                                                      Atelidae
+4.348	1	0	7	1	0.0002061	38068	subfamily	                                                        Atelinae
+4.348	1	0	7	1	0.000285	9506	genus	                                                          Ateles
+4.348	1	1	7	1	0.001316	9509	species	                                                            Ateles geoffroyi
+4.348	1	0	6	1	1.832e-06	314147	clade	                                              Glires
+4.348	1	0	6	1	1.958e-06	9989	order	                                                Rodentia
+4.348	1	0	6	1	3.216e-06	1963758	suborder	                                                  Myomorpha
+4.348	1	0	6	1	3.402e-06	337687	clade	                                                    Muroidea
+4.348	1	0	6	1	6.257e-06	10066	family	                                                      Muridae
+4.348	1	0	6	1	6.892e-06	39107	subfamily	                                                        Murinae
+4.348	1	0	6	1	5.99e-05	10114	genus	                                                          Rattus
+4.348	1	1	6	1	0.001235	2739837	species	                                                            Rattus korinchi
+4.348	1	0	1	1	1.937e-07	314145	superorder	                                            Laurasiatheria
+4.348	1	0	1	1	6.991e-07	91561	order	                                              Artiodactyla
+4.348	1	0	1	1	2.479e-06	2653789	suborder	                                                Whippomorpha
+4.348	1	0	1	1	2.589e-06	9721	infraorder	                                                  Cetacea
+4.348	1	0	1	1	1.291e-05	9761	parvorder	                                                    Mysticeti
+4.348	1	0	1	1	0.0001364	226940	family	                                                      Neobalaenidae
+4.348	1	0	1	1	0.0001364	27603	genus	                                                        Caperea
+4.348	1	1	1	1	0.0001364	27604	species	                                                          Caperea marginata

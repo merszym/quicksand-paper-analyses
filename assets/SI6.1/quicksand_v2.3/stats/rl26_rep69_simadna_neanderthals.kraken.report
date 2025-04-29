@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:19Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/2f/0eb225275625ed820dd3947182af75
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl26_rep69_simadna_neanderthals.kraken.report --output output.kraken rl26_rep69_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+3.846	1	1	374	1	NA	0	no rank	unclassified
+96.15	25	0	383	1.05	3.118e-05	1	no rank	root
+96.15	25	0	383	1.05	3.118e-05	131567	no rank	  cellular organisms
+96.15	25	0	383	1.05	3.118e-05	2759	superkingdom	    Eukaryota
+96.15	25	0	383	1.05	3.118e-05	33154	clade	      Opisthokonta
+96.15	25	0	383	1.05	3.118e-05	33208	kingdom	        Metazoa
+96.15	25	0	383	1.05	3.118e-05	6072	clade	          Eumetazoa
+96.15	25	0	383	1.05	3.118e-05	33213	clade	            Bilateria
+96.15	25	0	383	1.05	3.118e-05	33511	clade	              Deuterostomia
+96.15	25	0	383	1.05	3.118e-05	7711	phylum	                Chordata
+96.15	25	0	383	1.05	3.118e-05	89593	subphylum	                  Craniata
+96.15	25	0	383	1.05	3.118e-05	7742	clade	                    Vertebrata
+96.15	25	0	383	1.05	3.118e-05	7776	clade	                      Gnathostomata
+96.15	25	0	383	1.05	3.118e-05	117570	clade	                        Teleostomi
+96.15	25	0	383	1.05	3.118e-05	117571	clade	                          Euteleostomi
+96.15	25	0	383	1.05	3.118e-05	8287	superclass	                            Sarcopterygii
+96.15	25	0	383	1.05	3.118e-05	1338369	clade	                              Dipnotetrapodomorpha
+96.15	25	0	383	1.05	3.118e-05	32523	clade	                                Tetrapoda
+96.15	25	0	383	1.05	3.118e-05	32524	clade	                                  Amniota
+96.15	25	0	383	1.05	3.118e-05	40674	class	                                    Mammalia
+96.15	25	0	383	1.05	3.129e-05	32525	clade	                                      Theria
+96.15	25	0	381	1.04	3.281e-05	9347	clade	                                        Eutheria
+96.15	25	2	372	1.04	3.427e-05	1437010	clade	                                          Boreoeutheria
+84.62	22	1	332	1.05	6.316e-05	314146	superorder	                                            Euarchontoglires
+80.77	21	0	326	1.05	0.0001787	9443	order	                                              Primates
+80.77	21	0	320	1.05	0.0002627	376913	suborder	                                                Haplorrhini
+80.77	21	0	320	1.05	0.0002724	314293	infraorder	                                                  Simiiformes
+80.77	21	1	320	1.05	0.0004757	9526	parvorder	                                                    Catarrhini
+76.92	20	0	278	1.05	0.001991	314295	superfamily	                                                      Hominoidea
+76.92	20	0	271	1.05	0.003814	9604	family	                                                        Hominidae
+76.92	20	1	268	1.05	0.005328	207598	subfamily	                                                          Homininae
+69.23	18	8	195	1.02	0.01202	9605	genus	                                                            Homo
+38.46	10	5	113	1	0.01304	9606	species	                                                              Homo sapiens
+19.23	5	5	54	1	0.02952	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.846	1	0	2	1	0.0001266	9592	genus	                                                            Gorilla
+3.846	1	1	2	1	0.0002831	9593	species	                                                              Gorilla gorilla
+3.846	1	0	6	1	1.162e-06	314145	superorder	                                            Laurasiatheria
+3.846	1	0	3	1	2.349e-06	33554	order	                                              Carnivora
+3.846	1	0	3	1	6.289e-06	379583	suborder	                                                Feliformia
+3.846	1	0	3	1	4.037e-05	9673	family	                                                  Viverridae
+3.846	1	0	3	1	8.604e-05	219115	subfamily	                                                    Viverrinae
+3.846	1	0	3	1	0.0004438	94195	genus	                                                      Viverricula
+3.846	1	1	3	1	0.0004438	94196	species	                                                        Viverricula indica

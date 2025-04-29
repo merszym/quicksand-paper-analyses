@@ -1,0 +1,51 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:37Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/10/bc3fee2faecd14143a207d1ab63b5d
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl21_rep1_simadna_neanderthals.kraken.report --output output.kraken rl21_rep1_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+19.05	4	4	252	1.04	NA	0	no rank	unclassified
+80.95	17	0	279	1	2.271e-05	1	no rank	root
+80.95	17	0	279	1	2.271e-05	131567	no rank	  cellular organisms
+80.95	17	0	279	1	2.271e-05	2759	superkingdom	    Eukaryota
+80.95	17	0	279	1	2.271e-05	33154	clade	      Opisthokonta
+80.95	17	0	279	1	2.271e-05	33208	kingdom	        Metazoa
+80.95	17	0	279	1	2.271e-05	6072	clade	          Eumetazoa
+80.95	17	0	279	1	2.271e-05	33213	clade	            Bilateria
+80.95	17	0	279	1	2.271e-05	33511	clade	              Deuterostomia
+80.95	17	0	279	1	2.271e-05	7711	phylum	                Chordata
+80.95	17	0	279	1	2.271e-05	89593	subphylum	                  Craniata
+80.95	17	0	279	1	2.271e-05	7742	clade	                    Vertebrata
+80.95	17	0	279	1	2.271e-05	7776	clade	                      Gnathostomata
+80.95	17	0	279	1	2.271e-05	117570	clade	                        Teleostomi
+80.95	17	0	279	1	2.271e-05	117571	clade	                          Euteleostomi
+80.95	17	0	279	1	2.271e-05	8287	superclass	                            Sarcopterygii
+80.95	17	0	279	1	2.271e-05	1338369	clade	                              Dipnotetrapodomorpha
+80.95	17	0	279	1	2.271e-05	32523	clade	                                Tetrapoda
+80.95	17	0	279	1	2.271e-05	32524	clade	                                  Amniota
+80.95	17	0	279	1	2.271e-05	40674	class	                                    Mammalia
+80.95	17	0	279	1	2.279e-05	32525	clade	                                      Theria
+80.95	17	0	265	1	2.282e-05	9347	clade	                                        Eutheria
+80.95	17	1	257	1	2.368e-05	1437010	clade	                                          Boreoeutheria
+71.43	15	0	190	1	3.614e-05	314146	superorder	                                            Euarchontoglires
+66.67	14	0	173	1	9.483e-05	9443	order	                                              Primates
+66.67	14	0	173	1	0.000142	376913	suborder	                                                Haplorrhini
+66.67	14	0	173	1	0.0001472	314293	infraorder	                                                  Simiiformes
+66.67	14	0	169	1	0.0002512	9526	parvorder	                                                    Catarrhini
+61.9	13	0	159	1	0.001139	314295	superfamily	                                                      Hominoidea
+61.9	13	0	154	1	0.002168	9604	family	                                                        Hominidae
+61.9	13	0	149	1	0.002962	207598	subfamily	                                                          Homininae
+61.9	13	10	97	1	0.005977	9605	genus	                                                            Homo
+14.29	3	2	23	1	0.002653	9606	species	                                                              Homo sapiens
+4.762	1	1	14	1	0.007654	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.762	1	0	2	1	3.797e-06	314294	superfamily	                                                      Cercopithecoidea
+4.762	1	0	2	1	3.797e-06	9527	family	                                                        Cercopithecidae
+4.762	1	1	2	1	6.486e-06	9528	subfamily	                                                          Cercopithecinae
+4.762	1	0	7	1	0.0005791	30656	order	                                              Dermoptera
+4.762	1	0	7	1	0.0005791	30657	family	                                                Cynocephalidae
+4.762	1	0	7	1	0.0005791	482536	genus	                                                  Galeopterus
+4.762	1	1	7	1	0.0005791	482537	species	                                                    Galeopterus variegatus
+4.762	1	0	14	1	2.712e-06	314145	superorder	                                            Laurasiatheria
+4.762	1	0	4	1	3.131e-06	33554	order	                                              Carnivora
+4.762	1	0	4	1	5.125e-06	379584	suborder	                                                Caniformia
+4.762	1	0	1	1	3.588e-06	9655	family	                                                  Mustelidae
+4.762	1	0	1	1	1.485e-05	169417	subfamily	                                                    Lutrinae
+4.762	1	0	1	1	7.9e-05	9656	genus	                                                      Lutra
+4.762	1	1	1	1	0.0001779	9657	species	                                                        Lutra lutra

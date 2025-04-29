@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:30Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/1e/7d8299f1495e5eea8fbcc089d00f7a
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl23_rep3_simadna_neanderthals.kraken.report --output output.kraken rl23_rep3_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+4.348	1	1	294	1	NA	0	no rank	unclassified
+95.65	22	0	433	1	3.525e-05	1	no rank	root
+95.65	22	0	433	1	3.525e-05	131567	no rank	  cellular organisms
+95.65	22	0	433	1	3.525e-05	2759	superkingdom	    Eukaryota
+95.65	22	0	433	1	3.525e-05	33154	clade	      Opisthokonta
+95.65	22	0	433	1	3.525e-05	33208	kingdom	        Metazoa
+95.65	22	0	433	1	3.525e-05	6072	clade	          Eumetazoa
+95.65	22	0	433	1	3.525e-05	33213	clade	            Bilateria
+95.65	22	0	433	1	3.525e-05	33511	clade	              Deuterostomia
+95.65	22	0	433	1	3.525e-05	7711	phylum	                Chordata
+95.65	22	0	433	1	3.525e-05	89593	subphylum	                  Craniata
+95.65	22	0	433	1	3.525e-05	7742	clade	                    Vertebrata
+95.65	22	0	433	1	3.525e-05	7776	clade	                      Gnathostomata
+95.65	22	0	433	1	3.525e-05	117570	clade	                        Teleostomi
+95.65	22	0	433	1	3.525e-05	117571	clade	                          Euteleostomi
+95.65	22	0	433	1	3.525e-05	8287	superclass	                            Sarcopterygii
+95.65	22	0	433	1	3.525e-05	1338369	clade	                              Dipnotetrapodomorpha
+95.65	22	0	433	1	3.525e-05	32523	clade	                                Tetrapoda
+95.65	22	0	433	1	3.525e-05	32524	clade	                                  Amniota
+95.65	22	0	433	1	3.525e-05	40674	class	                                    Mammalia
+95.65	22	0	433	1	3.537e-05	32525	clade	                                      Theria
+95.65	22	0	408	1	3.513e-05	9347	clade	                                        Eutheria
+95.65	22	1	378	1	3.482e-05	1437010	clade	                                          Boreoeutheria
+91.3	21	0	346	1	6.582e-05	314146	superorder	                                            Euarchontoglires
+91.3	21	0	338	1	0.0001853	9443	order	                                              Primates
+91.3	21	0	331	1	0.0002717	376913	suborder	                                                Haplorrhini
+91.3	21	1	331	1	0.0002817	314293	infraorder	                                                  Simiiformes
+86.96	20	0	329	1	0.0004891	9526	parvorder	                                                    Catarrhini
+82.61	19	1	287	1	0.002055	314295	superfamily	                                                      Hominoidea
+78.26	18	0	275	1	0.003871	9604	family	                                                        Hominidae
+78.26	18	2	269	1	0.005348	207598	subfamily	                                                          Homininae
+65.22	15	8	182	1	0.01122	9605	genus	                                                            Homo
+30.43	7	3	44	1	0.005076	9606	species	                                                              Homo sapiens
+17.39	4	4	29	1	0.01586	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.348	1	0	3	1	0.0001898	9592	genus	                                                            Gorilla
+4.348	1	1	3	1	0.0004246	9593	species	                                                              Gorilla gorilla
+4.348	1	0	28	1	5.316e-05	314294	superfamily	                                                      Cercopithecoidea
+4.348	1	0	28	1	5.316e-05	9527	family	                                                        Cercopithecidae
+4.348	1	0	11	1	5.291e-05	9569	subfamily	                                                          Colobinae
+4.348	1	0	11	1	0.0001452	54136	genus	                                                            Trachypithecus
+4.348	1	1	6	1	0.0008715	66063	species	                                                              Trachypithecus johnii

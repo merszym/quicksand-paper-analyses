@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:23:04Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/62/14889e08489c67ac3e46266b7e7f61
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl23_rep6_simadna_neanderthals.kraken.report --output output.kraken rl23_rep6_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+8.696	2	2	377	1	NA	0	no rank	unclassified
+91.3	21	0	374	1	3.044e-05	1	no rank	root
+91.3	21	0	374	1	3.044e-05	131567	no rank	  cellular organisms
+91.3	21	0	374	1	3.044e-05	2759	superkingdom	    Eukaryota
+91.3	21	0	374	1	3.044e-05	33154	clade	      Opisthokonta
+91.3	21	0	374	1	3.044e-05	33208	kingdom	        Metazoa
+91.3	21	0	374	1	3.044e-05	6072	clade	          Eumetazoa
+91.3	21	0	374	1	3.044e-05	33213	clade	            Bilateria
+91.3	21	0	374	1	3.044e-05	33511	clade	              Deuterostomia
+91.3	21	0	374	1	3.044e-05	7711	phylum	                Chordata
+91.3	21	0	374	1	3.044e-05	89593	subphylum	                  Craniata
+91.3	21	0	374	1	3.044e-05	7742	clade	                    Vertebrata
+91.3	21	0	374	1	3.044e-05	7776	clade	                      Gnathostomata
+91.3	21	0	374	1	3.044e-05	117570	clade	                        Teleostomi
+91.3	21	0	374	1	3.044e-05	117571	clade	                          Euteleostomi
+91.3	21	0	374	1	3.044e-05	8287	superclass	                            Sarcopterygii
+91.3	21	0	374	1	3.044e-05	1338369	clade	                              Dipnotetrapodomorpha
+91.3	21	0	374	1	3.044e-05	32523	clade	                                Tetrapoda
+91.3	21	0	374	1	3.044e-05	32524	clade	                                  Amniota
+91.3	21	0	374	1	3.044e-05	40674	class	                                    Mammalia
+91.3	21	0	374	1	3.055e-05	32525	clade	                                      Theria
+91.3	21	0	365	1	3.143e-05	9347	clade	                                        Eutheria
+91.3	21	1	350	1	3.224e-05	1437010	clade	                                          Boreoeutheria
+82.61	19	0	297	1	5.65e-05	314146	superorder	                                            Euarchontoglires
+82.61	19	0	289	1	0.0001584	9443	order	                                              Primates
+82.61	19	0	282	1	0.0002315	376913	suborder	                                                Haplorrhini
+82.61	19	0	282	1	0.00024	314293	infraorder	                                                  Simiiformes
+82.61	19	0	257	1	0.000382	9526	parvorder	                                                    Catarrhini
+78.26	18	1	227	1	0.001626	314295	superfamily	                                                      Hominoidea
+73.91	17	1	219	1	0.003082	9604	family	                                                        Hominidae
+69.57	16	0	218	1	0.004334	207598	subfamily	                                                          Homininae
+65.22	15	5	189	1	0.01165	9605	genus	                                                            Homo
+43.48	10	2	111	1	0.01281	9606	species	                                                              Homo sapiens
+34.78	8	8	57	1	0.03116	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.348	1	0	4	1	0.0002727	9596	genus	                                                            Pan
+4.348	1	1	4	1	0.0006683	9597	species	                                                              Pan paniscus
+4.348	1	0	11	1	2.088e-05	314294	superfamily	                                                      Cercopithecoidea
+4.348	1	0	11	1	2.088e-05	9527	family	                                                        Cercopithecidae
+4.348	1	1	6	1	1.946e-05	9528	subfamily	                                                          Cercopithecinae
+4.348	1	0	10	1	1.937e-06	314145	superorder	                                            Laurasiatheria
+4.348	1	0	9	1	6.292e-06	91561	order	                                              Artiodactyla
+4.348	1	0	7	1	1.736e-05	2653789	suborder	                                                Whippomorpha
+4.348	1	0	7	1	1.812e-05	9721	infraorder	                                                  Cetacea
+4.348	1	0	7	1	2.341e-05	9722	parvorder	                                                    Odontoceti
+4.348	1	1	6	1	6.479e-05	9726	family	                                                      Delphinidae

@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:17:15Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/d5/f0853e0c2099a7f987b5f83cf8397b
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl23_rep96_simadna_neanderthals.kraken.report --output output.kraken rl23_rep96_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+13.04	3	3	375	1	NA	0	no rank	unclassified
+86.96	20	0	330	1.03	2.686e-05	1	no rank	root
+86.96	20	0	330	1.03	2.686e-05	131567	no rank	  cellular organisms
+86.96	20	0	330	1.03	2.686e-05	2759	superkingdom	    Eukaryota
+86.96	20	0	330	1.03	2.686e-05	33154	clade	      Opisthokonta
+86.96	20	0	330	1.03	2.686e-05	33208	kingdom	        Metazoa
+86.96	20	0	330	1.03	2.686e-05	6072	clade	          Eumetazoa
+86.96	20	0	330	1.03	2.686e-05	33213	clade	            Bilateria
+86.96	20	0	330	1.03	2.686e-05	33511	clade	              Deuterostomia
+86.96	20	0	330	1.03	2.686e-05	7711	phylum	                Chordata
+86.96	20	0	330	1.03	2.686e-05	89593	subphylum	                  Craniata
+86.96	20	0	330	1.03	2.686e-05	7742	clade	                    Vertebrata
+86.96	20	0	330	1.03	2.686e-05	7776	clade	                      Gnathostomata
+86.96	20	0	330	1.03	2.686e-05	117570	clade	                        Teleostomi
+86.96	20	0	330	1.03	2.686e-05	117571	clade	                          Euteleostomi
+86.96	20	0	330	1.03	2.686e-05	8287	superclass	                            Sarcopterygii
+86.96	20	0	330	1.03	2.686e-05	1338369	clade	                              Dipnotetrapodomorpha
+86.96	20	0	330	1.03	2.686e-05	32523	clade	                                Tetrapoda
+86.96	20	0	330	1.03	2.686e-05	32524	clade	                                  Amniota
+86.96	20	0	330	1.03	2.686e-05	40674	class	                                    Mammalia
+86.96	20	0	330	1.03	2.696e-05	32525	clade	                                      Theria
+86.96	20	0	321	1.03	2.764e-05	9347	clade	                                        Eutheria
+86.96	20	0	310	1.03	2.856e-05	1437010	clade	                                          Boreoeutheria
+82.61	19	1	286	1.03	5.441e-05	314146	superorder	                                            Euarchontoglires
+78.26	18	0	275	1.04	0.0001507	9443	order	                                              Primates
+78.26	18	0	275	1.04	0.0002257	376913	suborder	                                                Haplorrhini
+78.26	18	0	275	1.04	0.0002341	314293	infraorder	                                                  Simiiformes
+78.26	18	0	274	1.04	0.0004073	9526	parvorder	                                                    Catarrhini
+78.26	18	0	254	1.04	0.001819	314295	superfamily	                                                      Hominoidea
+78.26	18	0	236	1.03	0.003322	9604	family	                                                        Hominidae
+73.91	17	2	229	1.03	0.004553	207598	subfamily	                                                          Homininae
+65.22	15	6	192	1.03	0.01183	9605	genus	                                                            Homo
+39.13	9	2	132	1.05	0.01523	9606	species	                                                              Homo sapiens
+21.74	5	5	59	1	0.03226	63221	subspecies	                                                                Homo sapiens neanderthalensis
+8.696	2	2	22	1.27	0.008442	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4.348	1	0	4	1	0.000201	607660	subfamily	                                                          Ponginae
+4.348	1	1	4	1	0.000201	9599	genus	                                                            Pongo
+4.348	1	0	3	1	5.812e-07	314145	superorder	                                            Laurasiatheria
+4.348	1	0	1	1	6.991e-07	91561	order	                                              Artiodactyla
+4.348	1	0	1	1	1.101e-06	9845	suborder	                                                Ruminantia
+4.348	1	1	1	1	1.15e-06	35500	infraorder	                                                  Pecora

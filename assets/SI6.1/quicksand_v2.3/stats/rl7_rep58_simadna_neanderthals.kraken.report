@@ -1,0 +1,50 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:18:33Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/95/ab23d65927cf6a198018c07e894216
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl7_rep58_simadna_neanderthals.kraken.report --output output.kraken rl7_rep58_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+14.29	1	1	77	1	NA	0	no rank	unclassified
+85.71	6	0	137	1	1.115e-05	1	no rank	root
+85.71	6	0	137	1	1.115e-05	131567	no rank	  cellular organisms
+85.71	6	0	137	1	1.115e-05	2759	superkingdom	    Eukaryota
+85.71	6	0	137	1	1.115e-05	33154	clade	      Opisthokonta
+85.71	6	0	137	1	1.115e-05	33208	kingdom	        Metazoa
+85.71	6	0	137	1	1.115e-05	6072	clade	          Eumetazoa
+85.71	6	0	137	1	1.115e-05	33213	clade	            Bilateria
+85.71	6	0	137	1	1.115e-05	33511	clade	              Deuterostomia
+85.71	6	0	137	1	1.115e-05	7711	phylum	                Chordata
+85.71	6	0	137	1	1.115e-05	89593	subphylum	                  Craniata
+85.71	6	0	137	1	1.115e-05	7742	clade	                    Vertebrata
+85.71	6	0	137	1	1.115e-05	7776	clade	                      Gnathostomata
+85.71	6	0	137	1	1.115e-05	117570	clade	                        Teleostomi
+85.71	6	0	137	1	1.115e-05	117571	clade	                          Euteleostomi
+85.71	6	0	137	1	1.115e-05	8287	superclass	                            Sarcopterygii
+85.71	6	0	137	1	1.115e-05	1338369	clade	                              Dipnotetrapodomorpha
+85.71	6	0	137	1	1.115e-05	32523	clade	                                Tetrapoda
+85.71	6	0	137	1	1.115e-05	32524	clade	                                  Amniota
+85.71	6	0	137	1	1.115e-05	40674	class	                                    Mammalia
+85.71	6	0	137	1	1.119e-05	32525	clade	                                      Theria
+85.71	6	0	129	1	1.111e-05	9347	clade	                                        Eutheria
+85.71	6	0	127	1	1.17e-05	1437010	clade	                                          Boreoeutheria
+71.43	5	0	87	1	1.655e-05	314146	superorder	                                            Euarchontoglires
+57.14	4	0	72	1	3.947e-05	9443	order	                                              Primates
+57.14	4	0	68	1	5.581e-05	376913	suborder	                                                Haplorrhini
+57.14	4	0	68	1	5.788e-05	314293	infraorder	                                                  Simiiformes
+57.14	4	0	68	1	0.0001011	9526	parvorder	                                                    Catarrhini
+57.14	4	0	55	1	0.0003939	314295	superfamily	                                                      Hominoidea
+57.14	4	0	54	1	0.00076	9604	family	                                                        Hominidae
+57.14	4	1	47	1	0.0009344	207598	subfamily	                                                          Homininae
+42.86	3	3	36	1	0.002218	9605	genus	                                                            Homo
+14.29	1	0	6	1	1.832e-06	314147	clade	                                              Glires
+14.29	1	0	6	1	1.958e-06	9989	order	                                                Rodentia
+14.29	1	0	6	1	1.002e-05	33553	suborder	                                                  Sciuromorpha
+14.29	1	0	6	1	1.062e-05	55153	family	                                                    Sciuridae
+14.29	1	0	6	1	4.458e-05	337726	subfamily	                                                      Xerinae
+14.29	1	0	6	1	4.458e-05	337730	tribe	                                                        Marmotini
+14.29	1	0	6	1	0.000335	9996	genus	                                                          Spermophilus
+14.29	1	1	6	1	0.0007734	9997	species	                                                            Spermophilus citellus
+14.29	1	0	2	1	3.875e-07	314145	superorder	                                            Laurasiatheria
+14.29	1	0	2	1	1.398e-06	91561	order	                                              Artiodactyla
+14.29	1	0	2	1	2.203e-06	9845	suborder	                                                Ruminantia
+14.29	1	0	2	1	5.618e-05	35499	infraorder	                                                  Tragulina
+14.29	1	0	2	1	5.618e-05	9846	family	                                                    Tragulidae
+14.29	1	0	2	1	0.000215	666914	genus	                                                      Hyemoschus
+14.29	1	1	2	1	0.000215	666915	species	                                                        Hyemoschus aquaticus

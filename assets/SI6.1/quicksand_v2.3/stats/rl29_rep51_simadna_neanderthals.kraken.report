@@ -1,0 +1,58 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:29:25Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/d0/fde9ee97298252d6faf40836d63733
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl29_rep51_simadna_neanderthals.kraken.report --output output.kraken rl29_rep51_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+6.897	2	2	312	1	NA	0	no rank	unclassified
+93.1	27	0	482	1.01	3.924e-05	1	no rank	root
+93.1	27	0	482	1.01	3.924e-05	131567	no rank	  cellular organisms
+93.1	27	0	482	1.01	3.924e-05	2759	superkingdom	    Eukaryota
+93.1	27	0	482	1.01	3.924e-05	33154	clade	      Opisthokonta
+93.1	27	0	482	1.01	3.924e-05	33208	kingdom	        Metazoa
+93.1	27	0	482	1.01	3.924e-05	6072	clade	          Eumetazoa
+93.1	27	0	482	1.01	3.924e-05	33213	clade	            Bilateria
+93.1	27	0	482	1.01	3.924e-05	33511	clade	              Deuterostomia
+93.1	27	0	482	1.01	3.924e-05	7711	phylum	                Chordata
+93.1	27	0	482	1.01	3.924e-05	89593	subphylum	                  Craniata
+93.1	27	0	482	1.01	3.924e-05	7742	clade	                    Vertebrata
+93.1	27	0	482	1.01	3.924e-05	7776	clade	                      Gnathostomata
+93.1	27	0	482	1.01	3.924e-05	117570	clade	                        Teleostomi
+93.1	27	0	482	1.01	3.924e-05	117571	clade	                          Euteleostomi
+93.1	27	0	482	1.01	3.924e-05	8287	superclass	                            Sarcopterygii
+93.1	27	0	482	1.01	3.924e-05	1338369	clade	                              Dipnotetrapodomorpha
+93.1	27	0	482	1.01	3.924e-05	32523	clade	                                Tetrapoda
+93.1	27	0	482	1.01	3.924e-05	32524	clade	                                  Amniota
+93.1	27	0	482	1.01	3.924e-05	40674	class	                                    Mammalia
+93.1	27	0	482	1.01	3.937e-05	32525	clade	                                      Theria
+93.1	27	0	475	1.01	4.09e-05	9347	clade	                                        Eutheria
+93.1	27	0	450	1.01	4.145e-05	1437010	clade	                                          Boreoeutheria
+89.66	26	0	400	1	7.609e-05	314146	superorder	                                            Euarchontoglires
+86.21	25	0	386	1	0.0002116	9443	order	                                              Primates
+86.21	25	0	384	1	0.0003152	376913	suborder	                                                Haplorrhini
+86.21	25	0	384	1	0.0003268	314293	infraorder	                                                  Simiiformes
+86.21	25	0	382	1	0.0005679	9526	parvorder	                                                    Catarrhini
+82.76	24	0	346	1	0.002478	314295	superfamily	                                                      Hominoidea
+82.76	24	0	337	1	0.004743	9604	family	                                                        Hominidae
+82.76	24	3	323	1	0.006421	207598	subfamily	                                                          Homininae
+68.97	20	9	276	1	0.01701	9605	genus	                                                            Homo
+37.93	11	9	93	1.01	0.01073	9606	species	                                                              Homo sapiens
+6.897	2	2	21	1	0.01148	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.448	1	0	6	1	0.0003797	9592	genus	                                                            Gorilla
+3.448	1	1	6	1	0.001103	499232	species	                                                              Gorilla beringei
+3.448	1	0	6	1	1.139e-05	314294	superfamily	                                                      Cercopithecoidea
+3.448	1	0	6	1	1.139e-05	9527	family	                                                        Cercopithecidae
+3.448	1	0	2	1	6.486e-06	9528	subfamily	                                                          Cercopithecinae
+3.448	1	0	2	1	5.733e-05	392815	genus	                                                            Chlorocebus
+3.448	1	1	2	1	0.0003879	1284215	species	                                                              Chlorocebus djamdjamensis
+3.448	1	0	1	1	3.053e-07	314147	clade	                                              Glires
+3.448	1	0	1	1	3.264e-07	9989	order	                                                Rodentia
+3.448	1	0	1	1	5.36e-07	1963758	suborder	                                                  Myomorpha
+3.448	1	0	1	1	5.67e-07	337687	clade	                                                    Muroidea
+3.448	1	0	1	1	1.043e-06	10066	family	                                                      Muridae
+3.448	1	0	1	1	1.149e-06	39107	subfamily	                                                        Murinae
+3.448	1	1	1	1	9.984e-06	10114	genus	                                                          Rattus
+3.448	1	0	1	1	1.937e-07	314145	superorder	                                            Laurasiatheria
+3.448	1	0	1	1	6.828e-07	9397	order	                                              Chiroptera
+3.448	1	0	1	1	3.129e-06	30559	suborder	                                                Megachiroptera
+3.448	1	0	1	1	3.129e-06	9398	family	                                                  Pteropodidae
+3.448	1	0	1	1	4.568e-06	77225	subfamily	                                                    Pteropodinae
+3.448	1	0	1	1	2.281e-05	9406	genus	                                                      Rousettus
+3.448	1	1	1	1	0.0001258	58083	species	                                                        Rousettus amplexicaudatus

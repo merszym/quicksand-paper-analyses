@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:15:48Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/5c/bf3709e797c6f5c54b2ea112f65ceb
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl15_rep54_simadna_neanderthals.kraken.report --output output.kraken rl15_rep54_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+6.667	1	1	214	1	NA	0	no rank	unclassified
+93.33	14	0	184	1	1.498e-05	1	no rank	root
+93.33	14	0	184	1	1.498e-05	131567	no rank	  cellular organisms
+93.33	14	0	184	1	1.498e-05	2759	superkingdom	    Eukaryota
+93.33	14	0	184	1	1.498e-05	33154	clade	      Opisthokonta
+93.33	14	0	184	1	1.498e-05	33208	kingdom	        Metazoa
+93.33	14	0	184	1	1.498e-05	6072	clade	          Eumetazoa
+93.33	14	0	184	1	1.498e-05	33213	clade	            Bilateria
+93.33	14	0	184	1	1.498e-05	33511	clade	              Deuterostomia
+93.33	14	0	184	1	1.498e-05	7711	phylum	                Chordata
+93.33	14	0	184	1	1.498e-05	89593	subphylum	                  Craniata
+93.33	14	0	184	1	1.498e-05	7742	clade	                    Vertebrata
+93.33	14	0	184	1	1.498e-05	7776	clade	                      Gnathostomata
+93.33	14	0	184	1	1.498e-05	117570	clade	                        Teleostomi
+93.33	14	0	184	1	1.498e-05	117571	clade	                          Euteleostomi
+93.33	14	0	184	1	1.498e-05	8287	superclass	                            Sarcopterygii
+93.33	14	0	184	1	1.498e-05	1338369	clade	                              Dipnotetrapodomorpha
+93.33	14	0	184	1	1.498e-05	32523	clade	                                Tetrapoda
+93.33	14	0	184	1	1.498e-05	32524	clade	                                  Amniota
+93.33	14	0	184	1	1.498e-05	40674	class	                                    Mammalia
+93.33	14	0	175	1	1.43e-05	32525	clade	                                      Theria
+93.33	14	0	159	1	1.369e-05	9347	clade	                                        Eutheria
+93.33	14	1	156	1	1.437e-05	1437010	clade	                                          Boreoeutheria
+86.67	13	0	126	1	2.397e-05	314146	superorder	                                            Euarchontoglires
+86.67	13	0	122	1	6.687e-05	9443	order	                                              Primates
+86.67	13	0	122	1	0.0001001	376913	suborder	                                                Haplorrhini
+86.67	13	0	122	1	0.0001038	314293	infraorder	                                                  Simiiformes
+86.67	13	2	116	1	0.0001724	9526	parvorder	                                                    Catarrhini
+60	9	0	96	1	0.0006875	314295	superfamily	                                                      Hominoidea
+60	9	0	92	1	0.001295	9604	family	                                                        Hominidae
+60	9	1	85	1	0.00169	207598	subfamily	                                                          Homininae
+46.67	7	5	62	1	0.003821	9605	genus	                                                            Homo
+13.33	2	1	17	1	0.001961	9606	species	                                                              Homo sapiens
+6.667	1	1	1	1	0.0003837	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+6.667	1	0	10	1	0.0006818	9596	genus	                                                            Pan
+6.667	1	1	10	1	0.001671	9597	species	                                                              Pan paniscus
+13.33	2	0	11	1	2.088e-05	314294	superfamily	                                                      Cercopithecoidea
+13.33	2	0	11	1	2.088e-05	9527	family	                                                        Cercopithecidae
+13.33	2	1	9	1	2.919e-05	9528	subfamily	                                                          Cercopithecinae
+6.667	1	0	8	1	7.577e-05	9539	genus	                                                            Macaca
+6.667	1	1	4	1	0.0007298	9541	species	                                                              Macaca fascicularis

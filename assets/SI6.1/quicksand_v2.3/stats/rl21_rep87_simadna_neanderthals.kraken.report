@@ -1,0 +1,44 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:56Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/12/8ae866fec349414f28aff2961dc098
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl21_rep87_simadna_neanderthals.kraken.report --output output.kraken rl21_rep87_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+14.29	3	3	186	1	NA	0	no rank	unclassified
+85.71	18	0	341	1.01	2.776e-05	1	no rank	root
+85.71	18	0	341	1.01	2.776e-05	131567	no rank	  cellular organisms
+85.71	18	0	341	1.01	2.776e-05	2759	superkingdom	    Eukaryota
+85.71	18	0	341	1.01	2.776e-05	33154	clade	      Opisthokonta
+85.71	18	0	341	1.01	2.776e-05	33208	kingdom	        Metazoa
+85.71	18	0	341	1.01	2.776e-05	6072	clade	          Eumetazoa
+85.71	18	0	341	1.01	2.776e-05	33213	clade	            Bilateria
+85.71	18	0	341	1.01	2.776e-05	33511	clade	              Deuterostomia
+85.71	18	0	341	1.01	2.776e-05	7711	phylum	                Chordata
+85.71	18	0	341	1.01	2.776e-05	89593	subphylum	                  Craniata
+85.71	18	0	341	1.01	2.776e-05	7742	clade	                    Vertebrata
+85.71	18	0	341	1.01	2.776e-05	7776	clade	                      Gnathostomata
+85.71	18	0	341	1.01	2.776e-05	117570	clade	                        Teleostomi
+85.71	18	0	341	1.01	2.776e-05	117571	clade	                          Euteleostomi
+85.71	18	0	341	1.01	2.776e-05	8287	superclass	                            Sarcopterygii
+85.71	18	0	341	1.01	2.776e-05	1338369	clade	                              Dipnotetrapodomorpha
+85.71	18	0	341	1.01	2.776e-05	32523	clade	                                Tetrapoda
+85.71	18	0	341	1.01	2.776e-05	32524	clade	                                  Amniota
+85.71	18	0	341	1.01	2.776e-05	40674	class	                                    Mammalia
+85.71	18	0	341	1.01	2.786e-05	32525	clade	                                      Theria
+85.71	18	0	341	1.01	2.937e-05	9347	clade	                                        Eutheria
+85.71	18	1	336	1.01	3.095e-05	1437010	clade	                                          Boreoeutheria
+80.95	17	0	287	1	5.46e-05	314146	superorder	                                            Euarchontoglires
+80.95	17	0	275	1	0.0001507	9443	order	                                              Primates
+76.19	16	0	264	1	0.0002167	376913	suborder	                                                Haplorrhini
+76.19	16	0	264	1	0.0002247	314293	infraorder	                                                  Simiiformes
+76.19	16	0	258	1	0.0003835	9526	parvorder	                                                    Catarrhini
+76.19	16	0	240	1	0.001719	314295	superfamily	                                                      Hominoidea
+76.19	16	0	229	1	0.003223	9604	family	                                                        Hominidae
+76.19	16	0	228	1	0.004533	207598	subfamily	                                                          Homininae
+71.43	15	8	165	1	0.01017	9605	genus	                                                            Homo
+33.33	7	5	49	1	0.005653	9606	species	                                                              Homo sapiens
+9.524	2	2	9	1	0.004921	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.762	1	0	8	1	0.0005062	9592	genus	                                                            Gorilla
+4.762	1	1	8	1	0.001471	499232	species	                                                              Gorilla beringei
+4.762	1	0	5	1	8.349e-06	376911	suborder	                                                Strepsirrhini
+4.762	1	0	5	1	9.785e-06	376915	infraorder	                                                  Lemuriformes
+4.762	1	0	5	1	2.533e-05	30615	family	                                                    Cheirogaleidae
+4.762	1	0	5	1	0.0003216	83691	genus	                                                      Mirza
+4.762	1	1	5	1	0.0008999	339999	species	                                                        Mirza zaza

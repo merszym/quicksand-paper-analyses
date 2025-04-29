@@ -1,0 +1,53 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:36Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/11/8145eba0f2b14aba7b43fa8c51801f
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl25_rep48_simadna_neanderthals.kraken.report --output output.kraken rl25_rep48_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+12	3	3	286	1	NA	0	no rank	unclassified
+88	22	0	408	1	3.321e-05	1	no rank	root
+88	22	0	408	1	3.321e-05	131567	no rank	  cellular organisms
+88	22	0	408	1	3.321e-05	2759	superkingdom	    Eukaryota
+88	22	0	408	1	3.321e-05	33154	clade	      Opisthokonta
+88	22	0	408	1	3.321e-05	33208	kingdom	        Metazoa
+88	22	0	408	1	3.321e-05	6072	clade	          Eumetazoa
+88	22	0	408	1	3.321e-05	33213	clade	            Bilateria
+88	22	0	408	1	3.321e-05	33511	clade	              Deuterostomia
+88	22	0	408	1	3.321e-05	7711	phylum	                Chordata
+88	22	0	408	1	3.321e-05	89593	subphylum	                  Craniata
+88	22	0	408	1	3.321e-05	7742	clade	                    Vertebrata
+88	22	0	408	1	3.321e-05	7776	clade	                      Gnathostomata
+88	22	0	408	1	3.321e-05	117570	clade	                        Teleostomi
+88	22	0	408	1	3.321e-05	117571	clade	                          Euteleostomi
+88	22	0	408	1	3.321e-05	8287	superclass	                            Sarcopterygii
+88	22	0	408	1	3.321e-05	1338369	clade	                              Dipnotetrapodomorpha
+88	22	0	408	1	3.321e-05	32523	clade	                                Tetrapoda
+88	22	0	408	1	3.321e-05	32524	clade	                                  Amniota
+88	22	0	408	1	3.321e-05	40674	class	                                    Mammalia
+88	22	0	408	1	3.333e-05	32525	clade	                                      Theria
+88	22	0	398	1	3.427e-05	9347	clade	                                        Eutheria
+88	22	0	364	1	3.353e-05	1437010	clade	                                          Boreoeutheria
+76	19	0	306	1	5.821e-05	314146	superorder	                                            Euarchontoglires
+76	19	0	301	1	0.000165	9443	order	                                              Primates
+76	19	0	297	1	0.0002438	376913	suborder	                                                Haplorrhini
+76	19	2	297	1	0.0002528	314293	infraorder	                                                  Simiiformes
+68	17	0	287	1	0.0004266	9526	parvorder	                                                    Catarrhini
+68	17	0	276	1	0.001977	314295	superfamily	                                                      Hominoidea
+68	17	0	262	1	0.003688	9604	family	                                                        Hominidae
+68	17	1	254	1	0.00505	207598	subfamily	                                                          Homininae
+60	15	6	228	1	0.01405	9605	genus	                                                            Homo
+36	9	5	90	1	0.01038	9606	species	                                                              Homo sapiens
+12	3	3	9	1	0.004921	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4	1	1	16	1	0.00614	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4	1	0	4	1	0.0002727	9596	genus	                                                            Pan
+4	1	1	4	1	0.0006545	9598	species	                                                              Pan troglodytes
+12	3	0	23	1	4.456e-06	314145	superorder	                                            Laurasiatheria
+4	1	0	12	1	9.394e-06	33554	order	                                              Carnivora
+4	1	1	3	1	6.289e-06	379583	suborder	                                                Feliformia
+4	1	0	8	1	5.462e-06	9397	order	                                              Chiroptera
+4	1	0	8	1	7.053e-06	30560	suborder	                                                Microchiroptera
+4	1	0	8	1	8.187e-05	58055	family	                                                  Rhinolophidae
+4	1	0	8	1	8.187e-05	186995	subfamily	                                                    Rhinolophinae
+4	1	0	8	1	8.187e-05	49442	genus	                                                      Rhinolophus
+4	1	1	8	1	0.002279	196889	species	                                                        Rhinolophus macrotis
+4	1	0	3	1	2.097e-06	91561	order	                                              Artiodactyla
+4	1	0	3	1	7.438e-06	2653789	suborder	                                                Whippomorpha
+4	1	0	3	1	7.768e-06	9721	infraorder	                                                  Cetacea
+4	1	1	3	1	1.003e-05	9722	parvorder	                                                    Odontoceti

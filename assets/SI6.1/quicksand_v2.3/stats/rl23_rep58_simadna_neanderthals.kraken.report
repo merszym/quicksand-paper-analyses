@@ -1,0 +1,51 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:47Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/07/0c65b96ffbb2743a07df7368bb5c5c
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl23_rep58_simadna_neanderthals.kraken.report --output output.kraken rl23_rep58_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+17.39	4	4	329	1	NA	0	no rank	unclassified
+82.61	19	0	332	1	2.703e-05	1	no rank	root
+82.61	19	0	332	1	2.703e-05	131567	no rank	  cellular organisms
+82.61	19	0	332	1	2.703e-05	2759	superkingdom	    Eukaryota
+82.61	19	0	332	1	2.703e-05	33154	clade	      Opisthokonta
+82.61	19	0	332	1	2.703e-05	33208	kingdom	        Metazoa
+82.61	19	0	332	1	2.703e-05	6072	clade	          Eumetazoa
+82.61	19	0	332	1	2.703e-05	33213	clade	            Bilateria
+82.61	19	0	332	1	2.703e-05	33511	clade	              Deuterostomia
+82.61	19	0	332	1	2.703e-05	7711	phylum	                Chordata
+82.61	19	0	332	1	2.703e-05	89593	subphylum	                  Craniata
+82.61	19	0	332	1	2.703e-05	7742	clade	                    Vertebrata
+82.61	19	0	332	1	2.703e-05	7776	clade	                      Gnathostomata
+82.61	19	0	332	1	2.703e-05	117570	clade	                        Teleostomi
+82.61	19	0	332	1	2.703e-05	117571	clade	                          Euteleostomi
+82.61	19	0	332	1	2.703e-05	8287	superclass	                            Sarcopterygii
+82.61	19	0	332	1	2.703e-05	1338369	clade	                              Dipnotetrapodomorpha
+82.61	19	0	332	1	2.703e-05	32523	clade	                                Tetrapoda
+82.61	19	0	332	1	2.703e-05	32524	clade	                                  Amniota
+82.61	19	1	332	1	2.703e-05	40674	class	                                    Mammalia
+78.26	18	0	321	1	2.622e-05	32525	clade	                                      Theria
+78.26	18	0	310	1	2.67e-05	9347	clade	                                        Eutheria
+78.26	18	1	293	1	2.699e-05	1437010	clade	                                          Boreoeutheria
+69.57	16	0	255	1	4.851e-05	314146	superorder	                                            Euarchontoglires
+69.57	16	0	236	1	0.0001294	9443	order	                                              Primates
+69.57	16	0	234	1	0.0001921	376913	suborder	                                                Haplorrhini
+69.57	16	1	234	1	0.0001992	314293	infraorder	                                                  Simiiformes
+65.22	15	0	217	1	0.0003226	9526	parvorder	                                                    Catarrhini
+60.87	14	0	208	1	0.00149	314295	superfamily	                                                      Hominoidea
+60.87	14	0	202	1	0.002843	9604	family	                                                        Hominidae
+60.87	14	0	202	1	0.004016	207598	subfamily	                                                          Homininae
+56.52	13	7	169	1	0.01041	9605	genus	                                                            Homo
+21.74	5	5	42	1	0.004845	9606	species	                                                              Homo sapiens
+4.348	1	1	6	1	0.00546	1425170	species	                                                              Homo heidelbergensis
+4.348	1	1	2	1	0.0001266	9592	genus	                                                            Gorilla
+4.348	1	0	1	1	1.898e-06	314294	superfamily	                                                      Cercopithecoidea
+4.348	1	0	1	1	1.898e-06	9527	family	                                                        Cercopithecidae
+4.348	1	0	1	1	3.243e-06	9528	subfamily	                                                          Cercopithecinae
+4.348	1	0	1	1	0.0001097	75565	genus	                                                            Lophocebus
+4.348	1	1	1	1	0.0001097	75566	species	                                                              Lophocebus aterrimus
+4.348	1	0	5	1	9.687e-07	314145	superorder	                                            Laurasiatheria
+4.348	1	0	3	1	2.097e-06	91561	order	                                              Artiodactyla
+4.348	1	0	3	1	3.304e-06	9845	suborder	                                                Ruminantia
+4.348	1	0	3	1	3.449e-06	35500	infraorder	                                                  Pecora
+4.348	1	0	3	1	5.156e-06	9895	family	                                                    Bovidae
+4.348	1	0	3	1	5.546e-05	9952	subfamily	                                                      Cephalophinae
+4.348	1	0	3	1	0.0002228	9954	genus	                                                        Cephalophus
+4.348	1	1	3	1	0.0009107	129225	species	                                                          Cephalophus jentinki

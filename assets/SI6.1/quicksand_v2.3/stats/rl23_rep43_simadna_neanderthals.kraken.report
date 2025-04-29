@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:44Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/c2/c2608c06f4b6557f75ee3b3c9410fe
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl23_rep43_simadna_neanderthals.kraken.report --output output.kraken rl23_rep43_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+8.696	2	2	319	1	NA	0	no rank	unclassified
+91.3	21	0	321	1	2.613e-05	1	no rank	root
+91.3	21	0	321	1	2.613e-05	131567	no rank	  cellular organisms
+91.3	21	0	321	1	2.613e-05	2759	superkingdom	    Eukaryota
+91.3	21	0	321	1	2.613e-05	33154	clade	      Opisthokonta
+91.3	21	0	321	1	2.613e-05	33208	kingdom	        Metazoa
+91.3	21	0	321	1	2.613e-05	6072	clade	          Eumetazoa
+91.3	21	0	321	1	2.613e-05	33213	clade	            Bilateria
+91.3	21	0	321	1	2.613e-05	33511	clade	              Deuterostomia
+91.3	21	0	321	1	2.613e-05	7711	phylum	                Chordata
+91.3	21	0	321	1	2.613e-05	89593	subphylum	                  Craniata
+91.3	21	0	321	1	2.613e-05	7742	clade	                    Vertebrata
+91.3	21	0	321	1	2.613e-05	7776	clade	                      Gnathostomata
+91.3	21	0	321	1	2.613e-05	117570	clade	                        Teleostomi
+91.3	21	0	321	1	2.613e-05	117571	clade	                          Euteleostomi
+91.3	21	0	321	1	2.613e-05	8287	superclass	                            Sarcopterygii
+91.3	21	0	321	1	2.613e-05	1338369	clade	                              Dipnotetrapodomorpha
+91.3	21	0	321	1	2.613e-05	32523	clade	                                Tetrapoda
+91.3	21	0	321	1	2.613e-05	32524	clade	                                  Amniota
+91.3	21	0	321	1	2.613e-05	40674	class	                                    Mammalia
+91.3	21	0	305	1	2.492e-05	32525	clade	                                      Theria
+91.3	21	0	296	1	2.549e-05	9347	clade	                                        Eutheria
+91.3	21	0	270	1	2.487e-05	1437010	clade	                                          Boreoeutheria
+82.61	19	2	223	1	4.242e-05	314146	superorder	                                            Euarchontoglires
+73.91	17	0	211	1	0.0001157	9443	order	                                              Primates
+73.91	17	0	203	1	0.0001666	376913	suborder	                                                Haplorrhini
+73.91	17	0	203	1	0.0001728	314293	infraorder	                                                  Simiiformes
+73.91	17	0	193	1	0.0002869	9526	parvorder	                                                    Catarrhini
+69.57	16	0	184	1	0.001318	314295	superfamily	                                                      Hominoidea
+69.57	16	1	180	1	0.002533	9604	family	                                                        Hominidae
+65.22	15	1	170	1	0.00338	207598	subfamily	                                                          Homininae
+56.52	13	7	144	1	0.008874	9605	genus	                                                            Homo
+26.09	6	2	68	1	0.007845	9606	species	                                                              Homo sapiens
+17.39	4	4	43	1	0.02351	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.348	1	0	1	1	6.818e-05	9596	genus	                                                            Pan
+4.348	1	1	1	1	0.0001636	9598	species	                                                              Pan troglodytes
+4.348	1	0	7	1	1.329e-05	314294	superfamily	                                                      Cercopithecoidea
+4.348	1	0	7	1	1.329e-05	9527	family	                                                        Cercopithecidae
+4.348	1	0	7	1	2.27e-05	9528	subfamily	                                                          Cercopithecinae
+4.348	1	0	7	1	0.0002001	9533	genus	                                                            Cercopithecus
+4.348	1	1	6	1	0.0006752	36227	species	                                                              Cercopithecus neglectus
+8.696	2	1	15	1	2.906e-06	314145	superorder	                                            Laurasiatheria
+4.348	1	1	5	1	3.496e-06	91561	order	                                              Artiodactyla

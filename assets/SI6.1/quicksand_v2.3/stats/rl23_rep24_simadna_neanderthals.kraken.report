@@ -1,0 +1,53 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:26:32Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/9b/f09dc1e6324e671cfd40cc1e4514f0
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl23_rep24_simadna_neanderthals.kraken.report --output output.kraken rl23_rep24_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	23	0	333	1	2.711e-05	1	no rank	root
+100	23	0	333	1	2.711e-05	131567	no rank	  cellular organisms
+100	23	0	333	1	2.711e-05	2759	superkingdom	    Eukaryota
+100	23	0	333	1	2.711e-05	33154	clade	      Opisthokonta
+100	23	0	333	1	2.711e-05	33208	kingdom	        Metazoa
+100	23	0	333	1	2.711e-05	6072	clade	          Eumetazoa
+100	23	0	333	1	2.711e-05	33213	clade	            Bilateria
+100	23	0	333	1	2.711e-05	33511	clade	              Deuterostomia
+100	23	0	333	1	2.711e-05	7711	phylum	                Chordata
+100	23	0	333	1	2.711e-05	89593	subphylum	                  Craniata
+100	23	0	333	1	2.711e-05	7742	clade	                    Vertebrata
+100	23	0	333	1	2.711e-05	7776	clade	                      Gnathostomata
+100	23	0	333	1	2.711e-05	117570	clade	                        Teleostomi
+100	23	0	333	1	2.711e-05	117571	clade	                          Euteleostomi
+100	23	0	333	1	2.711e-05	8287	superclass	                            Sarcopterygii
+100	23	0	333	1	2.711e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	23	0	333	1	2.711e-05	32523	clade	                                Tetrapoda
+100	23	0	333	1	2.711e-05	32524	clade	                                  Amniota
+100	23	1	333	1	2.711e-05	40674	class	                                    Mammalia
+95.65	22	0	319	1	2.606e-05	32525	clade	                                      Theria
+95.65	22	0	305	1	2.626e-05	9347	clade	                                        Eutheria
+95.65	22	3	278	1	2.561e-05	1437010	clade	                                          Boreoeutheria
+82.61	19	2	233	1	4.432e-05	314146	superorder	                                            Euarchontoglires
+65.22	15	0	221	1	0.0001211	9443	order	                                              Primates
+65.22	15	0	219	1	0.0001798	376913	suborder	                                                Haplorrhini
+65.22	15	0	219	1	0.0001864	314293	infraorder	                                                  Simiiformes
+65.22	15	1	219	1	0.0003256	9526	parvorder	                                                    Catarrhini
+56.52	13	0	204	1	0.001461	314295	superfamily	                                                      Hominoidea
+56.52	13	0	203	1	0.002857	9604	family	                                                        Hominidae
+56.52	13	2	197	1	0.003917	207598	subfamily	                                                          Homininae
+43.48	10	3	159	1	0.009798	9605	genus	                                                            Homo
+30.43	7	2	87	1	0.01004	9606	species	                                                              Homo sapiens
+17.39	4	4	57	1	0.03116	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.348	1	1	19	1	0.007291	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+4.348	1	0	1	1	6.818e-05	9596	genus	                                                            Pan
+4.348	1	1	1	1	0.0001671	9597	species	                                                              Pan paniscus
+4.348	1	0	8	1	1.519e-05	314294	superfamily	                                                      Cercopithecoidea
+4.348	1	0	8	1	1.519e-05	9527	family	                                                        Cercopithecidae
+4.348	1	1	6	1	2.886e-05	9569	subfamily	                                                          Colobinae
+8.696	2	0	8	1	2.442e-06	314147	clade	                                              Glires
+8.696	2	0	8	1	2.611e-06	9989	order	                                                Rodentia
+4.348	1	0	5	1	6.87e-05	1963759	suborder	                                                  Anomaluromorpha
+4.348	1	0	5	1	6.87e-05	101663	family	                                                    Anomaluridae
+4.348	1	0	5	1	0.0004452	101668	genus	                                                      Zenkerella
+4.348	1	1	5	1	0.0004452	101669	species	                                                        Zenkerella insignis
+4.348	1	0	2	1	2.965e-05	1963757	suborder	                                                  Castorimorpha
+4.348	1	0	2	1	5.747e-05	10015	family	                                                    Heteromyidae
+4.348	1	0	2	1	9.068e-05	38662	subfamily	                                                      Dipodomyinae
+4.348	1	0	2	1	9.068e-05	10016	genus	                                                        Dipodomys
+4.348	1	1	2	1	0.000185	94247	species	                                                          Dipodomys merriami

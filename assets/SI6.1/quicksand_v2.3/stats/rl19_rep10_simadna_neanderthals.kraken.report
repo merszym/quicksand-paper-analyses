@@ -1,0 +1,54 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:24:11Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/8b/c11e63761f3269939490b0451ffa37
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl19_rep10_simadna_neanderthals.kraken.report --output output.kraken rl19_rep10_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+10.53	2	2	147	1	NA	0	no rank	unclassified
+89.47	17	0	344	1	2.8e-05	1	no rank	root
+89.47	17	0	344	1	2.8e-05	131567	no rank	  cellular organisms
+89.47	17	0	344	1	2.8e-05	2759	superkingdom	    Eukaryota
+89.47	17	0	344	1	2.8e-05	33154	clade	      Opisthokonta
+89.47	17	0	344	1	2.8e-05	33208	kingdom	        Metazoa
+89.47	17	0	344	1	2.8e-05	6072	clade	          Eumetazoa
+89.47	17	0	344	1	2.8e-05	33213	clade	            Bilateria
+89.47	17	0	344	1	2.8e-05	33511	clade	              Deuterostomia
+89.47	17	0	344	1	2.8e-05	7711	phylum	                Chordata
+89.47	17	0	344	1	2.8e-05	89593	subphylum	                  Craniata
+89.47	17	0	344	1	2.8e-05	7742	clade	                    Vertebrata
+89.47	17	0	344	1	2.8e-05	7776	clade	                      Gnathostomata
+89.47	17	0	344	1	2.8e-05	117570	clade	                        Teleostomi
+89.47	17	0	344	1	2.8e-05	117571	clade	                          Euteleostomi
+89.47	17	0	344	1	2.8e-05	8287	superclass	                            Sarcopterygii
+89.47	17	0	344	1	2.8e-05	1338369	clade	                              Dipnotetrapodomorpha
+89.47	17	0	344	1	2.8e-05	32523	clade	                                Tetrapoda
+89.47	17	0	344	1	2.8e-05	32524	clade	                                  Amniota
+89.47	17	0	344	1	2.8e-05	40674	class	                                    Mammalia
+89.47	17	0	336	1	2.745e-05	32525	clade	                                      Theria
+89.47	17	0	321	1	2.764e-05	9347	clade	                                        Eutheria
+89.47	17	0	288	1	2.653e-05	1437010	clade	                                          Boreoeutheria
+73.68	14	0	245	1	4.661e-05	314146	superorder	                                            Euarchontoglires
+73.68	14	0	238	1	0.0001305	9443	order	                                              Primates
+73.68	14	0	238	1	0.0001954	376913	suborder	                                                Haplorrhini
+73.68	14	0	238	1	0.0002026	314293	infraorder	                                                  Simiiformes
+73.68	14	0	230	1	0.0003419	9526	parvorder	                                                    Catarrhini
+73.68	14	0	221	1	0.001583	314295	superfamily	                                                      Hominoidea
+73.68	14	0	210	1	0.002956	9604	family	                                                        Hominidae
+73.68	14	2	210	1	0.004175	207598	subfamily	                                                          Homininae
+63.16	12	5	146	1	0.008997	9605	genus	                                                            Homo
+36.84	7	2	49	1	0.005653	9606	species	                                                              Homo sapiens
+26.32	5	5	21	1	0.01148	63221	subspecies	                                                                Homo sapiens neanderthalensis
+15.79	3	0	6	1	1.162e-06	314145	superorder	                                            Laurasiatheria
+5.263	1	0	3	1	2.349e-06	33554	order	                                              Carnivora
+5.263	1	0	3	1	3.844e-06	379584	suborder	                                                Caniformia
+5.263	1	0	3	1	1.077e-05	9655	family	                                                  Mustelidae
+5.263	1	0	3	1	0.0001175	1008252	subfamily	                                                    Melinae
+5.263	1	0	3	1	0.0001657	9661	genus	                                                      Meles
+5.263	1	1	3	1	0.0004943	9662	species	                                                        Meles meles
+5.263	1	0	2	1	3.373e-06	9362	order	                                              Eulipotyphla
+5.263	1	0	2	1	2.816e-05	9363	family	                                                Erinaceidae
+5.263	1	0	2	1	7.863e-05	30577	subfamily	                                                  Erinaceinae
+5.263	1	0	2	1	0.0001555	9364	genus	                                                    Erinaceus
+5.263	1	1	2	1	0.0001555	9365	species	                                                      Erinaceus europaeus
+5.263	1	0	1	1	6.828e-07	9397	order	                                              Chiroptera
+5.263	1	0	1	1	3.129e-06	30559	suborder	                                                Megachiroptera
+5.263	1	0	1	1	3.129e-06	9398	family	                                                  Pteropodidae
+5.263	1	0	1	1	4.568e-06	77225	subfamily	                                                    Pteropodinae
+5.263	1	1	1	1	2.717e-05	9401	genus	                                                      Pteropus

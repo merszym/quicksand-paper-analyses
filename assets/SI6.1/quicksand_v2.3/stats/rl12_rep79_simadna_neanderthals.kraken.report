@@ -1,0 +1,47 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:21:32Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/d3/bc3406aa58da0a1059468c49f1a9ce
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl12_rep79_simadna_neanderthals.kraken.report --output output.kraken rl12_rep79_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	12	0	201	1	1.636e-05	1	no rank	root
+100	12	0	201	1	1.636e-05	131567	no rank	  cellular organisms
+100	12	0	201	1	1.636e-05	2759	superkingdom	    Eukaryota
+100	12	0	201	1	1.636e-05	33154	clade	      Opisthokonta
+100	12	0	201	1	1.636e-05	33208	kingdom	        Metazoa
+100	12	0	201	1	1.636e-05	6072	clade	          Eumetazoa
+100	12	0	201	1	1.636e-05	33213	clade	            Bilateria
+100	12	0	201	1	1.636e-05	33511	clade	              Deuterostomia
+100	12	0	201	1	1.636e-05	7711	phylum	                Chordata
+100	12	0	201	1	1.636e-05	89593	subphylum	                  Craniata
+100	12	0	201	1	1.636e-05	7742	clade	                    Vertebrata
+100	12	0	201	1	1.636e-05	7776	clade	                      Gnathostomata
+100	12	0	201	1	1.636e-05	117570	clade	                        Teleostomi
+100	12	0	201	1	1.636e-05	117571	clade	                          Euteleostomi
+100	12	0	201	1	1.636e-05	8287	superclass	                            Sarcopterygii
+100	12	0	201	1	1.636e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	12	0	201	1	1.636e-05	32523	clade	                                Tetrapoda
+100	12	0	201	1	1.636e-05	32524	clade	                                  Amniota
+100	12	0	201	1	1.636e-05	40674	class	                                    Mammalia
+100	12	0	195	1	1.593e-05	32525	clade	                                      Theria
+91.67	11	0	183	1	1.576e-05	9347	clade	                                        Eutheria
+91.67	11	0	173	1	1.594e-05	1437010	clade	                                          Boreoeutheria
+91.67	11	0	134	1	2.549e-05	314146	superorder	                                            Euarchontoglires
+83.33	10	1	124	1	6.797e-05	9443	order	                                              Primates
+75	9	0	123	1	0.000101	376913	suborder	                                                Haplorrhini
+75	9	0	123	1	0.0001047	314293	infraorder	                                                  Simiiformes
+75	9	0	123	1	0.0001828	9526	parvorder	                                                    Catarrhini
+75	9	1	111	1	0.0007949	314295	superfamily	                                                      Hominoidea
+66.67	8	0	109	1	0.001534	9604	family	                                                        Hominidae
+66.67	8	1	108	1	0.002147	207598	subfamily	                                                          Homininae
+58.33	7	3	63	1	0.003882	9605	genus	                                                            Homo
+33.33	4	2	32	1	0.003692	9606	species	                                                              Homo sapiens
+16.67	2	2	23	1	0.01258	63221	subspecies	                                                                Homo sapiens neanderthalensis
+8.333	1	0	1	1	3.053e-07	314147	clade	                                              Glires
+8.333	1	0	1	1	3.264e-07	9989	order	                                                Rodentia
+8.333	1	0	1	1	5.36e-07	1963758	suborder	                                                  Myomorpha
+8.333	1	0	1	1	1.014e-05	1963761	superfamily	                                                    Dipodoidea
+8.333	1	0	1	1	1.014e-05	30648	family	                                                      Dipodidae
+8.333	1	0	1	1	3.203e-05	52905	subfamily	                                                        Sicistinae
+8.333	1	0	1	1	3.203e-05	52906	genus	                                                          Sicista
+8.333	1	1	1	1	0.0001352	489448	species	                                                            Sicista betulina
+8.333	1	0	8	1	1.544e-05	9263	clade	                                        Metatheria
+8.333	1	0	1	1	6.969e-06	38608	order	                                          Dasyuromorphia
+8.333	1	1	1	1	8.463e-06	9277	family	                                            Dasyuridae

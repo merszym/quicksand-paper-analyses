@@ -1,0 +1,51 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:27:48Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/5c/0eb51d719156a4935b8dd18790cee2
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl25_rep86_simadna_neanderthals.kraken.report --output output.kraken rl25_rep86_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+4	1	1	301	1	NA	0	no rank	unclassified
+96	24	0	568	1	4.624e-05	1	no rank	root
+96	24	0	568	1	4.624e-05	131567	no rank	  cellular organisms
+96	24	0	568	1	4.624e-05	2759	superkingdom	    Eukaryota
+96	24	0	568	1	4.624e-05	33154	clade	      Opisthokonta
+96	24	0	568	1	4.624e-05	33208	kingdom	        Metazoa
+96	24	0	568	1	4.624e-05	6072	clade	          Eumetazoa
+96	24	0	568	1	4.624e-05	33213	clade	            Bilateria
+96	24	0	568	1	4.624e-05	33511	clade	              Deuterostomia
+96	24	0	568	1	4.624e-05	7711	phylum	                Chordata
+96	24	0	568	1	4.624e-05	89593	subphylum	                  Craniata
+96	24	0	568	1	4.624e-05	7742	clade	                    Vertebrata
+96	24	0	568	1	4.624e-05	7776	clade	                      Gnathostomata
+96	24	0	568	1	4.624e-05	117570	clade	                        Teleostomi
+96	24	0	568	1	4.624e-05	117571	clade	                          Euteleostomi
+96	24	0	568	1	4.624e-05	8287	superclass	                            Sarcopterygii
+96	24	0	568	1	4.624e-05	1338369	clade	                              Dipnotetrapodomorpha
+96	24	0	568	1	4.624e-05	32523	clade	                                Tetrapoda
+96	24	0	568	1	4.624e-05	32524	clade	                                  Amniota
+96	24	0	568	1	4.624e-05	40674	class	                                    Mammalia
+92	23	1	555	1	4.534e-05	32525	clade	                                      Theria
+88	22	0	547	1	4.71e-05	9347	clade	                                        Eutheria
+88	22	0	532	1	4.901e-05	1437010	clade	                                          Boreoeutheria
+88	22	0	479	1	9.112e-05	314146	superorder	                                            Euarchontoglires
+88	22	0	462	1	0.0002532	9443	order	                                              Primates
+88	22	0	461	1	0.0003784	376913	suborder	                                                Haplorrhini
+88	22	1	461	1	0.0003924	314293	infraorder	                                                  Simiiformes
+84	21	0	435	1	0.0006467	9526	parvorder	                                                    Catarrhini
+80	20	0	346	1	0.002478	314295	superfamily	                                                      Hominoidea
+80	20	0	342	1	0.004814	9604	family	                                                        Hominidae
+76	19	1	332	1	0.0066	207598	subfamily	                                                          Homininae
+64	16	7	240	1	0.01479	9605	genus	                                                            Homo
+36	9	5	103	1	0.01188	9606	species	                                                              Homo sapiens
+16	4	4	41	1	0.02242	63221	subspecies	                                                                Homo sapiens neanderthalensis
+8	2	1	7	1	0.0004773	9596	genus	                                                            Pan
+4	1	1	2	1	0.0003342	9597	species	                                                              Pan paniscus
+4	1	0	9	1	0.0004522	607660	subfamily	                                                          Ponginae
+4	1	0	9	1	0.0004522	9599	genus	                                                            Pongo
+4	1	1	9	1	0.001025	9600	species	                                                              Pongo pygmaeus
+4	1	0	13	1	2.468e-05	314294	superfamily	                                                      Cercopithecoidea
+4	1	0	13	1	2.468e-05	9527	family	                                                        Cercopithecidae
+4	1	0	5	1	2.405e-05	9569	subfamily	                                                          Colobinae
+4	1	1	2	1	2.64e-05	54136	genus	                                                            Trachypithecus
+4	1	0	6	1	0.0001669	9254	clade	                                      Prototheria
+4	1	0	6	1	0.0001669	9255	order	                                        Monotremata
+4	1	0	6	1	0.0004678	9256	family	                                          Ornithorhynchidae
+4	1	0	6	1	0.0004678	9257	genus	                                            Ornithorhynchus
+4	1	1	6	1	0.0004678	9258	species	                                              Ornithorhynchus anatinus

@@ -1,0 +1,51 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:28:10Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/d9/26f2101c8446f464f81f03f500efa6
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl26_rep33_simadna_neanderthals.kraken.report --output output.kraken rl26_rep33_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+19.23	5	5	291	1	NA	0	no rank	unclassified
+80.77	21	0	418	1	3.403e-05	1	no rank	root
+80.77	21	0	418	1	3.403e-05	131567	no rank	  cellular organisms
+80.77	21	0	418	1	3.403e-05	2759	superkingdom	    Eukaryota
+80.77	21	0	418	1	3.403e-05	33154	clade	      Opisthokonta
+80.77	21	0	418	1	3.403e-05	33208	kingdom	        Metazoa
+80.77	21	0	418	1	3.403e-05	6072	clade	          Eumetazoa
+80.77	21	0	418	1	3.403e-05	33213	clade	            Bilateria
+80.77	21	0	418	1	3.403e-05	33511	clade	              Deuterostomia
+80.77	21	0	418	1	3.403e-05	7711	phylum	                Chordata
+80.77	21	0	418	1	3.403e-05	89593	subphylum	                  Craniata
+80.77	21	0	418	1	3.403e-05	7742	clade	                    Vertebrata
+80.77	21	0	418	1	3.403e-05	7776	clade	                      Gnathostomata
+80.77	21	0	418	1	3.403e-05	117570	clade	                        Teleostomi
+80.77	21	0	418	1	3.403e-05	117571	clade	                          Euteleostomi
+80.77	21	0	418	1	3.403e-05	8287	superclass	                            Sarcopterygii
+80.77	21	0	418	1	3.403e-05	1338369	clade	                              Dipnotetrapodomorpha
+80.77	21	0	418	1	3.403e-05	32523	clade	                                Tetrapoda
+80.77	21	0	418	1	3.403e-05	32524	clade	                                  Amniota
+80.77	21	0	418	1	3.403e-05	40674	class	                                    Mammalia
+80.77	21	0	416	1	3.398e-05	32525	clade	                                      Theria
+80.77	21	1	388	1.01	3.341e-05	9347	clade	                                        Eutheria
+76.92	20	1	361	1.01	3.326e-05	1437010	clade	                                          Boreoeutheria
+69.23	18	0	277	1.01	5.269e-05	314146	superorder	                                            Euarchontoglires
+65.38	17	0	270	1.01	0.000148	9443	order	                                              Primates
+65.38	17	0	270	1.01	0.0002216	376913	suborder	                                                Haplorrhini
+65.38	17	1	270	1.01	0.0002298	314293	infraorder	                                                  Simiiformes
+61.54	16	2	266	1.01	0.0003954	9526	parvorder	                                                    Catarrhini
+53.85	14	1	216	1.01	0.001547	314295	superfamily	                                                      Hominoidea
+50	13	0	212	1.01	0.002984	9604	family	                                                        Hominidae
+50	13	0	211	1.01	0.004195	207598	subfamily	                                                          Homininae
+50	13	7	158	1.01	0.009736	9605	genus	                                                            Homo
+23.08	6	3	60	1	0.006922	9606	species	                                                              Homo sapiens
+11.54	3	3	22	1	0.01203	63221	subspecies	                                                                Homo sapiens neanderthalensis
+3.846	1	0	2	1	6.106e-07	314147	clade	                                              Glires
+3.846	1	0	2	1	6.527e-07	9989	order	                                                Rodentia
+3.846	1	0	2	1	1.072e-06	1963758	suborder	                                                  Myomorpha
+3.846	1	0	2	1	1.134e-06	337687	clade	                                                    Muroidea
+3.846	1	0	2	1	1.467e-05	337664	family	                                                      Spalacidae
+3.846	1	0	2	1	7.696e-05	10061	subfamily	                                                        Spalacinae
+3.846	1	0	2	1	0.0005809	10062	genus	                                                          Spalax
+3.846	1	1	2	1	0.0005809	164324	species	                                                            Spalax carmeli
+3.846	1	0	4	1	7.749e-07	314145	superorder	                                            Laurasiatheria
+3.846	1	0	3	1	2.048e-06	9397	order	                                              Chiroptera
+3.846	1	0	3	1	2.645e-06	30560	suborder	                                                Microchiroptera
+3.846	1	0	3	1	6.122e-06	9431	family	                                                  Vespertilionidae
+3.846	1	0	3	1	1.288e-05	9434	genus	                                                    Myotis
+3.846	1	1	3	1	0.0003479	225401	species	                                                      Myotis formosus

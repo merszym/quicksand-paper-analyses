@@ -1,0 +1,48 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:19:39Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/ce/edf413b57b9278267b1b46834bcd20
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl9_rep37_simadna_neanderthals.kraken.report --output output.kraken rl9_rep37_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+100	9	0	167	1	1.359e-05	1	no rank	root
+100	9	0	167	1	1.359e-05	131567	no rank	  cellular organisms
+100	9	0	167	1	1.359e-05	2759	superkingdom	    Eukaryota
+100	9	0	167	1	1.359e-05	33154	clade	      Opisthokonta
+100	9	0	167	1	1.359e-05	33208	kingdom	        Metazoa
+100	9	0	167	1	1.359e-05	6072	clade	          Eumetazoa
+100	9	0	167	1	1.359e-05	33213	clade	            Bilateria
+100	9	0	167	1	1.359e-05	33511	clade	              Deuterostomia
+100	9	0	167	1	1.359e-05	7711	phylum	                Chordata
+100	9	0	167	1	1.359e-05	89593	subphylum	                  Craniata
+100	9	0	167	1	1.359e-05	7742	clade	                    Vertebrata
+100	9	0	167	1	1.359e-05	7776	clade	                      Gnathostomata
+100	9	0	167	1	1.359e-05	117570	clade	                        Teleostomi
+100	9	0	167	1	1.359e-05	117571	clade	                          Euteleostomi
+100	9	0	167	1	1.359e-05	8287	superclass	                            Sarcopterygii
+100	9	0	167	1	1.359e-05	1338369	clade	                              Dipnotetrapodomorpha
+100	9	0	167	1	1.359e-05	32523	clade	                                Tetrapoda
+100	9	0	167	1	1.359e-05	32524	clade	                                  Amniota
+100	9	0	167	1	1.359e-05	40674	class	                                    Mammalia
+100	9	0	167	1	1.364e-05	32525	clade	                                      Theria
+100	9	0	165	1	1.421e-05	9347	clade	                                        Eutheria
+100	9	0	162	1	1.492e-05	1437010	clade	                                          Boreoeutheria
+88.89	8	0	141	1	2.682e-05	314146	superorder	                                            Euarchontoglires
+88.89	8	0	135	1	7.4e-05	9443	order	                                              Primates
+88.89	8	0	135	1	0.0001108	376913	suborder	                                                Haplorrhini
+88.89	8	0	135	1	0.0001149	314293	infraorder	                                                  Simiiformes
+88.89	8	0	133	1	0.0001977	9526	parvorder	                                                    Catarrhini
+77.78	7	0	124	1	0.000888	314295	superfamily	                                                      Hominoidea
+77.78	7	0	98	1	0.001379	9604	family	                                                        Hominidae
+77.78	7	0	98	1	0.001948	207598	subfamily	                                                          Homininae
+77.78	7	2	81	1	0.004991	9605	genus	                                                            Homo
+55.56	5	3	41	1	0.00473	9606	species	                                                              Homo sapiens
+11.11	1	1	10	1	0.003837	741158	subspecies	                                                                Homo sapiens subsp. 'Denisova'
+11.11	1	1	4	1	0.002187	63221	subspecies	                                                                Homo sapiens neanderthalensis
+11.11	1	0	9	1	1.709e-05	314294	superfamily	                                                      Cercopithecoidea
+11.11	1	0	9	1	1.709e-05	9527	family	                                                        Cercopithecidae
+11.11	1	0	8	1	2.594e-05	9528	subfamily	                                                          Cercopithecinae
+11.11	1	0	6	1	0.0006582	75565	genus	                                                            Lophocebus
+11.11	1	1	6	1	0.0006582	75566	species	                                                              Lophocebus aterrimus
+11.11	1	0	9	1	1.744e-06	314145	superorder	                                            Laurasiatheria
+11.11	1	0	7	1	5.48e-06	33554	order	                                              Carnivora
+11.11	1	0	3	1	3.844e-06	379584	suborder	                                                Caniformia
+11.11	1	0	3	1	3.335e-05	9709	family	                                                  Phocidae
+11.11	1	0	3	1	0.0004504	29087	genus	                                                    Monachus
+11.11	1	1	3	1	0.0004504	248254	species	                                                      Monachus monachus

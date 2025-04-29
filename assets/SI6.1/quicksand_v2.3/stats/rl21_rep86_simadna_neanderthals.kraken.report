@@ -1,0 +1,46 @@
+# KrakenUniq v1.0.2 DATE:2025-04-02T17:25:57Z DB:./Mito_db_kmer22 DB_SIZE:122782134 WD:/mnt/scratch/merlin/projects/2023_quicksand_paper/04_work/20250312_repeat_human_sensitivity/06_run_quicksand_no_kmerfilter/kmer22/work/1b/986089f8a98d1bcde21d83bb47b201
+# CL:/usr/local/bin/krakenuniq --threads 1 --db Mito_db_kmer22 --report-file rl21_rep86_simadna_neanderthals.kraken.report --output output.kraken rl21_rep86_simadna_neanderthals.fa
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+19.05	4	4	272	1	NA	0	no rank	unclassified
+80.95	17	0	374	1	3.044e-05	1	no rank	root
+80.95	17	0	374	1	3.044e-05	131567	no rank	  cellular organisms
+80.95	17	0	374	1	3.044e-05	2759	superkingdom	    Eukaryota
+80.95	17	0	374	1	3.044e-05	33154	clade	      Opisthokonta
+80.95	17	0	374	1	3.044e-05	33208	kingdom	        Metazoa
+80.95	17	0	374	1	3.044e-05	6072	clade	          Eumetazoa
+80.95	17	0	374	1	3.044e-05	33213	clade	            Bilateria
+80.95	17	0	374	1	3.044e-05	33511	clade	              Deuterostomia
+80.95	17	0	374	1	3.044e-05	7711	phylum	                Chordata
+80.95	17	0	374	1	3.044e-05	89593	subphylum	                  Craniata
+80.95	17	0	374	1	3.044e-05	7742	clade	                    Vertebrata
+80.95	17	0	374	1	3.044e-05	7776	clade	                      Gnathostomata
+80.95	17	0	374	1	3.044e-05	117570	clade	                        Teleostomi
+80.95	17	0	374	1	3.044e-05	117571	clade	                          Euteleostomi
+80.95	17	0	374	1	3.044e-05	8287	superclass	                            Sarcopterygii
+80.95	17	0	374	1	3.044e-05	1338369	clade	                              Dipnotetrapodomorpha
+80.95	17	0	374	1	3.044e-05	32523	clade	                                Tetrapoda
+80.95	17	0	374	1	3.044e-05	32524	clade	                                  Amniota
+80.95	17	0	374	1	3.044e-05	40674	class	                                    Mammalia
+80.95	17	0	372	1	3.039e-05	32525	clade	                                      Theria
+80.95	17	0	349	1	3.005e-05	9347	clade	                                        Eutheria
+80.95	17	0	331	1	3.049e-05	1437010	clade	                                          Boreoeutheria
+80.95	17	0	297	1	5.65e-05	314146	superorder	                                            Euarchontoglires
+76.19	16	0	284	1	0.0001557	9443	order	                                              Primates
+76.19	16	0	274	1	0.0002249	376913	suborder	                                                Haplorrhini
+76.19	16	1	274	1	0.0002332	314293	infraorder	                                                  Simiiformes
+71.43	15	0	269	1	0.0003999	9526	parvorder	                                                    Catarrhini
+71.43	15	0	255	1	0.001826	314295	superfamily	                                                      Hominoidea
+71.43	15	0	250	1	0.003519	9604	family	                                                        Hominidae
+71.43	15	2	248	1	0.00493	207598	subfamily	                                                          Homininae
+57.14	12	5	156	1	0.009613	9605	genus	                                                            Homo
+33.33	7	5	78	1	0.008999	9606	species	                                                              Homo sapiens
+9.524	2	2	12	1	0.006561	63221	subspecies	                                                                Homo sapiens neanderthalensis
+4.762	1	0	7	1	0.0004773	9596	genus	                                                            Pan
+4.762	1	1	7	1	0.001145	9598	species	                                                              Pan troglodytes
+4.762	1	0	6	1	1.832e-06	314147	clade	                                              Glires
+4.762	1	0	6	1	1.958e-06	9989	order	                                                Rodentia
+4.762	1	0	1	1	1.483e-05	1963757	suborder	                                                  Castorimorpha
+4.762	1	0	1	1	2.873e-05	10015	family	                                                    Heteromyidae
+4.762	1	0	1	1	4.534e-05	38662	subfamily	                                                      Dipodomyinae
+4.762	1	0	1	1	4.534e-05	10016	genus	                                                        Dipodomys
+4.762	1	1	1	1	9.249e-05	94247	species	                                                          Dipodomys merriami
