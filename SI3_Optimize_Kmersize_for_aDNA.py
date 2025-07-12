@@ -628,7 +628,7 @@ def _(df_full, mpatches, plot_kmerperformance, plt, sns):
 
 
 @app.cell
-def _(df_full, get_palette, plt, sns):
+def _(df_full, plt, sns):
     def plot_kmerperformance_merged(
         df, title=None, ax=None, subplot="A", ylabel=True, **kwargs
     ):
@@ -668,7 +668,7 @@ def _(df_full, get_palette, plt, sns):
         & df_full.Family.isin(_families)], 
         title='A', 
         ax=_ax1, 
-        color = get_palette(1)[0]
+        color = 'grey'
     )
 
     _ax2 = plot_kmerperformance_merged(
@@ -677,7 +677,7 @@ def _(df_full, get_palette, plt, sns):
         title='B', 
         ax=_ax2, 
         ylabel=False,
-        color = get_palette(1)[0]
+        color = 'grey'
     )
 
     _ax3 = plot_kmerperformance_merged(
@@ -686,7 +686,7 @@ def _(df_full, get_palette, plt, sns):
         title='C', 
         ax=_ax3, 
         ylabel=False,
-        color = get_palette(1)[0]
+        color = 'grey'
     )
 
 
