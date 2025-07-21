@@ -46,18 +46,13 @@ def _():
 
 @app.cell
 def _(mo):
-    mo.md(
-        r"""
-        ## Download the Zavala et al. (2021) dataset
-        The dataset is available in the hellforge database and can be downloaded as a list of libraries. However, I dont get the raw quicksand files from there, so fetch them from the file system
-        """
-    )
+    mo.md(r"""## Import the Zavala et al. (2021) dataset""")
     return
 
 
 @app.cell
 def _(pd):
-    # download the data from hellforge
+    # import the data
     data= pd.read_csv("assets/SI7/20250429_Pleistocene sediment DNA reveals hominin and faunal turnovers at Denisova Cave_library_m_1.csv")
     return (data,)
 
@@ -725,6 +720,16 @@ def _(aa163_filtered, get_palette, plt, venn2, venn2_circles, zav2021):
 
     plt.tight_layout()
     plt.show()
+
+    print(_count_ancient[_count_ancient.apply(lambda x: x['Ancient'] == 'Yes' and x['MM_Ancient']=='No', axis=1)])
+    return
+
+
+@app.cell
+def _(aa163_filtered):
+    # whats with the one 'negative' sample?
+    # it turned from ++ to +
+    aa163_filtered[aa163_filtered.Library == 'Lib.G.783'][['MM_Ancient', "5'CT(95%CI)","3'CT(95%CI)", 'Ancient','AncientTaxa', ]]
     return
 
 
