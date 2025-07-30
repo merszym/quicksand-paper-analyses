@@ -206,7 +206,7 @@ def _(filtered_df, get_palette, plt, sns, ticker):
 
     _ax1.set_yscale('log')
     _ax1.set_title("A")
-    _ax1.set_ylabel("Percentage of Sequences")
+    _ax1.set_ylabel("PSF (log)")
     _ax1.yaxis.set_major_formatter(ticker.FuncFormatter(lambda val, pos: f'{val:g}'))
 
 
@@ -221,7 +221,7 @@ def _(filtered_df, get_palette, plt, sns, ticker):
         palette=get_palette(3, r=True)
     )
 
-    _ax2.set_ylabel("Percentage of Sequences")
+    _ax2.set_ylabel("PSF")
     _ax2.set_xlabel("Database Size")
     _ax2.set_title("B")
 
@@ -274,7 +274,7 @@ def _(filtered_df, get_palette, plt, sns, ticker):
 
     _ax2.set_title("B")
     _ax2.set_xscale("log")
-    _ax2.set_ylabel("Proportion of expected Breadth")
+    _ax2.set_ylabel("PEB")
     _ax2.xaxis.set_major_formatter(ticker.FuncFormatter(lambda val, pos: f'{val:g}x'))
 
 

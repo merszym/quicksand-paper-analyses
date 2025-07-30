@@ -125,7 +125,7 @@ def _(aa75, aa75_ancient, get_palette, plt, sns, ticker):
 
     _ax1.set_xscale('log')
     _ax1.set_ylabel("PEB")
-    _ax1.set_xlabel("Percentage of Sequences")
+    _ax1.set_xlabel("PSF")
     _ax1.xaxis.set_major_formatter(ticker.FuncFormatter(lambda val, pos: f'{val:g}'))
     _ax1.set_title('A')
 
@@ -143,7 +143,7 @@ def _(aa75, aa75_ancient, get_palette, plt, sns, ticker):
     )
     _ax2.set_xscale('log')
     _ax2.set_ylabel("PEB")
-    _ax2.set_xlabel("Percentage of Sequences")
+    _ax2.set_xlabel("PSF")
     _ax2.xaxis.set_major_formatter(ticker.FuncFormatter(lambda val, pos: f'{val:g}'))
     _ax2.set_title('B')
 
@@ -172,7 +172,7 @@ def _(aa75_ancient, get_palette, plt, sns):
         palette=get_palette(3, r=True)
     )
 
-    _ax1.set_ylabel("Percentage of Sequences")
+    _ax1.set_ylabel("PSF")
     _ax1.set_xlabel("")
     _ax1.set_yscale('log')
     _ax1.axhline(0.5, ls='-.', color=get_palette(1)[0])

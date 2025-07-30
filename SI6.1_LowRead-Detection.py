@@ -64,6 +64,13 @@ def _(full):
 
 
 @app.cell
+def _(full):
+    _subset = full[(full.FamPercentage >= 0.5)&(full.ProportionExpectedBreadth >= 0.5)]
+    _subset[_subset.Family == 'Muridae']
+    return
+
+
+@app.cell
 def _(full, get_palette, plt, sns):
     _subset = full[(full.FamPercentage >= 0.5)&(full.ProportionExpectedBreadth >= 0.5)]
 
@@ -85,6 +92,13 @@ def _(full, get_palette, plt, sns):
         ax=_ax1,
         palette=get_palette(3, r=True)
     )
+    sns.scatterplot(
+        data=_subset[_subset.Family == 'Muridae'],
+        x='ReadsRaw',
+        y="ReadsDeduped",
+        ax=_ax1,
+        color=get_palette(3, r=True)[-1]
+    )
 
     _ax1.set_title("A")
     _ax1.set_ylabel('Final Sequences')
@@ -98,6 +112,13 @@ def _(full, get_palette, plt, sns):
         hue='Family',
         ax=_ax2,
         palette=get_palette(3, r=True)
+    )
+    sns.scatterplot(
+        data=_subset[_subset.Family == 'Muridae'],
+        x='ReadsRaw',
+        y="kmers",
+        ax=_ax2,
+        color=get_palette(3, r=True)[-1]
     )
 
     _ax2.set_title("B")

@@ -112,7 +112,7 @@ def _(full, get_palette, plt, sns):
     _ax3.axhline(0.5, ls='--', c='red')
     _ax3.axvline(0.5, ls='--', c='red')
     _ax3.set_ylabel('PEB')
-    _ax3.set_xlabel('Percentage of Sequences')
+    _ax3.set_xlabel('PSF')
 
     sns.scatterplot(
         data=full,
@@ -127,7 +127,7 @@ def _(full, get_palette, plt, sns):
     _ax4.set_xscale('log')
     _ax4.axhline(129, ls='--', c='red')
     _ax4.set_ylabel('Unique Kmers')
-    _ax4.set_xlabel('Percentage of Sequences')
+    _ax4.set_xlabel('PSF')
 
     plt.tight_layout()
     plt.show()
