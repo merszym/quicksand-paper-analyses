@@ -403,6 +403,35 @@ def _(get_palette, megan_aa75, pd, plt, qsaa75, sns, ticker):
 
 
 @app.cell
+def _(megan_aa75, pd, qsaa75, re):
+    _trans = pd.read_csv("assets/SI7/20250429_Pleistocene sediment DNA reveals hominin and faunal turnovers at Denisova Cave_library_m_1.csv")
+
+    _dict = {k:(re.search('SP[0-9]+',v).group() if v==v else v) for k,v in zip(_trans['Sample Name'], _trans['Sample Synonyms'])}
+    # get the sample sample-ids
+    _qsaa75 = qsaa75.copy()
+    _qsaa75['SampleID'] = _qsaa75['SampleID'].map(_dict)
+
+    _comp = _qsaa75.merge(megan_aa75, on=['SampleID','Family'], how='outer')
+
+    #additional families in quicksand
+    # The counter shows how often a family was found additionally by quicksand
+    from collections import Counter
+    print(Counter(_comp[_comp.origin_y != _comp.origin_y]['Family']))
+    print(len(set(_comp[_comp.origin_y != _comp.origin_y]['SampleID'])))
+
+    # and the other way around
+    print(Counter(_comp[_comp.origin_x != _comp.origin_x]['Family']))
+    print(len(set(_comp[_comp.origin_x != _comp.origin_x]['SampleID'])))
+
+    #and positive in both analyses
+    print(Counter(_comp[(_comp.origin_x==_comp.origin_x) & (_comp.origin_y==_comp.origin_y)]['Family']))
+    print(len(set(_comp[(_comp.origin_x==_comp.origin_x) & (_comp.origin_y==_comp.origin_y)]['SampleID'])))
+
+    _comp[_comp.origin_y == _comp.origin_y]
+    return
+
+
+@app.cell
 def _(mo):
     mo.md(
         r"""
