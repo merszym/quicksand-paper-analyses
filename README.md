@@ -1,5 +1,9 @@
 # quicksand Analysis Notebooks
-This repository contains the notebooks used for the creation of plots for the quicksand publication
+This repository contains the notebooks used for the creation of plots and analyses in the following preprint
+
+> Szymanski, Merlin, Johann Visagie, Frederic Romagne, Matthias Meyer, and Janet Kelso. 2025.
+> “quick analysis of sedimentary ancient DNA using quicksand”,
+> [https://doi.org/10.1101/2025.08.01.668088](https://doi.org/10.1101/2025.08.01.668088).
 
 ## Requirements
 ```
