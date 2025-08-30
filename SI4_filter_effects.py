@@ -222,7 +222,7 @@ def _(filtered_df, get_palette, plt, sns, ticker):
     )
 
     _ax2.set_ylabel("PSF")
-    _ax2.set_xlabel("Database Size")
+    _ax2.set_xlabel("Dataset Size")
     _ax2.set_title("B")
 
 
