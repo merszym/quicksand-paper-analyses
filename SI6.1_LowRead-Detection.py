@@ -16,10 +16,10 @@ def _():
 
 
 @app.cell
-def _():
-    from styles import set_style, get_palette
+def _(plt):
+    from styles import get_palette
 
-    set_style()
+    plt.style.use("fast")
     return (get_palette,)
 
 
@@ -74,7 +74,7 @@ def _(full):
 def _(full, get_palette, plt, sns):
     _subset = full[(full.FamPercentage >= 0.5)&(full.ProportionExpectedBreadth >= 0.5)]
 
-    _fig = plt.figure(figsize=(10,8))
+    _fig = plt.figure(figsize=(12,8))
 
     _ax1 = _fig.add_subplot(221)
     _ax2 = _fig.add_subplot(222)
@@ -100,9 +100,9 @@ def _(full, get_palette, plt, sns):
         color=get_palette(3, r=True)[-1]
     )
 
-    _ax1.set_title("A")
-    _ax1.set_ylabel('Final Sequences')
-    _ax1.set_xlabel('Number of Sequences')
+    _ax1.set_title("A", size=21)
+    _ax1.set_ylabel('Final Sequences', size=15)
+    _ax1.set_xlabel('')
 
     # Plot 2
     sns.lineplot(
@@ -121,9 +121,9 @@ def _(full, get_palette, plt, sns):
         color=get_palette(3, r=True)[-1]
     )
 
-    _ax2.set_title("B")
-    _ax2.set_ylabel('Unique Kmers')
-    _ax2.set_xlabel('Number of Sequences')
+    _ax2.set_title("B", size=21)
+    _ax2.set_ylabel('Unique Kmers', size=15)
+    _ax2.set_xlabel('')
     _ax2.axhline(129, ls='--', c='red')
 
     # Plot 3
@@ -136,9 +136,9 @@ def _(full, get_palette, plt, sns):
         palette=get_palette(3, r=True)
     )
 
-    _ax3.set_title("C")
-    _ax3.set_ylabel('Number of Samples')
-    _ax3.set_xlabel('Number of Sequences')
+    _ax3.set_title("C", size=21)
+    _ax3.set_ylabel('Number of Samples', size=15)
+    _ax3.set_xlabel('Number of Sequences', size=15)
 
     # plot 4
 
@@ -160,9 +160,19 @@ def _(full, get_palette, plt, sns):
         label="5'C->T"
     )
     _ax4.legend()
-    _ax4.set_title("D")
-    _ax4.set_ylabel('Term. Deamination Rate')
-    _ax4.set_xlabel('Number of Sequences')
+    _ax4.set_title("D", size=21)
+    _ax4.set_ylabel('Term. Deamination Rate', size=15)
+    _ax4.set_xlabel('Number of Sequences', size=15)
+
+    _ax1.spines['top'].set_visible(False)
+    _ax1.spines['right'].set_visible(False)
+    _ax2.spines['top'].set_visible(False)
+    _ax2.spines['right'].set_visible(False)
+    _ax3.spines['top'].set_visible(False)
+    _ax3.spines['right'].set_visible(False)
+    _ax4.spines['top'].set_visible(False)
+    _ax4.spines['right'].set_visible(False)
+
 
     plt.tight_layout()
     plt.show()

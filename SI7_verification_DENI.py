@@ -126,8 +126,8 @@ def _(aa75, aa75_ancient, get_palette, plt, sns, ticker):
     )
 
     _ax1.set_xscale("log")
-    _ax1.set_ylabel("PEB",size=18)
-    _ax1.set_xlabel("PSF",size=18)
+    _ax1.set_ylabel("PEB",size=15)
+    _ax1.set_xlabel("PSF",size=15)
     _ax1.xaxis.set_major_formatter(ticker.FuncFormatter(lambda val, pos: f"{val:g}"))
     _ax1.set_title("A", size=21)
 
@@ -146,8 +146,8 @@ def _(aa75, aa75_ancient, get_palette, plt, sns, ticker):
         palette=get_palette(3, r=True),
     )
     _ax2.set_xscale("log")
-    _ax2.set_ylabel("PEB",size=18)
-    _ax2.set_xlabel("PSF",size=18)
+    _ax2.set_ylabel("PEB",size=15)
+    _ax2.set_xlabel("PSF",size=15)
     _ax2.xaxis.set_major_formatter(ticker.FuncFormatter(lambda val, pos: f"{val:g}"))
     _ax2.set_title("B", size=21)
 
@@ -181,7 +181,7 @@ def _(aa75_ancient, get_palette, plt, sns):
         palette=get_palette(3, r=True),
     )
 
-    _ax1.set_ylabel("PSF", size=18)
+    _ax1.set_ylabel("PSF", size=15)
     _ax1.set_xlabel("")
     _ax1.set_yscale("log")
     _ax1.axhline(0.5, ls="--", color=get_palette(1)[0])
@@ -198,7 +198,7 @@ def _(aa75_ancient, get_palette, plt, sns):
         palette=get_palette(3, r=True),
     )
 
-    _ax2.set_ylabel("PEB", size=18)
+    _ax2.set_ylabel("PEB", size=15)
     _ax2.axhline(0.5, ls="--", color=get_palette(1)[0])
     _ax2.set_xlabel("")
 
@@ -762,7 +762,7 @@ def _(get_palette, hum_combined, megan_aa75, pd, plt, qsaa75, sns, ticker):
     _legend.set_title('')
 
     # _ax1.legend(bbox_to_anchor=(1.05, 1.05))
-    _ax1.set_ylabel("Number of Sequences", size=18)
+    _ax1.set_ylabel("Number of Sequences", size=15)
     _ax1.set_xlabel("")
     _ax1.set_yscale("log")
     _ax1.yaxis.set_major_formatter(ticker.FuncFormatter(lambda val, pos: f"{val:g}"))

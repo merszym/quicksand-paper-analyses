@@ -16,10 +16,10 @@ def _():
 
 
 @app.cell
-def _():
-    from styles import set_style, get_palette
+def _(plt):
+    from styles import get_palette
 
-    set_style()
+    plt.style.use("fast")
     return (get_palette,)
 
 
@@ -66,7 +66,7 @@ def _(full):
 
 @app.cell
 def _(full, get_palette, plt, sns):
-    _fig = plt.figure(figsize=(10,10))
+    _fig = plt.figure(figsize=(12,10))
     _ax1 = _fig.add_subplot(221)
     _ax2 = _fig.add_subplot(222)
     _ax3 = _fig.add_subplot(223)
@@ -81,8 +81,10 @@ def _(full, get_palette, plt, sns):
         ax=_ax1
     )
 
-    _ax1.set_title('A')
-    _ax1.set_ylabel('Detected Families')
+    _ax1.set_title('A', size=21)
+    _ax1.set_ylabel('Detected Families', size=15)
+    _ax1.set_xlabel('Human Sequences', size=15)
+
     #_ax1.set_yscale('log')
 
     ## Plot 2
@@ -94,8 +96,9 @@ def _(full, get_palette, plt, sns):
         ax=_ax2
     )
 
-    _ax2.set_title('B')
-    _ax2.set_ylabel('Final Sequences')
+    _ax2.set_title('B', size=21)
+    _ax2.set_ylabel('Final Sequences', size=15)
+    _ax2.set_xlabel('Human Sequences', size=15)
     #_ax2.set_yscale('log')
 
     sns.scatterplot(
@@ -106,13 +109,13 @@ def _(full, get_palette, plt, sns):
         hue='Assignment',
         palette=get_palette(3, r=True)
     )
-    _ax3.set_title('C')
+    _ax3.set_title('C', size=21)
     _ax3.set_yscale('log')
     _ax3.set_xscale('log')
     _ax3.axhline(0.5, ls='--', c='red')
     _ax3.axvline(0.5, ls='--', c='red')
-    _ax3.set_ylabel('PEB')
-    _ax3.set_xlabel('PSF')
+    _ax3.set_ylabel('PEB', size=15)
+    _ax3.set_xlabel('PSF', size=15)
 
     sns.scatterplot(
         data=full,
@@ -122,12 +125,21 @@ def _(full, get_palette, plt, sns):
         hue='Assignment',
         palette=get_palette(3, r=True)
     )
-    _ax4.set_title('D')
+    _ax4.set_title('D', size=21)
     _ax4.set_yscale('log')
     _ax4.set_xscale('log')
     _ax4.axhline(129, ls='--', c='red')
-    _ax4.set_ylabel('Unique Kmers')
-    _ax4.set_xlabel('PSF')
+    _ax4.set_ylabel('Unique Kmers', size=15)
+    _ax4.set_xlabel('PSF', size=15)
+
+    _ax1.spines['top'].set_visible(False)
+    _ax1.spines['right'].set_visible(False)
+    _ax2.spines['top'].set_visible(False)
+    _ax2.spines['right'].set_visible(False)
+    _ax3.spines['top'].set_visible(False)
+    _ax3.spines['right'].set_visible(False)
+    _ax4.spines['top'].set_visible(False)
+    _ax4.spines['right'].set_visible(False)
 
     plt.tight_layout()
     plt.show()

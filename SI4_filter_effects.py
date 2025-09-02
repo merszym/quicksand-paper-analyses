@@ -19,10 +19,10 @@ def _():
 
 
 @app.cell
-def _():
-    from styles import set_style, get_palette
+def _(plt):
+    from styles import get_palette
 
-    set_style()
+    plt.style.use("fast")
     return (get_palette,)
 
 
@@ -99,14 +99,14 @@ def _(get_palette, kraken, plt, sns):
         ax=_ax1
     )
 
-    _ax1.set_title("A")
+    _ax1.set_title("A", size=21)
     _ax1.set_xscale("log")
     _ax1.set_yscale("log")
-    _ax1.set_ylabel("Number of Unique Kmers")
-    _ax1.set_xlabel("Number of Reads")
+    _ax1.set_ylabel("Number of Unique Kmers", size=15)
+    _ax1.set_xlabel("Number of Reads", size=15)
     #_ax1.xaxis.set_major_formatter(ticker.FuncFormatter(lambda val, pos: f'{val:g}x'))
 
-    _ax1.axhline(y=129, color='red', lw=.5, ls='-.')
+    _ax1.axhline(y=129, color='red', lw=1, ls='--')
     #_ax1.axvline(x=3, color='red', lw=.5, ls='-.')
 
     _g = sns.boxplot(
@@ -121,19 +121,23 @@ def _(get_palette, kraken, plt, sns):
         ax=_ax2
     )
 
-    _ax2.set_title("B")
+    _ax2.set_title("B", size=21)
     _ax2.set_yscale("log")
-    _ax2.set_ylabel("Number of Unique Kmers")
-    _ax2.set_xlabel("Family Assignments")
+    _ax2.set_ylabel("Number of Unique Kmers", size=15)
+    _ax2.set_xlabel("Family Assignments", size=15)
 
 
     _ax2.legend(
         prop={'size': 10}, 
         title='Dataset Size', 
         facecolor='white', 
-        edgecolor='white', 
         bbox_to_anchor=(1, 1, 0, 0)
     )
+
+    _ax1.spines['top'].set_visible(False)
+    _ax1.spines['right'].set_visible(False)
+    _ax2.spines['top'].set_visible(False)
+    _ax2.spines['right'].set_visible(False)
 
 
     plt.tight_layout()
@@ -205,8 +209,9 @@ def _(filtered_df, get_palette, plt, sns, ticker):
     )
 
     _ax1.set_yscale('log')
-    _ax1.set_title("A")
-    _ax1.set_ylabel("PSF (log)")
+    _ax1.set_title("A", size=21)
+    _ax1.set_ylabel("PSF (log)", size=15)
+    _ax1.set_xlabel("Assignment", size=15)
     _ax1.yaxis.set_major_formatter(ticker.FuncFormatter(lambda val, pos: f'{val:g}'))
 
 
@@ -221,11 +226,14 @@ def _(filtered_df, get_palette, plt, sns, ticker):
         palette=get_palette(3, r=True)
     )
 
-    _ax2.set_ylabel("PSF")
-    _ax2.set_xlabel("Dataset Size")
-    _ax2.set_title("B")
+    _ax2.set_ylabel("PSF", size=15)
+    _ax2.set_xlabel("Dataset Size", size=15)
+    _ax2.set_title("B", size=21)
 
-
+    _ax1.spines['top'].set_visible(False)
+    _ax1.spines['right'].set_visible(False)
+    _ax2.spines['top'].set_visible(False)
+    _ax2.spines['right'].set_visible(False)
 
     plt.tight_layout()
     plt.show()
@@ -256,9 +264,10 @@ def _(filtered_df, get_palette, plt, sns, ticker):
         ax=_ax1
     )
 
-    _ax1.set_title("A")
+    _ax1.set_title("A",size=21)
     _ax1.set_xscale("log")
-    _ax1.set_ylabel("Breadth of Coverage")
+    _ax1.set_ylabel("Breadth of Coverage", size=15)
+    _ax1.set_xlabel("Coverage",size=15)
     _ax1.xaxis.set_major_formatter(ticker.FuncFormatter(lambda val, pos: f'{val:g}x'))
 
 
@@ -272,11 +281,18 @@ def _(filtered_df, get_palette, plt, sns, ticker):
         ax=_ax2
     )
 
-    _ax2.set_title("B")
+    sns.move_legend(_ax2, 'lower right')
+
+    _ax2.set_title("B", size=21)
     _ax2.set_xscale("log")
-    _ax2.set_ylabel("PEB")
+    _ax2.set_ylabel("PEB",size=15)
+    _ax2.set_xlabel("Coverage",size=15)
     _ax2.xaxis.set_major_formatter(ticker.FuncFormatter(lambda val, pos: f'{val:g}x'))
 
+    _ax1.spines['top'].set_visible(False)
+    _ax1.spines['right'].set_visible(False)
+    _ax2.spines['top'].set_visible(False)
+    _ax2.spines['right'].set_visible(False)
 
     plt.tight_layout()
     plt.show()
@@ -307,12 +323,15 @@ def _(filtered_df, get_palette, plt, sns, ticker):
     )
 
     _ax2.set_xscale("log")
-    _ax2.set_ylabel("Proportion of expected Breadth")
-    _ax2.set_xlabel("Percentage of Sequences")
+    _ax2.set_ylabel("PEB", size=15)
+    _ax2.set_xlabel("PSF", size=15)
     _ax2.xaxis.set_major_formatter(ticker.FuncFormatter(lambda val, pos: f'{val:g}'))
 
-    _ax2.axhline(y=0.6, color='red', lw=.5, ls='-.')
-    _ax2.axvline(x=0.5, color='red', lw=.5, ls='-.')
+    _ax2.axhline(y=0.6, color='red', lw=1, ls='--')
+    _ax2.axvline(x=0.5, color='red', lw=1, ls='--')
+
+    _ax2.spines['top'].set_visible(False)
+    _ax2.spines['right'].set_visible(False)
 
     plt.tight_layout()
     plt.show()
