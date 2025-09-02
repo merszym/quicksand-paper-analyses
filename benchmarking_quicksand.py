@@ -38,10 +38,10 @@ def _(mo):
 
 
 @app.cell
-def _():
-    from styles import set_style, get_palette
+def _(plt):
+    from styles import get_palette
 
-    set_style()
+    plt.style.use("fast")
     return (get_palette,)
 
 
@@ -385,22 +385,6 @@ def _(pd):
 
 
 @app.cell
-def _(sns):
-    sns.reset_defaults()
-    sns.set_context("notebook", rc={"font.size":15,"axes.titlesize":20,"axes.labelsize":15})   
-    sns.set_style("darkgrid", 
-          {
-         'axes.labelcolor': '0',
-         'text.color': '0',
-         'xtick.color': '0',
-         'ytick.color': '0',
-         'xtick.bottom': True,
-          }
-    )
-    return
-
-
-@app.cell
 def _(
     family_dict,
     final_summary_accuracy,
@@ -589,7 +573,7 @@ def _(
     ticker,
     to_rgba,
 ):
-    _fig = plt.figure(figsize=(12,5))
+    _fig = plt.figure(figsize=(10,5))
 
     _ax1 = _fig.add_subplot(121)
     _ax3 = _fig.add_subplot(122)
@@ -615,9 +599,9 @@ def _(
     )
 
     _ax1.yaxis.set_major_formatter(ticker.FormatStrFormatter('%.2f'))
-    _ax1.set_ylabel("Accuracy (%)")
-    _ax1.set_xlabel("Dataset Size")
-    _ax1.set_title("A")
+    _ax1.set_ylabel("Accuracy (%)", size=15)
+    _ax1.set_xlabel("Dataset Size", size=15)
+    _ax1.set_title("A", size=21)
 
     summary_sensitivity['size'] = summary_sensitivity.RG.apply(lambda x: x.split("_")[-1].replace('.fq','') if bool(re.search('_[0-9]+', x)) else '1')
 
@@ -634,12 +618,12 @@ def _(
     )
     sns.despine()
 
-    sns.move_legend(_ax3, "upper left", bbox_to_anchor=(1, 1), frameon=False)
+    sns.move_legend(_ax3, "upper left")
 
 
-    _ax3.set_ylabel("Runtime (Minutes)")
-    _ax3.set_xlabel("Dataset Size")
-    _ax3.set_title("B")
+    _ax3.set_ylabel("Runtime (Minutes)", size=15)
+    _ax3.set_xlabel("Dataset Size", size=15)
+    _ax3.set_title("B", size=21)
 
     plt.tight_layout()
     plt.show()
