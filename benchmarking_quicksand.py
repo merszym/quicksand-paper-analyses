@@ -324,6 +324,17 @@ def _(quicksand):
 
 @app.cell
 def _(mo):
+    mo.md(r"""### Parse HOLI runs""")
+    return
+
+
+@app.cell
+def _():
+    return
+
+
+@app.cell
+def _(mo):
     mo.md(r"""# Make Summaries""")
     return
 
@@ -579,7 +590,7 @@ def _(
     _ax3 = _fig.add_subplot(122)
 
     _palette = {
-        m:to_rgba(c) for m,c in zip(['BLAST/MEGAN','euka','quicksand'], get_palette(3, r=True))
+        m:to_rgba(c) for m,c in zip(['BLAST/MEGAN','euka','HOLI','quicksand'], get_palette(4, r=True))
     }
 
     final_summary_accuracy['Damage'] = final_summary_accuracy['damage_hr'].apply(lambda x: x.split()[0])
@@ -591,7 +602,7 @@ def _(
         y='Accuracy', 
         hue='Method', 
         #order=["No", "Medium", "High"], 
-        hue_order=['BLAST/MEGAN','euka','quicksand'],
+        hue_order=['BLAST/MEGAN','euka','HOLI','quicksand'],
         ax=_ax1,
         palette=_palette,
         legend=False,
@@ -614,12 +625,11 @@ def _(
         ax=_ax3,
         palette=_palette,
         linewidth=4,
-        hue_order=['BLAST/MEGAN','euka','quicksand'],
+        hue_order=['BLAST/MEGAN','euka','HOLI','quicksand'],
     )
     sns.despine()
 
     sns.move_legend(_ax3, "upper left")
-
 
     _ax3.set_ylabel("Runtime (Minutes)", size=15)
     _ax3.set_xlabel("Dataset Size", size=15)
