@@ -481,7 +481,7 @@ def _(megan_aa75, pd, qsaa75, re):
         )
     )
 
-    _comp[_comp.origin_y == _comp.origin_y]
+    _comp[(_comp.Family == 'Hominidae')]
     return
 
 

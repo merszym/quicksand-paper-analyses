@@ -318,6 +318,13 @@ def _(euka_v2):
 
 
 @app.cell
+def _(euka_v2):
+    from collections import Counter
+    Counter(euka_v2['EukaTaxa'])
+    return
+
+
+@app.cell
 def _(mo):
     mo.md(r"""### parse quicksand runs""")
     return
@@ -429,7 +436,7 @@ def _(holi, pd, statistics):
 
         #reduce to family-level (they are summed up, so otherwise the percentage and median is screwed)
         _subset = _subset[_subset['rank']=='family'].copy()
-    
+
         _median_filter = statistics.median(_subset["nreads"]) / 2
         _subset_filtered = _subset[_subset["nreads"] > _median_filter].copy()
 
@@ -644,7 +651,7 @@ def _(quicksand):
 
 @app.cell
 def _(holi_final):
-    holi_final[holi_final['sample'] == 'simadna_hd_1000.fq']
+    holi_final[holi_final['sample'] == 'simadna_1000.fq']
     return
 
 
