@@ -3,19 +3,19 @@ quicksand	simadna_01	1m7.469	1m6.529	0m56.179
 quicksand	simadna_1	1m8.263	1m3.200	0m59.408
 quicksand	simadna_10	1m37.479	1m37.397	1m36.462
 quicksand	simadna_100	2m13.291	3m13.191	3m15.545
-quicksand	simadna_1000	14m41.213		
-BLAST/MEGAN	simadna_01	5m16.486		
-BLAST/MEGAN	simadna_1	7m40.112		
-BLAST/MEGAN	simadna_10	16m51.672		
-BLAST/MEGAN	simadna_100	50m		
-BLAST/MEGAN	simadna_1000	243m		
-euka	simadna_01	1m24.139		
-euka	simadna_1	1m24.949		
-euka	simadna_10	1m31.621		
-euka	simadna_100	2m41.305		
-euka	simadna_1000	16m24.124		
-HOLI	simadna_01	1m38.666		
-HOLI	simadna_1	3m13.493		
-HOLI	simadna_10	4m33.186		
-HOLI	simadna_100	8m27.021		
-HOLI	simadna_1000	31m49.605		
+quicksand	simadna_1000	14m41.213	15m39.749	15m56.621
+BLAST/MEGAN	simadna_01	5m16.486	5m23.466	5m20.062
+BLAST/MEGAN	simadna_1	7m40.112	7m49.401	7m48.956
+BLAST/MEGAN	simadna_10	16m51.672	16m55.626	17m5.567
+BLAST/MEGAN	simadna_100	43m42.764	45m1.029	45m20.151
+BLAST/MEGAN	simadna_1000	242m44.924	241m7.893	245m1.122
+euka	simadna_01	1m24.139	1m51.464	1m37.240
+euka	simadna_1	1m24.949	1m37.078	1m33.704
+euka	simadna_10	1m31.621	2m23.735	2m5.432
+euka	simadna_100	2m41.305	2m56.707	3m0.638
+euka	simadna_1000	16m24.124	16m51.549	17m29.371
+HOLI	simadna_01	1m38.666	2m34.882	2m36.571
+HOLI	simadna_1	3m13.493	4m48.418	3m46.248
+HOLI	simadna_10	4m33.186	4m31.295	4m34.451
+HOLI	simadna_100	8m27.021	9m50.350	8m47.361
+HOLI	simadna_1000	31m49.605	32m12.523	31m59.890
