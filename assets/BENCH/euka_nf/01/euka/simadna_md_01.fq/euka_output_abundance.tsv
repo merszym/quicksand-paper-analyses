@@ -48,7 +48,7 @@ Bifurcata	no	0	0	0	0	0	0
 Blattodea	no	0	0	0	0	0	0
 Bombycidae	no	0	0	0	0	0	0
 Bostrichiformia	no	0	0	0	0	0	0
-Bovidae	yes	124	0.560236	0.528471	0.591203	0.509581	0.609	
+Bovidae	yes	124	0.560733	0.529151	0.59165	0.5099	0.609183	
 Braconidae	no	0	0	0	0	0	0
 Bucerotiformes	no	0	0	0	0	0	0
 Buprestidae	no	0	0	0	0	0	0
@@ -61,7 +61,7 @@ Caniformia	no	0	0	0	0	0	0
 Carabinae	no	0	0	0	0	0	0
 Cardinalidae	no	0	0	0	0	0	0
 Caridea	no	0	0	0	0	0	0
-Carnivora	yes	45	0.203522	0.183118	0.225774	0.172236	0.240051	
+Carnivora	yes	45	0.203246	0.182779	0.225422	0.171351	0.238978	
 Caudata	no	0	0	0	0	0	0
 Cavilabiata	no	0	0	0	0	0	0
 Cephalophus	no	0	0	0	0	0	0
@@ -296,7 +296,7 @@ Staphyliniformia	no	0	0	0	0	0	0
 Stratiomyidae	no	0	0	0	0	0	0
 Strepsirrhini	no	0	0	0	0	0	0
 Sturnidae	no	0	0	0	0	0	0
-Suina	yes	52	0.234859	0.212043	0.259194	0.199296	0.274885
+Suina	yes	52	0.234872	0.212217	0.259065	0.199776	0.27434
 Sylvioidea	no	0	0	0	0	0	0
 Syrphidae	no	0	0	0	0	0	0
 Syrphinae	no	0	0	0	0	0	0

@@ -1,19 +1,19 @@
-RG	RawReads	ReadsL35	FinalNoPCRDups	AvrgTimesSeen	FinalReads	EukaTaxa	Order	Family
-simadna_10.fq	499896	499896	499491	 1.0	11085	Bovidae	Artiodactyla	Bovidae
-simadna_10.fq	499896	499896	499491	 1.0	1674	Proboscidea	Proboscidea	null
-simadna_10.fq	499896	499896	499491	 1.0	385	Felidae	Carnivora	Felidae
-simadna_10.fq	499896	499896	499491	 1.0	397	Homininae	Primates	Hominidae
-simadna_10.fq	499896	499896	499491	 1.0	3973	Carnivora	Carnivora	null
-simadna_10.fq	499896	499896	499491	 1.0	5724	Suina	Artiodactyla	null
-simadna_hd_10.fq	499901	499901	499853	 1.0	1234	Proboscidea	Proboscidea	null
-simadna_hd_10.fq	499901	499901	499853	 1.0	229	Felidae	Carnivora	Felidae
-simadna_hd_10.fq	499901	499901	499853	 1.0	2370	Carnivora	Carnivora	null
-simadna_hd_10.fq	499901	499901	499853	 1.0	251	Homininae	Primates	Hominidae
-simadna_hd_10.fq	499901	499901	499853	 1.0	3998	Suina	Artiodactyla	null
-simadna_hd_10.fq	499901	499901	499853	 1.0	7936	Bovidae	Artiodactyla	Bovidae
-simadna_md_10.fq	499901	499901	499632	 1.0	10737	Bovidae	Artiodactyla	Bovidae
-simadna_md_10.fq	499901	499901	499632	 1.0	1607	Proboscidea	Proboscidea	null
-simadna_md_10.fq	499901	499901	499632	 1.0	359	Felidae	Carnivora	Felidae
-simadna_md_10.fq	499901	499901	499632	 1.0	3794	Carnivora	Carnivora	null
-simadna_md_10.fq	499901	499901	499632	 1.0	384	Homininae	Primates	Hominidae
-simadna_md_10.fq	499901	499901	499632	 1.0	5513	Suina	Artiodactyla	null
+RG	FinalReads	EukaTaxa	Order	Family
+simadna_10.fq	11151	Bovidae	Artiodactyla	Bovidae
+simadna_10.fq	1677	Proboscidea	Proboscidea	null
+simadna_10.fq	387	Felidae	Carnivora	Felidae
+simadna_10.fq	398	Homininae	Primates	Hominidae
+simadna_10.fq	4012	Carnivora	Carnivora	null
+simadna_10.fq	5743	Suina	Artiodactyla	null
+simadna_hd_10.fq	1234	Proboscidea	Proboscidea	null
+simadna_hd_10.fq	230	Felidae	Carnivora	Felidae
+simadna_hd_10.fq	2377	Carnivora	Carnivora	null
+simadna_hd_10.fq	251	Homininae	Primates	Hominidae
+simadna_hd_10.fq	3999	Suina	Artiodactyla	null
+simadna_hd_10.fq	7946	Bovidae	Artiodactyla	Bovidae
+simadna_md_10.fq	10776	Bovidae	Artiodactyla	Bovidae
+simadna_md_10.fq	1608	Proboscidea	Proboscidea	null
+simadna_md_10.fq	364	Felidae	Carnivora	Felidae
+simadna_md_10.fq	3820	Carnivora	Carnivora	null
+simadna_md_10.fq	384	Homininae	Primates	Hominidae
+simadna_md_10.fq	5520	Suina	Artiodactyla	null

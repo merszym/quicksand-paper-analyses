@@ -48,7 +48,7 @@ Bifurcata	no	0	0	0	0	0	0
 Blattodea	no	0	0	0	0	0	0
 Bombycidae	no	0	0	0	0	0	0
 Bostrichiformia	no	0	0	0	0	0	0
-Bovidae	yes	10737	0.479049	0.448332	0.509015	0.430683	0.526054	
+Bovidae	yes	10776	0.479047	0.449368	0.508211	0.431452	0.525168	
 Braconidae	no	0	0	0	0	0	0
 Bucerotiformes	no	0	0	0	0	0	0
 Buprestidae	no	0	0	0	0	0	0
@@ -61,7 +61,7 @@ Caniformia	no	6	0	0	0	0	0
 Carabinae	no	0	0	0	0	0	0
 Cardinalidae	no	0	0	0	0	0	0
 Caridea	no	0	0	0	0	0	0
-Carnivora	yes	3794	0.169079	0.15249	0.187345	0.143126	0.197787	
+Carnivora	yes	3820	0.169447	0.152727	0.187622	0.144053	0.199402	
 Caudata	no	1	0	0	0	0	0
 Cavilabiata	no	0	0	0	0	0	0
 Cephalophus	no	4	0	0	0	0	0
@@ -119,9 +119,9 @@ Epeorus	no	0	0	0	0	0	0
 Epiprocta	no	0	0	0	0	0	0
 Equus	no	1	0	0	0	0	0
 Eremias	no	0	0	0	0	0	0
-Eulipotyphla	no	39	0	0	0	0	0
+Eulipotyphla	no	40	0	0	0	0	0
 Eumantodea	no	0	0	0	0	0	0
-Felidae	yes	359	0.016006	0.0142028	0.0179695	0.0132527	0.019202	
+Felidae	yes	364	0.0161738	0.0143639	0.0181627	0.013451	0.0194487	
 Folivora	no	9	0	0	0	0	0
 Fordinae	no	0	0	0	0	0	0
 Formicidae	no	0	0	0	0	0	0
@@ -148,7 +148,7 @@ Heterotermes	no	0	0	0	0	0	0
 Heterotremata	no	0	0	0	0	0	0
 Hippoboscoidea	no	0	0	0	0	0	0
 Hirundo	no	0	0	0	0	0	0
-Homininae	yes	384	0.0171005	0.0151656	0.0191927	0.0141589	0.0205885	
+Homininae	yes	384	0.0170568	0.0151917	0.0191698	0.0141294	0.020485	
 Hominoidea	no	1	0	0	0	0	0
 Hydropsychoidea	no	0	0	0	0	0	0
 Hymenopodidae	no	0	0	0	0	0	0
@@ -234,7 +234,7 @@ Paridae	no	0	0	0	0	0	0
 Parnassiinae	no	0	0	0	0	0	0
 Passeriformes	no	0	0	0	0	0	0
 Passeroidea	no	1	0	0	0	0	0
-Pecora	no	27	0	0	0	0	0
+Pecora	no	28	0	0	0	0	0
 Pelecaniformes	no	0	0	0	0	0	0
 Penaeoidea	no	0	0	0	0	0	0
 Pentastomida	no	0	0	0	0	0	0
@@ -257,7 +257,7 @@ Pleocyemata	no	0	0	0	0	0	0
 Plethodontidae	no	2	0	0	0	0	0
 Poduromorpha	no	0	0	0	0	0	0
 Prioninae	no	0	0	0	0	0	0
-Proboscidea	yes	1607	0.0714815	0.0639223	0.0800219	0.0598192	0.0853291	
+Proboscidea	yes	1608	0.0714344	0.0637186	0.0799609	0.059674	0.0853061	
 Procellariiformes	no	0	0	0	0	0	0
 Proechimys	no	0	0	0	0	0	0
 Protobothrops	no	0	0	0	0	0	0
@@ -274,7 +274,7 @@ Rattus	no	5	0	0	0	0	0
 Reduvioidea	no	0	0	0	0	0	0
 Reticulitermes	no	0	0	0	0	0	0
 Rhacophoridae	no	1	0	0	0	0	0
-Rhinolophus	no	8	0	0	0	0	0
+Rhinolophus	no	9	0	0	0	0	0
 Rodentia	no	0	0	0	0	0	0
 Ruminantia	no	4	0	0	0	0	0
 Salamandridae	no	0	0	0	0	0	0
@@ -296,7 +296,7 @@ Staphyliniformia	no	0	0	0	0	0	0
 Stratiomyidae	no	0	0	0	0	0	0
 Strepsirrhini	no	3	0	0	0	0	0
 Sturnidae	no	0	0	0	0	0	0
-Suina	yes	5513	0.245321	0.222818	0.270197	0.210169	0.285369
+Suina	yes	5520	0.244827	0.222915	0.268547	0.210773	0.283619
 Sylvioidea	no	3	0	0	0	0	0
 Syrphidae	no	0	0	0	0	0	0
 Syrphinae	no	0	0	0	0	0	0
