@@ -270,6 +270,7 @@ def _(get_palette, kmer_data, kmer_data_filtered, plt, sns):
     _ax1.spines["right"].set_visible(False)
 
     plt.tight_layout()
+    plt.savefig('out/Figure_2.svg', dpi=600)
     plt.show()
     return
 
@@ -456,6 +457,7 @@ def _(df_full, family_dict, get_palette, plt, sns):
     plt.setp(_axes['C'].get_xticklabels(), rotation=45, ha="right", rotation_mode="anchor")
 
     plt.tight_layout()
+    plt.savefig('out/Figure_S3.2.svg', dpi=600)
     plt.show()
     return
 
@@ -631,7 +633,7 @@ def _(family_dict, get_palette, kraken, plt, sns):
         width=1,
         edgecolor='black',       # outline color
         linewidth=0.5 
-    
+
     )
 
     _axes['B'].set_xlabel("")
@@ -666,6 +668,7 @@ def _(family_dict, get_palette, kraken, plt, sns):
     plt.setp(_axes['C'].get_xticklabels(), rotation=45, ha="right", rotation_mode="anchor")
 
     plt.tight_layout()
+    plt.savefig('out/Figure_S3.1.svg', dpi=600)
     plt.show()
     return
 
@@ -858,6 +861,7 @@ def _(df_full, plt, sns):
 
 
     plt.tight_layout()
+    plt.savefig('out/Figure_3.svg', dpi=600)
     plt.show()
     return
 

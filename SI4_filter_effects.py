@@ -141,6 +141,7 @@ def _(get_palette, kraken, plt, sns):
 
 
     plt.tight_layout()
+    plt.savefig('out/Figure_S4.1.svg', dpi=600)
     plt.show()
     return
 
@@ -236,6 +237,7 @@ def _(filtered_df, get_palette, plt, sns, ticker):
     _ax2.spines['right'].set_visible(False)
 
     plt.tight_layout()
+    plt.savefig('out/Figure_S4.2.svg', dpi=600)
     plt.show()
     return
 
@@ -295,6 +297,7 @@ def _(filtered_df, get_palette, plt, sns, ticker):
     _ax2.spines['right'].set_visible(False)
 
     plt.tight_layout()
+    plt.savefig('out/Figure_S4.3.svg', dpi=600)
     plt.show()
     return
 

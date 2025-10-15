@@ -160,6 +160,7 @@ def _(aa75, aa75_ancient, get_palette, plt, sns, ticker):
     _ax1.spines['right'].set_visible(False)
 
     plt.tight_layout()
+    plt.savefig('out/Figure_S7.1.svg', dpi=600)
     plt.show()
     return
 
@@ -214,6 +215,7 @@ def _(aa75_ancient, get_palette, plt, sns):
 
 
     plt.tight_layout()
+    plt.savefig('out/Figure_S7.2.svg', dpi=600)
     plt.show()
     return
 
@@ -345,6 +347,7 @@ def _(aa75_filtered, coord, mpatches, plt):
                 wedgeprops={"edgecolor": "k", "linewidth": 0.5},
             )
 
+    plt.savefig('out/Figure_6.p1.svg', dpi=600, transparent=True)
     plt.show()
     return
 
@@ -795,6 +798,7 @@ def _(get_palette, hum_combined, megan_aa75, pd, plt, qsaa75, sns, ticker):
     _ax1.spines['right'].set_visible(False)
 
     plt.tight_layout()
+    plt.savefig('out/Figure_5.svg', dpi=600)
     plt.show()
     return
 

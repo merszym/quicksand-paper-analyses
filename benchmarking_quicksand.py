@@ -613,6 +613,7 @@ def _(final_summary_accuracy, get_palette, plt, runtime, sns, ticker):
     _ax3.set_title("B", size=21)
 
     plt.tight_layout()
+    plt.savefig('out/Figure_4.svg', dpi=600)
     plt.show()
     return
 

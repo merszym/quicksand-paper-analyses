@@ -175,6 +175,7 @@ def _(full, get_palette, plt, sns):
 
 
     plt.tight_layout()
+    plt.savefig('out/Figure_S6.1.svg', dpi=600)
     plt.show()
     return
 

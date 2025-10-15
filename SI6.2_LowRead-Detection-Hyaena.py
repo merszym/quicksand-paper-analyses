@@ -142,6 +142,7 @@ def _(full, get_palette, plt, sns):
     _ax4.spines['right'].set_visible(False)
 
     plt.tight_layout()
+    plt.savefig('out/Figure_S6.2.svg', dpi=600)
     plt.show()
     return
 
